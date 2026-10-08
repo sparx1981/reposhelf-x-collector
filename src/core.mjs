@@ -9,19 +9,18 @@ export function validateConfig(c) {
   if (!Array.isArray(c.queries) || !c.queries.length || c.queries.some(q => typeof q !== 'string' || !q.trim() || q.length > 512)) throw Error('Invalid search queries');
   for (const key of ['historyDays', 'pageSize', 'maxPostsPerRun', 'maxRepositoriesPerRun']) if (!Number.isInteger(c[key]) || c[key] <= 0) throw Error('Invalid ' + key);
   if (c.historyDays > 90 || c.pageSize < 10 || c.pageSize > 100 || c.maxPostsPerRun > 100) throw Error('Search limits exceed pilot bounds');
-  for (const key of ['minimumFreeBalanceUsd', 'maximumReservedUsd', 'conservativePostCostUsd', 'maximumReservedPerRunUsd']) if (!Number.isFinite(c[key]) || c[key] <= 0) throw Error('Invalid ' + key);
-  if (c.minimumFreeBalanceUsd < 2 || c.maximumReservedUsd > 18 || c.conservativePostCostUsd < 0.01 || c.maximumReservedPerRunUsd > 0.5) throw Error('Credit limits exceed the free pilot');
+  for (const key of ['minimumBalanceUsd', 'conservativePostCostUsd', 'maximumReservedPerRunUsd']) if (!Number.isFinite(c[key]) || c[key] <= 0) throw Error('Invalid ' + key);
+  if (c.minimumBalanceUsd < 2 || c.conservativePostCostUsd < 0.01 || c.maximumReservedPerRunUsd > 0.5) throw Error('Credit limits exceed the collection bounds');
   return c;
 }
 export function creditAllowance(balance, config, state, runReserved = 0, now = Date.now()) {
   const data = balance?.data;
   if (balance?.errors?.length || !data || typeof data.free_balance !== 'number' || typeof data.prepaid_balance !== 'number' || typeof data.total_balance !== 'number' || ![data.free_balance, data.prepaid_balance, data.total_balance].every(Number.isFinite)) return {posts: 0, reason: 'credit_balance_unverified'};
   if (data.prepaid_balance < 0) return {posts: 0, reason: 'negative_prepaid_balance'};
-  const grants = data.free_grants;
-  if (!Array.isArray(grants) || !grants.length || grants.some(g => !Number.isFinite(Date.parse(g.expires_at)) || Date.parse(g.expires_at) <= now + 3600000)) return {posts: 0, reason: 'free_credit_expiry_unverified_or_near'};
-  const usd = Math.min(data.free_balance - config.minimumFreeBalanceUsd, data.total_balance - config.minimumFreeBalanceUsd, config.maximumReservedUsd - state.reservedUsd, config.maximumReservedPerRunUsd - runReserved);
+  if (data.free_balance < 0 || data.total_balance < 0) return {posts: 0, reason: 'negative_credit_balance'};
+  const usd = Math.min(data.total_balance - config.minimumBalanceUsd, config.maximumReservedPerRunUsd - runReserved);
   const posts = Math.max(0, Math.floor((usd + 1e-9) / config.conservativePostCostUsd));
-  return {posts, reason: posts < 10 ? 'credit_reserve_reached' : null, freeBalanceUsd: data.free_balance};
+  return {posts, reason: posts < 10 ? 'credit_reserve_reached' : null, freeBalanceUsd: data.free_balance, totalBalanceUsd: data.total_balance};
 }
 export function repoFromUrl(value) {
   try {

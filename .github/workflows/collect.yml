@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       search:
-        description: 'Search X using free credits (false only refreshes known candidates)'
+        description: 'Search X if enabled in RepoShelf administration (false only refreshes known candidates)'
         type: boolean
         default: true
   schedule:
@@ -24,8 +24,8 @@ jobs:
           node-version: '22'
       - name: Restore durable collector history
         run: node src/checkpoint.mjs restore
-      - name: Search X within free-credit limits
-        if: (github.event_name == 'workflow_dispatch' && inputs.search) || (github.event_name == 'schedule' && vars.X_COLLECTION_ENABLED == 'true')
+      - name: Search X when enabled in RepoShelf
+        if: (github.event_name == 'workflow_dispatch' && inputs.search) || github.event_name == 'schedule'
         env:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
           COLLECTOR_CHECKPOINT: 'true'

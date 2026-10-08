@@ -7,8 +7,7 @@
   "pageSize": 25,
   "maxPostsPerRun": 50,
   "maxRepositoriesPerRun": 20,
-  "minimumFreeBalanceUsd": 2,
-  "maximumReservedUsd": 18,
+  "minimumBalanceUsd": 2,
   "conservativePostCostUsd": 0.01,
   "maximumReservedPerRunUsd": 0.5,
   "repoShelfRevision": "3ce3f7e8c216f98b43366bb530994b4cb5fd831f"
