@@ -1,0 +1,256 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-10-08T15:22:26.930Z",
+  "runtimeRevision": "3ce3f7e8c216f98b43366bb530994b4cb5fd831f",
+  "checked": 6,
+  "repositories": [
+    {
+      "availability": "available",
+      "full": "tomcode1000/Hapax",
+      "name": "Hapax",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-10-06T13:06:40Z",
+      "updated": "2026-10-08T13:26:53Z",
+      "license": null,
+      "branch": "main",
+      "homepage": "https://hapax-aid.vercel.app",
+      "topics": [],
+      "demo": "https://hapax-aid.vercel.app/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-08T15:22:09.788Z",
+      "lastAvailableAt": "2026-10-08T15:22:09.788Z",
+      "lastAttemptAt": "2026-10-08T15:22:09.788Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108204978620002352",
+          "postId": "2108204978620002352",
+          "postedAt": "2026-10-08T14:36:50.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 3,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://hapax-aid.vercel.app/",
+        "attemptedAt": "2026-10-08T15:22:13.119Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-08T15:22:13.119Z",
+        "lastWorkingAt": "2026-10-08T15:22:13.119Z",
+        "target": "https://hapax-aid.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-15T15:22:13.119Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/cda696b14ab1f9ccd3d231ae.jpg",
+          "kind": "demo",
+          "url": "https://hapax-aid.vercel.app/",
+          "capturedAt": "2026-10-08T15:22:13.119Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-08T15:22:13.119Z",
+      "previewCheck": {
+        "url": "https://hapax-aid.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-08T15:22:13.119Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-15T15:22:13.120Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "maiyun/clickgo",
+      "name": "clickgo",
+      "description": "Build web and native apps using HTML + CSS.",
+      "category": "Design",
+      "language": "JavaScript",
+      "stars": 6,
+      "forks": 0,
+      "created": "2016-11-01T14:01:58Z",
+      "updated": "2026-10-05T14:42:36Z",
+      "license": "Apache-2.0",
+      "branch": "master",
+      "homepage": "https://maiyun.github.io/clickgo/dist/test/",
+      "topics": [],
+      "demo": "https://maiyun.github.io/clickgo/dist/test/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-08T15:22:13.745Z",
+      "lastAvailableAt": "2026-10-08T15:22:13.745Z",
+      "lastAttemptAt": "2026-10-08T15:22:13.745Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108202530723520609",
+          "postId": "2108202530723520609",
+          "postedAt": "2026-10-08T14:27:06.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 3,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://maiyun.github.io/clickgo/dist/test/",
+        "attemptedAt": "2026-10-08T15:22:16.950Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-08T15:22:16.950Z",
+        "lastWorkingAt": "2026-10-08T15:22:16.950Z",
+        "target": "https://maiyun.github.io/clickgo/dist/test/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-15T15:22:16.950Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/7005255de37e65fffacef695.jpg",
+          "kind": "demo",
+          "url": "https://maiyun.github.io/clickgo/dist/test/",
+          "capturedAt": "2026-10-08T15:22:16.950Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-08T15:22:16.950Z",
+      "previewCheck": {
+        "url": "https://maiyun.github.io/clickgo/dist/test/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-08T15:22:16.950Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-15T15:22:16.951Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "careerbotdev/careerbot",
+      "name": "careerbot",
+      "description": "Open-source AI job search assistant. It builds a record of your real work from your own words, then helps you aim, tailor, and apply or write to the people who hire.",
+      "category": "Productivity",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-10-07T03:30:05Z",
+      "updated": "2026-10-07T19:45:47Z",
+      "license": "AGPL-3.0",
+      "branch": "master",
+      "homepage": "https://careerbot.dev",
+      "topics": [
+        "agpl",
+        "ai",
+        "career",
+        "convex",
+        "job-search",
+        "nextjs",
+        "open-source",
+        "resume",
+        "self-hosted"
+      ],
+      "demo": "https://careerbot.dev/docs/demo",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-08T15:22:18.962Z",
+      "lastAvailableAt": "2026-10-08T15:22:18.962Z",
+      "lastAttemptAt": "2026-10-08T15:22:18.962Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108199081486979229",
+          "postId": "2108199081486979229",
+          "postedAt": "2026-10-08T14:13:24.000Z"
+        }
+      ],
+      "subjects": [
+        "Self-hosted apps"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 3,
+        "method": "local_rules",
+        "category": "Productivity",
+        "subjects": [
+          "Self-hosted apps"
+        ],
+        "evidence": [
+          {
+            "subject": "Self-hosted apps",
+            "source": "metadata",
+            "match": "self hosted"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://careerbot.dev/docs/demo",
+        "attemptedAt": "2026-10-08T15:22:23.244Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-08T15:22:23.244Z",
+        "lastWorkingAt": "2026-10-08T15:22:23.244Z",
+        "target": "https://careerbot.dev/docs/demo",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-15T15:22:23.244Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/ade8af995099cc5d2c2d02d8.jpg",
+          "kind": "demo",
+          "url": "https://careerbot.dev/docs/demo",
+          "capturedAt": "2026-10-08T15:22:23.244Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-08T15:22:23.244Z",
+      "previewCheck": {
+        "url": "https://careerbot.dev/docs/demo",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-08T15:22:23.244Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-15T15:22:23.245Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    }
+  ]
+}
