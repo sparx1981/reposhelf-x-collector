@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "reservedUsd": 0.5,
-  "requests": 2,
+  "reservedUsd": 0.75,
+  "requests": 3,
   "queryTurn": 1,
   "queries": {
     "7c3cb66ff5244ce6": {
@@ -16,6 +16,18 @@
         "start": "2026-10-07T15:20:55.863Z",
         "end": "2026-10-08T15:20:25.863Z",
         "nextToken": "b26v89c19zqg8o3juziz5gtmyvdwdjvagnexauqzs2vlp"
+      }
+    },
+    "3f7319ae234667d6": {
+      "query": "url:github.com (\"open source\" OR opensource OR \"I built\" OR launched) -is:retweet",
+      "history": {
+        "start": "2026-07-10T18:18:30.827Z",
+        "end": "2026-10-08T18:18:00.827Z",
+        "done": false
+      },
+      "recent": {
+        "start": "2026-10-07T18:18:30.827Z",
+        "end": "2026-10-08T18:18:00.828Z"
       }
     }
   },
@@ -917,5 +929,6 @@
     "stopped": null,
     "candidateCount": 24
   },
-  "lastFreeBalanceUsd": 19.88
+  "lastFreeBalanceUsd": 19.88,
+  "lastTotalBalanceUsd": 19.88
 }
