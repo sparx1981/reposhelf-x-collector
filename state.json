@@ -2,7 +2,7 @@
   "schema": 1,
   "reservedUsd": 0.5,
   "requests": 2,
-  "queryTurn": 0,
+  "queryTurn": 1,
   "queries": {
     "7c3cb66ff5244ce6": {
       "query": "url:github.com (demo OR playground OR \"live preview\" OR \"try it\") -is:retweet",
@@ -388,6 +388,12 @@
       "lastSeenAt": "2026-10-08T15:21:02.411Z"
     }
   },
-  "lastRun": null,
+  "lastRun": {
+    "at": "2026-10-08T15:21:04.616Z",
+    "postsRead": 50,
+    "reservedUsd": 0.5,
+    "stopped": null,
+    "candidateCount": 24
+  },
   "lastFreeBalanceUsd": 19.88
 }
