@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "reservedUsd": 0.25,
+  "requests": 1,
+  "queryTurn": 0,
+  "queries": {
+    "7c3cb66ff5244ce6": {
+      "query": "url:github.com (demo OR playground OR \"live preview\" OR \"try it\") -is:retweet",
+      "history": {
+        "start": "2026-07-10T15:20:55.863Z",
+        "end": "2026-10-08T15:20:25.863Z",
+        "done": false
+      },
+      "recent": {
+        "start": "2026-10-07T15:20:55.863Z",
+        "end": "2026-10-08T15:20:25.863Z"
+      }
+    }
+  },
+  "candidates": {},
+  "lastRun": null,
+  "lastFreeBalanceUsd": 20
+}
