@@ -13,11 +13,380 @@
       },
       "recent": {
         "start": "2026-10-07T15:20:55.863Z",
-        "end": "2026-10-08T15:20:25.863Z"
+        "end": "2026-10-08T15:20:25.863Z",
+        "nextToken": "b26v89c19zqg8o3juziz5gtmyvdwdjvagnexauqzs2vlp"
       }
     }
   },
-  "candidates": {},
+  "candidates": {
+    "springofwindslabs/repo-doctor": {
+      "full": "springofwindslabs/repo-doctor",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108214977236746256",
+          "postId": "2108214977236746256",
+          "postedAt": "2026-10-08T15:16:33.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "mhtsec/artex": {
+      "full": "mhtsec/ARTEX",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108213504473723104",
+          "postId": "2108213504473723104",
+          "postedAt": "2026-10-08T15:10:42.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "gregor-tokarev/request-eagle": {
+      "full": "gregor-tokarev/request-eagle",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108211111220650325",
+          "postId": "2108211111220650325",
+          "postedAt": "2026-10-08T15:01:12.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "isdou/snapshelf": {
+      "full": "isdou/SnapShelf",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108208535641473280",
+          "postId": "2108208535641473280",
+          "postedAt": "2026-10-08T14:50:58.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "epicgames/raddebugger": {
+      "full": "EpicGames/raddebugger",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108208519237517397",
+          "postId": "2108208519237517397",
+          "postedAt": "2026-10-08T14:50:54.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "ps5-linux/ps5-linux-patches": {
+      "full": "ps5-linux/ps5-linux-patches",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108208211375374698",
+          "postId": "2108208211375374698",
+          "postedAt": "2026-10-08T14:49:40.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "oldcircle/geo-sleuth": {
+      "full": "Oldcircle/geo-sleuth",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108207035263119663",
+          "postId": "2108207035263119663",
+          "postedAt": "2026-10-08T14:45:00.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "mutraders/secface": {
+      "full": "mutraders/SecFace",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108206210130583843",
+          "postId": "2108206210130583843",
+          "postedAt": "2026-10-08T14:41:43.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "ramondevries/kilo": {
+      "full": "ramondevries/kilo",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108205343582892390",
+          "postId": "2108205343582892390",
+          "postedAt": "2026-10-08T14:38:17.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "storytold/artcraft": {
+      "full": "storytold/artcraft",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108205272967811074",
+          "postId": "2108205272967811074",
+          "postedAt": "2026-10-08T14:38:00.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "tomcode1000/hapax": {
+      "full": "tomcode1000/Hapax",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108204978620002352",
+          "postId": "2108204978620002352",
+          "postedAt": "2026-10-08T14:36:50.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "maiyun/clickgo": {
+      "full": "maiyun/clickgo",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108202530723520609",
+          "postId": "2108202530723520609",
+          "postedAt": "2026-10-08T14:27:06.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "rt5r750/rt5.maleandroidcontrol": {
+      "full": "rt5r750/Rt5.MaleAndroidControl",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108199522044371166",
+          "postId": "2108199522044371166",
+          "postedAt": "2026-10-08T14:15:09.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "careerbotdev/careerbot": {
+      "full": "careerbotdev/careerbot",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108199081486979229",
+          "postId": "2108199081486979229",
+          "postedAt": "2026-10-08T14:13:24.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "thefuckisalommy/muse-on-umbrel": {
+      "full": "thefuckisalommy/Muse-on-Umbrel",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108198354857431422",
+          "postId": "2108198354857431422",
+          "postedAt": "2026-10-08T14:10:30.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "huchukato/comfyui-qwenvl-mod": {
+      "full": "huchukato/ComfyUI-QwenVL-Mod",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108195710407790958",
+          "postId": "2108195710407790958",
+          "postedAt": "2026-10-08T14:00:00.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "apowerb/apowerb": {
+      "full": "apowerb/apowerb",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108193289216430433",
+          "postId": "2108193289216430433",
+          "postedAt": "2026-10-08T13:50:23.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "personaljarvis/personaljarvis": {
+      "full": "PersonalJarvis/PersonalJarvis",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108193158224073011",
+          "postId": "2108193158224073011",
+          "postedAt": "2026-10-08T13:49:51.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "opengeos/geolibre": {
+      "full": "opengeos/GeoLibre",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108192627401081009",
+          "postId": "2108192627401081009",
+          "postedAt": "2026-10-08T13:47:45.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "ethanyxchen/github-maxxer": {
+      "full": "ethanyxchen/github-maxxer",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108186889018630208",
+          "postId": "2108186889018630208",
+          "postedAt": "2026-10-08T13:24:57.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108186635569692917",
+          "postId": "2108186635569692917",
+          "postedAt": "2026-10-08T13:23:56.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "weftcut/weftcut": {
+      "full": "WeftCut/WeftCut",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108186674563833940",
+          "postId": "2108186674563833940",
+          "postedAt": "2026-10-08T13:24:06.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "shmidtqq65/blueprint": {
+      "full": "shmidtqq65/blueprint",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108186528593608932",
+          "postId": "2108186528593608932",
+          "postedAt": "2026-10-08T13:23:31.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "mrcube3/prism": {
+      "full": "Mrcube3/Prism",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108185020846215258",
+          "postId": "2108185020846215258",
+          "postedAt": "2026-10-08T13:17:31.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    },
+    "contextmux/contextmux": {
+      "full": "contextmux/contextmux",
+      "firstSeenAt": "2026-10-08T15:20:57.911Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108183645554880555",
+          "postId": "2108183645554880555",
+          "postedAt": "2026-10-08T13:12:03.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-08T15:20:57.911Z"
+    }
+  },
   "lastRun": null,
   "lastFreeBalanceUsd": 20
 }
