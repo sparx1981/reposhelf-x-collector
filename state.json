@@ -277,9 +277,9 @@
         "demo": "https://kilo.11tools.com/",
         "color": "#25392f",
         "ink": "#d1e5c5",
-        "lastCheckedAt": "2026-10-08T15:22:04.859Z",
-        "lastAvailableAt": "2026-10-08T15:22:04.859Z",
-        "lastAttemptAt": "2026-10-08T15:22:04.859Z",
+        "lastCheckedAt": "2026-10-08T18:19:24.469Z",
+        "lastAvailableAt": "2026-10-08T18:19:24.469Z",
+        "lastAttemptAt": "2026-10-08T18:19:24.469Z",
         "discoveredVia": [
           {
             "kind": "x",
@@ -304,29 +304,29 @@
         },
         "demoHealth": {
           "url": "https://kilo.11tools.com/",
-          "attemptedAt": "2026-10-08T15:22:08.603Z",
+          "attemptedAt": "2026-10-08T18:19:27.965Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "login_wall",
-            "at": "2026-10-08T15:22:08.603Z"
+            "at": "2026-10-08T18:19:27.965Z"
           },
-          "nextCheckAt": "2026-10-08T17:22:08.603Z"
+          "nextCheckAt": "2026-10-08T20:19:27.965Z"
         },
-        "previewAttemptAt": "2026-10-08T15:22:08.603Z",
+        "previewAttemptAt": "2026-10-08T18:19:27.965Z",
         "previewCheck": {
           "url": "https://kilo.11tools.com/",
           "status": "retry",
           "reason": "login_wall",
-          "attemptedAt": "2026-10-08T15:22:08.603Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-08T17:22:08.603Z"
+          "attemptedAt": "2026-10-08T18:19:27.965Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-08T20:19:27.965Z"
         }
       },
       "reason": "login_wall",
-      "nextAttemptAt": "2026-10-08T17:22:08.603Z",
-      "checkedAt": "2026-10-08T15:22:08.603Z"
+      "nextAttemptAt": "2026-10-08T20:19:27.965Z",
+      "checkedAt": "2026-10-08T18:19:27.965Z"
     },
     "storytold/artcraft": {
       "full": "storytold/artcraft",
@@ -567,9 +567,9 @@
         "demo": "https://x.com/rt5_750/status/2107868637948440956",
         "color": "#25392f",
         "ink": "#d1e5c5",
-        "lastCheckedAt": "2026-10-08T15:22:17.583Z",
-        "lastAvailableAt": "2026-10-08T15:22:17.583Z",
-        "lastAttemptAt": "2026-10-08T15:22:17.583Z",
+        "lastCheckedAt": "2026-10-08T18:19:28.410Z",
+        "lastAvailableAt": "2026-10-08T18:19:28.410Z",
+        "lastAttemptAt": "2026-10-08T18:19:28.410Z",
         "discoveredVia": [
           {
             "kind": "x",
@@ -619,29 +619,29 @@
         },
         "demoHealth": {
           "url": "https://x.com/rt5_750/status/2107868637948440956",
-          "attemptedAt": "2026-10-08T15:22:18.228Z",
+          "attemptedAt": "2026-10-08T18:19:28.865Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "access_restricted",
-            "at": "2026-10-08T15:22:18.228Z"
+            "at": "2026-10-08T18:19:28.865Z"
           },
-          "nextCheckAt": "2026-10-08T17:22:18.228Z"
+          "nextCheckAt": "2026-10-08T20:19:28.865Z"
         },
-        "previewAttemptAt": "2026-10-08T15:22:18.228Z",
+        "previewAttemptAt": "2026-10-08T18:19:28.865Z",
         "previewCheck": {
           "url": "https://x.com/rt5_750/status/2107868637948440956",
           "status": "retry",
           "reason": "access_restricted",
-          "attemptedAt": "2026-10-08T15:22:18.228Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-08T17:22:18.228Z"
+          "attemptedAt": "2026-10-08T18:19:28.865Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-08T20:19:28.865Z"
         }
       },
       "reason": "access_restricted",
-      "nextAttemptAt": "2026-10-08T17:22:18.228Z",
-      "checkedAt": "2026-10-08T15:22:18.228Z"
+      "nextAttemptAt": "2026-10-08T20:19:28.865Z",
+      "checkedAt": "2026-10-08T18:19:28.865Z"
     },
     "careerbotdev/careerbot": {
       "full": "careerbotdev/careerbot",
@@ -866,7 +866,7 @@
     "weftcut/weftcut": {
       "full": "WeftCut/WeftCut",
       "firstSeenAt": "2026-10-08T15:20:57.911Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -876,12 +876,14 @@
           "postedAt": "2026-10-08T13:24:06.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T15:21:02.411Z"
+      "lastSeenAt": "2026-10-08T15:21:02.411Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-15T18:19:18.051Z"
     },
     "shmidtqq65/blueprint": {
       "full": "shmidtqq65/blueprint",
       "firstSeenAt": "2026-10-08T15:20:57.911Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -891,12 +893,109 @@
           "postedAt": "2026-10-08T13:23:31.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T15:21:02.411Z"
+      "lastSeenAt": "2026-10-08T15:21:02.411Z",
+      "entry": {
+        "availability": "available",
+        "full": "shmidtqq65/blueprint",
+        "name": "blueprint",
+        "description": "Print any website as a blueprint: outlines, dimension lines and a title block on any page. Hover to measure, save the sheet as a PNG.",
+        "category": "Design",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-10-07T20:23:40Z",
+        "updated": "2026-10-07T20:34:05Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://shmidtqq65.github.io/blueprint/",
+        "topics": [
+          "blueprint",
+          "bookmarklet",
+          "canvas",
+          "chrome-extension",
+          "developer-tools",
+          "javascript",
+          "userscript",
+          "view-transitions",
+          "web-design",
+          "wireframe"
+        ],
+        "demo": "https://shmidtqq65.github.io/blueprint/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-08T18:19:18.524Z",
+        "lastAvailableAt": "2026-10-08T18:19:18.524Z",
+        "lastAttemptAt": "2026-10-08T18:19:18.524Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2108186528593608932",
+            "postId": "2108186528593608932",
+            "postedAt": "2026-10-08T13:23:31.000Z"
+          }
+        ],
+        "subjects": [
+          "Browser extensions & PWAs"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 3,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "Browser extensions & PWAs"
+          ],
+          "evidence": [
+            {
+              "subject": "Browser extensions & PWAs",
+              "source": "metadata",
+              "match": "bookmarklet"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://shmidtqq65.github.io/blueprint/",
+          "attemptedAt": "2026-10-08T18:19:22.643Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-08T18:19:22.643Z",
+          "lastWorkingAt": "2026-10-08T18:19:22.643Z",
+          "target": "https://shmidtqq65.github.io/blueprint/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-15T18:19:22.643Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/0fc0e01ca034823447a9dbcf.jpg",
+            "kind": "demo",
+            "url": "https://shmidtqq65.github.io/blueprint/",
+            "capturedAt": "2026-10-08T18:19:22.643Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-08T18:19:22.643Z",
+        "previewCheck": {
+          "url": "https://shmidtqq65.github.io/blueprint/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-08T18:19:22.643Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-15T18:19:22.644Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-10T06:19:22.645Z",
+      "checkedAt": "2026-10-08T18:19:22.645Z"
     },
     "mrcube3/prism": {
       "full": "Mrcube3/Prism",
       "firstSeenAt": "2026-10-08T15:20:57.911Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -906,12 +1005,14 @@
           "postedAt": "2026-10-08T13:17:31.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T15:21:02.411Z"
+      "lastSeenAt": "2026-10-08T15:21:02.411Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-15T18:19:23.317Z"
     },
     "contextmux/contextmux": {
       "full": "contextmux/contextmux",
       "firstSeenAt": "2026-10-08T15:20:57.911Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -921,12 +1022,14 @@
           "postedAt": "2026-10-08T13:12:03.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T15:21:02.411Z"
+      "lastSeenAt": "2026-10-08T15:21:02.411Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-15T18:19:23.989Z"
     },
     "tinatsntx/gearshift": {
       "full": "tinatsntx/gearshift",
       "firstSeenAt": "2026-10-08T18:18:34.291Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -936,12 +1039,14 @@
           "postedAt": "2026-10-08T18:17:26.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T18:18:38.980Z"
+      "lastSeenAt": "2026-10-08T18:18:38.980Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-15T18:19:29.421Z"
     },
     "gagancreates/bucephalus": {
       "full": "Gagancreates/bucephalus",
       "firstSeenAt": "2026-10-08T18:18:34.291Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -951,12 +1056,14 @@
           "postedAt": "2026-10-08T18:16:52.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T18:18:38.980Z"
+      "lastSeenAt": "2026-10-08T18:18:38.980Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-15T18:19:29.914Z"
     },
     "firefightlabs/firefight": {
       "full": "FireFightLabs/firefight",
       "firstSeenAt": "2026-10-08T18:18:34.291Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -966,12 +1073,14 @@
           "postedAt": "2026-10-08T18:15:42.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T18:18:38.980Z"
+      "lastSeenAt": "2026-10-08T18:18:38.980Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-15T18:19:30.429Z"
     },
     "baibao577/kanbanto": {
       "full": "baibao577/kanbanto",
       "firstSeenAt": "2026-10-08T18:18:34.291Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -981,12 +1090,14 @@
           "postedAt": "2026-10-08T18:14:03.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T18:18:38.980Z"
+      "lastSeenAt": "2026-10-08T18:18:38.980Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-15T18:19:30.874Z"
     },
     "carbongotfound/orlo": {
       "full": "carbongotfound/orlo",
       "firstSeenAt": "2026-10-08T18:18:34.291Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -996,12 +1107,14 @@
           "postedAt": "2026-10-08T18:13:00.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T18:18:38.980Z"
+      "lastSeenAt": "2026-10-08T18:18:38.980Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-15T18:19:31.336Z"
     },
     "msrbuilds/roji-denki-3d-store": {
       "full": "msrbuilds/roji-denki-3d-store",
       "firstSeenAt": "2026-10-08T18:18:34.291Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -1011,12 +1124,14 @@
           "postedAt": "2026-10-08T18:12:32.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T18:18:38.980Z"
+      "lastSeenAt": "2026-10-08T18:18:38.980Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-15T18:19:31.843Z"
     },
     "unslothai/unsloth": {
       "full": "unslothai/unsloth",
       "firstSeenAt": "2026-10-08T18:18:34.291Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -1026,12 +1141,14 @@
           "postedAt": "2026-10-08T18:09:59.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T18:18:38.980Z"
+      "lastSeenAt": "2026-10-08T18:18:38.980Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-15T18:19:32.377Z"
     },
     "mdalexandre/crews": {
       "full": "mdalexandre/crews",
       "firstSeenAt": "2026-10-08T18:18:34.291Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -1041,12 +1158,14 @@
           "postedAt": "2026-10-08T18:08:51.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T18:18:38.980Z"
+      "lastSeenAt": "2026-10-08T18:18:38.980Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-15T18:19:32.889Z"
     },
     "arjun0014/project-sentinel": {
       "full": "Arjun0014/project-sentinel",
       "firstSeenAt": "2026-10-08T18:18:34.291Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -1056,12 +1175,14 @@
           "postedAt": "2026-10-08T18:08:50.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T18:18:38.980Z"
+      "lastSeenAt": "2026-10-08T18:18:38.980Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-15T18:19:33.367Z"
     },
     "velesxbt/drex-night-desk": {
       "full": "velesxbt/drex-night-desk",
       "firstSeenAt": "2026-10-08T18:18:34.291Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -1071,12 +1192,88 @@
           "postedAt": "2026-10-08T18:06:49.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T18:18:38.980Z"
+      "lastSeenAt": "2026-10-08T18:18:38.980Z",
+      "entry": {
+        "availability": "available",
+        "full": "velesxbt/drex-night-desk",
+        "name": "drex-night-desk",
+        "description": "Quant signal gate powered by Drex - reads the whole earnings call, then fires, sizes down or blocks.",
+        "category": "Other",
+        "language": "HTML",
+        "stars": 1,
+        "forks": 0,
+        "created": "2026-09-30T09:17:48Z",
+        "updated": "2026-10-08T13:31:57Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://night-desk-fvo7.onrender.com/",
+        "topics": [],
+        "demo": "https://night-desk-fvo7.onrender.com/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-08T18:19:33.815Z",
+        "lastAvailableAt": "2026-10-08T18:19:33.815Z",
+        "lastAttemptAt": "2026-10-08T18:19:33.815Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2108257823507259393",
+            "postId": "2108257823507259393",
+            "postedAt": "2026-10-08T18:06:49.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 3,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://night-desk-fvo7.onrender.com/",
+          "attemptedAt": "2026-10-08T18:19:37.046Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-08T18:19:37.046Z",
+          "lastWorkingAt": "2026-10-08T18:19:37.046Z",
+          "target": "https://night-desk-fvo7.onrender.com/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-15T18:19:37.046Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/eb1589464bb47e2915a0432e.jpg",
+            "kind": "demo",
+            "url": "https://night-desk-fvo7.onrender.com/",
+            "capturedAt": "2026-10-08T18:19:37.046Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-08T18:19:37.046Z",
+        "previewCheck": {
+          "url": "https://night-desk-fvo7.onrender.com/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-08T18:19:37.046Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-15T18:19:37.046Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-10T06:19:37.047Z",
+      "checkedAt": "2026-10-08T18:19:37.047Z"
     },
     "alejandrobujan/tendedero": {
       "full": "alejandrobujan/tendedero",
       "firstSeenAt": "2026-10-08T18:18:34.291Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -1086,12 +1283,14 @@
           "postedAt": "2026-10-08T18:04:57.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T18:18:38.980Z"
+      "lastSeenAt": "2026-10-08T18:18:38.980Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-15T18:19:37.464Z"
     },
     "yoheinakajima/soft-to-rigid-packing": {
       "full": "yoheinakajima/soft-to-rigid-packing",
       "firstSeenAt": "2026-10-08T18:18:34.291Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -1101,12 +1300,14 @@
           "postedAt": "2026-10-08T18:02:36.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T18:18:38.980Z"
+      "lastSeenAt": "2026-10-08T18:18:38.980Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-15T18:19:37.901Z"
     },
     "vorssaint/vorssaint-utils": {
       "full": "vorssaint/vorssaint-utils",
       "firstSeenAt": "2026-10-08T18:18:34.291Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -1116,12 +1317,14 @@
           "postedAt": "2026-10-08T18:02:35.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T18:18:38.980Z"
+      "lastSeenAt": "2026-10-08T18:18:38.980Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-15T18:19:38.532Z"
     },
     "storytold/photocraft": {
       "full": "storytold/photocraft",
       "firstSeenAt": "2026-10-08T18:18:34.291Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -1131,7 +1334,9 @@
           "postedAt": "2026-10-08T18:01:56.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T18:18:38.980Z"
+      "lastSeenAt": "2026-10-08T18:18:38.980Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-15T18:19:39.030Z"
     },
     "storytold/vectorcraft": {
       "full": "storytold/vectorcraft",

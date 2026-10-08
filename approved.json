@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-08T15:22:26.930Z",
+  "updatedAt": "2026-10-08T18:19:39.032Z",
   "runtimeRevision": "3ce3f7e8c216f98b43366bb530994b4cb5fd831f",
-  "checked": 6,
+  "checked": 4,
   "repositories": [
     {
       "availability": "available",
@@ -247,6 +247,179 @@
         "attemptedAt": "2026-10-08T15:22:23.244Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-15T15:22:23.245Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "shmidtqq65/blueprint",
+      "name": "blueprint",
+      "description": "Print any website as a blueprint: outlines, dimension lines and a title block on any page. Hover to measure, save the sheet as a PNG.",
+      "category": "Design",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-10-07T20:23:40Z",
+      "updated": "2026-10-07T20:34:05Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://shmidtqq65.github.io/blueprint/",
+      "topics": [
+        "blueprint",
+        "bookmarklet",
+        "canvas",
+        "chrome-extension",
+        "developer-tools",
+        "javascript",
+        "userscript",
+        "view-transitions",
+        "web-design",
+        "wireframe"
+      ],
+      "demo": "https://shmidtqq65.github.io/blueprint/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-08T18:19:18.524Z",
+      "lastAvailableAt": "2026-10-08T18:19:18.524Z",
+      "lastAttemptAt": "2026-10-08T18:19:18.524Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108186528593608932",
+          "postId": "2108186528593608932",
+          "postedAt": "2026-10-08T13:23:31.000Z"
+        }
+      ],
+      "subjects": [
+        "Browser extensions & PWAs"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 3,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "Browser extensions & PWAs"
+        ],
+        "evidence": [
+          {
+            "subject": "Browser extensions & PWAs",
+            "source": "metadata",
+            "match": "bookmarklet"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://shmidtqq65.github.io/blueprint/",
+        "attemptedAt": "2026-10-08T18:19:22.643Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-08T18:19:22.643Z",
+        "lastWorkingAt": "2026-10-08T18:19:22.643Z",
+        "target": "https://shmidtqq65.github.io/blueprint/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-15T18:19:22.643Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/0fc0e01ca034823447a9dbcf.jpg",
+          "kind": "demo",
+          "url": "https://shmidtqq65.github.io/blueprint/",
+          "capturedAt": "2026-10-08T18:19:22.643Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-08T18:19:22.643Z",
+      "previewCheck": {
+        "url": "https://shmidtqq65.github.io/blueprint/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-08T18:19:22.643Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-15T18:19:22.644Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "velesxbt/drex-night-desk",
+      "name": "drex-night-desk",
+      "description": "Quant signal gate powered by Drex - reads the whole earnings call, then fires, sizes down or blocks.",
+      "category": "Other",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "created": "2026-09-30T09:17:48Z",
+      "updated": "2026-10-08T13:31:57Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://night-desk-fvo7.onrender.com/",
+      "topics": [],
+      "demo": "https://night-desk-fvo7.onrender.com/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-08T18:19:33.815Z",
+      "lastAvailableAt": "2026-10-08T18:19:33.815Z",
+      "lastAttemptAt": "2026-10-08T18:19:33.815Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108257823507259393",
+          "postId": "2108257823507259393",
+          "postedAt": "2026-10-08T18:06:49.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 3,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://night-desk-fvo7.onrender.com/",
+        "attemptedAt": "2026-10-08T18:19:37.046Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-08T18:19:37.046Z",
+        "lastWorkingAt": "2026-10-08T18:19:37.046Z",
+        "target": "https://night-desk-fvo7.onrender.com/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-15T18:19:37.046Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/eb1589464bb47e2915a0432e.jpg",
+          "kind": "demo",
+          "url": "https://night-desk-fvo7.onrender.com/",
+          "capturedAt": "2026-10-08T18:19:37.046Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-08T18:19:37.046Z",
+      "previewCheck": {
+        "url": "https://night-desk-fvo7.onrender.com/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-08T18:19:37.046Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-15T18:19:37.046Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
