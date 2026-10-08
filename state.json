@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "reservedUsd": 0.25,
-  "requests": 1,
+  "reservedUsd": 0.5,
+  "requests": 2,
   "queryTurn": 0,
   "queries": {
     "7c3cb66ff5244ce6": {
@@ -388,5 +388,5 @@
     }
   },
   "lastRun": null,
-  "lastFreeBalanceUsd": 20
+  "lastFreeBalanceUsd": 19.88
 }
