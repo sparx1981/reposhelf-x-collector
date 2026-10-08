@@ -1,0 +1,95 @@
+name: Collect and validate X repositories
+on:
+  workflow_dispatch:
+    inputs:
+      search:
+        description: 'Search X using free credits (false only refreshes known candidates)'
+        type: boolean
+        default: true
+  schedule:
+    - cron: '17 6 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: reposhelf-x-collector
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Restore durable collector history
+        run: node src/checkpoint.mjs restore
+      - name: Search X within free-credit limits
+        if: (github.event_name == 'workflow_dispatch' && inputs.search) || (github.event_name == 'schedule' && vars.X_COLLECTION_ENABLED == 'true')
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          COLLECTOR_CHECKPOINT: 'true'
+        run: node src/collect.mjs
+      - name: Save validation queue
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: validation-queue
+          path: state/
+          if-no-files-found: error
+          retention-days: 7
+  validate:
+    needs: collect
+    if: always() && needs.collect.result != 'cancelled'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/download-artifact@v4
+        with:
+          name: validation-queue
+          path: state/
+      - name: Read pinned RepoShelf validator revision
+        id: runtime
+        run: node -e "require('fs').appendFileSync(process.env.GITHUB_OUTPUT, 'revision='+require('./config.json').repoShelfRevision+'\n')"
+      - name: Load RepoShelf's current validation code
+        uses: actions/checkout@v4
+        with:
+          repository: sparx1981/RepoShelf
+          ref: ${{ steps.runtime.outputs.revision }}
+          path: runtime
+          persist-credentials: false
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /package.json
+            /scripts/
+            /lib/
+            /dist/*.js
+      - name: Install validation browser
+        run: |
+          npm install --no-save --package-lock=false playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - name: Validate demos and capture screenshots
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node src/validate.mjs
+      - name: Save candidate checks
+        if: always()
+        run: node src/checkpoint.mjs save
+      - name: Upload candidate list and screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: reposhelf-candidates
+          path: |
+            state/approved.json
+            state/report.md
+            state/previews/
+          if-no-files-found: warn
+          retention-days: 7
+      - name: Show candidate report
+        if: success()
+        run: cat state/report.md >> "$GITHUB_STEP_SUMMARY"
