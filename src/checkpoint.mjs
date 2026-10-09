@@ -7,7 +7,7 @@ import {initialState} from './core.mjs';
 import {saveJson} from './io.mjs';
 const branch = 'collector-state';
 const git = (args, options = {}) => execFileSync('git', args, {encoding: 'utf8', maxBuffer: 32 * 1024 * 1024, ...options});
-const safe = path => /^(?:state\.json|approved\.json|report\.md|previews\/[a-f0-9]{24}\.jpg)$/.test(path);
+const safe = path => /^(?:state\.json|approved\.json|summary\.json|report\.md|previews\/[a-f0-9]{24}\.jpg)$/.test(path);
 export async function restore() {
   await mkdir('state', {recursive: true});
   const refs = git(['ls-remote', '--heads', 'origin', branch]).trim();
@@ -30,6 +30,9 @@ async function files(dir, prefix = '') {
   return out;
 }
 export async function checkpoint() {
+  const state=JSON.parse(await readFile('state/state.json','utf8'));let approved=null;
+  try{approved=JSON.parse(await readFile('state/approved.json','utf8'))}catch(e){if(e.code!=='ENOENT')throw e}
+  await saveJson('state/summary.json',{schema:1,runId:process.env.GITHUB_RUN_ID||null,checkedAt:new Date().toISOString(),collection:state.lastRun?{at:state.lastRun.at,postsRead:state.lastRun.postsRead,newCandidates:state.lastRun.newCandidates??null,candidateCount:state.lastRun.candidateCount,stopped:state.lastRun.stopped}:null,validation:approved?{at:approved.updatedAt,qualityReady:approved.repositories?.length||0,checked:approved.checked??null}:null});
   git(['config', 'user.name', 'github-actions[bot]']);
   git(['config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com']);
   const refs = git(['ls-remote', '--heads', 'origin', branch]).trim();

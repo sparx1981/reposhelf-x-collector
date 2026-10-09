@@ -6,6 +6,7 @@ import {pathToFileURL} from 'node:url';
 export async function collect({config, state, request, save, enabled = async () => false, now = Date.now}) {
   validateConfig(config);
   let read = 0, runReserved = 0, stopped = null;
+  const beforeCandidates=Object.keys(state.candidates).length;
   const tasks = [];
   const query = config.queries[state.queryTurn % config.queries.length];
   const progress = queryState(state, query, config, now());
@@ -54,7 +55,7 @@ export async function collect({config, state, request, save, enabled = async () 
     await save(state, true);
   }
   state.queryTurn++;
-  state.lastRun = {at: iso(now()), postsRead: read, reservedUsd: runReserved, stopped, candidateCount: Object.keys(state.candidates).length};
+  state.lastRun = {at: iso(now()), postsRead: read, reservedUsd: runReserved, stopped, candidateCount: Object.keys(state.candidates).length, newCandidates:Object.keys(state.candidates).length-beforeCandidates};
   await save(state, true);
   return state.lastRun;
 }
