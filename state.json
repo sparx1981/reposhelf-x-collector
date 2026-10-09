@@ -38,7 +38,7 @@
         "start": "2026-07-11T09:20:22.003Z",
         "end": "2026-10-02T09:20:22.003Z",
         "done": false,
-        "nextToken": "b26v89c19zqg8o3juzixwev3mznv7w19eekqzjg2wmkcd"
+        "nextToken": "b26v89c19zqg8o3juzixwev3gxlp9p5nbr3w5kwvf5htp"
       },
       "recent": {
         "start": "2026-10-02T09:21:22.004Z",
@@ -4848,18 +4848,98 @@
           "url": "https://x.com/i/web/status/2105826100630921349",
           "postId": "2105826100630921349",
           "postedAt": "2026-10-02T01:04:01.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105826049640779797",
+          "postId": "2105826049640779797",
+          "postedAt": "2026-10-02T01:03:49.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105826023149584865",
+          "postId": "2105826023149584865",
+          "postedAt": "2026-10-02T01:03:42.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105825499327193309",
+          "postId": "2105825499327193309",
+          "postedAt": "2026-10-02T01:01:38.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105822959374139518",
+          "postId": "2105822959374139518",
+          "postedAt": "2026-10-02T00:51:32.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105822862879994228",
+          "postId": "2105822862879994228",
+          "postedAt": "2026-10-02T00:51:09.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105822820358091038",
+          "postId": "2105822820358091038",
+          "postedAt": "2026-10-02T00:50:59.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105822440207327365",
+          "postId": "2105822440207327365",
+          "postedAt": "2026-10-02T00:49:28.000Z"
         }
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
         "likes": 1,
         "reposts": 0,
-        "replies": 0,
+        "replies": 1,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-09T09:20:33.836Z"
+      "lastSeenAt": "2026-10-09T09:20:37.502Z"
+    },
+    "youdontknowcrap/vr-study-room": {
+      "full": "youdontknowcrap/vr-study-room",
+      "firstSeenAt": "2026-10-09T09:20:37.502Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105822681476350005",
+          "postId": "2105822681476350005",
+          "postedAt": "2026-10-02T00:50:26.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105822344015204625",
+          "postId": "2105822344015204625",
+          "postedAt": "2026-10-02T00:49:05.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-09T09:20:37.502Z"
     }
   },
   "lastRun": {
@@ -4938,14 +5018,23 @@
     "2105845825066926107",
     "2105844677522137384",
     "2105831829400117460",
-    "2105826100630921349"
+    "2105826100630921349",
+    "2105826049640779797",
+    "2105826023149584865",
+    "2105825499327193309",
+    "2105822959374139518",
+    "2105822862879994228",
+    "2105822820358091038",
+    "2105822681476350005",
+    "2105822440207327365",
+    "2105822344015204625"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
-      "posts": 60,
-      "uniquePosts": 59,
-      "newCandidates": 50
+      "posts": 70,
+      "uniquePosts": 68,
+      "newCandidates": 51
     }
   },
   "demoSeeds": {
