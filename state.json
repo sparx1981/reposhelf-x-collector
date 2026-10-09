@@ -79,7 +79,8 @@
       },
       "recent": {
         "start": "2026-10-02T13:17:06.184Z",
-        "end": "2026-10-09T13:15:36.184Z"
+        "end": "2026-10-09T13:15:36.184Z",
+        "nextToken": "b26v89c19zqg8o3juziz5eom45q484o2amdly54chhail"
       }
     }
   },
@@ -257,9 +258,17 @@
           "postedAt": "2026-10-08T14:49:40.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T15:21:02.411Z",
+      "lastSeenAt": "2026-10-09T13:16:08.856Z",
       "reason": "no_hosted_demo",
-      "nextAttemptAt": "2026-10-15T15:22:02.879Z"
+      "nextAttemptAt": "2026-10-15T15:22:02.879Z",
+      "engagement": {
+        "likes": 127,
+        "reposts": 7,
+        "replies": 11,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": []
     },
     "oldcircle/geo-sleuth": {
       "full": "Oldcircle/geo-sleuth",
@@ -875,7 +884,7 @@
     "opengeos/geolibre": {
       "full": "opengeos/GeoLibre",
       "firstSeenAt": "2026-10-08T15:20:57.911Z",
-      "status": "retry",
+      "status": "queued",
       "sources": [
         {
           "kind": "x",
@@ -885,9 +894,31 @@
           "postedAt": "2026-10-08T13:47:45.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T15:21:02.411Z",
+      "lastSeenAt": "2026-10-09T13:16:08.856Z",
       "reason": "no_hosted_demo",
-      "nextAttemptAt": "2026-10-15T15:22:26.412Z"
+      "nextAttemptAt": "2026-10-09T13:16:08.856Z",
+      "engagement": {
+        "likes": 252,
+        "reposts": 30,
+        "replies": 9,
+        "quotes": 2
+      },
+      "demoHints": [
+        "https://dynamical.org/",
+        "https://web.geolibre.app/?plugin=dynamical"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://dynamical.org/",
+          "postUrl": "https://x.com/i/web/status/2108192627401081009",
+          "repository": "opengeos/GeoLibre"
+        },
+        {
+          "url": "https://web.geolibre.app/?plugin=dynamical",
+          "postUrl": "https://x.com/i/web/status/2108192627401081009",
+          "repository": "opengeos/GeoLibre"
+        }
+      ]
     },
     "ethanyxchen/github-maxxer": {
       "full": "ethanyxchen/github-maxxer",
@@ -1979,9 +2010,17 @@
           "postedAt": "2026-10-08T13:10:04.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T01:55:36.049Z",
+      "lastSeenAt": "2026-10-09T13:16:08.856Z",
       "reason": "no_hosted_demo",
-      "nextAttemptAt": "2026-10-16T06:43:09.746Z"
+      "nextAttemptAt": "2026-10-16T06:43:09.746Z",
+      "engagement": {
+        "likes": 7,
+        "reposts": 5,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": []
     },
     "whaleyxbt/claude-motion": {
       "full": "whaleyxbt/claude-motion",
@@ -2013,9 +2052,17 @@
           "postedAt": "2026-10-08T12:55:01.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T01:55:36.049Z",
+      "lastSeenAt": "2026-10-09T13:16:08.856Z",
       "reason": "no_hosted_demo",
-      "nextAttemptAt": "2026-10-16T06:43:11.319Z"
+      "nextAttemptAt": "2026-10-16T06:43:11.319Z",
+      "engagement": {
+        "likes": 14,
+        "reposts": 1,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": []
     },
     "acosmi/wrokbot": {
       "full": "acosmi/wrokbot",
@@ -2215,7 +2262,7 @@
     "neuphonic/neudecide": {
       "full": "neuphonic/neudecide",
       "firstSeenAt": "2026-10-09T01:55:29.756Z",
-      "status": "retry",
+      "status": "queued",
       "sources": [
         {
           "kind": "x",
@@ -2225,9 +2272,37 @@
           "postedAt": "2026-10-08T11:55:08.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T01:55:36.049Z",
+      "lastSeenAt": "2026-10-09T13:16:08.856Z",
       "reason": "no_hosted_demo",
-      "nextAttemptAt": "2026-10-16T06:43:18.253Z"
+      "nextAttemptAt": "2026-10-09T13:16:08.856Z",
+      "engagement": {
+        "likes": 26,
+        "reposts": 2,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://huggingface.co/spaces/neuphonic/neudecide",
+        "https://huggingface.co/neuphonic/neudecide",
+        "https://www.neuphonic.com/blog/neudecide"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://huggingface.co/spaces/neuphonic/neudecide",
+          "postUrl": "https://x.com/i/web/status/2108164286875152482",
+          "repository": "neuphonic/neudecide"
+        },
+        {
+          "url": "https://huggingface.co/neuphonic/neudecide",
+          "postUrl": "https://x.com/i/web/status/2108164286875152482",
+          "repository": "neuphonic/neudecide"
+        },
+        {
+          "url": "https://www.neuphonic.com/blog/neudecide",
+          "postUrl": "https://x.com/i/web/status/2108164286875152482",
+          "repository": "neuphonic/neudecide"
+        }
+      ]
     },
     "dedene/underdog-saluki-27b-dgx-spark": {
       "full": "dedene/Underdog-Saluki-27B-DGX-Spark",
@@ -2242,9 +2317,17 @@
           "postedAt": "2026-10-08T11:54:58.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T01:55:36.049Z",
+      "lastSeenAt": "2026-10-09T13:16:08.856Z",
       "reason": "no_hosted_demo",
-      "nextAttemptAt": "2026-10-16T06:43:18.696Z"
+      "nextAttemptAt": "2026-10-16T06:43:18.696Z",
+      "engagement": {
+        "likes": 18,
+        "reposts": 2,
+        "replies": 2,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": []
     },
     "stoneproof-tech/packagingworkbench": {
       "full": "stoneproof-tech/PackagingWorkbench",
@@ -7122,14 +7205,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 51,
-        "reposts": 8,
-        "replies": 3,
-        "quotes": 4
+        "likes": 62,
+        "reposts": 9,
+        "replies": 5,
+        "quotes": 5
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-09T09:20:28.952Z",
+      "lastSeenAt": "2026-10-09T13:16:08.856Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:24:37.913Z"
     },
@@ -7384,7 +7467,7 @@
           "repository": "heyputer/builder"
         }
       ],
-      "lastSeenAt": "2026-10-09T09:20:28.952Z",
+      "lastSeenAt": "2026-10-09T13:16:08.856Z",
       "entry": {
         "availability": "available",
         "full": "HeyPuter/builder",
@@ -12727,6 +12810,204 @@
         }
       ],
       "lastSeenAt": "2026-10-09T13:16:04.326Z"
+    },
+    "llm-as-a-verifier/llm-as-a-verifier": {
+      "full": "llm-as-a-verifier/llm-as-a-verifier",
+      "firstSeenAt": "2026-10-09T13:16:08.856Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108348324231381120",
+          "postId": "2108348324231381120",
+          "postedAt": "2026-10-09T00:06:26.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 50,
+        "reposts": 2,
+        "replies": 7,
+        "quotes": 2
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-09T13:16:08.856Z"
+    },
+    "thariqs/ai-newtab": {
+      "full": "ThariqS/ai-newtab",
+      "firstSeenAt": "2026-10-09T13:16:08.856Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108301670451163390",
+          "postId": "2108301670451163390",
+          "postedAt": "2026-10-08T21:01:03.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 242,
+        "reposts": 7,
+        "replies": 16,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-09T13:16:08.856Z"
+    },
+    "blockamoto/gateway": {
+      "full": "Blockamoto/gateway",
+      "firstSeenAt": "2026-10-09T13:16:08.856Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108257406408900725",
+          "postId": "2108257406408900725",
+          "postedAt": "2026-10-08T18:05:09.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 39,
+        "reposts": 14,
+        "replies": 3,
+        "quotes": 1
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-09T13:16:08.856Z"
+    },
+    "lithos-ai/lithos-metal": {
+      "full": "lithos-ai/lithos-metal",
+      "firstSeenAt": "2026-10-09T13:16:08.856Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108249739414147259",
+          "postId": "2108249739414147259",
+          "postedAt": "2026-10-08T17:34:41.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 476,
+        "reposts": 67,
+        "replies": 36,
+        "quotes": 15
+      },
+      "demoHints": [
+        "https://www.lithosai.com/blog/lithos-metal"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://www.lithosai.com/blog/lithos-metal",
+          "postUrl": "https://x.com/i/web/status/2108249739414147259",
+          "repository": "lithos-ai/lithos-metal"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T13:16:08.856Z"
+    },
+    "speridlabs/iris-3b": {
+      "full": "speridlabs/iris-3b",
+      "firstSeenAt": "2026-10-09T13:16:08.856Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108241673897877739",
+          "postId": "2108241673897877739",
+          "postedAt": "2026-10-08T17:02:38.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 51,
+        "reposts": 5,
+        "replies": 2,
+        "quotes": 1
+      },
+      "demoHints": [
+        "https://huggingface.co/speridlabs/iris-3b",
+        "https://huggingface.co/spaces/speridlabs/iris-3b"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://huggingface.co/speridlabs/iris-3b",
+          "postUrl": "https://x.com/i/web/status/2108241673897877739",
+          "repository": "speridlabs/iris-3b"
+        },
+        {
+          "url": "https://huggingface.co/spaces/speridlabs/iris-3b",
+          "postUrl": "https://x.com/i/web/status/2108241673897877739",
+          "repository": "speridlabs/iris-3b"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T13:16:08.856Z"
+    },
+    "pump-fun/transfer-hook-authority": {
+      "full": "pump-fun/transfer-hook-authority",
+      "firstSeenAt": "2026-10-09T13:16:08.856Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108227659591303663",
+          "postId": "2108227659591303663",
+          "postedAt": "2026-10-08T16:06:57.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 31,
+        "reposts": 4,
+        "replies": 12,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://solscan.io/tx/2g9SQbVZbkPu3JJbXWSYmSwRKkTBmdcVN1sga8D4SUwK1Mk1QpuwUDZ7LHJ3wLATSsftL8XyhkNcVN2kiwC59YKq"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://solscan.io/tx/2g9SQbVZbkPu3JJbXWSYmSwRKkTBmdcVN1sga8D4SUwK1Mk1QpuwUDZ7LHJ3wLATSsftL8XyhkNcVN2kiwC59YKq",
+          "postUrl": "https://x.com/i/web/status/2108227659591303663",
+          "repository": "pump-fun/transfer-hook-authority"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T13:16:08.856Z"
+    },
+    "dmoka/quicke2e": {
+      "full": "dmoka/quicke2e",
+      "firstSeenAt": "2026-10-09T13:16:08.856Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108075880341713291",
+          "postId": "2108075880341713291",
+          "postedAt": "2026-10-08T06:03:50.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 225,
+        "reposts": 17,
+        "replies": 17,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-09T13:16:08.856Z"
     }
   },
   "lastRun": {
@@ -12798,13 +13079,11 @@
     "2108389863452274938",
     "2108389757814460913",
     "2108380758566162801",
-    "2108378085058035960",
     "2108377172004266323",
     "2108374043137298812",
     "2108372239368523966",
     "2108363398459384191",
     "2108360074934542751",
-    "2108358111233020254",
     "2108357624538579308",
     "2105942304418939218",
     "2105934980274852060",
@@ -12895,7 +13174,22 @@
     "2101720182322536877",
     "2101715030374756437",
     "2100851581457744109",
-    "2100637400502313000"
+    "2100637400502313000",
+    "2108378085058035960",
+    "2108358111233020254",
+    "2108348324231381120",
+    "2108301670451163390",
+    "2108257406408900725",
+    "2108249739414147259",
+    "2108241673897877739",
+    "2108227659591303663",
+    "2108208211375374698",
+    "2108192627401081009",
+    "2108183144738513043",
+    "2108179358414422078",
+    "2108164286875152482",
+    "2108164245607383405",
+    "2108075880341713291"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -12919,6 +13213,12 @@
       "posts": 28,
       "uniquePosts": 27,
       "newCandidates": 11
+    },
+    "0cdbecff36d6436d": {
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "posts": 15,
+      "uniquePosts": 13,
+      "newCandidates": 7
     }
   },
   "demoSeeds": {
