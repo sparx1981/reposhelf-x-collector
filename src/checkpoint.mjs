@@ -32,7 +32,7 @@ async function files(dir, prefix = '') {
 export async function checkpoint() {
   const state=JSON.parse(await readFile('state/state.json','utf8'));let approved=null;
   try{approved=JSON.parse(await readFile('state/approved.json','utf8'))}catch(e){if(e.code!=='ENOENT')throw e}
-  await saveJson('state/summary.json',{schema:1,runId:process.env.GITHUB_RUN_ID||null,checkedAt:new Date().toISOString(),collection:state.lastRun?{at:state.lastRun.at,postsRead:state.lastRun.postsRead,newCandidates:state.lastRun.newCandidates??null,candidateCount:state.lastRun.candidateCount,stopped:state.lastRun.stopped}:null,validation:approved?{at:approved.updatedAt,qualityReady:approved.repositories?.length||0,checked:approved.checked??null}:null});
+  await saveJson('state/summary.json',{schema:1,runId:process.env.GITHUB_RUN_ID||null,checkedAt:new Date().toISOString(),collection:state.lastRun?{at:state.lastRun.at,postsRead:state.lastRun.postsRead,newCandidates:state.lastRun.newCandidates??null,candidateCount:state.lastRun.candidateCount,stopped:state.lastRun.stopped,postLimit:state.lastRun.postLimit??50,queries:state.lastRun.queries||[]}:null,validation:approved?{at:approved.updatedAt,qualityReady:approved.repositories?.length||0,checked:approved.checked??null}:null});
   git(['config', 'user.name', 'github-actions[bot]']);
   git(['config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com']);
   const refs = git(['ls-remote', '--heads', 'origin', branch]).trim();

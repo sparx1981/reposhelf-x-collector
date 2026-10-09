@@ -47,27 +47,27 @@ test('billing rejection stops without a retry or losing the durable reservation'
   let searches=0;
   const state=initialState(time);
   const result=await collect({config,state,enabled:async()=>true,request:async path=>{if(path.includes('credits'))return balance(20);searches++;throw Object.assign(Error('No credit'),{status:402});},save:async()=>{},now:()=>time});
-  assert.equal(searches,1);assert.equal(result.stopped,'x_api_http_402');assert.equal(state.reservedUsd,0.25);
+  assert.equal(searches,1);assert.equal(result.stopped,'x_api_http_402');assert.equal(state.reservedUsd,0.18);
 });
 test('reserves credits durably before search; resumes historical pagination', async () => {
   const state = initialState(time), saved = [], search = [];
   const request = async path => {
     if (path.includes('usage/credits')) return balance(20);
     assert(saved.length, 'Metered call requires a prior save');
-    assert(state.reservedUsd >= 0.25);
+    assert(state.reservedUsd >= 0.18);
     search.push(new URL(path, 'https://api.x.com'));
     return {data: [{id: String(search.length), entities: {urls: [{expanded_url: 'https://github.com/team/app'}]}}], meta: {next_token: 'next' + search.length}};
   };
   await collect({enabled:async()=>true, config, state, request, save: async s => saved.push(structuredClone(s)), now: () => time});
-  assert.equal(search.length, 2);
+  assert.equal(search.length, 3);
   assert.equal(state.reservedUsd, 0.5);
   assert.equal(search[1].pathname, '/2/tweets/search/all');
   assert.equal(search[1].searchParams.get('start_time'), '2026-07-10T12:00:00.000Z');
   assert.equal(search[1].searchParams.has('expansions'), false);
   state.queryTurn = 0;
   await collect({enabled:async()=>true, config, state, request, save: async s => saved.push(structuredClone(s)), now: () => time + 86400000});
-  assert.equal(search[3].searchParams.get('next_token'), 'next2');
-  assert.equal(search[3].searchParams.get('end_time'), search[1].searchParams.get('end_time'));
+  assert.equal(search[4].searchParams.get('next_token'), 'next2');
+  assert.equal(search[4].searchParams.get('end_time'), search[1].searchParams.get('end_time'));
 });
 test('a failed checkpoint prevents any metered request; timeout retains reservation', async () => {
   let searches = 0;
@@ -76,7 +76,7 @@ test('a failed checkpoint prevents any metered request; timeout retains reservat
   assert.equal(searches, 0);
   const state = initialState(time);
   await assert.rejects(collect({enabled:async()=>true, config, state, request, save: async () => {}, now: () => time}), /timeout/);
-  assert.equal(state.reservedUsd, 0.25);
+  assert.equal(state.reservedUsd, 0.18);
   assert.equal(searches, 1);
 });
 test('validation only exports accepted fresh entries and merges canonical aliases', async () => {

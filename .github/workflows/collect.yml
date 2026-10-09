@@ -6,6 +6,11 @@ on:
         description: 'Search X if enabled in RepoShelf administration (false only refreshes known candidates)'
         type: boolean
         default: true
+      post_limit:
+        description: 'Maximum posts for this run (100 reserves at most $1; normal daily limit is 50)'
+        type: choice
+        options: ['50', '100']
+        default: '50'
   schedule:
     - cron: '17 6 * * *'
 permissions:
@@ -16,6 +21,8 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
+    env:
+      COLLECTOR_POST_LIMIT: ${{ github.event_name == 'workflow_dispatch' && inputs.post_limit || '50' }}
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
@@ -42,6 +49,8 @@ jobs:
     needs: collect
     if: always() && needs.collect.result != 'cancelled'
     runs-on: ubuntu-latest
+    env:
+      COLLECTOR_POST_LIMIT: ${{ github.event_name == 'workflow_dispatch' && inputs.post_limit || '50' }}
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4

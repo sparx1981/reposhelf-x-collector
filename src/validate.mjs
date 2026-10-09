@@ -1,14 +1,18 @@
 import {createRequire} from 'node:module';
 import {pathToFileURL} from 'node:url';
 import {resolve, join} from 'node:path';
-import {mkdir, copyFile, access} from 'node:fs/promises';
-import {initialState, dueCandidates, iso, sourceCategory} from './core.mjs';
+import {mkdir, copyFile, access, writeFile} from 'node:fs/promises';
+import {initialState, dueCandidates, iso, sourceCategory, queryKey} from './core.mjs';
 import {readJson, saveJson} from './io.mjs';
+import {runConfig} from './search-plan.mjs';
+import {resolveDemoSeeds,associatedDemo} from './demo-discovery.mjs';
 
 export async function validateCandidates({state, config, importEntry, qualify, eligible, existing = new Set(), save, now = Date.now}) {
   let checked = 0;
   for (const candidate of dueCandidates(state, now()).slice(0, config.maxRepositoriesPerRun)) {
     if (existing.has(candidate.full.toLowerCase()) && candidate.status !== 'accepted') { candidate.status = 'known'; candidate.reason = 'already_in_reposhelf'; continue; }
+    checked++;
+    if(candidate.query){const stats=(state.queryStats||={})[queryKey(candidate.query)]||={query:candidate.query,posts:0,uniquePosts:0,newCandidates:0};stats.validationAttempts=(stats.validationAttempts||0)+1;}
     try {
       const entry = await importEntry(candidate);
       if (!entry?.demo) { candidate.status = 'retry'; candidate.reason = 'no_hosted_demo'; candidate.nextAttemptAt = iso(now() + 7 * 86400000); continue; }
@@ -19,7 +23,7 @@ export async function validateCandidates({state, config, importEntry, qualify, e
       candidate.reason = result.details.reason || null;
       candidate.nextAttemptAt = result.details.status === 'accepted' ? iso(now() + 36 * 3600000) : result.details.nextAttemptAt || iso(now() + 6 * 3600000);
       candidate.checkedAt = iso(now());
-      checked++;
+      if(candidate.query&&candidate.status==='accepted'&&!candidate.firstAcceptedAt){candidate.firstAcceptedAt=iso(now());const stats=state.queryStats[queryKey(candidate.query)];stats.accepted=(stats.accepted||0)+1;}
     } catch (error) {
       candidate.status = [404, 410].includes(error.status) ? 'rejected' : 'retry';
       candidate.reason = [404, 410].includes(error.status) ? 'repository_unavailable' : 'temporary_error';
@@ -42,7 +46,7 @@ export async function validateCandidates({state, config, importEntry, qualify, e
 }
 
 async function main() {
-  const config = await readJson('config.json');
+  const config = runConfig(await readJson('config.json'),process.env.COLLECTOR_POST_LIMIT);
   const state = await readJson('state/state.json', initialState());
   const runtime = resolve(process.env.REPOSHELF_ROOT || 'runtime');
   const runtimeRequire = createRequire(join(runtime, 'package.json'));
@@ -62,8 +66,11 @@ async function main() {
   }
   const {applyListingControls} = await import(pathToFileURL(join(runtime, 'lib/listing-policy.mjs')));
   const probeQualifier = createSubmissionQualifier({root: artifactsRoot, controls: async () => controls.items});
+  const {publicUrlGuard}=await import(pathToFileURL(join(runtime,'scripts/demo-health.mjs')));
+  await resolveDemoSeeds({state,config,guard:publicUrlGuard(),save:data=>saveJson('state/state.json',data)});
   const importEntry = async candidate => {
     if (excluded.has(candidate.full.toLowerCase())) throw Object.assign(Error('Moderated repository'), {status: 404});
+    if(!excluded.has(candidate.full.toLowerCase())){try{const response=await fetch('https://www.reposhelf.co.uk/api/editorial?action=detail&id='+encodeURIComponent(candidate.full),{signal:AbortSignal.timeout(15000),redirect:'error'});if(response.ok){const current=await response.json(),entry=current.repo;if(entry&&entry.full?.toLowerCase()===candidate.full.toLowerCase()&&Q.publishedEligible(entry)&&!entry.demoHealth?.error){candidate.reusedEvidence=true;return {...entry,discoveredVia:candidate.sources};}}}catch{}}
     const d = await (await github('/repos/' + candidate.full)).json();
     if (d.private !== false || d.visibility && d.visibility !== 'public' || !D.mapRepo || !/^[\w.-]+\/[\w.-]+$/.test(d.full_name)) throw Object.assign(Error('Repository not public'), {status: 404});
     if (excluded.has(d.full_name.toLowerCase())) throw Object.assign(Error('Moderated repository'), {status: 404});
@@ -73,14 +80,16 @@ async function main() {
       if (readme.encoding !== 'base64' || readme.size > 2 * 1024 * 1024) throw Error('README too large or unsupported');
       markdown = Buffer.from(readme.content, 'base64').toString('utf8');
     } catch (e) { if (e.status !== 404) throw e; }
-    const mapped = D.mapRepo(d), demo = D.extractDemo(markdown, d.homepage), at = iso(Date.now());
+    const mapped = D.mapRepo(d), demo = D.extractDemo(markdown, d.homepage)||associatedDemo(candidate,d,markdown,D.demoUrl), at = iso(Date.now());
     const prior = candidate.entry?.demo === demo ? candidate.entry : {};
-    return T.annotate({...prior, ...mapped, demo, lastCheckedAt: at, lastAvailableAt: at, lastAttemptAt: at, discoveredVia: candidate.sources});
+    return T.annotate({...prior, ...mapped, demo, lastCheckedAt: at, lastAvailableAt: at, lastAttemptAt: at, demoEvidence: candidate.demoEvidence, discoveredVia: candidate.sources});
   };
+  const candidateReuse=entry=>Object.values(state.candidates).some(c=>c.full.toLowerCase()===entry.full.toLowerCase()&&c.reusedEvidence);
   const qualify = async entry => {
     if (Q.publishedEligible(entry) && !entry.demoHealth?.error) {
       const image = entry.screenshots?.find(s => s.kind === 'demo' && /^previews\/[a-f0-9]{24}\.jpg$/.test(s.src));
-      if (image) { try { await access(join('state', image.src)); return {entry, details: {status: 'accepted'}}; } catch {} }
+      if (image) { try { await access(join('state', image.src)); return {entry, details: {status: 'accepted'}}; } catch {}
+       if(candidateReuse(entry)){try{const r=await fetch('https://www.reposhelf.co.uk/'+image.src,{redirect:'error',signal:AbortSignal.timeout(15000)});if(r.ok&&/image\/jpeg/.test(r.headers.get('content-type')||'')){const bytes=await limitedBytes(r,2*1024*1024);if(bytes[0]===255&&bytes[1]===216){await mkdir('state/previews',{recursive:true});await writeFile(join('state',image.src),bytes);return {entry,details:{status:'accepted'}};}}}catch{}} }
     }
     const result = await probeQualifier(entry);
     if (result.details.status === 'accepted') {
@@ -95,9 +104,11 @@ async function main() {
   };
   const output = await validateCandidates({state, config, importEntry, qualify, eligible, save: data => saveJson('state/state.json', data)});
   await saveJson('state/approved.json', output);
-  const {writeFile} = await import('node:fs/promises');
-  const markdown = ['# RepoShelf candidates from X', '', `Checked: ${output.updatedAt}`, '', `Quality-ready repositories: **${output.repositories.length}**`, '', '| Repository | Demo | Screenshot | Source post |', '| --- | --- | --- | --- |', ...output.repositories.map(r => `| [${r.full}](https://github.com/${r.full}) | [Try demo](${r.demo}) | [Screenshot](${r.screenshots.find(s => s.kind === 'demo').src}) | [Source](${r.discoveredVia[0].url}) |`), '', 'Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.', ''].join('\n');
+
+  const markdown = ['# RepoShelf candidates from X', '', `Checked: ${output.updatedAt}`, '', `Quality-ready repositories: **${output.repositories.length}**`, '', '## Search yield', '', '| Query | Posts read | Unique posts | New repos | First accepted |', '| --- | ---: | ---: | ---: | ---: |', ...Object.values(state.queryStats||{}).map(s=>`| ${s.query.replaceAll('|',' ')} | ${s.posts||0} | ${s.uniquePosts||0} | ${s.newCandidates||0} | ${s.accepted||0} |`), '', 'Acceptance totals are attributed to the first discovery query; these are not controlled experiments.', '', '| Repository | Demo | Screenshot | Source post |', '| --- | --- | --- | --- |', ...output.repositories.map(r => `| [${r.full}](https://github.com/${r.full}) | [Try demo](${r.demo}) | [Screenshot](${r.screenshots.find(s => s.kind === 'demo').src}) | [Source](${r.discoveredVia[0].url}) |`), '', 'Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.', ''].join('\n');
   await writeFile('state/report.md', markdown);
   console.log('Quality-ready repositories: ' + output.repositories.length + '. Checked this run: ' + output.checked + '.');
 }
 if (process.argv[1] && import.meta.url === pathToFileURL(resolve(process.argv[1])).href) main().catch(e => { console.error(e.message); process.exitCode = 1; });
+
+async function limitedBytes(response,limit){let total=0;const chunks=[];for await(const chunk of response.body){total+=chunk.length;if(total>limit)throw Error('Screenshot too large');chunks.push(chunk)}return Buffer.concat(chunks);}

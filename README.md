@@ -24,7 +24,11 @@ The collector never purchases credits or changes billing settings. Other apps sp
 
 ## Search and validation
 
-Two broad searches sample recent posts and a saved 90-day historical window. Each run rotates queries and requests one recent page and one historical page. Bounds and pagination cursors persist; gaps beyond the seven-day recent-search window are recorded. This is a sample, not exhaustive coverage. GitHub links must be in the post; links through unrelated articles are not followed.
+Searches allocate approximately 70% of the post allowance to demo discovery and 30% to posts with at least ten likes or three reposts. Demo-focused GitHub queries rotate with a demo-host query. New query history stops seven days before initialization and recent coverage starts there; older saved cursors remain intact. Each query/endpoint has a bounded request allowance. Full long posts and public engagement counts are requested without expansions or user lookups.
+
+Demo links are retained only with explicit demo/launch language. Posts with multiple repositories do not supply demo hints. Demo-first pages are inspected on public networks, at most five per normal run or ten for the larger test, and must link to exactly one GitHub repository. The same working-page, screenshot, freshness and moderation checks apply. Fresh candidates and demo evidence take priority; engagement adjusted for age breaks ties. Fresh existing RepoShelf evidence may be reused with its screenshot, without extending its validity.
+
+The manual workflow offers a one-run **100-post / $1 conservative reservation** override, with up to 60 repository checks. Scheduled and ordinary manual runs remain **50 posts / $0.50 / 20 checks**. The $2 balance reserve always applies. Saved per-query totals appear in the candidate report. These totals include overlapping searches and are attributed to the first discovery query, rather than proving causal improvement.
 
 Repositories are deduplicated case-insensitively. Source post links are retained without raw post text or author profiles. Ingestion merges existing RepoShelf listings.
 
