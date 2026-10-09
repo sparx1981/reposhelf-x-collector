@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "reservedUsd": 3,
-  "requests": 14,
+  "reservedUsd": 3.18,
+  "requests": 15,
   "queryTurn": 5,
   "queries": {
     "7c3cb66ff5244ce6": {
@@ -56,6 +56,18 @@
       },
       "recent": {
         "start": "2026-10-02T09:21:39.114Z"
+      }
+    },
+    "ac3eb65e96558e14": {
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "history": {
+        "start": "2026-07-11T13:15:56.650Z",
+        "end": "2026-10-02T13:15:56.650Z",
+        "done": false
+      },
+      "recent": {
+        "start": "2026-10-02T13:16:56.651Z",
+        "end": "2026-10-09T13:15:26.651Z"
       }
     }
   },
@@ -12321,13 +12333,18 @@
       }
     ]
   },
-  "lastFreeBalanceUsd": 19.07,
-  "lastTotalBalanceUsd": 19.07,
+  "lastFreeBalanceUsd": 19.02,
+  "lastTotalBalanceUsd": 19.02,
   "coverageGaps": [
     {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "start": "2026-10-02T09:21:22.003Z",
       "end": "2026-10-02T09:21:22.004Z"
+    },
+    {
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "start": "2026-10-02T13:16:56.650Z",
+      "end": "2026-10-02T13:16:56.651Z"
     }
   ],
   "postIds": [
