@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "reservedUsd": 1.25,
-  "requests": 5,
+  "reservedUsd": 1.5,
+  "requests": 6,
   "queryTurn": 2,
   "queries": {
     "7c3cb66ff5244ce6": {
@@ -1968,6 +1968,6 @@
     "stopped": null,
     "candidateCount": 55
   },
-  "lastFreeBalanceUsd": 19.75,
-  "lastTotalBalanceUsd": 19.75
+  "lastFreeBalanceUsd": 19.63,
+  "lastTotalBalanceUsd": 19.63
 }
