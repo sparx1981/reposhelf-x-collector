@@ -1,13 +1,15 @@
 {
   "schema": 1,
-  "runId": "37908324622",
-  "checkedAt": "2026-10-09T09:00:14.038Z",
+  "runId": "37910610884",
+  "checkedAt": "2026-10-09T09:20:22.853Z",
   "collection": {
     "at": "2026-10-09T08:59:11.166Z",
     "postsRead": 50,
     "newCandidates": 23,
     "candidateCount": 102,
-    "stopped": null
+    "stopped": null,
+    "postLimit": 50,
+    "queries": []
   },
   "validation": {
     "at": "2026-10-09T09:00:13.986Z",
