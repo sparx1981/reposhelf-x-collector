@@ -1,17 +1,18 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-09T13:18:07.240Z
+Checked: 2026-10-09T17:44:12.806Z
 
-Quality-ready repositories: **68**
+Quality-ready repositories: **86**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 70 | 68 | 51 | 23 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 29 | 28 | 43 | 14 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 44 | 42 | 55 | 21 |
 | (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 28 | 27 | 11 | 10 |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 15 | 13 | 7 | 2 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 35 | 35 | 39 | 12 |
 
 Acceptance totals are attributed to the first discovery query; these are not controlled experiments.
 
@@ -45,7 +46,6 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [mercurial20/loremapper](https://github.com/mercurial20/loremapper) | [Try demo](https://mercurial20.github.io/loremapper/) | [Screenshot](previews/44d079a37a15c260bee421db.jpg) | [Source](https://x.com/i/web/status/2108438176348160130) |
 | [nirholas/three.ws](https://github.com/nirholas/three.ws) | [Try demo](https://three.ws/ibm/x402-demo) | [Screenshot](previews/1527824b58f35963005704ae.jpg) | [Source](https://x.com/i/web/status/2108429148473774108) |
 | [AdaSouls/velum](https://github.com/AdaSouls/velum) | [Try demo](https://velum.adasouls.io/) | [Screenshot](previews/05314f1a631364c209fb8817.jpg) | [Source](https://x.com/i/web/status/2108428353657340014) |
-| [Aaditya1273/Agent.md](https://github.com/Aaditya1273/Agent.md) | [Try demo](https://agentmd.pages.dev/) | [Screenshot](previews/55558dd6d3f29ada14547c15.jpg) | [Source](https://x.com/i/web/status/2108426930127323254) |
 | [Aixio-AI/aixio-layer-v2](https://github.com/Aixio-AI/aixio-layer-v2) | [Try demo](https://aixio.app/) | [Screenshot](previews/7f0a02eab222a1aae3f63724.jpg) | [Source](https://x.com/i/web/status/2108424835508637827) |
 | [Ark0N/Codeman](https://github.com/Ark0N/Codeman) | [Try demo](https://getcodeman.com/install) | [Screenshot](previews/366da5bc5ac9a5870ddb0632.jpg) | [Source](https://x.com/i/web/status/2108407067480662298) |
 | [lemonaide152/meld](https://github.com/lemonaide152/meld) | [Try demo](https://meld.mergeinc.workers.dev/) | [Screenshot](previews/de35c13af82847d44a52c4cd.jpg) | [Source](https://x.com/i/web/status/2108380758566162801) |
@@ -85,5 +85,24 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [lithos-ai/lithos-metal](https://github.com/lithos-ai/lithos-metal) | [Try demo](https://www.lithosai.com/blog/lithos-metal) | [Screenshot](previews/412490d8fbfc2ff30388258d.jpg) | [Source](https://x.com/i/web/status/2108249739414147259) |
 | [speridlabs/iris-3b](https://github.com/speridlabs/iris-3b) | [Try demo](https://huggingface.co/spaces/speridlabs/iris-3b) | [Screenshot](previews/85a42054390f55543d706c7c.jpg) | [Source](https://x.com/i/web/status/2108241673897877739) |
 | [Blackman99/toolsmoke](https://github.com/Blackman99/toolsmoke) | [Try demo](https://blackman99.github.io/toolsmoke/) | [Screenshot](previews/d38aceb20ceedea57282efa6.jpg) | [Source](https://x.com/i/web/status/2108096428086378628) |
+| [Kaif110/NIke-Website](https://github.com/Kaif110/NIke-Website) | [Try demo](https://nike-website1.netlify.app/) | [Screenshot](previews/2fde7a979bbaedef1edd754f.jpg) | [Source](https://x.com/i/web/status/2108591281282949159) |
+| [drcmda/handguard](https://github.com/drcmda/handguard) | [Try demo](https://handguard-zeta.vercel.app/) | [Screenshot](previews/e7bdfed9061bb4c5001f99c7.jpg) | [Source](https://x.com/i/web/status/2108586669662261732) |
+| [Nigestyh/etch-a-sketch](https://github.com/Nigestyh/etch-a-sketch) | [Try demo](https://nigestyh.github.io/etch-a-sketch/) | [Screenshot](previews/f2e69d9e5c271150e8baba8b.jpg) | [Source](https://x.com/i/web/status/2108579785740046814) |
+| [MichinaoShimizu/kiroku](https://github.com/MichinaoShimizu/kiroku) | [Try demo](https://michinaoshimizu.github.io/kiroku/) | [Screenshot](previews/da1ab898709692af4ce25ab3.jpg) | [Source](https://x.com/i/web/status/2108560097161212372) |
+| [xenodrive/timescope](https://github.com/xenodrive/timescope) | [Try demo](https://xenodrive.github.io/timescope/) | [Screenshot](previews/18ad8533ff3f976cb91528df.jpg) | [Source](https://x.com/i/web/status/2108543386550784058) |
+| [ToberJ/reflex](https://github.com/ToberJ/reflex) | [Try demo](https://toberj.github.io/reflex/) | [Screenshot](previews/1b3fa7f2610e4688bd35bb08.jpg) | [Source](https://x.com/i/web/status/2108540428563931303) |
+| [cloudflare/streamline](https://github.com/cloudflare/streamline) | [Try demo](https://blog.cloudflare.com/streamline/) | [Screenshot](previews/7a7c2acc5e167a1cbeb1c71b.jpg) | [Source](https://x.com/i/web/status/2106072292417806619) |
+| [adamholter/praktikos-challenge](https://github.com/adamholter/praktikos-challenge) | [Try demo](https://praktikos-challenge.adamholter.chatgpt.site/) | [Screenshot](previews/cdf03b9e79c8de020052360f.jpg) | [Source](https://x.com/i/web/status/2106069407130661292) |
+| [reladraw/reladraw](https://github.com/reladraw/reladraw) | [Try demo](https://reladraw.github.io/reladraw/) | [Screenshot](previews/8d65a4cf016a652390e32231.jpg) | [Source](https://x.com/i/web/status/2106066690144399486) |
+| [ValentinTorassa/VT-Agent-Firewall](https://github.com/ValentinTorassa/VT-Agent-Firewall) | [Try demo](https://valentorassa.com/charlas/hacking-day-2026) | [Screenshot](previews/531b44a4ddfa81ed54915d82.jpg) | [Source](https://x.com/i/web/status/2106049012470051274) |
+| [rishimohan/colorshot](https://github.com/rishimohan/colorshot) | [Try demo](https://orshot.com/open-source/colorshot) | [Screenshot](previews/e8e451ad32fc594c2dc8a5ba.jpg) | [Source](https://x.com/i/web/status/2106038323919864237) |
+| [VahidYousefzadeh/pretext-harfbuzz](https://github.com/VahidYousefzadeh/pretext-harfbuzz) | [Try demo](https://www.vahidyousefzadeh.com/pretext-harfbuzz) | [Screenshot](previews/498312a778c1351f9b5f5dfe.jpg) | [Source](https://x.com/i/web/status/2106018671093063764) |
+| [dgreenheck/threejs-particle-fluids](https://github.com/dgreenheck/threejs-particle-fluids) | [Try demo](https://dgreenheck.github.io/threejs-particle-fluids/) | [Screenshot](previews/516bf15c48a7ef643f617e49.jpg) | [Source](https://x.com/i/web/status/2104597039757594724) |
+| [dgreenheck/tidewater](https://github.com/dgreenheck/tidewater) | [Try demo](https://dgreenheck.github.io/tidewater/) | [Screenshot](previews/57a9516a811db8692d653564.jpg) | [Source](https://x.com/i/web/status/2104594391491105179) |
+| [sbobyn/three-voxel-destruction](https://github.com/sbobyn/three-voxel-destruction) | [Try demo](https://three-voxel-destruction.vercel.app/) | [Screenshot](previews/bf7e99631a9ffd189b281b87.jpg) | [Source](https://x.com/i/web/status/2104584028980707668) |
+| [rishu4436/rwa-basis-desk](https://github.com/rishu4436/rwa-basis-desk) | [Try demo](https://rwa-basis-desk.vercel.app/) | [Screenshot](previews/20cc34493ed584b7f7003fe3.jpg) | [Source](https://x.com/i/web/status/2104578973170630857) |
+| [RicheySon/proof](https://github.com/RicheySon/proof) | [Try demo](https://proof-smoky.vercel.app/) | [Screenshot](previews/892b581a8a8c26bc206a2728.jpg) | [Source](https://x.com/i/web/status/2104332694331314504) |
+| [SamG-Coder/Leaf](https://github.com/SamG-Coder/Leaf) | [Try demo](https://samg-coder.github.io/Leaf/editor.html) | [Screenshot](previews/32da8ac71d0045a848a1a109.jpg) | [Source](https://x.com/i/web/status/2104299846584959026) |
+| [Dami904/steward](https://github.com/Dami904/steward) | [Try demo](https://steward-rwa.vercel.app/demo) | [Screenshot](previews/cd7b4e47216372ccd50b3233.jpg) | [Source](https://x.com/i/web/status/2104250842362839217) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.
