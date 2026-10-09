@@ -29,7 +29,7 @@
       "recent": {
         "start": "2026-10-07T18:18:30.827Z",
         "end": "2026-10-08T18:18:00.828Z",
-        "nextToken": "b26v89c19zqg8o3juziz5ixgqw5msdg75pavbw7g4wad9"
+        "nextToken": "b26v89c19zqg8o3juziz5ix5wz0f6u5jretns7f6glx8d"
       }
     }
   },
@@ -1037,9 +1037,16 @@
           "url": "https://x.com/i/web/status/2108260496625287451",
           "postId": "2108260496625287451",
           "postedAt": "2026-10-08T18:17:26.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108245395105366237",
+          "postId": "2108245395105366237",
+          "postedAt": "2026-10-08T17:17:26.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T18:18:38.980Z",
+      "lastSeenAt": "2026-10-09T08:59:04.097Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-15T18:19:29.421Z"
     },
@@ -1888,7 +1895,7 @@
           "postedAt": "2026-10-08T17:48:16.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-08T18:18:38.980Z",
+      "lastSeenAt": "2026-10-09T08:59:04.097Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T01:56:46.359Z"
     },
@@ -2675,6 +2682,351 @@
         }
       ],
       "lastSeenAt": "2026-10-09T01:55:36.049Z"
+    },
+    "telgatech/gpp": {
+      "full": "telgatech/gpp",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108252318248665214",
+          "postId": "2108252318248665214",
+          "postedAt": "2026-10-08T17:44:56.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "alookai/alook": {
+      "full": "alookai/alook",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108250738258280788",
+          "postId": "2108250738258280788",
+          "postedAt": "2026-10-08T17:38:40.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "invarislabs/invaris-agentsec": {
+      "full": "invarislabs/invaris-agentsec",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108250243108384808",
+          "postId": "2108250243108384808",
+          "postedAt": "2026-10-08T17:36:42.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "ricardolima28/sketchboard-wallpaper": {
+      "full": "RicardoLima28/sketchboard-wallpaper",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108250191774052703",
+          "postId": "2108250191774052703",
+          "postedAt": "2026-10-08T17:36:29.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "kodji7202-code/droid-mobile-android": {
+      "full": "kodji7202-code/droid-mobile-android",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108250119816794499",
+          "postId": "2108250119816794499",
+          "postedAt": "2026-10-08T17:36:12.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "harshil1712/pi-on-cf": {
+      "full": "harshil1712/pi-on-cf",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108249754434232513",
+          "postId": "2108249754434232513",
+          "postedAt": "2026-10-08T17:34:45.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "shreyas-kamat/formula-vision": {
+      "full": "shreyas-kamat/formula-vision",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108248943247405508",
+          "postId": "2108248943247405508",
+          "postedAt": "2026-10-08T17:31:32.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "muhammaduzairkhalid15/pure-css-sidebar-menu-uzi-solutions": {
+      "full": "MuhammadUzairKhalid15/Pure-CSS-Sidebar-Menu-Uzi-Solutions",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108247996303348058",
+          "postId": "2108247996303348058",
+          "postedAt": "2026-10-08T17:27:46.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "zoria-lind/cc-token-optimizer": {
+      "full": "Zoria-Lind/cc-token-optimizer",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108247492148236506",
+          "postId": "2108247492148236506",
+          "postedAt": "2026-10-08T17:25:46.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "sheltercash/shelter": {
+      "full": "sheltercash/shelter",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108247177365438968",
+          "postId": "2108247177365438968",
+          "postedAt": "2026-10-08T17:24:31.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "davila7/claude-code-templates": {
+      "full": "davila7/claude-code-templates",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108247066392584248",
+          "postId": "2108247066392584248",
+          "postedAt": "2026-10-08T17:24:04.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "crossmint/agent-commerce-sample-app": {
+      "full": "Crossmint/agent-commerce-sample-app",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108245924095156248",
+          "postId": "2108245924095156248",
+          "postedAt": "2026-10-08T17:19:32.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "boundlessfi/builders": {
+      "full": "boundlessfi/builders",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108245731903746238",
+          "postId": "2108245731903746238",
+          "postedAt": "2026-10-08T17:18:46.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "xerj-org/xerj": {
+      "full": "xerj-org/xerj",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108245669496619336",
+          "postId": "2108245669496619336",
+          "postedAt": "2026-10-08T17:18:31.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "defog-ai/sqlcoder": {
+      "full": "defog-ai/sqlcoder",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108245459336880529",
+          "postId": "2108245459336880529",
+          "postedAt": "2026-10-08T17:17:41.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "cube-vg/dashboard-for-all-gmails": {
+      "full": "Cube-VG/Dashboard-for-all-gmails",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108245084932301064",
+          "postId": "2108245084932301064",
+          "postedAt": "2026-10-08T17:16:12.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "theluckystrike/headroom": {
+      "full": "theluckystrike/headroom",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108245075612651799",
+          "postId": "2108245075612651799",
+          "postedAt": "2026-10-08T17:16:09.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "cloudflare/security-audit-skill": {
+      "full": "cloudflare/security-audit-skill",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108244847203131484",
+          "postId": "2108244847203131484",
+          "postedAt": "2026-10-08T17:15:15.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "piyushpradhan/yank": {
+      "full": "piyushpradhan/yank",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108244438594314741",
+          "postId": "2108244438594314741",
+          "postedAt": "2026-10-08T17:13:38.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "byteforgestudiolab/bunware-libs": {
+      "full": "ByteForgeStudioLab/BunWare-Libs",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108243797616312331",
+          "postId": "2108243797616312331",
+          "postedAt": "2026-10-08T17:11:05.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "ernkerr/display-watcher": {
+      "full": "ernkerr/display-watcher",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108242854736711872",
+          "postId": "2108242854736711872",
+          "postedAt": "2026-10-08T17:07:20.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "francescoquirino/stormo": {
+      "full": "francescoquirino/stormo",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108242548011733074",
+          "postId": "2108242548011733074",
+          "postedAt": "2026-10-08T17:06:07.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
+    },
+    "alessandroquirino-lab/stormo": {
+      "full": "alessandroquirino-lab/stormo",
+      "firstSeenAt": "2026-10-09T08:59:04.097Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108242548011733074",
+          "postId": "2108242548011733074",
+          "postedAt": "2026-10-08T17:06:07.000Z"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T08:59:04.097Z"
     }
   },
   "lastRun": {
