@@ -42,7 +42,7 @@
       "recent": {
         "start": "2026-10-02T09:21:22.004Z",
         "end": "2026-10-09T09:19:52.004Z",
-        "nextToken": "b26v89c19zqg8o3juziz5l33in99qv43fk6lbr7dpi7b1"
+        "nextToken": "b26v89c19zqg8o3juziz5l272bo6w0gmh17ofgvohwltp"
       }
     }
   },
@@ -4040,7 +4040,247 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-09T09:20:24.777Z"
+      "lastSeenAt": "2026-10-09T09:20:28.952Z"
+    },
+    "lemonaide152/meld": {
+      "full": "lemonaide152/meld",
+      "firstSeenAt": "2026-10-09T09:20:28.952Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108380758566162801",
+          "postId": "2108380758566162801",
+          "postedAt": "2026-10-09T02:15:19.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://meld.mergeinc.workers.dev/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://meld.mergeinc.workers.dev/",
+          "postUrl": "https://x.com/i/web/status/2108380758566162801",
+          "repository": "lemonaide152/meld"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T09:20:28.952Z"
+    },
+    "blackfrost-ai/blackfrost-dwm-qwen9b-runbook": {
+      "full": "Blackfrost-AI/blackfrost-dwm-qwen9b-runbook",
+      "firstSeenAt": "2026-10-09T09:20:28.952Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108378085058035960",
+          "postId": "2108378085058035960",
+          "postedAt": "2026-10-09T02:04:41.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 51,
+        "reposts": 8,
+        "replies": 3,
+        "quotes": 4
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-09T09:20:28.952Z"
+    },
+    "donvito/notebooks": {
+      "full": "donvito/notebooks",
+      "firstSeenAt": "2026-10-09T09:20:28.952Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108377172004266323",
+          "postId": "2108377172004266323",
+          "postedAt": "2026-10-09T02:01:04.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 2,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-09T09:20:28.952Z"
+    },
+    "polymodality/agentic-polymodality": {
+      "full": "polymodality/agentic-polymodality",
+      "firstSeenAt": "2026-10-09T09:20:28.952Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108374043137298812",
+          "postId": "2108374043137298812",
+          "postedAt": "2026-10-09T01:48:38.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-09T09:20:28.952Z"
+    },
+    "linkipark/ai-money-lab-reviews": {
+      "full": "linkipark/ai-money-lab-reviews",
+      "firstSeenAt": "2026-10-09T09:20:28.952Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108372239368523966",
+          "postId": "2108372239368523966",
+          "postedAt": "2026-10-09T01:41:28.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-09T09:20:28.952Z"
+    },
+    "2giosangmitom/sqmeow.nvim": {
+      "full": "2giosangmitom/sqmeow.nvim",
+      "firstSeenAt": "2026-10-09T09:20:28.952Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108363398459384191",
+          "postId": "2108363398459384191",
+          "postedAt": "2026-10-09T01:06:20.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-09T09:20:28.952Z"
+    },
+    "wannabesolopreneur/redacto": {
+      "full": "WannaBeSolopreneur/redacto",
+      "firstSeenAt": "2026-10-09T09:20:28.952Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108360074934542751",
+          "postId": "2108360074934542751",
+          "postedAt": "2026-10-09T00:53:07.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 5,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://redacto.cc/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://redacto.cc/",
+          "postUrl": "https://x.com/i/web/status/2108360074934542751",
+          "repository": "WannaBeSolopreneur/redacto"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T09:20:28.952Z"
+    },
+    "heyputer/builder": {
+      "full": "heyputer/builder",
+      "firstSeenAt": "2026-10-09T09:20:28.952Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108358111233020254",
+          "postId": "2108358111233020254",
+          "postedAt": "2026-10-09T00:45:19.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 13,
+        "reposts": 2,
+        "replies": 2,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://builder.puter.com/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://builder.puter.com/",
+          "postUrl": "https://x.com/i/web/status/2108358111233020254",
+          "repository": "heyputer/builder"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T09:20:28.952Z"
+    },
+    "thedepegger/clawd-view": {
+      "full": "thedepegger/clawd-view",
+      "firstSeenAt": "2026-10-09T09:20:28.952Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108357624538579308",
+          "postId": "2108357624538579308",
+          "postedAt": "2026-10-09T00:43:23.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-09T09:20:28.952Z"
     }
   },
   "lastRun": {
@@ -4085,14 +4325,23 @@
     "2108407067480662298",
     "2108390701759373790",
     "2108389863452274938",
-    "2108389757814460913"
+    "2108389757814460913",
+    "2108380758566162801",
+    "2108378085058035960",
+    "2108377172004266323",
+    "2108374043137298812",
+    "2108372239368523966",
+    "2108363398459384191",
+    "2108360074934542751",
+    "2108358111233020254",
+    "2108357624538579308"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
-      "posts": 25,
-      "uniquePosts": 25,
-      "newCandidates": 21
+      "posts": 35,
+      "uniquePosts": 34,
+      "newCandidates": 30
     }
   }
 }
