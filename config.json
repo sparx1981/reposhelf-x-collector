@@ -1,8 +1,11 @@
 {
   "historyDays": 90,
   "queries": [
-    "url:github.com (demo OR playground OR \"live preview\" OR \"try it\") -is:retweet",
-    "url:github.com (\"open source\" OR opensource OR \"I built\" OR launched) -is:retweet"
+    "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+    "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+    "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+    "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+    "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)"
   ],
   "pageSize": 25,
   "maxPostsPerRun": 50,
@@ -10,5 +13,5 @@
   "minimumBalanceUsd": 2,
   "conservativePostCostUsd": 0.01,
   "maximumReservedPerRunUsd": 0.5,
-  "repoShelfRevision": "79c74f014ea9eb2a31e6a32d8cdf707aa5109878"
+  "repoShelfRevision": "ed71211be3a262dd1b928f3740f110b041b3708e"
 }
