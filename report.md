@@ -1,15 +1,15 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-09T09:24:53.185Z
+Checked: 2026-10-09T09:30:37.453Z
 
-Quality-ready repositories: **47**
+Quality-ready repositories: **54**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 70 | 68 | 51 | 19 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 29 | 28 | 43 | 12 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 70 | 68 | 51 | 23 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 29 | 28 | 43 | 14 |
 
 Acceptance totals are attributed to the first discovery query; these are not controlled experiments.
 
@@ -31,13 +31,17 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [boundlessfi/builders](https://github.com/boundlessfi/builders) | [Try demo](https://bounties-six.vercel.app/) | [Screenshot](previews/643992a88a120d367028a1e1.jpg) | [Source](https://x.com/i/web/status/2108245731903746238) |
 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | [Try demo](https://xerj.org/playground/) | [Screenshot](previews/ec758d1927bf17a8c1ac021e.jpg) | [Source](https://x.com/i/web/status/2108245669496619336) |
 | [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) | [Try demo](https://defog.ai/sqlcoder-demo/) | [Screenshot](previews/2b7910a5163b7cc9abac9940.jpg) | [Source](https://x.com/i/web/status/2108245459336880529) |
+| [theluckystrike/headroom](https://github.com/theluckystrike/headroom) | [Try demo](https://theluckystrike.github.io/headroom/) | [Screenshot](previews/e5a76ee96a9eb668d22426e1.jpg) | [Source](https://x.com/i/web/status/2108245075612651799) |
 | [0xMadMaks/Dino-Crab](https://github.com/0xMadMaks/Dino-Crab) | [Try demo](https://beunlimited.me/en/resources/0b4a9cfe-94c6-4336-ad34-074f73eb6b26) | [Screenshot](previews/2ea8b3b0ec8761890828f921.jpg) | [Source](https://x.com/i/web/status/2108484722263208375) |
 | [mohitagw15856/notugly](https://github.com/mohitagw15856/notugly) | [Try demo](https://mohitagw15856.github.io/notugly) | [Screenshot](previews/e295ec497b55740b2893ea83.jpg) | [Source](https://x.com/i/web/status/2108473161478246700) |
+| [IAmUnbounded/shed](https://github.com/IAmUnbounded/shed) | [Try demo](https://shed-sigma.vercel.app/) | [Screenshot](previews/b980daa2b138201c1ec0ce13.jpg) | [Source](https://x.com/i/web/status/2108453378737197284) |
 | [princebansal/openclaw-plugin-x](https://github.com/princebansal/openclaw-plugin-x) | [Try demo](https://clawhub.ai/princebansal/plugins/openclaw-plugin-x) | [Screenshot](previews/4975b06c8190f638def16112.jpg) | [Source](https://x.com/i/web/status/2108450882463699039) |
 | [AzizMohseny/FFB](https://github.com/AzizMohseny/FFB) | [Try demo](https://ffb-flame.vercel.app/) | [Screenshot](previews/91921d5334c15d0b6823e252.jpg) | [Source](https://x.com/i/web/status/2108440240704913681) |
 | [tangpeiqi/BabyCare](https://github.com/tangpeiqi/BabyCare) | [Try demo](https://peiqitang.com/babycare.html) | [Screenshot](previews/611042c3e9df4b47293bc666.jpg) | [Source](https://x.com/i/web/status/2108438465524507126) |
 | [mercurial20/loremapper](https://github.com/mercurial20/loremapper) | [Try demo](https://mercurial20.github.io/loremapper/) | [Screenshot](previews/44d079a37a15c260bee421db.jpg) | [Source](https://x.com/i/web/status/2108438176348160130) |
+| [nirholas/three.ws](https://github.com/nirholas/three.ws) | [Try demo](https://three.ws/ibm/x402-demo) | [Screenshot](previews/1527824b58f35963005704ae.jpg) | [Source](https://x.com/i/web/status/2108429148473774108) |
 | [AdaSouls/velum](https://github.com/AdaSouls/velum) | [Try demo](https://velum.adasouls.io/) | [Screenshot](previews/05314f1a631364c209fb8817.jpg) | [Source](https://x.com/i/web/status/2108428353657340014) |
+| [Aaditya1273/Agent.md](https://github.com/Aaditya1273/Agent.md) | [Try demo](https://agentmd.pages.dev/) | [Screenshot](previews/55558dd6d3f29ada14547c15.jpg) | [Source](https://x.com/i/web/status/2108426930127323254) |
 | [Aixio-AI/aixio-layer-v2](https://github.com/Aixio-AI/aixio-layer-v2) | [Try demo](https://aixio.app/) | [Screenshot](previews/7f0a02eab222a1aae3f63724.jpg) | [Source](https://x.com/i/web/status/2108424835508637827) |
 | [Ark0N/Codeman](https://github.com/Ark0N/Codeman) | [Try demo](https://getcodeman.com/install) | [Screenshot](previews/366da5bc5ac9a5870ddb0632.jpg) | [Source](https://x.com/i/web/status/2108407067480662298) |
 | [lemonaide152/meld](https://github.com/lemonaide152/meld) | [Try demo](https://meld.mergeinc.workers.dev/) | [Screenshot](previews/de35c13af82847d44a52c4cd.jpg) | [Source](https://x.com/i/web/status/2108380758566162801) |
@@ -45,6 +49,7 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [HeyPuter/builder](https://github.com/HeyPuter/builder) | [Try demo](https://builder.puter.com/) | [Screenshot](previews/03e8454c6a575a7f4ccd8861.jpg) | [Source](https://x.com/i/web/status/2108358111233020254) |
 | [buildbyravi/thru-wallet-ext](https://github.com/buildbyravi/thru-wallet-ext) | [Try demo](https://chromewebstore.google.com/detail/thru-wallet/ocahgpmgfeapjnceaknkikanjikhjgok) | [Screenshot](previews/ffa0ffed8387cd13abb2e1d0.jpg) | [Source](https://x.com/i/web/status/2105934980274852060) |
 | [pdcgomes/redlamp](https://github.com/pdcgomes/redlamp) | [Try demo](https://redlamp.app/) | [Screenshot](previews/d2a7b6098d80875b8979e86b.jpg) | [Source](https://x.com/i/web/status/2105927006206689737) |
+| [pocket-nexus/pocketjs](https://github.com/pocket-nexus/pocketjs) | [Try demo](https://pocketjs.pocket.nexus/playground/) | [Screenshot](previews/2414b36ef28c085ed0cc63cb.jpg) | [Source](https://x.com/i/web/status/2105922870186737672) |
 | [Hari31416/indic-language-utils](https://github.com/Hari31416/indic-language-utils) | [Try demo](https://hari31416.github.io/indic-language-utils/) | [Screenshot](previews/c08f416c5012018715129218.jpg) | [Source](https://x.com/i/web/status/2105889038087733464) |
 | [0xobelisk/dubhe](https://github.com/0xobelisk/dubhe) | [Try demo](https://dubhe-docs.obelisk.build/dubhe/sui/quick-start) | [Screenshot](previews/4c69228d4eb447f4196d5eb2.jpg) | [Source](https://x.com/i/web/status/2105876321050202360) |
 | [mortspace/momo](https://github.com/mortspace/momo) | [Try demo](https://feralui.dev/momo) | [Screenshot](previews/db62aed309a065d039229554.jpg) | [Source](https://x.com/i/web/status/2105863035827204487) |
@@ -53,8 +58,10 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [SamG-Coder/ClearWater6.1](https://github.com/SamG-Coder/ClearWater6.1) | [Try demo](https://samg-coder.github.io/ClearWater6.1/) | [Screenshot](previews/c8b15eb81aba8e13739c8c9a.jpg) | [Source](https://x.com/i/web/status/2105822535212581210) |
 | [luisrui/ModelLens](https://github.com/luisrui/ModelLens) | [Try demo](https://huggingface.co/spaces/luisrui/ModelLens) | [Screenshot](previews/cd8361c5e419d6b5314909a0.jpg) | [Source](https://x.com/i/web/status/2105303678785888760) |
 | [oil-oil/oil-ui](https://github.com/oil-oil/oil-ui) | [Try demo](https://skillpay.alipay.com/shelf/product?productId=P0806000207812874&merchantId=2088022260532460) | [Screenshot](previews/be03849bdea9d49d56decd71.jpg) | [Source](https://x.com/i/web/status/2105204499266855051) |
+| [0xNexuz/goal-gate](https://github.com/0xNexuz/goal-gate) | [Try demo](https://goal-gate-beta.vercel.app/) | [Screenshot](previews/9af060b422d7639968f8e4ca.jpg) | [Source](https://x.com/i/web/status/2105180532770242782) |
 | [SamG-Coder/Mud](https://github.com/SamG-Coder/Mud) | [Try demo](https://samg-coder.github.io/Mud/) | [Screenshot](previews/6e293033938147733e996a86.jpg) | [Source](https://x.com/i/web/status/2105053913485586669) |
 | [Liquid4All/cookbook](https://github.com/Liquid4All/cookbook) | [Try demo](https://huggingface.co/spaces/LiquidAI/LFM2-WebGPU) | [Screenshot](previews/261bf3f1d0413ab4567b3e4c.jpg) | [Source](https://x.com/i/web/status/2105003475017085167) |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | [Try demo](https://ebookfoundation.github.io/free-programming-books/) | [Screenshot](previews/fb4568b83222e1ac0970c830.jpg) | [Source](https://x.com/i/web/status/2104993108555452782) |
 | [waltstephen/UMM-Reflection](https://github.com/waltstephen/UMM-Reflection) | [Try demo](https://waltstephen.github.io/UMM-Reflection/) | [Screenshot](previews/a629d950119f5368110a50bc.jpg) | [Source](https://x.com/i/web/status/2104974837961937017) |
 | [spite/bumpy-metaballs-2026](https://github.com/spite/bumpy-metaballs-2026) | [Try demo](https://spite.github.io/bumpy-metaballs-2026/) | [Screenshot](previews/3d11a7ab5988da6287269f47.jpg) | [Source](https://x.com/i/web/status/2104933987328123022) |
 | [SamG-Coder/clearwater](https://github.com/SamG-Coder/clearwater) | [Try demo](https://samg-coder.github.io/clearwater/) | [Screenshot](previews/888aff9d2fda05f4389ce61f.jpg) | [Source](https://x.com/i/web/status/2104904876199465113) |
