@@ -2,7 +2,7 @@
   "schema": 1,
   "reservedUsd": 4,
   "requests": 20,
-  "queryTurn": 6,
+  "queryTurn": 7,
   "queries": {
     "7c3cb66ff5244ce6": {
       "query": "url:github.com (demo OR playground OR \"live preview\" OR \"try it\") -is:retweet",
@@ -16800,31 +16800,31 @@
     }
   },
   "lastRun": {
-    "at": "2026-10-09T13:16:10.516Z",
-    "postsRead": 43,
+    "at": "2026-10-09T17:42:14.610Z",
+    "postsRead": 50,
     "reservedUsd": 0.5,
     "stopped": null,
-    "candidateCount": 214,
-    "newCandidates": 18,
+    "candidateCount": 266,
+    "newCandidates": 51,
     "postLimit": 50,
     "queries": [
       {
-        "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+        "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
         "endpoint": "recent",
-        "postsRead": 11,
-        "newCandidates": 4
+        "postsRead": 18,
+        "newCandidates": 22
       },
       {
-        "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+        "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
         "endpoint": "all",
         "postsRead": 17,
-        "newCandidates": 7
+        "newCandidates": 17
       },
       {
-        "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-        "endpoint": "recent",
+        "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+        "endpoint": "all",
         "postsRead": 15,
-        "newCandidates": 7
+        "newCandidates": 12
       }
     ]
   },
