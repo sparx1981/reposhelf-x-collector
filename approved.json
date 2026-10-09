@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T01:56:52.690Z",
+  "updatedAt": "2026-10-09T06:43:37.544Z",
   "runtimeRevision": "3ce3f7e8c216f98b43366bb530994b4cb5fd831f",
-  "checked": 6,
+  "checked": 4,
   "repositories": [
     {
       "availability": "available",
@@ -684,6 +684,398 @@
         "attemptedAt": "2026-10-09T01:56:44.357Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-16T01:56:44.357Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "LydiaTools/browser-agent-blueprint",
+      "name": "browser-agent-blueprint",
+      "description": "12 original browser-agent prompt modules, 4 workflow templates, and 6 reproducible local recovery demos. MIT; no leaked prompts.",
+      "category": "Productivity",
+      "language": "HTML",
+      "stars": 1,
+      "forks": 0,
+      "created": "2026-10-05T23:56:12Z",
+      "updated": "2026-10-08T15:57:20Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://lydiatools.github.io/browser-agent-blueprint/",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "bounded-retries",
+        "browser-agent",
+        "browser-automation",
+        "checkpoints",
+        "error-recovery",
+        "playwright",
+        "prompt-engineering",
+        "task-resumption",
+        "web-automation"
+      ],
+      "demo": "https://lydiatools.github.io/browser-agent-blueprint/demo/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-09T06:43:12.604Z",
+      "lastAvailableAt": "2026-10-09T06:43:12.604Z",
+      "lastAttemptAt": "2026-10-09T06:43:12.604Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108177703446978708",
+          "postId": "2108177703446978708",
+          "postedAt": "2026-10-08T12:48:27.000Z"
+        }
+      ],
+      "subjects": [
+        "Automation & workflows",
+        "MCP servers & agents",
+        "Templates & UI components"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 3,
+        "method": "local_rules",
+        "category": "Productivity",
+        "subjects": [
+          "Automation & workflows",
+          "MCP servers & agents",
+          "Templates & UI components"
+        ],
+        "evidence": [
+          {
+            "subject": "Automation & workflows",
+            "source": "metadata",
+            "match": "workflow"
+          },
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "agent"
+          },
+          {
+            "subject": "Templates & UI components",
+            "source": "metadata",
+            "match": "templates"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://lydiatools.github.io/browser-agent-blueprint/demo/",
+        "attemptedAt": "2026-10-09T06:43:16.333Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T06:43:16.333Z",
+        "lastWorkingAt": "2026-10-09T06:43:16.333Z",
+        "target": "https://lydiatools.github.io/browser-agent-blueprint/demo/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T06:43:16.333Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/bbed666a18f77240bde24baf.jpg",
+          "kind": "demo",
+          "url": "https://lydiatools.github.io/browser-agent-blueprint/demo/",
+          "capturedAt": "2026-10-09T06:43:16.333Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T06:43:16.333Z",
+      "previewCheck": {
+        "url": "https://lydiatools.github.io/browser-agent-blueprint/demo/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T06:43:16.333Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T06:43:16.334Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "real-rain/LocalAgent-UI",
+      "name": "LocalAgent-UI",
+      "description": "Lightweight, Local-First AI Agent Workbench UI powered by WebGPU (WebLLM) and Ollama. 100% in-browser, zero backend required.",
+      "category": "Design",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-10-07T12:31:52Z",
+      "updated": "2026-10-08T14:59:11Z",
+      "license": "MIT",
+      "branch": "master",
+      "homepage": "https://local-agent-ui-chi.vercel.app",
+      "topics": [
+        "agent-ui",
+        "ai-agents",
+        "browser-llm",
+        "chain-of-thought",
+        "code-sandbox",
+        "deepseek",
+        "devtools",
+        "dexie",
+        "indexeddb",
+        "llm-workflow",
+        "local-first",
+        "ollama",
+        "privacy-focused",
+        "qwen",
+        "react19",
+        "tailwindcss",
+        "typescript",
+        "webgpu",
+        "webllm",
+        "zustand"
+      ],
+      "demo": "https://local-agent-ui-chi.vercel.app/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-09T06:43:19.803Z",
+      "lastAvailableAt": "2026-10-09T06:43:19.803Z",
+      "lastAttemptAt": "2026-10-09T06:43:19.803Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108158807377694817",
+          "postId": "2108158807377694817",
+          "postedAt": "2026-10-08T11:33:22.000Z"
+        }
+      ],
+      "subjects": [
+        "Automation & workflows",
+        "MCP servers & agents",
+        "3D & graphics",
+        "Privacy & security"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 3,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "Automation & workflows",
+          "MCP servers & agents",
+          "3D & graphics",
+          "Privacy & security"
+        ],
+        "evidence": [
+          {
+            "subject": "Automation & workflows",
+            "source": "metadata",
+            "match": "workflow"
+          },
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "AI Agent"
+          },
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "WebGPU"
+          },
+          {
+            "subject": "Privacy & security",
+            "source": "metadata",
+            "match": "privacy focused"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://local-agent-ui-chi.vercel.app/",
+        "attemptedAt": "2026-10-09T06:43:23.357Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T06:43:23.357Z",
+        "lastWorkingAt": "2026-10-09T06:43:23.357Z",
+        "target": "https://local-agent-ui-chi.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T06:43:23.357Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/8bd4c3e88eed9d666c11de83.jpg",
+          "kind": "demo",
+          "url": "https://local-agent-ui-chi.vercel.app/",
+          "capturedAt": "2026-10-09T06:43:23.357Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T06:43:23.357Z",
+      "previewCheck": {
+        "url": "https://local-agent-ui-chi.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T06:43:23.357Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T06:43:23.358Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "guilyx/grip",
+      "name": "grip",
+      "description": "keep a grip!",
+      "category": "Other",
+      "language": "Python",
+      "stars": 9,
+      "forks": 0,
+      "created": "2026-09-20T22:49:36Z",
+      "updated": "2026-10-08T15:00:57Z",
+      "license": "BSD-3-Clause",
+      "branch": "main",
+      "homepage": "https://guilyx.github.io/grip/",
+      "topics": [],
+      "demo": "https://guilyx.github.io/grip/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-09T06:43:23.918Z",
+      "lastAvailableAt": "2026-10-09T06:43:23.918Z",
+      "lastAttemptAt": "2026-10-09T06:43:23.918Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108158779581984930",
+          "postId": "2108158779581984930",
+          "postedAt": "2026-10-08T11:33:15.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 3,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://guilyx.github.io/grip/",
+        "attemptedAt": "2026-10-09T06:43:27.301Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T06:43:27.301Z",
+        "lastWorkingAt": "2026-10-09T06:43:27.301Z",
+        "target": "https://guilyx.github.io/grip/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T06:43:27.301Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/ae61087c00b8f09c53a53426.jpg",
+          "kind": "demo",
+          "url": "https://guilyx.github.io/grip/",
+          "capturedAt": "2026-10-09T06:43:27.301Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T06:43:27.301Z",
+      "previewCheck": {
+        "url": "https://guilyx.github.io/grip/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T06:43:27.301Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T06:43:27.302Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "kadirnar/drifting-tts",
+      "name": "drifting-tts",
+      "description": "One-step Turkish text-to-speech trained with a drifting objective (Kyutai learned-temperature recipe)",
+      "category": "Education",
+      "language": "Python",
+      "stars": 18,
+      "forks": 4,
+      "created": "2026-10-07T15:32:26Z",
+      "updated": "2026-10-09T06:03:30Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://huggingface.co/spaces/Vyvo/drifting-tts-tr-demo",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-09T06:43:28.833Z",
+      "lastAvailableAt": "2026-10-09T06:43:28.833Z",
+      "lastAttemptAt": "2026-10-09T06:43:28.833Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108145129739423953",
+          "postId": "2108145129739423953",
+          "postedAt": "2026-10-08T10:39:01.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 3,
+        "method": "local_rules",
+        "category": "Education",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://huggingface.co/spaces/Vyvo/drifting-tts-tr-demo",
+        "attemptedAt": "2026-10-09T06:43:32.343Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T06:43:32.343Z",
+        "lastWorkingAt": "2026-10-09T06:43:32.343Z",
+        "target": "https://huggingface.co/spaces/Vyvo/drifting-tts-tr-demo",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T06:43:32.343Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/ea21875a429f0e8b7f26c3b5.jpg",
+          "kind": "demo",
+          "url": "https://huggingface.co/spaces/Vyvo/drifting-tts-tr-demo",
+          "capturedAt": "2026-10-09T06:43:32.343Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T06:43:32.343Z",
+      "previewCheck": {
+        "url": "https://huggingface.co/spaces/Vyvo/drifting-tts-tr-demo",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T06:43:32.343Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T06:43:32.344Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
