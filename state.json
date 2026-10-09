@@ -66,8 +66,7 @@
         "done": false
       },
       "recent": {
-        "start": "2026-10-02T13:16:56.651Z",
-        "end": "2026-10-09T13:15:26.651Z"
+        "start": "2026-10-09T13:14:26.651Z"
       }
     }
   },
@@ -4584,7 +4583,7 @@
           "repository": "mercurial20/loremapper"
         }
       ],
-      "lastSeenAt": "2026-10-09T09:20:24.777Z",
+      "lastSeenAt": "2026-10-09T13:15:59.865Z",
       "entry": {
         "availability": "available",
         "full": "mercurial20/loremapper",
@@ -12302,6 +12301,140 @@
       "reason": "login_wall",
       "nextAttemptAt": "2026-10-09T11:30:03.884Z",
       "checkedAt": "2026-10-09T09:30:03.884Z"
+    },
+    "mehmetali930/coffee-support": {
+      "full": "mehmetali930/coffee-support",
+      "firstSeenAt": "2026-10-09T13:15:59.865Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108051483459555340",
+          "postId": "2108051483459555340",
+          "postedAt": "2026-10-08T04:26:54.000Z"
+        }
+      ],
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 12,
+        "reposts": 0,
+        "replies": 9,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://faucet.circle.com/",
+        "https://zesty-scone-616ca8.netlify.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://faucet.circle.com/",
+          "postUrl": "https://x.com/i/web/status/2108051483459555340",
+          "repository": "mehmetali930/coffee-support"
+        },
+        {
+          "url": "https://zesty-scone-616ca8.netlify.app/",
+          "postUrl": "https://x.com/i/web/status/2108051483459555340",
+          "repository": "mehmetali930/coffee-support"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T13:15:59.865Z"
+    },
+    "shouvik12/devtv": {
+      "full": "shouvik12/devtv",
+      "firstSeenAt": "2026-10-09T13:15:59.865Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2107142352859185381",
+          "postId": "2107142352859185381",
+          "postedAt": "2026-10-05T16:14:20.000Z"
+        }
+      ],
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 3,
+        "reposts": 1,
+        "replies": 3,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://shouvik12.github.io/devtv/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://shouvik12.github.io/devtv/",
+          "postUrl": "https://x.com/i/web/status/2107142352859185381",
+          "repository": "shouvik12/devtv"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T13:15:59.865Z"
+    },
+    "nideesh1/agentglow": {
+      "full": "Nideesh1/agentglow",
+      "firstSeenAt": "2026-10-09T13:15:59.865Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2107128653750415498",
+          "postId": "2107128653750415498",
+          "postedAt": "2026-10-05T15:19:54.000Z"
+        }
+      ],
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://nideesh1.github.io/agentglow/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://nideesh1.github.io/agentglow/",
+          "postUrl": "https://x.com/i/web/status/2107128653750415498",
+          "repository": "Nideesh1/agentglow"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T13:15:59.865Z"
+    },
+    "prathikachar55555/prathik_achar_g": {
+      "full": "prathikachar55555/Prathik_Achar_G",
+      "firstSeenAt": "2026-10-09T13:15:59.865Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2106756562878599523",
+          "postId": "2106756562878599523",
+          "postedAt": "2026-10-04T14:41:20.000Z"
+        }
+      ],
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://prathikachar55555.github.io/Prathik_Achar_G/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://prathikachar55555.github.io/Prathik_Achar_G/",
+          "postUrl": "https://x.com/i/web/status/2106756562878599523",
+          "repository": "prathikachar55555/Prathik_Achar_G"
+        }
+      ],
+      "lastSeenAt": "2026-10-09T13:15:59.865Z"
     }
   },
   "lastRun": {
@@ -12364,7 +12497,6 @@
     "2108441522186440844",
     "2108440240704913681",
     "2108438465524507126",
-    "2108438176348160130",
     "2108429148473774108",
     "2108428353657340014",
     "2108426930127323254",
@@ -12443,7 +12575,18 @@
     "2104804765947326788",
     "2104668166156689423",
     "2104617223440761207",
-    "2104602168623861788"
+    "2104602168623861788",
+    "2108438176348160130",
+    "2108096428086378628",
+    "2108051483459555340",
+    "2107497318346051902",
+    "2107439604056097112",
+    "2107439460757725236",
+    "2107153003040092462",
+    "2107142352859185381",
+    "2107128653750415498",
+    "2106841650647777285",
+    "2106756562878599523"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -12461,6 +12604,12 @@
       "newCandidates": 43,
       "validationAttempts": 43,
       "accepted": 14
+    },
+    "ac3eb65e96558e14": {
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "posts": 11,
+      "uniquePosts": 10,
+      "newCandidates": 4
     }
   },
   "demoSeeds": {
@@ -12485,6 +12634,113 @@
       },
       "nextAttemptAt": "2026-10-16T09:21:26.265Z",
       "reason": "no_repository_link"
+    },
+    "https://blackman99.github.io/toolsmoke/docs/": {
+      "url": "https://blackman99.github.io/toolsmoke/docs/",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108096428086378628",
+          "postId": "2108096428086378628",
+          "postedAt": "2026-10-08T07:25:29.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-10-09T13:15:59.865Z",
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      }
+    },
+    "https://rajpurohitkushal92.github.io/khnix-game-12/": {
+      "url": "https://rajpurohitkushal92.github.io/khnix-game-12/",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2107497318346051902",
+          "postId": "2107497318346051902",
+          "postedAt": "2026-10-06T15:44:50.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-10-09T13:15:59.865Z",
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      }
+    },
+    "https://ai-tools-rank-2.vercel.app/": {
+      "url": "https://ai-tools-rank-2.vercel.app/",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2107439604056097112",
+          "postId": "2107439604056097112",
+          "postedAt": "2026-10-06T11:55:30.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2107439460757725236",
+          "postId": "2107439460757725236",
+          "postedAt": "2026-10-06T11:54:56.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-10-09T13:15:59.865Z",
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 0,
+        "quotes": 0
+      }
+    },
+    "https://mrarun005.github.io/pagewright-demo": {
+      "url": "https://mrarun005.github.io/pagewright-demo",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2107153003040092462",
+          "postId": "2107153003040092462",
+          "postedAt": "2026-10-05T16:56:39.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-10-09T13:15:59.865Z",
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      }
+    },
+    "https://zubair-dev786.github.io/Restaurant-Website/": {
+      "url": "https://zubair-dev786.github.io/Restaurant-Website/",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2106841650647777285",
+          "postId": "2106841650647777285",
+          "postedAt": "2026-10-04T20:19:27.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-10-09T13:15:59.865Z",
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      }
     }
   },
   "lastDemoDiscovery": {
