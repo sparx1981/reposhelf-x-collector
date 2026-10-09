@@ -1411,7 +1411,7 @@
       ],
       "lastSeenAt": "2026-10-08T18:18:38.980Z",
       "reason": "temporary_error",
-      "nextAttemptAt": "2026-10-09T07:56:25.899Z"
+      "nextAttemptAt": "2026-10-09T14:59:50.494Z"
     },
     "storytold/effectcraft": {
       "full": "storytold/effectcraft",
@@ -2626,7 +2626,7 @@
     "rfdegroot/omaremote": {
       "full": "RFdeGroot/OMARemote",
       "firstSeenAt": "2026-10-09T01:55:29.756Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -2636,12 +2636,14 @@
           "postedAt": "2026-10-08T10:01:47.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T01:55:36.049Z"
+      "lastSeenAt": "2026-10-09T01:55:36.049Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-16T08:59:48.372Z"
     },
     "sasilabs/boundrix-runtime-authorization-demo": {
       "full": "sasilabs/boundrix-runtime-authorization-demo",
       "firstSeenAt": "2026-10-09T01:55:29.756Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -2651,12 +2653,14 @@
           "postedAt": "2026-10-08T10:01:32.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T01:55:36.049Z"
+      "lastSeenAt": "2026-10-09T01:55:36.049Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-16T08:59:48.948Z"
     },
     "faizanahmad-ai/ai-real-estate-lead-automation": {
       "full": "FaizanAhmad-Ai/ai-real-estate-lead-automation",
       "firstSeenAt": "2026-10-09T01:55:29.756Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -2666,12 +2670,14 @@
           "postedAt": "2026-10-08T10:00:57.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T01:55:36.049Z"
+      "lastSeenAt": "2026-10-09T01:55:36.049Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-16T08:59:49.491Z"
     },
     "reticlehq/reticle": {
       "full": "reticlehq/reticle",
       "firstSeenAt": "2026-10-09T01:55:29.756Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -2681,12 +2687,14 @@
           "postedAt": "2026-10-08T09:40:27.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T01:55:36.049Z"
+      "lastSeenAt": "2026-10-09T01:55:36.049Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-16T08:59:50.303Z"
     },
     "telgatech/gpp": {
       "full": "telgatech/gpp",
       "firstSeenAt": "2026-10-09T08:59:04.097Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -2696,12 +2704,14 @@
           "postedAt": "2026-10-08T17:44:56.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T08:59:09.121Z"
+      "lastSeenAt": "2026-10-09T08:59:09.121Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-16T08:59:50.994Z"
     },
     "alookai/alook": {
       "full": "alookai/alook",
       "firstSeenAt": "2026-10-09T08:59:04.097Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -2711,12 +2721,14 @@
           "postedAt": "2026-10-08T17:38:40.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T08:59:09.121Z"
+      "lastSeenAt": "2026-10-09T08:59:09.121Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-16T08:59:51.496Z"
     },
     "invarislabs/invaris-agentsec": {
       "full": "invarislabs/invaris-agentsec",
       "firstSeenAt": "2026-10-09T08:59:04.097Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -2726,12 +2738,14 @@
           "postedAt": "2026-10-08T17:36:42.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T08:59:09.121Z"
+      "lastSeenAt": "2026-10-09T08:59:09.121Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-16T08:59:52.194Z"
     },
     "ricardolima28/sketchboard-wallpaper": {
       "full": "RicardoLima28/sketchboard-wallpaper",
       "firstSeenAt": "2026-10-09T08:59:04.097Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -2741,12 +2755,14 @@
           "postedAt": "2026-10-08T17:36:29.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T08:59:09.121Z"
+      "lastSeenAt": "2026-10-09T08:59:09.121Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-16T08:59:53.534Z"
     },
     "kodji7202-code/droid-mobile-android": {
       "full": "kodji7202-code/droid-mobile-android",
       "firstSeenAt": "2026-10-09T08:59:04.097Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -2756,12 +2772,14 @@
           "postedAt": "2026-10-08T17:36:12.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T08:59:09.121Z"
+      "lastSeenAt": "2026-10-09T08:59:09.121Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-16T08:59:54.220Z"
     },
     "harshil1712/pi-on-cf": {
       "full": "harshil1712/pi-on-cf",
       "firstSeenAt": "2026-10-09T08:59:04.097Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -2771,12 +2789,14 @@
           "postedAt": "2026-10-08T17:34:45.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T08:59:09.121Z"
+      "lastSeenAt": "2026-10-09T08:59:09.121Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-16T08:59:54.713Z"
     },
     "shreyas-kamat/formula-vision": {
       "full": "shreyas-kamat/formula-vision",
       "firstSeenAt": "2026-10-09T08:59:04.097Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -2786,12 +2806,14 @@
           "postedAt": "2026-10-08T17:31:32.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T08:59:09.121Z"
+      "lastSeenAt": "2026-10-09T08:59:09.121Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-16T08:59:55.246Z"
     },
     "muhammaduzairkhalid15/pure-css-sidebar-menu-uzi-solutions": {
       "full": "MuhammadUzairKhalid15/Pure-CSS-Sidebar-Menu-Uzi-Solutions",
       "firstSeenAt": "2026-10-09T08:59:04.097Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -2801,12 +2823,14 @@
           "postedAt": "2026-10-08T17:27:46.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T08:59:09.121Z"
+      "lastSeenAt": "2026-10-09T08:59:09.121Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-16T08:59:55.837Z"
     },
     "zoria-lind/cc-token-optimizer": {
       "full": "Zoria-Lind/cc-token-optimizer",
       "firstSeenAt": "2026-10-09T08:59:04.097Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -2816,12 +2840,14 @@
           "postedAt": "2026-10-08T17:25:46.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T08:59:09.121Z"
+      "lastSeenAt": "2026-10-09T08:59:09.121Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-16T08:59:56.682Z"
     },
     "sheltercash/shelter": {
       "full": "sheltercash/shelter",
       "firstSeenAt": "2026-10-09T08:59:04.097Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -2831,12 +2857,14 @@
           "postedAt": "2026-10-08T17:24:31.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T08:59:09.121Z"
+      "lastSeenAt": "2026-10-09T08:59:09.121Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-16T08:59:57.170Z"
     },
     "davila7/claude-code-templates": {
       "full": "davila7/claude-code-templates",
       "firstSeenAt": "2026-10-09T08:59:04.097Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -2846,12 +2874,14 @@
           "postedAt": "2026-10-08T17:24:04.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T08:59:09.121Z"
+      "lastSeenAt": "2026-10-09T08:59:09.121Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-16T08:59:58.690Z"
     },
     "crossmint/agent-commerce-sample-app": {
       "full": "Crossmint/agent-commerce-sample-app",
       "firstSeenAt": "2026-10-09T08:59:04.097Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -2861,12 +2891,88 @@
           "postedAt": "2026-10-08T17:19:32.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T08:59:09.121Z"
+      "lastSeenAt": "2026-10-09T08:59:09.121Z",
+      "entry": {
+        "availability": "available",
+        "full": "Crossmint/agent-commerce-sample-app",
+        "name": "agent-commerce-sample-app",
+        "description": "An open source sample app for agentic commerce on the Crossmint Agents APIs.",
+        "category": "Business",
+        "language": "TypeScript",
+        "stars": 9,
+        "forks": 1,
+        "created": "2024-12-11T08:33:16Z",
+        "updated": "2026-10-02T17:58:12Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://agent-commerce.demos-crossmint.com/",
+        "topics": [],
+        "demo": "https://agent-commerce.demos-crossmint.com/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-09T08:59:59.212Z",
+        "lastAvailableAt": "2026-10-09T08:59:59.212Z",
+        "lastAttemptAt": "2026-10-09T08:59:59.212Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2108245924095156248",
+            "postId": "2108245924095156248",
+            "postedAt": "2026-10-08T17:19:32.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 3,
+          "method": "local_rules",
+          "category": "Business",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://agent-commerce.demos-crossmint.com/",
+          "attemptedAt": "2026-10-09T09:00:02.426Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-09T09:00:02.426Z",
+          "lastWorkingAt": "2026-10-09T09:00:02.426Z",
+          "target": "https://agent-commerce.demos-crossmint.com/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-16T09:00:02.426Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/36f26f057ea5e4a5272d2018.jpg",
+            "kind": "demo",
+            "url": "https://agent-commerce.demos-crossmint.com/",
+            "capturedAt": "2026-10-09T09:00:02.426Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-09T09:00:02.426Z",
+        "previewCheck": {
+          "url": "https://agent-commerce.demos-crossmint.com/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-09T09:00:02.426Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-16T09:00:02.427Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-10T21:00:02.428Z",
+      "checkedAt": "2026-10-09T09:00:02.428Z"
     },
     "boundlessfi/builders": {
       "full": "boundlessfi/builders",
       "firstSeenAt": "2026-10-09T08:59:04.097Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -2876,12 +2982,87 @@
           "postedAt": "2026-10-08T17:18:46.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T08:59:09.121Z"
+      "lastSeenAt": "2026-10-09T08:59:09.121Z",
+      "entry": {
+        "availability": "available",
+        "full": "boundlessfi/builders",
+        "name": "builders",
+        "description": "Boundless Builders is a display-only sub-app of the Boundless platform, served at builders.boundlessfi.xyz. It presents the people and work of the ecosystem: builders, their projects and products, and development teams.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 10,
+        "forks": 104,
+        "created": "2026-01-14T10:31:12Z",
+        "updated": "2026-10-03T18:16:23Z",
+        "branch": "main",
+        "homepage": "https://bounties-six.vercel.app",
+        "topics": [],
+        "demo": "https://bounties-six.vercel.app/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-09T09:00:02.906Z",
+        "lastAvailableAt": "2026-10-09T09:00:02.906Z",
+        "lastAttemptAt": "2026-10-09T09:00:02.906Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2108245731903746238",
+            "postId": "2108245731903746238",
+            "postedAt": "2026-10-08T17:18:46.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 3,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://bounties-six.vercel.app/",
+          "attemptedAt": "2026-10-09T09:00:06.373Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-09T09:00:06.373Z",
+          "lastWorkingAt": "2026-10-09T09:00:06.373Z",
+          "target": "https://bounties-six.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-16T09:00:06.373Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/643992a88a120d367028a1e1.jpg",
+            "kind": "demo",
+            "url": "https://bounties-six.vercel.app/",
+            "capturedAt": "2026-10-09T09:00:06.373Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-09T09:00:06.373Z",
+        "previewCheck": {
+          "url": "https://bounties-six.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-09T09:00:06.373Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-16T09:00:06.373Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-10T21:00:06.374Z",
+      "checkedAt": "2026-10-09T09:00:06.374Z"
     },
     "xerj-org/xerj": {
       "full": "xerj-org/xerj",
       "firstSeenAt": "2026-10-09T08:59:04.097Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -2891,12 +3072,119 @@
           "postedAt": "2026-10-08T17:18:31.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T08:59:09.121Z"
+      "lastSeenAt": "2026-10-09T08:59:09.121Z",
+      "entry": {
+        "availability": "available",
+        "full": "xerj-org/xerj",
+        "name": "xerj",
+        "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+        "category": "Developer tools",
+        "language": "Rust",
+        "stars": 3412,
+        "forks": 238,
+        "created": "2026-06-30T04:32:45Z",
+        "updated": "2026-10-08T22:55:12Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": "https://xerj.org",
+        "topics": [
+          "ai-search",
+          "ai-search-algorithms",
+          "ai-search-engine",
+          "ai-search-free",
+          "ai-search-module",
+          "ai-search-optimization",
+          "ai-searchengine",
+          "bm25-search",
+          "elastic-search",
+          "elasticsearch",
+          "elasticstack",
+          "graph-search",
+          "graph-semantic-search",
+          "hybrid-search",
+          "hybrid-semantic-search",
+          "search-api",
+          "search-engine",
+          "semantic-search",
+          "vector-database",
+          "vector-search"
+        ],
+        "demo": "https://xerj.org/playground/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-09T09:00:06.948Z",
+        "lastAvailableAt": "2026-10-09T09:00:06.948Z",
+        "lastAttemptAt": "2026-10-09T09:00:06.948Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2108245669496619336",
+            "postId": "2108245669496619336",
+            "postedAt": "2026-10-08T17:18:31.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 3,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "agents"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://xerj.org/playground/",
+          "attemptedAt": "2026-10-09T09:00:10.192Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-09T09:00:10.192Z",
+          "lastWorkingAt": "2026-10-09T09:00:10.192Z",
+          "target": "https://xerj.org/playground/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-16T09:00:10.192Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/ec758d1927bf17a8c1ac021e.jpg",
+            "kind": "demo",
+            "url": "https://xerj.org/playground/",
+            "capturedAt": "2026-10-09T09:00:10.192Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-09T09:00:10.192Z",
+        "previewCheck": {
+          "url": "https://xerj.org/playground/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-09T09:00:10.192Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-16T09:00:10.192Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-10T21:00:10.193Z",
+      "checkedAt": "2026-10-09T09:00:10.193Z"
     },
     "defog-ai/sqlcoder": {
       "full": "defog-ai/sqlcoder",
       "firstSeenAt": "2026-10-09T08:59:04.097Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -2906,7 +3194,83 @@
           "postedAt": "2026-10-08T17:17:41.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T08:59:09.121Z"
+      "lastSeenAt": "2026-10-09T08:59:09.121Z",
+      "entry": {
+        "availability": "available",
+        "full": "defog-ai/sqlcoder",
+        "name": "sqlcoder",
+        "description": "SoTA LLM for converting natural language questions to SQL queries",
+        "category": "Developer tools",
+        "language": "Jupyter Notebook",
+        "stars": 4049,
+        "forks": 272,
+        "created": "2023-08-17T21:19:32Z",
+        "updated": "2024-05-23T03:06:26Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://defog.ai/sqlcoder-demo/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-09T09:00:10.785Z",
+        "lastAvailableAt": "2026-10-09T09:00:10.785Z",
+        "lastAttemptAt": "2026-10-09T09:00:10.785Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2108245459336880529",
+            "postId": "2108245459336880529",
+            "postedAt": "2026-10-08T17:17:41.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 3,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://defog.ai/sqlcoder-demo/",
+          "attemptedAt": "2026-10-09T09:00:13.982Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-09T09:00:13.982Z",
+          "lastWorkingAt": "2026-10-09T09:00:13.982Z",
+          "target": "https://defog.ai/sqlcoder-demo",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-16T09:00:13.982Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/2b7910a5163b7cc9abac9940.jpg",
+            "kind": "demo",
+            "url": "https://defog.ai/sqlcoder-demo/",
+            "capturedAt": "2026-10-09T09:00:13.982Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-09T09:00:13.982Z",
+        "previewCheck": {
+          "url": "https://defog.ai/sqlcoder-demo/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-09T09:00:13.982Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-16T09:00:13.983Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-10T21:00:13.984Z",
+      "checkedAt": "2026-10-09T09:00:13.984Z"
     },
     "cube-vg/dashboard-for-all-gmails": {
       "full": "Cube-VG/Dashboard-for-all-gmails",
