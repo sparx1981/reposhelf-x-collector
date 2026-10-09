@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T09:30:37.453Z",
+  "updatedAt": "2026-10-09T13:18:07.240Z",
   "runtimeRevision": "ed71211be3a262dd1b928f3740f110b041b3708e",
-  "checked": 42,
+  "checked": 20,
   "repositories": [
     {
       "availability": "available",
@@ -247,6 +247,123 @@
         "attemptedAt": "2026-10-08T15:22:23.244Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-15T15:22:23.245Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "opengeos/GeoLibre",
+      "name": "GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 7884,
+      "forks": 871,
+      "created": "2026-05-27T19:34:31Z",
+      "updated": "2026-10-09T13:14:34Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://geolibre.app",
+      "topics": [
+        "cesium",
+        "data-science",
+        "duckdb",
+        "geolibre",
+        "geospatial",
+        "gis",
+        "mapbox",
+        "maplibre",
+        "maplibre-gl-js",
+        "tauri-app"
+      ],
+      "demo": "https://dynamical.org/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-09T13:16:51.002Z",
+      "lastAvailableAt": "2026-10-09T13:16:51.002Z",
+      "lastAttemptAt": "2026-10-09T13:16:51.002Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "opengeos/GeoLibre",
+        "postUrl": "https://x.com/i/web/status/2108192627401081009",
+        "url": "https://dynamical.org/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108192627401081009",
+          "postId": "2108192627401081009",
+          "postedAt": "2026-10-08T13:47:45.000Z"
+        }
+      ],
+      "subjects": [
+        "Maps & geospatial",
+        "Mobile",
+        "Science"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [
+          "Maps & geospatial",
+          "Mobile",
+          "Science"
+        ],
+        "evidence": [
+          {
+            "subject": "Maps & geospatial",
+            "source": "metadata",
+            "match": "geospatial"
+          },
+          {
+            "subject": "Mobile",
+            "source": "metadata",
+            "match": "mobile"
+          },
+          {
+            "subject": "Science",
+            "source": "metadata",
+            "match": "science"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://dynamical.org/",
+        "attemptedAt": "2026-10-09T13:16:58.051Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T13:16:58.051Z",
+        "lastWorkingAt": "2026-10-09T13:16:58.051Z",
+        "target": "https://dynamical.org/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T13:16:58.051Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/1415501f0ca6b791ba4fef63.jpg",
+          "kind": "demo",
+          "url": "https://dynamical.org/",
+          "capturedAt": "2026-10-09T13:16:58.051Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T13:16:58.051Z",
+      "previewCheck": {
+        "url": "https://dynamical.org/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T13:16:58.051Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T13:16:58.052Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
@@ -796,6 +913,88 @@
         "attemptedAt": "2026-10-09T06:43:16.333Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-16T06:43:16.334Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "neuphonic/neudecide",
+      "name": "neudecide",
+      "description": "A tiny voice-action model, built to run on any device.",
+      "category": "Other",
+      "language": "Python",
+      "stars": 47,
+      "forks": 5,
+      "created": "2026-10-01T09:25:01Z",
+      "updated": "2026-10-08T10:34:34Z",
+      "license": "Apache-2.0",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://huggingface.co/spaces/neuphonic/neudecide",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-09T13:17:03.913Z",
+      "lastAvailableAt": "2026-10-09T13:17:03.913Z",
+      "lastAttemptAt": "2026-10-09T13:17:03.913Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "neuphonic/neudecide",
+        "postUrl": "https://x.com/i/web/status/2108164286875152482",
+        "url": "https://huggingface.co/spaces/neuphonic/neudecide"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108164286875152482",
+          "postId": "2108164286875152482",
+          "postedAt": "2026-10-08T11:55:08.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://huggingface.co/spaces/neuphonic/neudecide",
+        "attemptedAt": "2026-10-09T13:17:07.328Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T13:17:07.328Z",
+        "lastWorkingAt": "2026-10-09T13:17:07.328Z",
+        "target": "https://huggingface.co/spaces/neuphonic/neudecide",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:07.328Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/ebb774b0d2e1992414b6fc5f.jpg",
+          "kind": "demo",
+          "url": "https://huggingface.co/spaces/neuphonic/neudecide",
+          "capturedAt": "2026-10-09T13:17:07.328Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T13:17:07.328Z",
+      "previewCheck": {
+        "url": "https://huggingface.co/spaces/neuphonic/neudecide",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T13:17:07.328Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:07.329Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
@@ -7006,6 +7205,1825 @@
         "attemptedAt": "2026-10-09T09:23:28.039Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-16T09:23:28.039Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "mehmetali930/coffee-support",
+      "name": "coffee-support",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-10-08T04:11:27Z",
+      "updated": "2026-10-08T04:19:35Z",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://faucet.circle.com/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-09T13:17:07.990Z",
+      "lastAvailableAt": "2026-10-09T13:17:07.990Z",
+      "lastAttemptAt": "2026-10-09T13:17:07.990Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "mehmetali930/coffee-support",
+        "postUrl": "https://x.com/i/web/status/2108051483459555340",
+        "url": "https://faucet.circle.com/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108051483459555340",
+          "postId": "2108051483459555340",
+          "postedAt": "2026-10-08T04:26:54.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://faucet.circle.com/",
+        "attemptedAt": "2026-10-09T13:17:11.410Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T13:17:11.410Z",
+        "lastWorkingAt": "2026-10-09T13:17:11.410Z",
+        "target": "https://faucet.circle.com/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:11.410Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/77aff4970bf37b7f5fc48822.jpg",
+          "kind": "demo",
+          "url": "https://faucet.circle.com/",
+          "capturedAt": "2026-10-09T13:17:11.410Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T13:17:11.410Z",
+      "previewCheck": {
+        "url": "https://faucet.circle.com/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T13:17:11.410Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:11.411Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "shouvik12/devtv",
+      "name": "devtv",
+      "description": "A TV for the developer internet, 10 live channels for GitHub, Hacker News, DEV, Hugging Face, CVEs, papers and video. One HTML file, no backend, no login.",
+      "category": "Developer tools",
+      "language": "HTML",
+      "stars": 25,
+      "forks": 2,
+      "created": "2026-09-20T13:36:42Z",
+      "updated": "2026-10-05T17:53:52Z",
+      "license": "Apache-2.0",
+      "branch": "main",
+      "homepage": "",
+      "topics": [
+        "dashboard",
+        "developer-tools",
+        "github-api",
+        "github-api-use",
+        "hacker-news",
+        "hacker-news-scraper",
+        "self-hosted",
+        "tv",
+        "vanilla-javascript"
+      ],
+      "demo": "https://shouvik12.github.io/devtv/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-07T18:42:26.801Z",
+      "lastAttemptAt": "2026-10-07T18:42:26.801Z",
+      "lastAvailableAt": "2026-10-07T18:42:26.801Z",
+      "metrics": [
+        {
+          "at": "2026-10-04T08:16:23.554Z",
+          "stars": 25,
+          "forks": 2
+        },
+        {
+          "at": "2026-10-05T18:19:20.305Z",
+          "stars": 25,
+          "forks": 2
+        },
+        {
+          "at": "2026-10-07T18:42:26.801Z",
+          "stars": 25,
+          "forks": 2
+        }
+      ],
+      "technologies": [],
+      "overview": {
+        "kind": "readme",
+        "version": 1,
+        "paragraphs": [
+          "13 live channels of developer content. Open it on a second monitor and leave it running.",
+          "Five tabs, checked out of habit, half-read, closed again. That's most people's relationship with GitHub, Hacker News, DEV.to, and Hugging Face. DEV·TV turns it into a TV instead: pick a channel, it plays.",
+          "Keep coding. Keep an eye on the developer world."
+        ],
+        "features": [],
+        "sourceUrl": "https://github.com/shouvik12/devtv/blob/main/README.md",
+        "fingerprint": "23b50049893d0b77d2eddfa2edbbd7fc4b88aa6c9f623a7585752f654562e70f",
+        "extractedAt": "2026-10-05T18:19:20.417Z"
+      },
+      "overviewCheckedAt": "2026-10-05T18:19:20.417Z",
+      "projectInsights": {
+        "version": 1,
+        "whatItDoes": {
+          "text": "13 live channels of developer content. Open it on a second monitor and leave it running.",
+          "sourceUrl": "https://github.com/shouvik12/devtv/blob/main/README.md"
+        },
+        "audience": [],
+        "requirements": [
+          {
+            "kind": "account",
+            "status": "required",
+            "text": "No build step, no server, no login screen, no cookie banner.",
+            "sourceUrl": "https://github.com/shouvik12/devtv/blob/main/README.md"
+          },
+          {
+            "kind": "account",
+            "status": "documented",
+            "text": "No install, no dependencies, no account.",
+            "sourceUrl": "https://github.com/shouvik12/devtv/blob/main/README.md"
+          }
+        ],
+        "fingerprint": "23b50049893d0b77d2eddfa2edbbd7fc4b88aa6c9f623a7585752f654562e70f",
+        "sourceUrl": "https://github.com/shouvik12/devtv/blob/main/README.md",
+        "checkedAt": "2026-10-05T18:19:20.418Z"
+      },
+      "overviewRepoUpdated": "2026-10-05T17:53:52Z",
+      "readmeSnapshot": {
+        "version": 1,
+        "status": "saved",
+        "sourceUrl": "https://github.com/shouvik12/devtv/blob/main/README.md",
+        "checkedAt": "2026-10-05T18:19:20.419Z",
+        "hash": "23b50049893d0b77d2eddfa2edbbd7fc4b88aa6c9f623a7585752f654562e70f",
+        "originalBytes": 23421,
+        "storedBytes": 23421,
+        "truncated": false,
+        "searchTerms": [
+          "channel",
+          "real",
+          "api",
+          "every",
+          "github",
+          "channels",
+          "video",
+          "same",
+          "source",
+          "live",
+          "shows",
+          "one",
+          "open",
+          "per",
+          "dev",
+          "index.html",
+          "papers",
+          "requests",
+          "what",
+          "already",
+          "browser",
+          "file",
+          "own",
+          "repo",
+          "spotlight",
+          "youtube",
+          "code",
+          "each",
+          "hugging",
+          "just",
+          "link",
+          "opens",
+          "search",
+          "skills",
+          "story",
+          "videos",
+          "about",
+          "agent",
+          "doesn",
+          "face",
+          "fetch",
+          "news",
+          "off",
+          "page",
+          "player",
+          "screen",
+          "stories",
+          "two",
+          "under",
+          "which",
+          "any",
+          "assets",
+          "days",
+          "first",
+          "get",
+          "hacker",
+          "html",
+          "inside",
+          "last",
+          "license",
+          "like",
+          "limit",
+          "name",
+          "nothing",
+          "project",
+          "public",
+          "reader",
+          "refresh",
+          "see",
+          "when",
+          "button",
+          "email",
+          "error",
+          "full",
+          "how",
+          "keeps",
+          "makes",
+          "mobile",
+          "model",
+          "only",
+          "opening",
+          "playback",
+          "plays",
+          "rather",
+          "releases",
+          "shared",
+          "static",
+          "still",
+          "actually",
+          "api.github.com",
+          "app",
+          "article",
+          "below",
+          "built",
+          "capture",
+          "channel.",
+          "community",
+          "cors",
+          "css",
+          "data",
+          "developer",
+          "failed",
+          "fetched",
+          "filter",
+          "guide",
+          "here",
+          "hour",
+          "it.",
+          "key",
+          "latest",
+          "links",
+          "means",
+          "minutes",
+          "models",
+          "new",
+          "other",
+          "out",
+          "pages",
+          "paper",
+          "phones",
+          "playing",
+          "readme",
+          "request",
+          "right",
+          "screenshot",
+          "seconds",
+          "signal",
+          "stop",
+          "tags",
+          "tested",
+          "their",
+          "they",
+          "titles",
+          "top",
+          "yet",
+          "above",
+          "above.",
+          "access",
+          "against",
+          "appear",
+          "back",
+          "being",
+          "both",
+          "budget",
+          "change",
+          "commercial",
+          "cve",
+          "default",
+          "description",
+          "desktop",
+          "discussion",
+          "does",
+          "dot",
+          "download",
+          "drop",
+          "embed",
+          "entirely",
+          "everything",
+          "fails",
+          "featured",
+          "form",
+          "free",
+          "host",
+          "in-app",
+          "in.",
+          "including",
+          "instead",
+          "least",
+          "line",
+          "local",
+          "logo",
+          "make",
+          "may",
+          "official",
+          "often",
+          "opened",
+          "panel",
+          "path",
+          "people",
+          "phone",
+          "plus",
+          "product",
+          "published",
+          "raw",
+          "read",
+          "row",
+          "send",
+          "several",
+          "show",
+          "since",
+          "single",
+          "some",
+          "sorted",
+          "tap",
+          "topic",
+          "touch",
+          "trending",
+          "tv.",
+          "until",
+          "url",
+          "uses",
+          "using",
+          "version",
+          "video.",
+          "wants",
+          "watch",
+          "way",
+          "won",
+          "works",
+          "added",
+          "ago",
+          "all.",
+          "applies",
+          "backend",
+          "banner",
+          "been",
+          "behind",
+          "block",
+          "breaks",
+          "browser.",
+          "build",
+          "buttons",
+          "card",
+          "chrome",
+          "clear",
+          "click",
+          "client",
+          "content",
+          "copy",
+          "core",
+          "current",
+          "demo",
+          "deployed",
+          "deploying",
+          "dev.to",
+          "devtv.developers",
+          "different",
+          "discord",
+          "discussing",
+          "drag",
+          "drag-and-drop",
+          "email.",
+          "endpoint",
+          "even",
+          "explicitly",
+          "few",
+          "file.",
+          "finds",
+          "fits",
+          "front-page",
+          "generic",
+          "genuinely",
+          "green",
+          "happens",
+          "headless",
+          "headline",
+          "hit",
+          "hn.algolia.com",
+          "https",
+          "huggingface.co",
+          "hunt",
+          "in-tv",
+          "includes",
+          "isn",
+          "itself",
+          "json",
+          "keyless",
+          "knowing",
+          "label",
+          "layout",
+          "leave",
+          "leaves",
+          "linkedin",
+          "loaded",
+          "look",
+          "lost",
+          "message",
+          "minute.",
+          "most",
+          "need",
+          "needs",
+          "netlify",
+          "network",
+          "newest",
+          "next",
+          "noise",
+          "none",
+          "normal",
+          "note",
+          "notes",
+          "notice",
+          "oauth",
+          "off.",
+          "old",
+          "one.",
+          "openalex",
+          "original",
+          "page.",
+          "per-pixel",
+          "plain",
+          "points",
+          "popularity",
+          "powering",
+          "press",
+          "preview",
+          "projects",
+          "proven",
+          "purpose",
+          "ranked",
+          "recommendation",
+          "reddit",
+          "regardless",
+          "release",
+          "remembered",
+          "removed",
+          "removes",
+          "repos",
+          "repositories",
+          "research",
+          "responsive",
+          "ruled",
+          "run",
+          "running",
+          "safari",
+          "sandboxed",
+          "secret",
+          "security",
+          "server",
+          "server-side",
+          "settings",
+          "showing",
+          "site",
+          "sits",
+          "skips",
+          "small",
+          "sources",
+          "speed",
+          "spotlight.json",
+          "squishes",
+          "standard",
+          "star",
+          "stars",
+          "stars.",
+          "start",
+          "status",
+          "stay",
+          "stays",
+          "step",
+          "straight",
+          "submission",
+          "submit",
+          "support",
+          "tab",
+          "takes",
+          "tapping",
+          "texture",
+          "there",
+          "things",
+          "those",
+          "three",
+          "through",
+          "today",
+          "toggle",
+          "token",
+          "tradeoff",
+          "unauthenticated",
+          "underlying",
+          "upvoted",
+          "usable",
+          "vulnerability",
+          "weeks",
+          "were",
+          "whatever",
+          "while",
+          "whose",
+          "without",
+          "working",
+          "works.",
+          "worth",
+          "abstract",
+          "academic",
+          "access.",
+          "account",
+          "account.",
+          "accounts",
+          "across",
+          "action",
+          "actual",
+          "address",
+          "addressed",
+          "adds",
+          "advertisement",
+          "affecting",
+          "after",
+          "afterward",
+          "again",
+          "agent-skills",
+          "agentic",
+          "ai-focused",
+          "ai-generated",
+          "air",
+          "algolia",
+          "algorithm.",
+          "allow",
+          "allows",
+          "along",
+          "animation",
+          "another",
+          "answer",
+          "anyway",
+          "anywhere",
+          "apache",
+          "apache-2.0",
+          "api.",
+          "api.openalex.org",
+          "approval",
+          "arbitrary",
+          "arrows",
+          "articles",
+          "artifact",
+          "arxiv",
+          "ask",
+          "asks",
+          "attention",
+          "available",
+          "avoids",
+          "away.",
+          "banner.",
+          "bash",
+          "because",
+          "before",
+          "behaves",
+          "believed",
+          "bet",
+          "better",
+          "blocked",
+          "blocks",
+          "body",
+          "bold",
+          "bot-token",
+          "branch",
+          "brand",
+          "branding",
+          "branding.",
+          "break",
+          "briefly",
+          "brightness",
+          "broadcast",
+          "broader",
+          "broken",
+          "browsers",
+          "budget.",
+          "build.",
+          "bundle",
+          "call",
+          "call.",
+          "calling.",
+          "candidate",
+          "carry",
+          "case",
+          "catalog",
+          "catch",
+          "changing",
+          "checked",
+          "choice",
+          "choice.",
+          "chosen",
+          "chromium",
+          "claude",
+          "claude-skills",
+          "clearly",
+          "cli",
+          "client-side",
+          "clock",
+          "close",
+          "closing",
+          "cloudflare",
+          "collapse",
+          "collapses",
+          "combine",
+          "combined",
+          "comments",
+          "community-created",
+          "community-spotlight",
+          "community.",
+          "concept",
+          "conference",
+          "config",
+          "confirm",
+          "confirmed",
+          "confirming",
+          "conflict",
+          "considered",
+          "constant",
+          "content.",
+          "context",
+          "continuously",
+          "contrast",
+          "controls",
+          "converter",
+          "cookie",
+          "correctly",
+          "costs",
+          "couldn",
+          "counts",
+          "crackling",
+          "create",
+          "created",
+          "credentials",
+          "crt",
+          "crt-style",
+          "crt-style.",
+          "currently",
+          "cuts",
+          "cycle",
+          "daily",
+          "dark",
+          "dark.",
+          "dashboard",
+          "dashboard.",
+          "database",
+          "date",
+          "day",
+          "dead",
+          "decent",
+          "decision.",
+          "deep",
+          "deepseek",
+          "deliberately",
+          "demos",
+          "dependencies",
+          "deploy",
+          "derivative",
+          "described",
+          "design",
+          "desktop.",
+          "diffusion",
+          "digest",
+          "dim",
+          "direct",
+          "directly",
+          "directory",
+          "disable",
+          "discontinued.",
+          "dives",
+          "does.",
+          "domains",
+          "don",
+          "done",
+          "double-click",
+          "double-clicking",
+          "down",
+          "downloaded",
+          "downloads",
+          "dozens",
+          "drops",
+          "duplicates",
+          "easy",
+          "edge",
+          "editor.",
+          "editorial",
+          "either",
+          "element",
+          "else.",
+          "embedded",
+          "embedding.",
+          "empty",
+          "enable",
+          "enabled",
+          "end",
+          "endpoint.",
+          "endpoints",
+          "engine",
+          "enough",
+          "enter",
+          "entire",
+          "entry",
+          "environment",
+          "environments",
+          "esc",
+          "escaped",
+          "evaluated",
+          "example.com",
+          "exchange",
+          "exchanging",
+          "excited",
+          "exist",
+          "exists",
+          "explicit",
+          "export.arxiv.org",
+          "external",
+          "extra",
+          "face.",
+          "fade.",
+          "fail.",
+          "fake",
+          "fallback",
+          "fenced",
+          "files",
+          "find"
+        ]
+      },
+      "lastDemoCheckedAt": "2026-10-05T18:19:20.305Z",
+      "qualityPriority": false,
+      "enrichmentAttemptAt": "2026-10-04T17:02:52.387Z",
+      "latestRelease": {
+        "name": "DEV·TV v1.0.0: Spotlight, New Models and fullscreen",
+        "tag": "v1.0.0",
+        "publishedAt": "2026-10-02T19:18:05Z",
+        "url": "https://github.com/shouvik12/devtv/releases/tag/v1.0.0"
+      },
+      "releaseCheckedAt": "2026-10-04T17:02:52.387Z",
+      "screenshots": [
+        {
+          "src": "previews/50c004c38116343ed70cb3ed.jpg",
+          "kind": "demo",
+          "capturedAt": "2026-10-05T18:21:41.083Z",
+          "url": "https://shouvik12.github.io/devtv/"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/shouvik12/devtv/main/assets/Screenshot-video.png",
+          "kind": "readme",
+          "alt": "DEV·TV screenshot"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/shouvik12/devtv/main/assets/screenshot.png",
+          "kind": "readme",
+          "alt": "DEV·TV screenshot"
+        }
+      ],
+      "demoHealth": {
+        "url": "https://shouvik12.github.io/devtv/",
+        "attemptedAt": "2026-10-05T18:21:41.083Z",
+        "status": "working",
+        "checkedAt": "2026-10-05T18:21:41.083Z",
+        "lastWorkingAt": "2026-10-05T18:21:41.083Z",
+        "target": "https://shouvik12.github.io/devtv/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-12T18:21:41.083Z",
+        "probeVersion": 3
+      },
+      "previewAttemptAt": "2026-10-05T18:21:41.083Z",
+      "previewCheck": {
+        "url": "https://shouvik12.github.io/devtv/",
+        "attemptedAt": "2026-10-05T18:21:41.083Z",
+        "consecutiveFailures": 0,
+        "status": "captured",
+        "reason": null,
+        "nextCheckAt": "2026-10-12T18:21:41.083Z"
+      },
+      "subjects": [
+        "Data & dashboards",
+        "Self-hosted apps"
+      ],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "Data & dashboards",
+          "Self-hosted apps"
+        ],
+        "evidence": [
+          {
+            "subject": "Data & dashboards",
+            "source": "metadata",
+            "match": "dashboard"
+          },
+          {
+            "subject": "Self-hosted apps",
+            "source": "metadata",
+            "match": "self hosted"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [
+          "Animation & motion",
+          "Mobile",
+          "MCP servers & agents",
+          "Privacy & security"
+        ],
+        "reviewRequired": true
+      },
+      "platforms": [],
+      "repositoryEtag": "W/\"6c3580b5b29affd82d1bec34a8d8b2fd542a35addde18bb7802e07dae222c2b5\"",
+      "repositoryEtagFor": "shouvik12/devtv",
+      "spaces": [],
+      "communityPosts": [],
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2107142352859185381",
+          "postId": "2107142352859185381",
+          "postedAt": "2026-10-05T16:14:20.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103155823962993046",
+          "postId": "2103155823962993046",
+          "postedAt": "2026-09-24T16:13:17.000Z"
+        }
+      ],
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Nideesh1/agentglow",
+      "name": "agentglow",
+      "description": "Make your AI agents look pretty",
+      "category": "AI & machine learning",
+      "language": "TypeScript",
+      "stars": 1,
+      "forks": 0,
+      "created": "2026-10-01T01:18:19Z",
+      "updated": "2026-10-08T19:48:49Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://nideesh1.github.io/agentglow/",
+      "topics": [
+        "agents",
+        "long-horizon-agents",
+        "long-running-agents",
+        "mcp",
+        "mcp-server",
+        "opentelemetry"
+      ],
+      "demo": "https://nideesh1.github.io/agentglow/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-09T13:17:16.825Z",
+      "lastAvailableAt": "2026-10-09T13:17:16.825Z",
+      "lastAttemptAt": "2026-10-09T13:17:16.825Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2107128653750415498",
+          "postId": "2107128653750415498",
+          "postedAt": "2026-10-05T15:19:54.000Z"
+        }
+      ],
+      "subjects": [
+        "MCP servers & agents"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "AI & machine learning",
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "evidence": [
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "AI agents"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://nideesh1.github.io/agentglow/",
+        "attemptedAt": "2026-10-09T13:17:28.034Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T13:17:28.034Z",
+        "lastWorkingAt": "2026-10-09T13:17:28.034Z",
+        "target": "https://nideesh1.github.io/agentglow/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:28.034Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/52c96537265094b885d41acb.jpg",
+          "kind": "demo",
+          "url": "https://nideesh1.github.io/agentglow/",
+          "capturedAt": "2026-10-09T13:17:28.034Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T13:17:28.034Z",
+      "previewCheck": {
+        "url": "https://nideesh1.github.io/agentglow/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T13:17:28.034Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:28.035Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "prathikachar55555/Prathik_Achar_G",
+      "name": "Prathik_Achar_G",
+      "description": "This is my first Git Repository",
+      "category": "Other",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0,
+      "created": "2025-11-25T17:23:15Z",
+      "updated": "2026-10-06T16:09:16Z",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://prathikachar55555.github.io/Prathik_Achar_G/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-09T13:17:28.710Z",
+      "lastAvailableAt": "2026-10-09T13:17:28.710Z",
+      "lastAttemptAt": "2026-10-09T13:17:28.710Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "prathikachar55555/Prathik_Achar_G",
+        "postUrl": "https://x.com/i/web/status/2106756562878599523",
+        "url": "https://prathikachar55555.github.io/Prathik_Achar_G/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2106756562878599523",
+          "postId": "2106756562878599523",
+          "postedAt": "2026-10-04T14:41:20.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://prathikachar55555.github.io/Prathik_Achar_G/",
+        "attemptedAt": "2026-10-09T13:17:32.153Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T13:17:32.153Z",
+        "lastWorkingAt": "2026-10-09T13:17:32.153Z",
+        "target": "https://prathikachar55555.github.io/Prathik_Achar_G/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:32.153Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/86937eb97b4467fac4dd073e.jpg",
+          "kind": "demo",
+          "url": "https://prathikachar55555.github.io/Prathik_Achar_G/",
+          "capturedAt": "2026-10-09T13:17:32.153Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T13:17:32.153Z",
+      "previewCheck": {
+        "url": "https://prathikachar55555.github.io/Prathik_Achar_G/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T13:17:32.153Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:32.154Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "pal-123456789/dogfood-portal",
+      "name": "dogfood-portal",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-26T18:36:42Z",
+      "updated": "2026-09-29T17:14:57Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://pal-123456789.github.io/dogfood-portal/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-09T13:17:34.285Z",
+      "lastAvailableAt": "2026-10-09T13:17:34.285Z",
+      "lastAttemptAt": "2026-10-09T13:17:34.285Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "pal-123456789/dogfood-portal",
+        "postUrl": "https://x.com/i/web/status/2104986907386282130",
+        "url": "https://pal-123456789.github.io/dogfood-portal/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104986907386282130",
+          "postId": "2104986907386282130",
+          "postedAt": "2026-09-29T17:29:22.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://pal-123456789.github.io/dogfood-portal/",
+        "attemptedAt": "2026-10-09T13:17:37.649Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T13:17:37.649Z",
+        "lastWorkingAt": "2026-10-09T13:17:37.649Z",
+        "target": "https://pal-123456789.github.io/dogfood-portal/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:37.649Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/055b8b4ffb2c7c13840c73f5.jpg",
+          "kind": "demo",
+          "url": "https://pal-123456789.github.io/dogfood-portal/",
+          "capturedAt": "2026-10-09T13:17:37.649Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T13:17:37.649Z",
+      "previewCheck": {
+        "url": "https://pal-123456789.github.io/dogfood-portal/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T13:17:37.649Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:37.650Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "cbingb666/niz-web",
+      "name": "niz-web",
+      "description": "Experimental WebHID configurator for NIZ keyboards. Remap keys, set up macros, and back up configurations.",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 1,
+      "forks": 1,
+      "created": "2026-09-25T16:08:10Z",
+      "updated": "2026-10-08T10:39:49Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://cbingb666.github.io/niz-web/",
+      "topics": [
+        "key-remapping",
+        "keyboard",
+        "keyboard-configurator",
+        "niz",
+        "webhid"
+      ],
+      "demo": "https://cbingb666.github.io/niz-web/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-09T13:17:42.070Z",
+      "lastAvailableAt": "2026-10-09T13:17:42.070Z",
+      "lastAttemptAt": "2026-10-09T13:17:42.070Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104202148578021413",
+          "postId": "2104202148578021413",
+          "postedAt": "2026-09-27T13:31:01.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://cbingb666.github.io/niz-web/",
+        "attemptedAt": "2026-10-09T13:17:45.757Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T13:17:45.757Z",
+        "lastWorkingAt": "2026-10-09T13:17:45.757Z",
+        "target": "https://cbingb666.github.io/niz-web/#/devices",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:45.757Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/6c329f72557abf14a9599040.jpg",
+          "kind": "demo",
+          "url": "https://cbingb666.github.io/niz-web/",
+          "capturedAt": "2026-10-09T13:17:45.757Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T13:17:45.757Z",
+      "previewCheck": {
+        "url": "https://cbingb666.github.io/niz-web/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T13:17:45.757Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:45.758Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Robinhill85/serv-t1000",
+      "name": "serv-t1000",
+      "description": "T1000: finds idle stablecoins, lets SERV Reasoning split them across Base lending, the IXS RWA vault and ETH on Robinhood Chain, runs it from your own wallet, then guards the positions. OpenServ SERV Hackathon, Open Track.",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-24T22:38:13Z",
+      "updated": "2026-09-24T22:38:18Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://serv-t1000.vercel.app",
+      "topics": [],
+      "demo": "https://serv-t1000.vercel.app/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-09T13:17:12.708Z",
+      "lastAvailableAt": "2026-10-09T13:17:12.708Z",
+      "lastAttemptAt": "2026-10-09T13:17:12.708Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103394324402909585",
+          "postId": "2103394324402909585",
+          "postedAt": "2026-09-25T08:01:00.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://serv-t1000.vercel.app/",
+        "attemptedAt": "2026-10-09T13:17:16.002Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T13:17:16.002Z",
+        "lastWorkingAt": "2026-10-09T13:17:16.002Z",
+        "target": "https://serv-t1000.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:16.002Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/b70f252f4ad102f0a804a829.jpg",
+          "kind": "demo",
+          "url": "https://serv-t1000.vercel.app/",
+          "capturedAt": "2026-10-09T13:17:16.002Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T13:17:16.002Z",
+      "previewCheck": {
+        "url": "https://serv-t1000.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T13:17:16.002Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:16.003Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "mohamed-elsayed-200/fullstack-saas-starter",
+      "name": "fullstack-saas-starter",
+      "description": "A modern, open-source full-stack SaaS starter built with Next.js, TypeScript, MongoDB, and shadcn/ui a solid foundation for building scalable SaaS applications.",
+      "category": "Design",
+      "language": "TypeScript",
+      "stars": 45,
+      "forks": 8,
+      "created": "2026-09-09T09:22:47Z",
+      "updated": "2026-09-10T06:01:29Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://saas-starter200.vercel.app",
+      "topics": [
+        "admin-dashboard",
+        "authentication",
+        "authorization",
+        "cloudinary",
+        "fullstack",
+        "fullstack-nextjs",
+        "jwt",
+        "mongodb",
+        "mongoose",
+        "nextjs",
+        "rbac",
+        "react",
+        "react-query",
+        "saas",
+        "saas-starter",
+        "shadcn-ui",
+        "tailwindcss",
+        "typescript",
+        "zod",
+        "zustand"
+      ],
+      "demo": "https://saas-starter200.vercel.app/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-09T13:17:46.298Z",
+      "lastAvailableAt": "2026-10-09T13:17:46.298Z",
+      "lastAttemptAt": "2026-10-09T13:17:46.298Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2101743018508202368",
+          "postId": "2101743018508202368",
+          "postedAt": "2026-09-20T18:39:18.000Z"
+        }
+      ],
+      "subjects": [
+        "Templates & UI components",
+        "Data & dashboards"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "Templates & UI components",
+          "Data & dashboards"
+        ],
+        "evidence": [
+          {
+            "subject": "Templates & UI components",
+            "source": "metadata",
+            "match": "admin dashboard"
+          },
+          {
+            "subject": "Data & dashboards",
+            "source": "metadata",
+            "match": "dashboard"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://saas-starter200.vercel.app/",
+        "attemptedAt": "2026-10-09T13:17:51.338Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T13:17:51.338Z",
+        "lastWorkingAt": "2026-10-09T13:17:51.338Z",
+        "target": "https://saas-starter200.vercel.app/en/auth",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:51.338Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/bedf3a77f3ca94edeada9c09.jpg",
+          "kind": "demo",
+          "url": "https://saas-starter200.vercel.app/",
+          "capturedAt": "2026-10-09T13:17:51.338Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T13:17:51.338Z",
+      "previewCheck": {
+        "url": "https://saas-starter200.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T13:17:51.338Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:51.339Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "feg55/Astro-Base",
+      "name": "Astro-Base",
+      "description": "Interactive 3D Solar System and astrophotography platform built with React, Three.js & FastAPI. Explore celestial objects, search photos and upload astrophotography.",
+      "category": "Developer tools",
+      "language": "TypeScript",
+      "stars": 3,
+      "forks": 0,
+      "created": "2026-02-27T11:35:35Z",
+      "updated": "2026-07-26T00:37:47Z",
+      "branch": "main",
+      "homepage": "https://feg55.github.io/Astro-Base/",
+      "topics": [
+        "3d",
+        "astronomy",
+        "astrophotography",
+        "fastapi",
+        "full-stack",
+        "github-pages",
+        "interactive-3d",
+        "python",
+        "react",
+        "threejs",
+        "typescript",
+        "webgl"
+      ],
+      "demo": "https://feg55.github.io/Astro-Base/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-09T13:17:52.048Z",
+      "lastAvailableAt": "2026-10-09T13:17:52.048Z",
+      "lastAttemptAt": "2026-10-09T13:17:52.048Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2101715030374756437",
+          "postId": "2101715030374756437",
+          "postedAt": "2026-09-20T16:48:05.000Z"
+        }
+      ],
+      "subjects": [
+        "Science",
+        "3D & graphics"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "Science",
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "Science",
+            "source": "metadata",
+            "match": "astronomy"
+          },
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "3D"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://feg55.github.io/Astro-Base/",
+        "attemptedAt": "2026-10-09T13:18:05.555Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T13:18:05.555Z",
+        "lastWorkingAt": "2026-10-09T13:18:05.555Z",
+        "target": "https://feg55.github.io/Astro-Base/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T13:18:05.555Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/3c8e5bc86004f7c066b59a86.jpg",
+          "kind": "demo",
+          "url": "https://feg55.github.io/Astro-Base/",
+          "capturedAt": "2026-10-09T13:18:05.555Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T13:18:05.555Z",
+      "previewCheck": {
+        "url": "https://feg55.github.io/Astro-Base/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T13:18:05.555Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T13:18:05.556Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "lithos-ai/lithos-metal",
+      "name": "lithos-metal",
+      "description": "Lithos Metal: high-performance LLM inference kernels and serving for Apple silicon.",
+      "category": "AI & machine learning",
+      "language": "Python",
+      "stars": 112,
+      "forks": 8,
+      "created": "2026-10-05T15:23:30Z",
+      "updated": "2026-10-08T02:45:06Z",
+      "license": "Apache-2.0",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://www.lithosai.com/blog/lithos-metal",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-09T13:16:47.156Z",
+      "lastAvailableAt": "2026-10-09T13:16:47.156Z",
+      "lastAttemptAt": "2026-10-09T13:16:47.156Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "lithos-ai/lithos-metal",
+        "postUrl": "https://x.com/i/web/status/2108249739414147259",
+        "url": "https://www.lithosai.com/blog/lithos-metal"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108249739414147259",
+          "postId": "2108249739414147259",
+          "postedAt": "2026-10-08T17:34:41.000Z"
+        }
+      ],
+      "subjects": [
+        "Apple"
+      ],
+      "platforms": [
+        "macOS"
+      ],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "AI & machine learning",
+        "subjects": [
+          "Apple"
+        ],
+        "evidence": [
+          {
+            "subject": "Apple",
+            "source": "metadata",
+            "match": "Apple silicon"
+          }
+        ],
+        "platformEvidence": [
+          {
+            "platform": "macOS",
+            "source": "metadata",
+            "match": "Apple silicon"
+          }
+        ],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://www.lithosai.com/blog/lithos-metal",
+        "attemptedAt": "2026-10-09T13:16:50.465Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T13:16:50.465Z",
+        "lastWorkingAt": "2026-10-09T13:16:50.465Z",
+        "target": "https://www.lithosai.com/blog/lithos-metal",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T13:16:50.465Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/412490d8fbfc2ff30388258d.jpg",
+          "kind": "demo",
+          "url": "https://www.lithosai.com/blog/lithos-metal",
+          "capturedAt": "2026-10-09T13:16:50.465Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T13:16:50.465Z",
+      "previewCheck": {
+        "url": "https://www.lithosai.com/blog/lithos-metal",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T13:16:50.465Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T13:16:50.466Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "speridlabs/iris-3b",
+      "name": "iris-3b",
+      "description": "Iris-3B: pixel-space generation & general vision learner. A 3B diffusion transformer that generates every pixel directly (no VAE); the same prior, fine-tuned, does monocular depth estimation and 4x image restoration. Paper, weights, training code and demo.",
+      "category": "Education",
+      "language": "Python",
+      "stars": 68,
+      "forks": 5,
+      "created": "2026-10-05T14:50:43Z",
+      "updated": "2026-10-08T16:51:32Z",
+      "license": "Apache-2.0",
+      "branch": "main",
+      "homepage": "https://speridlabs.com/research/iris",
+      "topics": [
+        "depth-estimation",
+        "diffusion",
+        "flow-matching",
+        "generative-prior",
+        "image-restoration",
+        "pixel-space",
+        "pytorch",
+        "super-resolution",
+        "text-to-image",
+        "vision-foundation-model"
+      ],
+      "demo": "https://huggingface.co/spaces/speridlabs/iris-3b",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-09T13:16:58.612Z",
+      "lastAvailableAt": "2026-10-09T13:16:58.612Z",
+      "lastAttemptAt": "2026-10-09T13:16:58.612Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108241673897877739",
+          "postId": "2108241673897877739",
+          "postedAt": "2026-10-08T17:02:38.000Z"
+        }
+      ],
+      "subjects": [
+        "Image, audio & video AI"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Education",
+        "subjects": [
+          "Image, audio & video AI"
+        ],
+        "evidence": [
+          {
+            "subject": "Image, audio & video AI",
+            "source": "metadata",
+            "match": "text to image"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://huggingface.co/spaces/speridlabs/iris-3b",
+        "attemptedAt": "2026-10-09T13:17:02.049Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T13:17:02.049Z",
+        "lastWorkingAt": "2026-10-09T13:17:02.049Z",
+        "target": "https://huggingface.co/spaces/speridlabs/iris-3b",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:02.049Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/85a42054390f55543d706c7c.jpg",
+          "kind": "demo",
+          "url": "https://huggingface.co/spaces/speridlabs/iris-3b",
+          "capturedAt": "2026-10-09T13:17:02.049Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T13:17:02.049Z",
+      "previewCheck": {
+        "url": "https://huggingface.co/spaces/speridlabs/iris-3b",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T13:17:02.049Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:02.050Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Blackman99/toolsmoke",
+      "name": "toolsmoke",
+      "description": "Tell you in one command whether your LLM endpoint actually works for agents (tool calling, streaming, structured output) and how fast it is.",
+      "category": "Developer tools",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "created": "2026-10-08T06:42:10Z",
+      "updated": "2026-10-09T03:58:21Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://blackman99.github.io/toolsmoke/",
+      "topics": [
+        "agents",
+        "anthropic",
+        "benchmark",
+        "cli",
+        "conformance-testing",
+        "function-calling",
+        "llama-cpp",
+        "llm",
+        "ollama",
+        "openai",
+        "tool-calling",
+        "vllm"
+      ],
+      "demo": "https://blackman99.github.io/toolsmoke/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-09T13:17:38.146Z",
+      "lastAvailableAt": "2026-10-09T13:17:38.146Z",
+      "lastAttemptAt": "2026-10-09T13:17:38.146Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108096428086378628",
+          "postId": "2108096428086378628",
+          "postedAt": "2026-10-08T07:25:29.000Z"
+        }
+      ],
+      "subjects": [
+        "MCP servers & agents"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "evidence": [
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "agents"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://blackman99.github.io/toolsmoke/",
+        "attemptedAt": "2026-10-09T13:17:41.278Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T13:17:41.278Z",
+        "lastWorkingAt": "2026-10-09T13:17:41.278Z",
+        "target": "https://blackman99.github.io/toolsmoke/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:41.278Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/d38aceb20ceedea57282efa6.jpg",
+          "kind": "demo",
+          "url": "https://blackman99.github.io/toolsmoke/",
+          "capturedAt": "2026-10-09T13:17:41.278Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T13:17:41.278Z",
+      "previewCheck": {
+        "url": "https://blackman99.github.io/toolsmoke/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T13:17:41.278Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T13:17:41.279Z"
       },
       "sourceCategories": [
         "As Seen On X.com"

@@ -1,8 +1,8 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-09T09:30:37.453Z
+Checked: 2026-10-09T13:18:07.240Z
 
-Quality-ready repositories: **54**
+Quality-ready repositories: **68**
 
 ## Search yield
 
@@ -10,6 +10,8 @@ Quality-ready repositories: **54**
 | --- | ---: | ---: | ---: | ---: |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 70 | 68 | 51 | 23 |
 | url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 29 | 28 | 43 | 14 |
+| (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 28 | 27 | 11 | 10 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 15 | 13 | 7 | 2 |
 
 Acceptance totals are attributed to the first discovery query; these are not controlled experiments.
 
@@ -18,12 +20,14 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [tomcode1000/Hapax](https://github.com/tomcode1000/Hapax) | [Try demo](https://hapax-aid.vercel.app/) | [Screenshot](previews/cda696b14ab1f9ccd3d231ae.jpg) | [Source](https://x.com/i/web/status/2108204978620002352) |
 | [maiyun/clickgo](https://github.com/maiyun/clickgo) | [Try demo](https://maiyun.github.io/clickgo/dist/test/) | [Screenshot](previews/7005255de37e65fffacef695.jpg) | [Source](https://x.com/i/web/status/2108202530723520609) |
 | [careerbotdev/careerbot](https://github.com/careerbotdev/careerbot) | [Try demo](https://careerbot.dev/docs/demo) | [Screenshot](previews/ade8af995099cc5d2c2d02d8.jpg) | [Source](https://x.com/i/web/status/2108199081486979229) |
+| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | [Try demo](https://dynamical.org/) | [Screenshot](previews/1415501f0ca6b791ba4fef63.jpg) | [Source](https://x.com/i/web/status/2108192627401081009) |
 | [shmidtqq65/blueprint](https://github.com/shmidtqq65/blueprint) | [Try demo](https://shmidtqq65.github.io/blueprint/) | [Screenshot](previews/0fc0e01ca034823447a9dbcf.jpg) | [Source](https://x.com/i/web/status/2108186528593608932) |
 | [velesxbt/drex-night-desk](https://github.com/velesxbt/drex-night-desk) | [Try demo](https://night-desk-fvo7.onrender.com/) | [Screenshot](previews/eb1589464bb47e2915a0432e.jpg) | [Source](https://x.com/i/web/status/2108257823507259393) |
 | [Aryabhatta-0/Wynk](https://github.com/Aryabhatta-0/Wynk) | [Try demo](https://ui-ten-virid.vercel.app/) | [Screenshot](previews/a8edff465d1f012cebe73af0.jpg) | [Source](https://x.com/i/web/status/2108255200779874616) |
 | [archestack/best-of-selfhosted-ai](https://github.com/archestack/best-of-selfhosted-ai) | [Try demo](https://platform.agentscope.io/) | [Screenshot](previews/8dfedb2f5799bb017242eebb.jpg) | [Source](https://x.com/i/web/status/2108255094743728504) |
 | [archestack/best-of-ai-starters](https://github.com/archestack/best-of-ai-starters) | [Try demo](https://agent-service-toolkit.streamlit.app/) | [Screenshot](previews/970795cf2e61680fc8ff09de.jpg) | [Source](https://x.com/i/web/status/2108255094743728504) |
 | [LydiaTools/browser-agent-blueprint](https://github.com/LydiaTools/browser-agent-blueprint) | [Try demo](https://lydiatools.github.io/browser-agent-blueprint/demo/) | [Screenshot](previews/bbed666a18f77240bde24baf.jpg) | [Source](https://x.com/i/web/status/2108177703446978708) |
+| [neuphonic/neudecide](https://github.com/neuphonic/neudecide) | [Try demo](https://huggingface.co/spaces/neuphonic/neudecide) | [Screenshot](previews/ebb774b0d2e1992414b6fc5f.jpg) | [Source](https://x.com/i/web/status/2108164286875152482) |
 | [real-rain/LocalAgent-UI](https://github.com/real-rain/LocalAgent-UI) | [Try demo](https://local-agent-ui-chi.vercel.app/) | [Screenshot](previews/8bd4c3e88eed9d666c11de83.jpg) | [Source](https://x.com/i/web/status/2108158807377694817) |
 | [guilyx/grip](https://github.com/guilyx/grip) | [Try demo](https://guilyx.github.io/grip/) | [Screenshot](previews/ae61087c00b8f09c53a53426.jpg) | [Source](https://x.com/i/web/status/2108158779581984930) |
 | [kadirnar/drifting-tts](https://github.com/kadirnar/drifting-tts) | [Try demo](https://huggingface.co/spaces/Vyvo/drifting-tts-tr-demo) | [Screenshot](previews/ea21875a429f0e8b7f26c3b5.jpg) | [Source](https://x.com/i/web/status/2108145129739423953) |
@@ -69,5 +73,17 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [Phala-Network/phala-pay](https://github.com/Phala-Network/phala-pay) | [Try demo](https://pay.phala.com/) | [Screenshot](previews/8804521db718df5c64e99867.jpg) | [Source](https://x.com/i/web/status/2104804765947326788) |
 | [Friedrich-M/UniMate](https://github.com/Friedrich-M/UniMate) | [Try demo](https://linzhanmou.com/unimate/interactive.html) | [Screenshot](previews/f75f50488d24029c68a5c4a4.jpg) | [Source](https://x.com/i/web/status/2104668166156689423) |
 | [iamtechartist/Four-Seasons](https://github.com/iamtechartist/Four-Seasons) | [Try demo](https://iamtechartist.github.io/Four-Seasons/) | [Screenshot](previews/1ffa80f8f374db2237ff9105.jpg) | [Source](https://x.com/i/web/status/2104617223440761207) |
+| [mehmetali930/coffee-support](https://github.com/mehmetali930/coffee-support) | [Try demo](https://faucet.circle.com/) | [Screenshot](previews/77aff4970bf37b7f5fc48822.jpg) | [Source](https://x.com/i/web/status/2108051483459555340) |
+| [shouvik12/devtv](https://github.com/shouvik12/devtv) | [Try demo](https://shouvik12.github.io/devtv/) | [Screenshot](previews/50c004c38116343ed70cb3ed.jpg) | [Source](https://x.com/i/web/status/2107142352859185381) |
+| [Nideesh1/agentglow](https://github.com/Nideesh1/agentglow) | [Try demo](https://nideesh1.github.io/agentglow/) | [Screenshot](previews/52c96537265094b885d41acb.jpg) | [Source](https://x.com/i/web/status/2107128653750415498) |
+| [prathikachar55555/Prathik_Achar_G](https://github.com/prathikachar55555/Prathik_Achar_G) | [Try demo](https://prathikachar55555.github.io/Prathik_Achar_G/) | [Screenshot](previews/86937eb97b4467fac4dd073e.jpg) | [Source](https://x.com/i/web/status/2106756562878599523) |
+| [pal-123456789/dogfood-portal](https://github.com/pal-123456789/dogfood-portal) | [Try demo](https://pal-123456789.github.io/dogfood-portal/) | [Screenshot](previews/055b8b4ffb2c7c13840c73f5.jpg) | [Source](https://x.com/i/web/status/2104986907386282130) |
+| [cbingb666/niz-web](https://github.com/cbingb666/niz-web) | [Try demo](https://cbingb666.github.io/niz-web/) | [Screenshot](previews/6c329f72557abf14a9599040.jpg) | [Source](https://x.com/i/web/status/2104202148578021413) |
+| [Robinhill85/serv-t1000](https://github.com/Robinhill85/serv-t1000) | [Try demo](https://serv-t1000.vercel.app/) | [Screenshot](previews/b70f252f4ad102f0a804a829.jpg) | [Source](https://x.com/i/web/status/2103394324402909585) |
+| [mohamed-elsayed-200/fullstack-saas-starter](https://github.com/mohamed-elsayed-200/fullstack-saas-starter) | [Try demo](https://saas-starter200.vercel.app/) | [Screenshot](previews/bedf3a77f3ca94edeada9c09.jpg) | [Source](https://x.com/i/web/status/2101743018508202368) |
+| [feg55/Astro-Base](https://github.com/feg55/Astro-Base) | [Try demo](https://feg55.github.io/Astro-Base/) | [Screenshot](previews/3c8e5bc86004f7c066b59a86.jpg) | [Source](https://x.com/i/web/status/2101715030374756437) |
+| [lithos-ai/lithos-metal](https://github.com/lithos-ai/lithos-metal) | [Try demo](https://www.lithosai.com/blog/lithos-metal) | [Screenshot](previews/412490d8fbfc2ff30388258d.jpg) | [Source](https://x.com/i/web/status/2108249739414147259) |
+| [speridlabs/iris-3b](https://github.com/speridlabs/iris-3b) | [Try demo](https://huggingface.co/spaces/speridlabs/iris-3b) | [Screenshot](previews/85a42054390f55543d706c7c.jpg) | [Source](https://x.com/i/web/status/2108241673897877739) |
+| [Blackman99/toolsmoke](https://github.com/Blackman99/toolsmoke) | [Try demo](https://blackman99.github.io/toolsmoke/) | [Screenshot](previews/d38aceb20ceedea57282efa6.jpg) | [Source](https://x.com/i/web/status/2108096428086378628) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.
