@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-08T18:19:39.032Z",
+  "updatedAt": "2026-10-09T01:56:52.690Z",
   "runtimeRevision": "3ce3f7e8c216f98b43366bb530994b4cb5fd831f",
-  "checked": 4,
+  "checked": 6,
   "repositories": [
     {
       "availability": "available",
@@ -420,6 +420,270 @@
         "attemptedAt": "2026-10-08T18:19:37.046Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-15T18:19:37.046Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Aryabhatta-0/Wynk",
+      "name": "Wynk",
+      "description": "An efficient search system for agentic workflows",
+      "category": "Other",
+      "language": "Python",
+      "stars": 6,
+      "forks": 0,
+      "created": "2026-10-04T06:23:19Z",
+      "updated": "2026-10-07T12:21:57Z",
+      "branch": "main",
+      "homepage": "https://ui-ten-virid.vercel.app",
+      "topics": [],
+      "demo": "https://ui-ten-virid.vercel.app/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-09T01:56:28.690Z",
+      "lastAvailableAt": "2026-10-09T01:56:28.690Z",
+      "lastAttemptAt": "2026-10-09T01:56:28.690Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108255200779874616",
+          "postId": "2108255200779874616",
+          "postedAt": "2026-10-08T17:56:24.000Z"
+        }
+      ],
+      "subjects": [
+        "Automation & workflows"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 3,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [
+          "Automation & workflows"
+        ],
+        "evidence": [
+          {
+            "subject": "Automation & workflows",
+            "source": "metadata",
+            "match": "workflows"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://ui-ten-virid.vercel.app/",
+        "attemptedAt": "2026-10-09T01:56:33.471Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T01:56:33.471Z",
+        "lastWorkingAt": "2026-10-09T01:56:33.471Z",
+        "target": "https://ui-ten-virid.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T01:56:33.471Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/a8edff465d1f012cebe73af0.jpg",
+          "kind": "demo",
+          "url": "https://ui-ten-virid.vercel.app/",
+          "capturedAt": "2026-10-09T01:56:33.471Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T01:56:33.471Z",
+      "previewCheck": {
+        "url": "https://ui-ten-virid.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T01:56:33.471Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T01:56:33.472Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "archestack/best-of-selfhosted-ai",
+      "name": "best-of-selfhosted-ai",
+      "description": "Ranked, cost-estimated, build-verified index of self-hosted AI software — refreshed twice a day.",
+      "category": "AI & machine learning",
+      "language": null,
+      "stars": 1,
+      "forks": 0,
+      "created": "2026-10-07T17:19:14Z",
+      "updated": "2026-10-09T01:13:47Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "",
+      "topics": [
+        "agents",
+        "ai",
+        "awesome-list",
+        "best-of",
+        "docker",
+        "homelab",
+        "llm",
+        "self-hosted",
+        "selfhosted"
+      ],
+      "demo": "https://platform.agentscope.io/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-09T01:56:34.291Z",
+      "lastAvailableAt": "2026-10-09T01:56:34.291Z",
+      "lastAttemptAt": "2026-10-09T01:56:34.291Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108255094743728504",
+          "postId": "2108255094743728504",
+          "postedAt": "2026-10-08T17:55:58.000Z"
+        }
+      ],
+      "subjects": [
+        "MCP servers & agents",
+        "Self-hosted apps"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 3,
+        "method": "local_rules",
+        "category": "AI & machine learning",
+        "subjects": [
+          "MCP servers & agents",
+          "Self-hosted apps"
+        ],
+        "evidence": [
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "agents"
+          },
+          {
+            "subject": "Self-hosted apps",
+            "source": "metadata",
+            "match": "selfhosted"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://platform.agentscope.io/",
+        "attemptedAt": "2026-10-09T01:56:38.981Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T01:56:38.981Z",
+        "lastWorkingAt": "2026-10-09T01:56:38.981Z",
+        "target": "https://platform.agentscope.io/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T01:56:38.981Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/8dfedb2f5799bb017242eebb.jpg",
+          "kind": "demo",
+          "url": "https://platform.agentscope.io/",
+          "capturedAt": "2026-10-09T01:56:38.981Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T01:56:38.981Z",
+      "previewCheck": {
+        "url": "https://platform.agentscope.io/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T01:56:38.981Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T01:56:38.981Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "archestack/best-of-ai-starters",
+      "name": "best-of-ai-starters",
+      "description": "Ranked, auto-refreshed list of open-source starters, boilerplates and templates for building AI apps.",
+      "category": "AI & machine learning",
+      "language": null,
+      "stars": 1,
+      "forks": 0,
+      "created": "2026-10-08T09:45:25Z",
+      "updated": "2026-10-09T01:13:38Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://agent-service-toolkit.streamlit.app/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-09T01:56:39.532Z",
+      "lastAvailableAt": "2026-10-09T01:56:39.532Z",
+      "lastAttemptAt": "2026-10-09T01:56:39.532Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2108255094743728504",
+          "postId": "2108255094743728504",
+          "postedAt": "2026-10-08T17:55:58.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 3,
+        "method": "local_rules",
+        "category": "AI & machine learning",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://agent-service-toolkit.streamlit.app/",
+        "attemptedAt": "2026-10-09T01:56:44.357Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-09T01:56:44.357Z",
+        "lastWorkingAt": "2026-10-09T01:56:44.357Z",
+        "target": "https://agent-service-toolkit.streamlit.app/?user_id=b4444ecb-02bd-44d0-b53d-9237f3e7e5f6",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-16T01:56:44.357Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/970795cf2e61680fc8ff09de.jpg",
+          "kind": "demo",
+          "url": "https://agent-service-toolkit.streamlit.app/",
+          "capturedAt": "2026-10-09T01:56:44.357Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-09T01:56:44.357Z",
+      "previewCheck": {
+        "url": "https://agent-service-toolkit.streamlit.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-09T01:56:44.357Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-16T01:56:44.357Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
