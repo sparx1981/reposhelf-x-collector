@@ -1,18 +1,18 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-10T07:21:51.628Z
+Checked: 2026-10-10T12:32:26.987Z
 
-Quality-ready repositories: **105**
+Quality-ready repositories: **113**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 105 | 85 | 60 | 25 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 59 | 57 | 67 | 27 |
-| (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 19 |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 30 | 16 | 10 | 3 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 35 | 35 | 39 | 14 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 59 | 57 | 67 | 28 |
+| (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 20 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 45 | 16 | 10 | 3 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 70 | 52 | 55 | 20 |
 
 Acceptance totals are attributed to the first discovery query; these are not controlled experiments.
 
@@ -96,6 +96,8 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [reladraw/reladraw](https://github.com/reladraw/reladraw) | [Try demo](https://reladraw.github.io/reladraw/) | [Screenshot](previews/8d65a4cf016a652390e32231.jpg) | [Source](https://x.com/i/web/status/2106066690144399486) |
 | [ValentinTorassa/VT-Agent-Firewall](https://github.com/ValentinTorassa/VT-Agent-Firewall) | [Try demo](https://valentorassa.com/charlas/hacking-day-2026) | [Screenshot](previews/531b44a4ddfa81ed54915d82.jpg) | [Source](https://x.com/i/web/status/2106049012470051274) |
 | [rishimohan/colorshot](https://github.com/rishimohan/colorshot) | [Try demo](https://orshot.com/open-source/colorshot) | [Screenshot](previews/e8e451ad32fc594c2dc8a5ba.jpg) | [Source](https://x.com/i/web/status/2106038323919864237) |
+| [mfbz/taste-review](https://github.com/mfbz/taste-review) | [Try demo](https://taste-review-action.vercel.app/) | [Screenshot](previews/9718cc97091dec26c4b6c8f0.jpg) | [Source](https://x.com/i/web/status/2106036113789923438) |
+| [mfbz/taste-review-demo](https://github.com/mfbz/taste-review-demo) | [Try demo](https://taste-review-demo.vercel.app/) | [Screenshot](previews/f25791265faf663d2e38be13.jpg) | [Source](https://x.com/i/web/status/2106036113789923438) |
 | [VahidYousefzadeh/pretext-harfbuzz](https://github.com/VahidYousefzadeh/pretext-harfbuzz) | [Try demo](https://www.vahidyousefzadeh.com/pretext-harfbuzz) | [Screenshot](previews/498312a778c1351f9b5f5dfe.jpg) | [Source](https://x.com/i/web/status/2106018671093063764) |
 | [Likemiens/SpeakLouderSphere](https://github.com/Likemiens/SpeakLouderSphere) | [Try demo](https://speak-louder-sphere.vercel.app/) | [Screenshot](previews/41aacfbedd61c967e99424a0.jpg) | [Source](https://x.com/i/web/status/2106017261999861947) |
 | [dgreenheck/threejs-particle-fluids](https://github.com/dgreenheck/threejs-particle-fluids) | [Try demo](https://dgreenheck.github.io/threejs-particle-fluids/) | [Screenshot](previews/516bf15c48a7ef643f617e49.jpg) | [Source](https://x.com/i/web/status/2104597039757594724) |
@@ -117,11 +119,17 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [bubblik525/Chernobyl_Atlas](https://github.com/bubblik525/Chernobyl_Atlas) | [Try demo](https://bubblik525.github.io/Chernobyl_Atlas/ATELIER-Reactor.html) | [Screenshot](previews/da1316357db71050941fabb0.jpg) | [Source](https://x.com/i/web/status/2098841319619649894) |
 | [Sai6522/copilot-day-spark](https://github.com/Sai6522/copilot-day-spark) | [Try demo](https://sai6522.github.io/copilot-day-spark/) | [Screenshot](previews/0124f65ac5448f1bebc30781.jpg) | [Source](https://x.com/i/web/status/2098768735951888891) |
 | [Vyom-2007/DuoFoldWallpaper](https://github.com/Vyom-2007/DuoFoldWallpaper) | [Try demo](https://vyom-2007.github.io/DuoFoldWallpaper/) | [Screenshot](previews/8141e3d68097f10aa661d492.jpg) | [Source](https://x.com/i/web/status/2098448513004958038) |
+| [lauroguedes/laravel-demo-mode](https://github.com/lauroguedes/laravel-demo-mode) | [Try demo](https://packagist.org/packages/lauroguedes/laravel-demo-mode) | [Screenshot](previews/57b6cbad3a45cdf418f0cfc0.jpg) | [Source](https://x.com/i/web/status/2104156680736948524) |
 | [jubayer910/Admin-panel](https://github.com/jubayer910/Admin-panel) | [Try demo](https://sql.js.org/) | [Screenshot](previews/dd54994c57815c08183f362d.jpg) | [Source](https://x.com/i/web/status/2103895604439208284) |
 | [SgtPooki/Avalanche-IPFS-Filecoin-RWA-reference-Architecture](https://github.com/SgtPooki/Avalanche-IPFS-Filecoin-RWA-reference-Architecture) | [Try demo](https://sgtpooki.github.io/Avalanche-IPFS-Filecoin-RWA-reference-Architecture/) | [Screenshot](previews/932adb48fa889aef71a1d0c8.jpg) | [Source](https://x.com/i/web/status/2103888602492969270) |
 | [alexshtf/spectral_neuron_paper](https://github.com/alexshtf/spectral_neuron_paper) | [Try demo](https://arxiv.org/abs/2608.08003) | [Screenshot](previews/4cb38e05a31ee2161b21e6ad.jpg) | [Source](https://x.com/i/web/status/2103887093302763889) |
 | [AgibotTech/sonic_for_a3](https://github.com/AgibotTech/sonic_for_a3) | [Try demo](https://agibottech.github.io/sonic_for_a3/) | [Screenshot](previews/adc12223f6190dd15d96bf1c.jpg) | [Source](https://x.com/i/web/status/2103726311202234601) |
 | [Kanahiro/cloud-optimized-geoparquet](https://github.com/Kanahiro/cloud-optimized-geoparquet) | [Try demo](https://kanahiro.github.io/cloud-optimized-geoparquet/) | [Screenshot](previews/a7cac89d1c2460a100b35e4a.jpg) | [Source](https://x.com/i/web/status/2103704428557836533) |
 | [FluidInference/FluidUse](https://github.com/FluidInference/FluidUse) | [Try demo](https://huggingface.co/FluidInference/gliner2-5-decide-coreml) | [Screenshot](previews/ef480a7e07c5a53892d5ec60.jpg) | [Source](https://x.com/i/web/status/2103576479124828564) |
+| [Jason-uxui/gray-ui-csm](https://github.com/Jason-uxui/gray-ui-csm) | [Try demo](https://gray-ui-csm.vercel.app/) | [Screenshot](previews/665be4b4ee8d8c7928d76e44.jpg) | [Source](https://x.com/i/web/status/2106013833638895857) |
+| [selimaytac/hashspan](https://github.com/selimaytac/hashspan) | [Try demo](https://hashspan.dev/) | [Screenshot](previews/f366e66219bef6164b2a2850.jpg) | [Source](https://x.com/i/web/status/2106008393177567402) |
+| [AbhiVarde/tryeve](https://github.com/AbhiVarde/tryeve) | [Try demo](https://tryeve.abhivarde.in/) | [Screenshot](previews/44a86f85f5be269d6cccdb43.jpg) | [Source](https://x.com/i/web/status/2105984067238027607) |
+| [precisit/onepass-webgpu-ternary](https://github.com/precisit/onepass-webgpu-ternary) | [Try demo](https://precisit.github.io/onepass-web/demo/c4-size/) | [Screenshot](previews/e3b28440003896dfab7d697c.jpg) | [Source](https://x.com/i/web/status/2105957965362552871) |
+| [Jubbic/technocore-did-beginner-guide](https://github.com/Jubbic/technocore-did-beginner-guide) | [Try demo](https://jubbic-spark-market-2026.vercel.app/) | [Screenshot](previews/efe1d7f01eeed97ed8626ec0.jpg) | [Source](https://x.com/i/web/status/2099041395063337304) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.
