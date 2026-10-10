@@ -42,7 +42,8 @@
       },
       "recent": {
         "start": "2026-10-03T21:01:09.250Z",
-        "end": "2026-10-09T09:19:52.004Z"
+        "end": "2026-10-09T09:19:52.004Z",
+        "nextToken": "b26v89c19zqg8o3juziz5n60xdos2gjcwkzxfs9v7zo1p"
       }
     },
     "2c0438e5283099cf": {
@@ -3931,7 +3932,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T16:18:45.877Z",
+      "lastSeenAt": "2026-10-10T21:00:13.115Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:30:25.935Z"
     },
@@ -3965,7 +3966,7 @@
           "repository": "0xMadMaks/Dino-Crab"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:45.877Z",
+      "lastSeenAt": "2026-10-10T21:00:13.115Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "0xMadMaks/Dino-Crab",
@@ -4078,7 +4079,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T16:18:45.877Z",
+      "lastSeenAt": "2026-10-10T21:00:13.115Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:30:26.535Z"
     },
@@ -4119,7 +4120,7 @@
           "repository": "ponsdotdev/pons-labs"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:45.877Z",
+      "lastSeenAt": "2026-10-10T21:00:13.115Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "ponsdotdev/pons-labs",
@@ -4243,7 +4244,7 @@
           "repository": "mohitagw15856/notugly"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:45.877Z",
+      "lastSeenAt": "2026-10-10T21:00:13.115Z",
       "entry": {
         "availability": "available",
         "full": "mohitagw15856/notugly",
@@ -4369,7 +4370,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T16:18:45.877Z",
+      "lastSeenAt": "2026-10-10T21:00:13.115Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:24:43.043Z"
     },
@@ -4395,7 +4396,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T16:18:45.877Z",
+      "lastSeenAt": "2026-10-10T21:00:13.115Z",
       "reason": "repository_unavailable",
       "nextAttemptAt": "2026-10-09T15:24:43.319Z"
     },
@@ -4428,7 +4429,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T16:18:45.877Z",
+      "lastSeenAt": "2026-10-10T21:00:13.115Z",
       "entry": {
         "availability": "available",
         "full": "IAmUnbounded/shed",
@@ -4543,7 +4544,7 @@
           "repository": "princebansal/openclaw-plugin-x"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:45.877Z",
+      "lastSeenAt": "2026-10-10T21:00:13.115Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "princebansal/openclaw-plugin-x",
@@ -4663,7 +4664,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T16:18:45.877Z",
+      "lastSeenAt": "2026-10-10T21:00:13.115Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:24:38.591Z"
     },
@@ -4697,7 +4698,7 @@
           "repository": "AzizMohseny/FFB"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:45.877Z",
+      "lastSeenAt": "2026-10-10T21:00:13.115Z",
       "entry": {
         "availability": "available",
         "full": "AzizMohseny/FFB",
@@ -4816,7 +4817,7 @@
           "repository": "tangpeiqi/BabyCare"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:45.877Z",
+      "lastSeenAt": "2026-10-10T21:00:13.115Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "tangpeiqi/BabyCare",
@@ -4936,7 +4937,7 @@
           "repository": "mercurial20/loremapper"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:45.877Z",
+      "lastSeenAt": "2026-10-10T21:00:13.115Z",
       "entry": {
         "availability": "available",
         "full": "mercurial20/loremapper",
@@ -5037,7 +5038,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T16:18:45.877Z",
+      "lastSeenAt": "2026-10-10T21:00:13.115Z",
       "reusedEvidence": true,
       "entry": {
         "availability": "available",
@@ -33044,24 +33045,6 @@
     "2102929600653480054",
     "2102910833550659937",
     "2102878171796222160",
-    "2108485073180000447",
-    "2108484722263208375",
-    "2108475131341500495",
-    "2108473533110124580",
-    "2108473375559667786",
-    "2108473161478246700",
-    "2108472703560892741",
-    "2108462598924681600",
-    "2108454100455301390",
-    "2108453378737197284",
-    "2108450882463699039",
-    "2108448875703161226",
-    "2108441955491557811",
-    "2108441522186440844",
-    "2108440240704913681",
-    "2108438465524507126",
-    "2108438176348160130",
-    "2108429148473774108",
     "2105715784085594464",
     "2105715388386267557",
     "2105713837169320111",
@@ -33142,12 +33125,30 @@
     "2102295117956526586",
     "2102141213658972301",
     "2102106101130969225",
-    "2102057663454667153"
+    "2102057663454667153",
+    "2108485073180000447",
+    "2108484722263208375",
+    "2108475131341500495",
+    "2108473533110124580",
+    "2108473375559667786",
+    "2108473161478246700",
+    "2108472703560892741",
+    "2108462598924681600",
+    "2108454100455301390",
+    "2108453378737197284",
+    "2108450882463699039",
+    "2108448875703161226",
+    "2108441955491557811",
+    "2108441522186440844",
+    "2108440240704913681",
+    "2108438465524507126",
+    "2108438176348160130",
+    "2108429148473774108"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
-      "posts": 175,
+      "posts": 193,
       "uniquePosts": 119,
       "newCandidates": 90,
       "validationAttempts": 75,
