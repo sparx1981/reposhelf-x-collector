@@ -15237,7 +15237,7 @@
     "dmoka/quicke2e": {
       "full": "dmoka/quicke2e",
       "firstSeenAt": "2026-10-09T13:16:08.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -15256,7 +15256,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-09T13:16:08.856Z"
+      "lastSeenAt": "2026-10-09T13:16:08.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T05:40:09.140Z"
     },
     "blackman99/toolsmoke": {
       "full": "Blackman99/toolsmoke",
@@ -15723,7 +15725,7 @@
     "skynet-inisghts/jumper": {
       "full": "Skynet-inisghts/JUMPER",
       "firstSeenAt": "2026-10-09T17:42:01.384Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -15742,12 +15744,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-09T17:42:01.384Z"
+      "lastSeenAt": "2026-10-09T17:42:01.384Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T05:40:10.116Z"
     },
     "vikrampsingh/ai-swe-seminar-anna-university": {
       "full": "vikrampsingh/ai-swe-seminar-anna-university",
       "firstSeenAt": "2026-10-09T17:42:01.384Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -15764,12 +15768,98 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-09T17:42:01.384Z"
+      "lastSeenAt": "2026-10-09T17:42:01.384Z",
+      "entry": {
+        "availability": "available",
+        "full": "vikrampsingh/ai-swe-seminar-anna-university",
+        "name": "ai-swe-seminar-anna-university",
+        "description": "Seminar at Anna University: The end of  Software Engineering? How AI agents are changing the way softwares are designed, engineered and delivered.",
+        "category": "Design",
+        "language": null,
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-10-06T05:59:04Z",
+        "updated": "2026-10-09T06:35:28Z",
+        "branch": "main",
+        "homepage": "",
+        "topics": [],
+        "demo": "https://opencode.ai/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-10T05:40:14.987Z",
+        "lastAvailableAt": "2026-10-10T05:40:14.987Z",
+        "lastAttemptAt": "2026-10-10T05:40:14.987Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2108582141970006360",
+            "postId": "2108582141970006360",
+            "postedAt": "2026-10-09T15:35:32.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "AI agents"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://opencode.ai/",
+          "attemptedAt": "2026-10-10T05:40:18.141Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T05:40:18.141Z",
+          "lastWorkingAt": "2026-10-10T05:40:18.141Z",
+          "target": "https://opencode.ai/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T05:40:18.141Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/4d74f7784efeb2d202c6eca2.jpg",
+            "kind": "demo",
+            "url": "https://opencode.ai/",
+            "capturedAt": "2026-10-10T05:40:18.141Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T05:40:18.141Z",
+        "previewCheck": {
+          "url": "https://opencode.ai/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T05:40:18.141Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T05:40:18.141Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T17:40:18.142Z",
+      "checkedAt": "2026-10-10T05:40:18.142Z",
+      "firstAcceptedAt": "2026-10-10T05:40:18.142Z"
     },
     "vikrampsingh/vps-mediasync-cli": {
       "full": "vikrampsingh/vps-mediasync-cli",
       "firstSeenAt": "2026-10-09T17:42:01.384Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -15786,7 +15876,9 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-09T17:42:01.384Z"
+      "lastSeenAt": "2026-10-09T17:42:01.384Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T05:40:18.806Z"
     },
     "nigestyh/etch-a-sketch": {
       "full": "Nigestyh/etch-a-sketch",
@@ -15905,7 +15997,7 @@
     "shubhamsaboo/awesome-llm-apps": {
       "full": "Shubhamsaboo/awesome-llm-apps",
       "firstSeenAt": "2026-10-09T17:42:01.384Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -15922,12 +16014,14 @@
         "replies": 22,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-09T17:42:01.384Z"
+      "lastSeenAt": "2026-10-09T17:42:01.384Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T05:40:05.927Z"
     },
     "punkpeye/awesome-mcp-servers": {
       "full": "punkpeye/awesome-mcp-servers",
       "firstSeenAt": "2026-10-09T17:42:01.384Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -15944,12 +16038,14 @@
         "replies": 22,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-09T17:42:01.384Z"
+      "lastSeenAt": "2026-10-09T17:42:01.384Z",
+      "reason": "temporary_error",
+      "nextAttemptAt": "2026-10-10T11:40:06.553Z"
     },
     "mlabonne/llm-course": {
       "full": "mlabonne/llm-course",
       "firstSeenAt": "2026-10-09T17:42:01.384Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -15966,12 +16062,14 @@
         "replies": 22,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-09T17:42:01.384Z"
+      "lastSeenAt": "2026-10-09T17:42:01.384Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T05:40:07.138Z"
     },
     "microsoft/ai-agents-for-beginners": {
       "full": "microsoft/ai-agents-for-beginners",
       "firstSeenAt": "2026-10-09T17:42:01.384Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -15988,12 +16086,14 @@
         "replies": 22,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-09T17:42:01.384Z"
+      "lastSeenAt": "2026-10-09T17:42:01.384Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T05:40:07.662Z"
     },
     "nirdiamant/rag_techniques": {
       "full": "NirDiamant/RAG_Techniques",
       "firstSeenAt": "2026-10-09T17:42:01.384Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -16010,12 +16110,14 @@
         "replies": 22,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-09T17:42:01.384Z"
+      "lastSeenAt": "2026-10-09T17:42:01.384Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T05:40:08.154Z"
     },
     "nirdiamant/agents-towards-production": {
       "full": "NirDiamant/agents-towards-production",
       "firstSeenAt": "2026-10-09T17:42:01.384Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -16032,7 +16134,9 @@
         "replies": 22,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-09T17:42:01.384Z"
+      "lastSeenAt": "2026-10-09T17:42:01.384Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T05:40:08.658Z"
     },
     "michinaoshimizu/kiroku": {
       "full": "MichinaoShimizu/kiroku",
@@ -16174,7 +16278,7 @@
     "emilkowalski/skills": {
       "full": "emilkowalski/skills",
       "firstSeenAt": "2026-10-09T17:42:01.384Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -16193,7 +16297,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-09T17:42:01.384Z"
+      "lastSeenAt": "2026-10-09T17:42:01.384Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T05:40:09.651Z"
     },
     "canerganis/agent-orchestra-board": {
       "full": "canerganis/agent-orchestra-board",
@@ -17433,7 +17539,7 @@
     "likemiens/speakloudersphere": {
       "full": "Likemiens/SpeakLouderSphere",
       "firstSeenAt": "2026-10-09T17:42:06.433Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -17467,7 +17573,133 @@
           "repository": "Likemiens/SpeakLouderSphere"
         }
       ],
-      "lastSeenAt": "2026-10-09T17:42:06.433Z"
+      "lastSeenAt": "2026-10-09T17:42:06.433Z",
+      "entry": {
+        "availability": "available",
+        "full": "Likemiens/SpeakLouderSphere",
+        "name": "SpeakLouderSphere",
+        "description": "A glowing sphere that reacts to your voice and shows live captions. Drop-in Web Component, one tag on any website.",
+        "category": "Developer tools",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-29T22:05:06Z",
+        "updated": "2026-09-30T18:27:49Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://speak-louder-sphere.vercel.app",
+        "topics": [
+          "ai-assistant",
+          "audio-visualizer",
+          "custom-elements",
+          "javascript",
+          "live-captions",
+          "orb",
+          "speech-recognition",
+          "voice",
+          "web-component",
+          "webgl"
+        ],
+        "demo": "https://speak-louder-sphere.vercel.app/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-10T05:39:58.156Z",
+        "lastAvailableAt": "2026-10-10T05:39:58.156Z",
+        "lastAttemptAt": "2026-10-10T05:39:58.156Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2106017261999861947",
+            "postId": "2106017261999861947",
+            "postedAt": "2026-10-02T13:43:37.000Z"
+          },
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2106016791935828151",
+            "postId": "2106016791935828151",
+            "postedAt": "2026-10-02T13:41:45.000Z"
+          }
+        ],
+        "subjects": [
+          "Image, audio & video AI",
+          "Chatbots & assistants",
+          "3D & graphics",
+          "Music & audio"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Image, audio & video AI",
+            "Chatbots & assistants",
+            "3D & graphics",
+            "Music & audio"
+          ],
+          "evidence": [
+            {
+              "subject": "Image, audio & video AI",
+              "source": "metadata",
+              "match": "speech recognition"
+            },
+            {
+              "subject": "Chatbots & assistants",
+              "source": "metadata",
+              "match": "ai assistant"
+            },
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "webgl"
+            },
+            {
+              "subject": "Music & audio",
+              "source": "metadata",
+              "match": "audio visualizer"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://speak-louder-sphere.vercel.app/",
+          "attemptedAt": "2026-10-10T05:40:01.679Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T05:40:01.679Z",
+          "lastWorkingAt": "2026-10-10T05:40:01.679Z",
+          "target": "https://speak-louder-sphere.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T05:40:01.679Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/41aacfbedd61c967e99424a0.jpg",
+            "kind": "demo",
+            "url": "https://speak-louder-sphere.vercel.app/",
+            "capturedAt": "2026-10-10T05:40:01.679Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T05:40:01.679Z",
+        "previewCheck": {
+          "url": "https://speak-louder-sphere.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T05:40:01.679Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T05:40:01.679Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T17:40:01.680Z",
+      "checkedAt": "2026-10-10T05:40:01.680Z",
+      "firstAcceptedAt": "2026-10-10T05:40:01.680Z"
     },
     "olivierh59500/go-maxymiser": {
       "full": "olivierh59500/go-MaxYMiser",
@@ -18714,7 +18946,7 @@
     "politohh/s2mp-mod-demo": {
       "full": "Politohh/S2MP-Mod-Demo",
       "firstSeenAt": "2026-10-09T17:42:11.600Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -18733,7 +18965,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-09T17:42:11.600Z"
+      "lastSeenAt": "2026-10-09T17:42:11.600Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T05:40:19.489Z"
     },
     "samg-coder/leaf": {
       "full": "SamG-Coder/Leaf",
@@ -19037,7 +19271,7 @@
     "kshot3000/night-messenger-": {
       "full": "Kshot3000/Night-Messenger-",
       "firstSeenAt": "2026-10-10T05:38:55.212Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -19064,7 +19298,136 @@
           "repository": "Kshot3000/Night-Messenger-"
         }
       ],
-      "lastSeenAt": "2026-10-10T05:38:55.212Z"
+      "lastSeenAt": "2026-10-10T05:38:55.212Z",
+      "entry": {
+        "availability": "available",
+        "full": "Kshot3000/Night-Messenger-",
+        "name": "Night-Messenger-",
+        "description": "Night Messenger — free private DMs on Midnight with selective disclosure (web + Android)",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-28T21:53:52Z",
+        "updated": "2026-10-04T23:18:56Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://kshot3000.github.io/Night-Messenger-/",
+        "topics": [
+          "cardano",
+          "dapp",
+          "messaging",
+          "messenger",
+          "midnight",
+          "midnight-network",
+          "midnightntwrk",
+          "privacy",
+          "selective-disclosure",
+          "web3",
+          "zero-knowledge",
+          "zk"
+        ],
+        "demo": "https://kshot3000.github.io/Night-Messenger-/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-10T05:40:02.219Z",
+        "lastAvailableAt": "2026-10-10T05:40:02.219Z",
+        "lastAttemptAt": "2026-10-10T05:40:02.219Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105816290544005527",
+            "postId": "2105816290544005527",
+            "postedAt": "2026-10-02T00:25:02.000Z"
+          }
+        ],
+        "subjects": [
+          "Crypto & blockchain",
+          "Android",
+          "Mobile",
+          "Privacy & security"
+        ],
+        "platforms": [
+          "Android"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "Crypto & blockchain",
+            "Android",
+            "Mobile",
+            "Privacy & security"
+          ],
+          "evidence": [
+            {
+              "subject": "Crypto & blockchain",
+              "source": "metadata",
+              "match": "web3"
+            },
+            {
+              "subject": "Android",
+              "source": "metadata",
+              "match": "Android"
+            },
+            {
+              "subject": "Mobile",
+              "source": "metadata",
+              "match": "Android"
+            },
+            {
+              "subject": "Privacy & security",
+              "source": "metadata",
+              "match": "zero knowledge"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "Android",
+              "source": "metadata",
+              "match": "Android"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://kshot3000.github.io/Night-Messenger-/",
+          "attemptedAt": "2026-10-10T05:40:05.457Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T05:40:05.457Z",
+          "lastWorkingAt": "2026-10-10T05:40:05.457Z",
+          "target": "https://kshot3000.github.io/Night-Messenger-/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T05:40:05.457Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/1761d61737b4e2ea3f88b201.jpg",
+            "kind": "demo",
+            "url": "https://kshot3000.github.io/Night-Messenger-/",
+            "capturedAt": "2026-10-10T05:40:05.457Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T05:40:05.457Z",
+        "previewCheck": {
+          "url": "https://kshot3000.github.io/Night-Messenger-/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T05:40:05.457Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T05:40:05.457Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T17:40:05.458Z",
+      "checkedAt": "2026-10-10T05:40:05.458Z",
+      "firstAcceptedAt": "2026-10-10T05:40:05.458Z"
     },
     "nicolaslasch/tidy": {
       "full": "NicolasLasch/Tidy",
@@ -19159,7 +19522,7 @@
     "ryancampbell/ask-canada": {
       "full": "ryancampbell/ask-canada",
       "firstSeenAt": "2026-10-10T05:38:55.212Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -19192,7 +19555,102 @@
           "repository": "ryancampbell/ask-canada"
         }
       ],
-      "lastSeenAt": "2026-10-10T05:38:55.212Z"
+      "lastSeenAt": "2026-10-10T05:38:55.212Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "ryancampbell/ask-canada",
+        "postUrl": "https://x.com/i/web/status/2105801774028476623",
+        "url": "https://america.gov/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "ryancampbell/ask-canada",
+        "name": "ask-canada",
+        "description": "Ask Canada — an AI-first front door to government services. Open source; any country can run it.",
+        "category": "AI & machine learning",
+        "language": "TypeScript",
+        "stars": 16,
+        "forks": 6,
+        "created": "2026-10-01T01:51:42Z",
+        "updated": "2026-10-02T00:58:00Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://canada.ryancampbell.com",
+        "topics": [
+          "ai-sdk",
+          "canada",
+          "civic-tech",
+          "nextjs",
+          "open-government"
+        ],
+        "demo": "https://america.gov/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-10T05:39:44.724Z",
+        "lastAvailableAt": "2026-10-10T05:39:44.724Z",
+        "lastAttemptAt": "2026-10-10T05:39:44.724Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "ryancampbell/ask-canada",
+          "postUrl": "https://x.com/i/web/status/2105801774028476623",
+          "url": "https://america.gov/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105801774028476623",
+            "postId": "2105801774028476623",
+            "postedAt": "2026-10-01T23:27:21.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://america.gov/",
+          "attemptedAt": "2026-10-10T05:39:49.164Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T05:39:49.164Z",
+          "lastWorkingAt": "2026-10-10T05:39:49.164Z",
+          "target": "https://america.gov/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T05:39:49.164Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/02e5686931e77ba765c25493.jpg",
+            "kind": "demo",
+            "url": "https://america.gov/",
+            "capturedAt": "2026-10-10T05:39:49.164Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T05:39:49.164Z",
+        "previewCheck": {
+          "url": "https://america.gov/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T05:39:49.164Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T05:39:49.165Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T17:39:49.166Z",
+      "checkedAt": "2026-10-10T05:39:49.166Z",
+      "firstAcceptedAt": "2026-10-10T05:39:49.166Z"
     },
     "microsoft/wsl": {
       "full": "microsoft/wsl",
@@ -19293,7 +19751,7 @@
     "anonthedev/athel": {
       "full": "anonthedev/athel",
       "firstSeenAt": "2026-10-10T05:38:59.915Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -19312,12 +19770,89 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T05:38:59.915Z"
+      "lastSeenAt": "2026-10-10T05:38:59.915Z",
+      "entry": {
+        "availability": "available",
+        "full": "anonthedev/athel",
+        "name": "athel",
+        "description": "Desktop app for deep research agent.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 3,
+        "forks": 0,
+        "created": "2026-09-28T11:24:56Z",
+        "updated": "2026-10-09T12:29:20Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://athel-research.vercel.app",
+        "topics": [],
+        "demo": "https://athel-research.vercel.app/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-10T05:40:10.705Z",
+        "lastAvailableAt": "2026-10-10T05:40:10.705Z",
+        "lastAttemptAt": "2026-10-10T05:40:10.705Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2108537253429747842",
+            "postId": "2108537253429747842",
+            "postedAt": "2026-10-09T12:37:10.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://athel-research.vercel.app/",
+          "attemptedAt": "2026-10-10T05:40:13.881Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T05:40:13.881Z",
+          "lastWorkingAt": "2026-10-10T05:40:13.881Z",
+          "target": "https://athel-research.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T05:40:13.881Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/3b9cd15291fee356b9f34bc3.jpg",
+            "kind": "demo",
+            "url": "https://athel-research.vercel.app/",
+            "capturedAt": "2026-10-10T05:40:13.881Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T05:40:13.881Z",
+        "previewCheck": {
+          "url": "https://athel-research.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T05:40:13.881Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T05:40:13.882Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T17:40:13.883Z",
+      "checkedAt": "2026-10-10T05:40:13.883Z",
+      "firstAcceptedAt": "2026-10-10T05:40:13.883Z"
     },
     "inklingfree/inkling": {
       "full": "inklingfree/inkling",
       "firstSeenAt": "2026-10-10T05:38:59.915Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -19350,12 +19885,135 @@
           "repository": "inklingfree/inkling"
         }
       ],
-      "lastSeenAt": "2026-10-10T05:38:59.915Z"
+      "lastSeenAt": "2026-10-10T05:38:59.915Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "inklingfree/inkling",
+        "postUrl": "https://x.com/i/web/status/2108512054672015684",
+        "url": "https://www.producthunt.com/products/inkling-4"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "inklingfree/inkling",
+        "name": "inkling",
+        "description": "Open-source personal AI assistant that lives in your WhatsApp: email, calendar, group plans, reminders and errands. Self-hosted, and it asks before it sends anything as you.",
+        "category": "Productivity",
+        "language": "TypeScript",
+        "stars": 11,
+        "forks": 4,
+        "created": "2026-10-08T03:13:43Z",
+        "updated": "2026-10-09T09:50:22Z",
+        "license": "MIT",
+        "branch": "master",
+        "homepage": "https://inkling.free",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-assistant",
+          "assistant",
+          "azure-openai",
+          "baileys",
+          "chatbot",
+          "claude",
+          "gmail",
+          "google-calendar",
+          "llm",
+          "open-source",
+          "openai",
+          "personal-assistant",
+          "self-hosted",
+          "typescript",
+          "whatsapp",
+          "whatsapp-bot"
+        ],
+        "demo": "https://www.producthunt.com/products/inkling-4",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-10T05:39:43.551Z",
+        "lastAvailableAt": "2026-10-10T05:39:43.551Z",
+        "lastAttemptAt": "2026-10-10T05:39:43.551Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "inklingfree/inkling",
+          "postUrl": "https://x.com/i/web/status/2108512054672015684",
+          "url": "https://www.producthunt.com/products/inkling-4"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2108512054672015684",
+            "postId": "2108512054672015684",
+            "postedAt": "2026-10-09T10:57:02.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents",
+          "Chatbots & assistants",
+          "Self-hosted apps"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Productivity",
+          "subjects": [
+            "MCP servers & agents",
+            "Chatbots & assistants",
+            "Self-hosted apps"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "ai agent"
+            },
+            {
+              "subject": "Chatbots & assistants",
+              "source": "metadata",
+              "match": "AI assistant"
+            },
+            {
+              "subject": "Self-hosted apps",
+              "source": "metadata",
+              "match": "Self hosted"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://www.producthunt.com/products/inkling-4",
+          "attemptedAt": "2026-10-10T05:39:44.068Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "challenge",
+            "at": "2026-10-10T05:39:44.068Z"
+          },
+          "nextCheckAt": "2026-10-10T07:39:44.068Z"
+        },
+        "previewAttemptAt": "2026-10-10T05:39:44.068Z",
+        "previewCheck": {
+          "url": "https://www.producthunt.com/products/inkling-4",
+          "status": "retry",
+          "reason": "challenge",
+          "attemptedAt": "2026-10-10T05:39:44.068Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-10T07:39:44.068Z"
+        }
+      },
+      "reason": "challenge",
+      "nextAttemptAt": "2026-10-10T07:39:44.068Z",
+      "checkedAt": "2026-10-10T05:39:44.068Z"
     },
     "antseed/antseed": {
       "full": "AntSeed/antseed",
       "firstSeenAt": "2026-10-10T05:38:59.915Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -19374,7 +20032,274 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T05:38:59.915Z"
+      "lastSeenAt": "2026-10-10T05:38:59.915Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T05:40:14.427Z"
+    },
+    "invincible04/splitfree": {
+      "full": "invincible04/SplitFree",
+      "firstSeenAt": "2026-10-09T13:16:04.326Z",
+      "status": "accepted",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2101720182322536877",
+          "postId": "2101720182322536877",
+          "postedAt": "2026-09-20T17:08:34.000Z"
+        }
+      ],
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "demoHints": [
+        "https://invincible04.github.io/SplitFree/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://invincible04.github.io/SplitFree/",
+          "postUrl": "https://x.com/i/web/status/2101720182322536877",
+          "repository": "invincible04/SplitFree"
+        }
+      ],
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "lastSeenAt": "2026-10-10T05:39:40.168Z",
+      "entry": {
+        "availability": "available",
+        "full": "invincible04/SplitFree",
+        "name": "SplitFree",
+        "description": "Decentralized expense splitting app built on Nostr - no servers, no accounts, no tracking.",
+        "category": "Finance",
+        "language": "Kotlin",
+        "stars": 3,
+        "forks": 2,
+        "created": "2026-02-18T17:56:30Z",
+        "updated": "2026-09-20T16:29:20Z",
+        "license": "GPL-3.0",
+        "branch": "mainline",
+        "homepage": "https://invincible04.github.io/SplitFree/",
+        "topics": [
+          "android",
+          "decentralized",
+          "end-to-end-encryption",
+          "expense-splitter",
+          "kotlin",
+          "nostr",
+          "open-source",
+          "privacy"
+        ],
+        "demo": "https://invincible04.github.io/SplitFree/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-10T05:39:54.445Z",
+        "lastAvailableAt": "2026-10-10T05:39:54.445Z",
+        "lastAttemptAt": "2026-10-10T05:39:54.445Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2101720182322536877",
+            "postId": "2101720182322536877",
+            "postedAt": "2026-09-20T17:08:34.000Z"
+          }
+        ],
+        "subjects": [
+          "Android",
+          "Mobile",
+          "Privacy & security"
+        ],
+        "platforms": [
+          "Android"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Finance",
+          "subjects": [
+            "Android",
+            "Mobile",
+            "Privacy & security"
+          ],
+          "evidence": [
+            {
+              "subject": "Android",
+              "source": "metadata",
+              "match": "android"
+            },
+            {
+              "subject": "Mobile",
+              "source": "metadata",
+              "match": "android"
+            },
+            {
+              "subject": "Privacy & security",
+              "source": "metadata",
+              "match": "encryption"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "Android",
+              "source": "metadata",
+              "match": "android"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://invincible04.github.io/SplitFree/",
+          "attemptedAt": "2026-10-10T05:39:57.544Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T05:39:57.544Z",
+          "lastWorkingAt": "2026-10-10T05:39:57.544Z",
+          "target": "https://invincible04.github.io/SplitFree/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T05:39:57.544Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/41f1dc58d7d7d631f15c8a9e.jpg",
+            "kind": "demo",
+            "url": "https://invincible04.github.io/SplitFree/",
+            "capturedAt": "2026-10-10T05:39:57.544Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T05:39:57.544Z",
+        "previewCheck": {
+          "url": "https://invincible04.github.io/SplitFree/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T05:39:57.544Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T05:39:57.545Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T17:39:57.546Z",
+      "checkedAt": "2026-10-10T05:39:57.546Z",
+      "firstAcceptedAt": "2026-10-10T05:39:57.546Z"
+    },
+    "lgs1920/timeline": {
+      "full": "lgs1920/timeline",
+      "firstSeenAt": "2026-10-09T13:16:04.326Z",
+      "status": "accepted",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2100637400502313000",
+          "postId": "2100637400502313000",
+          "postedAt": "2026-09-17T17:25:58.000Z"
+        }
+      ],
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "demoHints": [
+        "https://lgs1920.github.io/timeline"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://lgs1920.github.io/timeline",
+          "postUrl": "https://x.com/i/web/status/2100637400502313000",
+          "repository": "lgs1920/timeline"
+        }
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 2
+      },
+      "lastSeenAt": "2026-10-10T05:39:42.725Z",
+      "entry": {
+        "availability": "available",
+        "full": "lgs1920/timeline",
+        "name": "timeline",
+        "description": "A modular and adaptable timeline built for Web Awesome applications",
+        "category": "Other",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-14T17:13:44Z",
+        "updated": "2026-10-01T16:22:11Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://lgs1920.github.io/timeline/",
+        "topics": [
+          "fontawesome",
+          "javascript",
+          "react",
+          "timeline",
+          "webawesome"
+        ],
+        "demo": "https://lgs1920.github.io/timeline/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-10T05:39:50.124Z",
+        "lastAvailableAt": "2026-10-10T05:39:50.124Z",
+        "lastAttemptAt": "2026-10-10T05:39:50.124Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2100637400502313000",
+            "postId": "2100637400502313000",
+            "postedAt": "2026-09-17T17:25:58.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://lgs1920.github.io/timeline/",
+          "attemptedAt": "2026-10-10T05:39:53.680Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T05:39:53.680Z",
+          "lastWorkingAt": "2026-10-10T05:39:53.680Z",
+          "target": "https://lgs1920.github.io/timeline/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T05:39:53.680Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/742ba9b4b8090ef03b6ed803.jpg",
+            "kind": "demo",
+            "url": "https://lgs1920.github.io/timeline/",
+            "capturedAt": "2026-10-10T05:39:53.680Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T05:39:53.680Z",
+        "previewCheck": {
+          "url": "https://lgs1920.github.io/timeline/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T05:39:53.680Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T05:39:53.681Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T17:39:53.682Z",
+      "checkedAt": "2026-10-10T05:39:53.682Z",
+      "firstAcceptedAt": "2026-10-10T05:39:53.682Z"
     }
   },
   "lastRun": {
@@ -19648,15 +20573,15 @@
       "posts": 105,
       "uniquePosts": 85,
       "newCandidates": 60,
-      "validationAttempts": 51,
-      "accepted": 23
+      "validationAttempts": 53,
+      "accepted": 25
     },
     "2c0438e5283099cf": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "posts": 44,
       "uniquePosts": 42,
       "newCandidates": 55,
-      "validationAttempts": 50,
+      "validationAttempts": 51,
       "accepted": 21
     },
     "ac3eb65e96558e14": {
@@ -19664,24 +20589,24 @@
       "posts": 28,
       "uniquePosts": 27,
       "newCandidates": 11,
-      "validationAttempts": 12,
-      "accepted": 10
+      "validationAttempts": 14,
+      "accepted": 12
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "posts": 30,
       "uniquePosts": 16,
       "newCandidates": 10,
-      "validationAttempts": 6,
-      "accepted": 2
+      "validationAttempts": 10,
+      "accepted": 3
     },
     "a0153cbebcc5cf46": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "posts": 35,
       "uniquePosts": 35,
       "newCandidates": 39,
-      "validationAttempts": 13,
-      "accepted": 12
+      "validationAttempts": 24,
+      "accepted": 14
     }
   },
   "demoSeeds": {
@@ -19958,7 +20883,9 @@
         "reposts": 0,
         "replies": 1,
         "quotes": 0
-      }
+      },
+      "nextAttemptAt": "2027-01-08T05:39:40.168Z",
+      "reason": "repository_resolved"
     },
     "https://www.netlify.com/": {
       "url": "https://www.netlify.com/",
@@ -19978,7 +20905,9 @@
         "reposts": 0,
         "replies": 0,
         "quotes": 0
-      }
+      },
+      "nextAttemptAt": "2026-10-17T05:39:40.180Z",
+      "reason": "no_repository_link"
     },
     "https://netlify.app/": {
       "url": "https://netlify.app/",
@@ -19998,7 +20927,9 @@
         "reposts": 0,
         "replies": 0,
         "quotes": 0
-      }
+      },
+      "nextAttemptAt": "2026-10-17T05:39:40.693Z",
+      "reason": "no_repository_link"
     },
     "https://lgs1920.github.io/timeline": {
       "url": "https://lgs1920.github.io/timeline",
@@ -20018,12 +20949,14 @@
         "reposts": 0,
         "replies": 0,
         "quotes": 2
-      }
+      },
+      "nextAttemptAt": "2027-01-08T05:39:42.725Z",
+      "reason": "repository_resolved"
     }
   },
   "lastDemoDiscovery": {
-    "checked": 5,
-    "resolved": 0,
-    "at": "2026-10-09T17:42:56.648Z"
+    "checked": 4,
+    "resolved": 2,
+    "at": "2026-10-10T05:39:42.781Z"
   }
 }

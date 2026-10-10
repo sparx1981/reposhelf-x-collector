@@ -1,18 +1,18 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-09T17:44:12.806Z
+Checked: 2026-10-10T05:40:19.497Z
 
-Quality-ready repositories: **86**
+Quality-ready repositories: **92**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 70 | 68 | 51 | 23 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 105 | 85 | 60 | 25 |
 | url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 44 | 42 | 55 | 21 |
-| (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 28 | 27 | 11 | 10 |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 15 | 13 | 7 | 2 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 35 | 35 | 39 | 12 |
+| (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 28 | 27 | 11 | 12 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 30 | 16 | 10 | 3 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 35 | 35 | 39 | 14 |
 
 Acceptance totals are attributed to the first discovery query; these are not controlled experiments.
 
@@ -74,7 +74,6 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [Friedrich-M/UniMate](https://github.com/Friedrich-M/UniMate) | [Try demo](https://linzhanmou.com/unimate/interactive.html) | [Screenshot](previews/f75f50488d24029c68a5c4a4.jpg) | [Source](https://x.com/i/web/status/2104668166156689423) |
 | [iamtechartist/Four-Seasons](https://github.com/iamtechartist/Four-Seasons) | [Try demo](https://iamtechartist.github.io/Four-Seasons/) | [Screenshot](previews/1ffa80f8f374db2237ff9105.jpg) | [Source](https://x.com/i/web/status/2104617223440761207) |
 | [mehmetali930/coffee-support](https://github.com/mehmetali930/coffee-support) | [Try demo](https://faucet.circle.com/) | [Screenshot](previews/77aff4970bf37b7f5fc48822.jpg) | [Source](https://x.com/i/web/status/2108051483459555340) |
-| [shouvik12/devtv](https://github.com/shouvik12/devtv) | [Try demo](https://shouvik12.github.io/devtv/) | [Screenshot](previews/50c004c38116343ed70cb3ed.jpg) | [Source](https://x.com/i/web/status/2107142352859185381) |
 | [Nideesh1/agentglow](https://github.com/Nideesh1/agentglow) | [Try demo](https://nideesh1.github.io/agentglow/) | [Screenshot](previews/52c96537265094b885d41acb.jpg) | [Source](https://x.com/i/web/status/2107128653750415498) |
 | [prathikachar55555/Prathik_Achar_G](https://github.com/prathikachar55555/Prathik_Achar_G) | [Try demo](https://prathikachar55555.github.io/Prathik_Achar_G/) | [Screenshot](previews/86937eb97b4467fac4dd073e.jpg) | [Source](https://x.com/i/web/status/2106756562878599523) |
 | [pal-123456789/dogfood-portal](https://github.com/pal-123456789/dogfood-portal) | [Try demo](https://pal-123456789.github.io/dogfood-portal/) | [Screenshot](previews/055b8b4ffb2c7c13840c73f5.jpg) | [Source](https://x.com/i/web/status/2104986907386282130) |
@@ -87,6 +86,7 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [Blackman99/toolsmoke](https://github.com/Blackman99/toolsmoke) | [Try demo](https://blackman99.github.io/toolsmoke/) | [Screenshot](previews/d38aceb20ceedea57282efa6.jpg) | [Source](https://x.com/i/web/status/2108096428086378628) |
 | [Kaif110/NIke-Website](https://github.com/Kaif110/NIke-Website) | [Try demo](https://nike-website1.netlify.app/) | [Screenshot](previews/2fde7a979bbaedef1edd754f.jpg) | [Source](https://x.com/i/web/status/2108591281282949159) |
 | [drcmda/handguard](https://github.com/drcmda/handguard) | [Try demo](https://handguard-zeta.vercel.app/) | [Screenshot](previews/e7bdfed9061bb4c5001f99c7.jpg) | [Source](https://x.com/i/web/status/2108586669662261732) |
+| [vikrampsingh/ai-swe-seminar-anna-university](https://github.com/vikrampsingh/ai-swe-seminar-anna-university) | [Try demo](https://opencode.ai/) | [Screenshot](previews/4d74f7784efeb2d202c6eca2.jpg) | [Source](https://x.com/i/web/status/2108582141970006360) |
 | [Nigestyh/etch-a-sketch](https://github.com/Nigestyh/etch-a-sketch) | [Try demo](https://nigestyh.github.io/etch-a-sketch/) | [Screenshot](previews/f2e69d9e5c271150e8baba8b.jpg) | [Source](https://x.com/i/web/status/2108579785740046814) |
 | [MichinaoShimizu/kiroku](https://github.com/MichinaoShimizu/kiroku) | [Try demo](https://michinaoshimizu.github.io/kiroku/) | [Screenshot](previews/da1ab898709692af4ce25ab3.jpg) | [Source](https://x.com/i/web/status/2108560097161212372) |
 | [xenodrive/timescope](https://github.com/xenodrive/timescope) | [Try demo](https://xenodrive.github.io/timescope/) | [Screenshot](previews/18ad8533ff3f976cb91528df.jpg) | [Source](https://x.com/i/web/status/2108543386550784058) |
@@ -97,6 +97,7 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [ValentinTorassa/VT-Agent-Firewall](https://github.com/ValentinTorassa/VT-Agent-Firewall) | [Try demo](https://valentorassa.com/charlas/hacking-day-2026) | [Screenshot](previews/531b44a4ddfa81ed54915d82.jpg) | [Source](https://x.com/i/web/status/2106049012470051274) |
 | [rishimohan/colorshot](https://github.com/rishimohan/colorshot) | [Try demo](https://orshot.com/open-source/colorshot) | [Screenshot](previews/e8e451ad32fc594c2dc8a5ba.jpg) | [Source](https://x.com/i/web/status/2106038323919864237) |
 | [VahidYousefzadeh/pretext-harfbuzz](https://github.com/VahidYousefzadeh/pretext-harfbuzz) | [Try demo](https://www.vahidyousefzadeh.com/pretext-harfbuzz) | [Screenshot](previews/498312a778c1351f9b5f5dfe.jpg) | [Source](https://x.com/i/web/status/2106018671093063764) |
+| [Likemiens/SpeakLouderSphere](https://github.com/Likemiens/SpeakLouderSphere) | [Try demo](https://speak-louder-sphere.vercel.app/) | [Screenshot](previews/41aacfbedd61c967e99424a0.jpg) | [Source](https://x.com/i/web/status/2106017261999861947) |
 | [dgreenheck/threejs-particle-fluids](https://github.com/dgreenheck/threejs-particle-fluids) | [Try demo](https://dgreenheck.github.io/threejs-particle-fluids/) | [Screenshot](previews/516bf15c48a7ef643f617e49.jpg) | [Source](https://x.com/i/web/status/2104597039757594724) |
 | [dgreenheck/tidewater](https://github.com/dgreenheck/tidewater) | [Try demo](https://dgreenheck.github.io/tidewater/) | [Screenshot](previews/57a9516a811db8692d653564.jpg) | [Source](https://x.com/i/web/status/2104594391491105179) |
 | [sbobyn/three-voxel-destruction](https://github.com/sbobyn/three-voxel-destruction) | [Try demo](https://three-voxel-destruction.vercel.app/) | [Screenshot](previews/bf7e99631a9ffd189b281b87.jpg) | [Source](https://x.com/i/web/status/2104584028980707668) |
@@ -104,5 +105,10 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [RicheySon/proof](https://github.com/RicheySon/proof) | [Try demo](https://proof-smoky.vercel.app/) | [Screenshot](previews/892b581a8a8c26bc206a2728.jpg) | [Source](https://x.com/i/web/status/2104332694331314504) |
 | [SamG-Coder/Leaf](https://github.com/SamG-Coder/Leaf) | [Try demo](https://samg-coder.github.io/Leaf/editor.html) | [Screenshot](previews/32da8ac71d0045a848a1a109.jpg) | [Source](https://x.com/i/web/status/2104299846584959026) |
 | [Dami904/steward](https://github.com/Dami904/steward) | [Try demo](https://steward-rwa.vercel.app/demo) | [Screenshot](previews/cd7b4e47216372ccd50b3233.jpg) | [Source](https://x.com/i/web/status/2104250842362839217) |
+| [Kshot3000/Night-Messenger-](https://github.com/Kshot3000/Night-Messenger-) | [Try demo](https://kshot3000.github.io/Night-Messenger-/) | [Screenshot](previews/1761d61737b4e2ea3f88b201.jpg) | [Source](https://x.com/i/web/status/2105816290544005527) |
+| [ryancampbell/ask-canada](https://github.com/ryancampbell/ask-canada) | [Try demo](https://america.gov/) | [Screenshot](previews/02e5686931e77ba765c25493.jpg) | [Source](https://x.com/i/web/status/2105801774028476623) |
+| [anonthedev/athel](https://github.com/anonthedev/athel) | [Try demo](https://athel-research.vercel.app/) | [Screenshot](previews/3b9cd15291fee356b9f34bc3.jpg) | [Source](https://x.com/i/web/status/2108537253429747842) |
+| [invincible04/SplitFree](https://github.com/invincible04/SplitFree) | [Try demo](https://invincible04.github.io/SplitFree/) | [Screenshot](previews/41f1dc58d7d7d631f15c8a9e.jpg) | [Source](https://x.com/i/web/status/2101720182322536877) |
+| [lgs1920/timeline](https://github.com/lgs1920/timeline) | [Try demo](https://lgs1920.github.io/timeline/) | [Screenshot](previews/742ba9b4b8090ef03b6ed803.jpg) | [Source](https://x.com/i/web/status/2100637400502313000) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.
