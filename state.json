@@ -23939,7 +23939,7 @@
     "tomelias10/orynval-labs": {
       "full": "tomelias10/orynval-labs",
       "firstSeenAt": "2026-10-10T12:31:01.111Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -23958,7 +23958,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T12:31:01.111Z"
+      "lastSeenAt": "2026-10-10T12:31:01.111Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T21:02:04.839Z"
     },
     "wan593315006/white-box-state-transition-governance-reference-demo": {
       "full": "wan593315006/white-box-state-transition-governance-reference-demo",
@@ -24226,7 +24228,7 @@
     "pranavgawasproject/agentwall": {
       "full": "pranavgawasproject/agentwall",
       "firstSeenAt": "2026-10-10T12:31:01.111Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -24245,7 +24247,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T12:31:01.111Z"
+      "lastSeenAt": "2026-10-10T12:31:01.111Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T21:02:05.528Z"
     },
     "nakulmahale/ai-server-monitor": {
       "full": "nakulmahale/AI-Server-monitor",
@@ -27866,7 +27870,7 @@
     "pplmaverick/gapwatch": {
       "full": "pplmaverick/gapwatch",
       "firstSeenAt": "2026-10-10T19:33:57.220Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -27885,7 +27889,104 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T19:33:57.220Z"
+      "lastSeenAt": "2026-10-10T19:33:57.220Z",
+      "entry": {
+        "availability": "available",
+        "full": "pplmaverick/gapwatch",
+        "name": "gapwatch",
+        "description": "Independent on-chain verification for Robinhood Chain corporate actions",
+        "category": "Finance",
+        "language": "Solidity",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-14T02:41:02Z",
+        "updated": "2026-09-29T03:56:35Z",
+        "branch": "main",
+        "homepage": "https://frontend-flame-rho-ddm8ox3ai6.vercel.app",
+        "topics": [
+          "arbitrum",
+          "arbitrum-stylus",
+          "corporate-actions",
+          "defi",
+          "multisig",
+          "oracle",
+          "robinhood-chain",
+          "rust",
+          "smart-contracts",
+          "solidity"
+        ],
+        "demo": "https://gapwatch-app.vercel.app/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-10T21:02:00.128Z",
+        "lastAvailableAt": "2026-10-10T21:02:00.128Z",
+        "lastAttemptAt": "2026-10-10T21:02:00.128Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105923045307392391",
+            "postId": "2105923045307392391",
+            "postedAt": "2026-10-02T07:29:14.000Z"
+          }
+        ],
+        "subjects": [
+          "Crypto & blockchain"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Finance",
+          "subjects": [
+            "Crypto & blockchain"
+          ],
+          "evidence": [
+            {
+              "subject": "Crypto & blockchain",
+              "source": "metadata",
+              "match": "defi"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://gapwatch-app.vercel.app/",
+          "attemptedAt": "2026-10-10T21:02:03.503Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T21:02:03.503Z",
+          "lastWorkingAt": "2026-10-10T21:02:03.503Z",
+          "target": "https://gapwatch-app.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T21:02:03.503Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/86782a1346dd22e6d70089b9.jpg",
+            "kind": "demo",
+            "url": "https://gapwatch-app.vercel.app/",
+            "capturedAt": "2026-10-10T21:02:03.503Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T21:02:03.503Z",
+        "previewCheck": {
+          "url": "https://gapwatch-app.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T21:02:03.503Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T21:02:03.504Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-12T09:02:03.504Z",
+      "checkedAt": "2026-10-10T21:02:03.504Z",
+      "firstAcceptedAt": "2026-10-10T21:02:03.504Z"
     },
     "fanchengliu/codeusagemonit": {
       "full": "fanchengliu/codeusagemonit",
@@ -27999,7 +28100,7 @@
     "qiz029/dscode": {
       "full": "qiz029/dscode",
       "firstSeenAt": "2026-10-10T19:33:57.220Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -28018,7 +28119,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T19:33:57.220Z"
+      "lastSeenAt": "2026-10-10T19:33:57.220Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T21:02:04.184Z"
     },
     "wenyiwu0111/rs": {
       "full": "WenyiWU0111/RS",
@@ -28378,7 +28481,7 @@
     "alexhancock/chip": {
       "full": "alexhancock/chip",
       "firstSeenAt": "2026-10-10T19:33:57.220Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -28397,7 +28500,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T19:33:57.220Z"
+      "lastSeenAt": "2026-10-10T19:33:57.220Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T21:01:50.559Z"
     },
     "chandrasekar-r/toolprobe-clef-precheck": {
       "full": "chandrasekar-r/toolprobe-clef-precheck",
@@ -28650,7 +28755,7 @@
     "jensenleedesignstudio/3d-liver-segmentation-project": {
       "full": "jensenleedesignstudio/3d-liver-segmentation-project",
       "firstSeenAt": "2026-10-10T19:33:57.220Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -28669,7 +28774,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T19:33:57.220Z"
+      "lastSeenAt": "2026-10-10T19:33:57.220Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T21:01:46.647Z"
     },
     "fluidinference/fluidaudio": {
       "full": "FluidInference/FluidAudio",
@@ -29378,7 +29485,7 @@
     "kanon-ai/v9968_sampledemo": {
       "full": "kanon-ai/V9968_SampleDemo",
       "firstSeenAt": "2026-10-10T19:34:02.252Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -29397,7 +29504,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T19:34:02.252Z"
+      "lastSeenAt": "2026-10-10T19:34:02.252Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T21:01:49.911Z"
     },
     "google/ax": {
       "full": "google/ax",
@@ -29450,7 +29559,7 @@
     "wdwxw/jevdemo": {
       "full": "wdwxw/jevdemo",
       "firstSeenAt": "2026-10-10T19:34:02.252Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -29469,12 +29578,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T19:34:02.252Z"
+      "lastSeenAt": "2026-10-10T19:34:02.252Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T21:01:49.308Z"
     },
     "tencentarc/worldcrafter": {
       "full": "TencentARC/WorldCrafter",
       "firstSeenAt": "2026-10-10T19:34:02.252Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -29493,12 +29604,109 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T19:34:02.252Z"
+      "lastSeenAt": "2026-10-10T19:34:02.252Z",
+      "entry": {
+        "availability": "available",
+        "full": "TencentARC/WorldCrafter",
+        "name": "WorldCrafter",
+        "description": "[Arxiv 2026] WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+        "category": "Other",
+        "language": "Python",
+        "stars": 471,
+        "forks": 18,
+        "created": "2026-09-14T09:03:58Z",
+        "updated": "2026-10-08T01:28:28Z",
+        "license": null,
+        "branch": "main",
+        "homepage": "https://drexubery.github.io/WorldCrafter/",
+        "topics": [
+          "video-generation",
+          "world-models"
+        ],
+        "demo": "https://drexubery.github.io/WorldCrafter/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-10T21:01:51.141Z",
+        "lastAvailableAt": "2026-10-10T21:01:51.141Z",
+        "lastAttemptAt": "2026-10-10T21:01:51.141Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2102403703051591683",
+            "postId": "2102403703051591683",
+            "postedAt": "2026-09-22T14:24:38.000Z"
+          }
+        ],
+        "subjects": [
+          "Image, audio & video AI",
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "Image, audio & video AI",
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "Image, audio & video AI",
+              "source": "metadata",
+              "match": "video generation"
+            },
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "3D"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://drexubery.github.io/WorldCrafter/",
+          "attemptedAt": "2026-10-10T21:01:54.405Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T21:01:54.405Z",
+          "lastWorkingAt": "2026-10-10T21:01:54.405Z",
+          "target": "https://drexubery.github.io/WorldCrafter/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T21:01:54.405Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/21388b04f9b5a9afb49f753a.jpg",
+            "kind": "demo",
+            "url": "https://drexubery.github.io/WorldCrafter/",
+            "capturedAt": "2026-10-10T21:01:54.405Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T21:01:54.405Z",
+        "previewCheck": {
+          "url": "https://drexubery.github.io/WorldCrafter/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T21:01:54.405Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T21:01:54.406Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-12T09:01:54.406Z",
+      "checkedAt": "2026-10-10T21:01:54.406Z",
+      "firstAcceptedAt": "2026-10-10T21:01:54.406Z"
     },
     "oreliau/meditation-app": {
       "full": "oreliau/meditation-app",
       "firstSeenAt": "2026-10-10T19:34:02.252Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -29517,7 +29725,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T19:34:02.252Z"
+      "lastSeenAt": "2026-10-10T19:34:02.252Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T21:01:55.200Z"
     },
     "nandhakishorm/laya": {
       "full": "NandhaKishorM/laya",
@@ -31193,7 +31403,7 @@
     "samg-coder/coastal-simulation-cuda-webshader": {
       "full": "SamG-Coder/coastal-simulation-cuda-webshader",
       "firstSeenAt": "2026-10-10T19:34:02.252Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -31210,7 +31420,98 @@
         "replies": 6,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-10T19:34:02.252Z"
+      "lastSeenAt": "2026-10-10T19:34:02.252Z",
+      "entry": {
+        "availability": "available",
+        "full": "SamG-Coder/coastal-simulation-cuda-webshader",
+        "name": "coastal-simulation-cuda-webshader",
+        "description": "GPU-resident CUDA WebShader / WebGPU port of iamtechartist/coastal-simulation, with free-flight controls and an FPS display. Original MIT attribution preserved.",
+        "category": "Design",
+        "language": "JavaScript",
+        "stars": 11,
+        "forks": 0,
+        "created": "2026-09-19T23:10:48Z",
+        "updated": "2026-09-19T23:59:17Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://samg-coder.github.io/coastal-simulation-cuda-webshader/",
+        "topics": [
+          "coastal-simulation",
+          "cuda",
+          "simulation",
+          "threejs",
+          "webgpu"
+        ],
+        "demo": "https://samg-coder.github.io/coastal-simulation-cuda-webshader/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-10T21:01:31.798Z",
+        "lastAvailableAt": "2026-10-10T21:01:31.798Z",
+        "lastAttemptAt": "2026-10-10T21:01:31.798Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2102141213658972301",
+            "postId": "2102141213658972301",
+            "postedAt": "2026-09-21T21:01:35.000Z"
+          }
+        ],
+        "subjects": [
+          "Simulation & physics",
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "Simulation & physics",
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "Simulation & physics",
+              "source": "metadata",
+              "match": "simulation"
+            },
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "WebGPU"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://samg-coder.github.io/coastal-simulation-cuda-webshader/",
+          "attemptedAt": "2026-10-10T21:01:45.669Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T21:01:45.669Z",
+          "lastWorkingAt": "2026-10-10T21:01:45.669Z",
+          "target": "https://samg-coder.github.io/coastal-simulation-cuda-webshader/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T21:01:45.669Z"
+        },
+        "previewAttemptAt": "2026-10-10T21:01:45.669Z",
+        "previewCheck": {
+          "url": "https://samg-coder.github.io/coastal-simulation-cuda-webshader/",
+          "status": "retry",
+          "reason": "screenshot_error",
+          "attemptedAt": "2026-10-10T21:01:45.669Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-17T21:01:45.669Z"
+        }
+      },
+      "reason": "screenshot_error",
+      "nextAttemptAt": "2026-10-17T21:01:45.669Z",
+      "checkedAt": "2026-10-10T21:01:45.669Z"
     },
     "pascalorg/editor": {
       "full": "pascalorg/editor",
@@ -32719,7 +33020,7 @@
     "arindam200/fr": {
       "full": "arindam200/fr",
       "firstSeenAt": "2026-10-10T21:00:18.988Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -32738,7 +33039,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T21:00:18.988Z"
+      "lastSeenAt": "2026-10-10T21:00:18.988Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T21:01:55.831Z"
     },
     "erupts/erupt": {
       "full": "erupts/erupt",
@@ -32767,7 +33070,7 @@
     "hydrosplays/tidalhex": {
       "full": "HydrosPlays/TidalHeX",
       "firstSeenAt": "2026-10-10T21:00:18.988Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -32786,7 +33089,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T21:00:18.988Z"
+      "lastSeenAt": "2026-10-10T21:00:18.988Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T21:01:31.020Z"
     },
     "qingshungli/software-design-philosophy-skill": {
       "full": "qingshungLI/software-design-philosophy-skill",
@@ -32863,7 +33168,7 @@
     "shanghua-gao/rsi-jev": {
       "full": "Shanghua-Gao/RSI-Jev",
       "firstSeenAt": "2026-10-10T21:00:18.988Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -32902,7 +33207,115 @@
           "repository": "Shanghua-Gao/RSI-Jev"
         }
       ],
-      "lastSeenAt": "2026-10-10T21:00:18.988Z"
+      "lastSeenAt": "2026-10-10T21:00:18.988Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "Shanghua-Gao/RSI-Jev",
+        "postUrl": "https://x.com/i/web/status/2105660120348905805",
+        "url": "https://shanghua-gao.github.io/RSI-Jev/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "Shanghua-Gao/RSI-Jev",
+        "name": "RSI-Jev",
+        "description": "Typed-decision models (noul / choice / score) trained by a self-improving loop of AI agents — checkpoints, the code that produced them, and every version that failed.",
+        "category": "Developer tools",
+        "language": "HTML",
+        "stars": 109,
+        "forks": 8,
+        "created": "2026-09-22T10:23:04Z",
+        "updated": "2026-10-10T13:41:32Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://shgao.site",
+        "topics": [
+          "ai-agents",
+          "autonomous-research",
+          "decision-model",
+          "jev",
+          "llm",
+          "recursive-self-improvement",
+          "system-one",
+          "typed-decisions"
+        ],
+        "demo": "https://shanghua-gao.github.io/RSI-Jev/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-10T21:01:15.476Z",
+        "lastAvailableAt": "2026-10-10T21:01:15.476Z",
+        "lastAttemptAt": "2026-10-10T21:01:15.476Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "Shanghua-Gao/RSI-Jev",
+          "postUrl": "https://x.com/i/web/status/2105660120348905805",
+          "url": "https://shanghua-gao.github.io/RSI-Jev/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105660120348905805",
+            "postId": "2105660120348905805",
+            "postedAt": "2026-10-01T14:04:28.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "AI agents"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://shanghua-gao.github.io/RSI-Jev/",
+          "attemptedAt": "2026-10-10T21:01:19.520Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T21:01:19.520Z",
+          "lastWorkingAt": "2026-10-10T21:01:19.520Z",
+          "target": "https://shanghua-gao.github.io/RSI-Jev/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T21:01:19.520Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/8100cefca1ab6c90ac46cb00.jpg",
+            "kind": "demo",
+            "url": "https://shanghua-gao.github.io/RSI-Jev/",
+            "capturedAt": "2026-10-10T21:01:19.520Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T21:01:19.520Z",
+        "previewCheck": {
+          "url": "https://shanghua-gao.github.io/RSI-Jev/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T21:01:19.520Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T21:01:19.521Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-12T09:01:19.522Z",
+      "checkedAt": "2026-10-10T21:01:19.522Z",
+      "firstAcceptedAt": "2026-10-10T21:01:19.522Z"
     },
     "multiples-hq/business-state-machine-mcp": {
       "full": "multiples-hq/business-state-machine-mcp",
@@ -32931,7 +33344,7 @@
     "corbenicai/galahad": {
       "full": "corbenicai/galahad",
       "firstSeenAt": "2026-10-10T21:00:18.988Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -32950,7 +33363,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T21:00:18.988Z"
+      "lastSeenAt": "2026-10-10T21:00:18.988Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T21:01:48.648Z"
     },
     "openai/codex": {
       "full": "openai/codex",
@@ -32979,7 +33394,7 @@
     "wolfe-jam/mcp-context-card": {
       "full": "Wolfe-Jam/mcp-context-card",
       "firstSeenAt": "2026-10-10T21:00:18.988Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -32998,7 +33413,103 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T21:00:18.988Z"
+      "lastSeenAt": "2026-10-10T21:00:18.988Z",
+      "entry": {
+        "availability": "available",
+        "full": "Wolfe-Jam/mcp-context-card",
+        "name": "mcp-context-card",
+        "description": "MCP server that makes a project's context (AGENTS.md), memory, and identity discoverable to any MCP client — via the Server Card _meta block and ai-catalog.json",
+        "category": "AI & machine learning",
+        "language": "TypeScript",
+        "stars": 3,
+        "forks": 0,
+        "created": "2026-08-12T06:05:57Z",
+        "updated": "2026-10-08T13:51:00Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://wolfe-jam.github.io/mcp-context-card/",
+        "topics": [
+          "agent-memory",
+          "agents-md",
+          "ai-catalog",
+          "ai-context",
+          "faf-ecosystem",
+          "mcp",
+          "model-context-protocol",
+          "server-card"
+        ],
+        "demo": "https://wolfe-jam.github.io/mcp-context-card/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-10T21:01:56.418Z",
+        "lastAvailableAt": "2026-10-10T21:01:56.418Z",
+        "lastAttemptAt": "2026-10-10T21:01:56.418Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105648914141774086",
+            "postId": "2105648914141774086",
+            "postedAt": "2026-10-01T13:19:56.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "mcp"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://wolfe-jam.github.io/mcp-context-card/",
+          "attemptedAt": "2026-10-10T21:01:59.495Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T21:01:59.495Z",
+          "lastWorkingAt": "2026-10-10T21:01:59.495Z",
+          "target": "https://wolfe-jam.github.io/mcp-context-card/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T21:01:59.495Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/78a51294c35c500a845bcb36.jpg",
+            "kind": "demo",
+            "url": "https://wolfe-jam.github.io/mcp-context-card/",
+            "capturedAt": "2026-10-10T21:01:59.495Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T21:01:59.495Z",
+        "previewCheck": {
+          "url": "https://wolfe-jam.github.io/mcp-context-card/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T21:01:59.495Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T21:01:59.495Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-12T09:01:59.496Z",
+      "checkedAt": "2026-10-10T21:01:59.496Z",
+      "firstAcceptedAt": "2026-10-10T21:01:59.496Z"
     },
     "dilshod-abdullayev/kvitansiya": {
       "full": "Dilshod-Abdullayev/kvitansiya",
@@ -33075,7 +33586,7 @@
     "themhv/workshop-cdk-wallet": {
       "full": "TheMhv/workshop-cdk-wallet",
       "firstSeenAt": "2026-10-10T21:00:18.988Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -33092,12 +33603,14 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-10T21:00:18.988Z"
+      "lastSeenAt": "2026-10-10T21:00:18.988Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T21:01:47.267Z"
     },
     "themhv/workshop-cdk-mint": {
       "full": "TheMhv/workshop-cdk-mint",
       "firstSeenAt": "2026-10-10T21:00:18.988Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -33114,12 +33627,14 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-10T21:00:18.988Z"
+      "lastSeenAt": "2026-10-10T21:00:18.988Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T21:01:47.968Z"
     },
     "txaty/terranvim": {
       "full": "txaty/TerraNvim",
       "firstSeenAt": "2026-10-10T21:00:18.988Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -33146,12 +33661,132 @@
           "repository": "txaty/TerraNvim"
         }
       ],
-      "lastSeenAt": "2026-10-10T21:00:18.988Z"
+      "lastSeenAt": "2026-10-10T21:00:18.988Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "txaty/TerraNvim",
+        "postUrl": "https://x.com/i/web/status/2105617904087838802",
+        "url": "https://dotfyle.com/txaty/terranvim"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "txaty/TerraNvim",
+        "name": "TerraNvim",
+        "description": "A fast, down-to-earth Neovim distribution. Language packs for Go, Rust, Python, TypeScript, Swift, C/C++, Kotlin, Solidity and more: LSP, formatting, linting, debugging and tests out of the box. ~25 ms startup, Neovim 0.12+.",
+        "category": "Developer tools",
+        "language": "Lua",
+        "stars": 1,
+        "forks": 0,
+        "created": "2025-01-07T07:52:24Z",
+        "updated": "2026-10-05T00:11:46Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [
+          "blink-cmp",
+          "claude-code",
+          "developer-tools",
+          "dotfiles",
+          "ide",
+          "lazy-nvim",
+          "lsp",
+          "lua",
+          "mason-nvim",
+          "neovim",
+          "neovim-config",
+          "neovim-configuration",
+          "neovim-distribution",
+          "neovim-dotfiles",
+          "neovim-lua",
+          "nvim",
+          "pde",
+          "snacks-nvim",
+          "treesitter",
+          "vim"
+        ],
+        "demo": "https://dotfyle.com/txaty/terranvim",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-10T21:01:20.552Z",
+        "lastAvailableAt": "2026-10-10T21:01:20.552Z",
+        "lastAttemptAt": "2026-10-10T21:01:20.552Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "txaty/TerraNvim",
+          "postUrl": "https://x.com/i/web/status/2105617904087838802",
+          "url": "https://dotfyle.com/txaty/terranvim"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105617904087838802",
+            "postId": "2105617904087838802",
+            "postedAt": "2026-10-01T11:16:43.000Z"
+          }
+        ],
+        "subjects": [
+          "Crypto & blockchain"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Crypto & blockchain"
+          ],
+          "evidence": [
+            {
+              "subject": "Crypto & blockchain",
+              "source": "metadata",
+              "match": "Solidity"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://dotfyle.com/txaty/terranvim",
+          "attemptedAt": "2026-10-10T21:01:25.857Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T21:01:25.857Z",
+          "lastWorkingAt": "2026-10-10T21:01:25.857Z",
+          "target": "https://dotfyle.com/txaty/terranvim",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T21:01:25.857Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/671f017b498e9ed5decd1b42.jpg",
+            "kind": "demo",
+            "url": "https://dotfyle.com/txaty/terranvim",
+            "capturedAt": "2026-10-10T21:01:25.857Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T21:01:25.857Z",
+        "previewCheck": {
+          "url": "https://dotfyle.com/txaty/terranvim",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T21:01:25.857Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T21:01:25.857Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-12T09:01:25.858Z",
+      "checkedAt": "2026-10-10T21:01:25.858Z",
+      "firstAcceptedAt": "2026-10-10T21:01:25.858Z"
     },
     "filtrix-net/filtrix-charts": {
       "full": "FILTRIX-net/filtrix-charts",
       "firstSeenAt": "2026-10-10T21:00:18.988Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -33184,7 +33819,101 @@
           "repository": "FILTRIX-net/filtrix-charts"
         }
       ],
-      "lastSeenAt": "2026-10-10T21:00:18.988Z"
+      "lastSeenAt": "2026-10-10T21:00:18.988Z",
+      "entry": {
+        "availability": "available",
+        "full": "FILTRIX-net/filtrix-charts",
+        "name": "filtrix-charts",
+        "description": "FILTRIX Charts by FILTRIX.NET — customizable financial charts for web applications. Apache-2.0 open-source beta.",
+        "category": "Design",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-29T20:15:10Z",
+        "updated": "2026-10-01T12:38:51Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": "https://charts.filtrix.net/",
+        "topics": [
+          "canvas",
+          "charting-library",
+          "financial-charts",
+          "fintech",
+          "trading",
+          "typescript"
+        ],
+        "demo": "https://charts.filtrix.net/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-10T21:01:26.857Z",
+        "lastAvailableAt": "2026-10-10T21:01:26.857Z",
+        "lastAttemptAt": "2026-10-10T21:01:26.857Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105602318339072220",
+            "postId": "2105602318339072220",
+            "postedAt": "2026-10-01T10:14:47.000Z"
+          }
+        ],
+        "subjects": [
+          "Data & dashboards"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "Data & dashboards"
+          ],
+          "evidence": [
+            {
+              "subject": "Data & dashboards",
+              "source": "metadata",
+              "match": "charts"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://charts.filtrix.net/",
+          "attemptedAt": "2026-10-10T21:01:30.230Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T21:01:30.230Z",
+          "lastWorkingAt": "2026-10-10T21:01:30.230Z",
+          "target": "https://charts.filtrix.net/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T21:01:30.230Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/a5f0419c03b7ff1402b36579.jpg",
+            "kind": "demo",
+            "url": "https://charts.filtrix.net/",
+            "capturedAt": "2026-10-10T21:01:30.230Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T21:01:30.230Z",
+        "previewCheck": {
+          "url": "https://charts.filtrix.net/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T21:01:30.230Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T21:01:30.231Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-12T09:01:30.232Z",
+      "checkedAt": "2026-10-10T21:01:30.232Z",
+      "firstAcceptedAt": "2026-10-10T21:01:30.232Z"
     }
   },
   "lastRun": {
@@ -33643,16 +34372,16 @@
       "posts": 210,
       "uniquePosts": 136,
       "newCandidates": 108,
-      "validationAttempts": 75,
-      "accepted": 31
+      "validationAttempts": 84,
+      "accepted": 35
     },
     "2c0438e5283099cf": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "posts": 88,
       "uniquePosts": 86,
       "newCandidates": 101,
-      "validationAttempts": 96,
-      "accepted": 43
+      "validationAttempts": 101,
+      "accepted": 44
     },
     "ac3eb65e96558e14": {
       "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
@@ -33675,8 +34404,8 @@
       "posts": 105,
       "uniquePosts": 68,
       "newCandidates": 71,
-      "validationAttempts": 47,
-      "accepted": 23
+      "validationAttempts": 53,
+      "accepted": 24
     }
   },
   "demoSeeds": {

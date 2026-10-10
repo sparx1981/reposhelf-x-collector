@@ -1,18 +1,18 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-10T19:36:29.490Z
+Checked: 2026-10-10T21:02:05.538Z
 
-Quality-ready repositories: **130**
+Quality-ready repositories: **134**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 175 | 119 | 90 | 31 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 88 | 86 | 101 | 43 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 210 | 136 | 108 | 35 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 88 | 86 | 101 | 44 |
 | (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 20 |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 60 | 16 | 10 | 3 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 105 | 68 | 71 | 23 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 75 | 16 | 10 | 3 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 105 | 68 | 71 | 24 |
 
 Acceptance totals are attributed to the first discovery query; these are not controlled experiments.
 
@@ -39,7 +39,6 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [AzizMohseny/FFB](https://github.com/AzizMohseny/FFB) | [Try demo](https://ffb-flame.vercel.app/) | [Screenshot](previews/91921d5334c15d0b6823e252.jpg) | [Source](https://x.com/i/web/status/2108440240704913681) |
 | [tangpeiqi/BabyCare](https://github.com/tangpeiqi/BabyCare) | [Try demo](https://peiqitang.com/babycare.html) | [Screenshot](previews/611042c3e9df4b47293bc666.jpg) | [Source](https://x.com/i/web/status/2108438465524507126) |
 | [mercurial20/loremapper](https://github.com/mercurial20/loremapper) | [Try demo](https://mercurial20.github.io/loremapper/) | [Screenshot](previews/44d079a37a15c260bee421db.jpg) | [Source](https://x.com/i/web/status/2108438176348160130) |
-| [nirholas/three.ws](https://github.com/nirholas/three.ws) | [Try demo](https://three.ws/ibm/x402-demo) | [Screenshot](previews/1527824b58f35963005704ae.jpg) | [Source](https://x.com/i/web/status/2108429148473774108) |
 | [AdaSouls/velum](https://github.com/AdaSouls/velum) | [Try demo](https://velum.adasouls.io/) | [Screenshot](previews/05314f1a631364c209fb8817.jpg) | [Source](https://x.com/i/web/status/2108428353657340014) |
 | [Aixio-AI/aixio-layer-v2](https://github.com/Aixio-AI/aixio-layer-v2) | [Try demo](https://aixio.app/) | [Screenshot](previews/7f0a02eab222a1aae3f63724.jpg) | [Source](https://x.com/i/web/status/2108424835508637827) |
 | [Ark0N/Codeman](https://github.com/Ark0N/Codeman) | [Try demo](https://getcodeman.com/install) | [Screenshot](previews/366da5bc5ac9a5870ddb0632.jpg) | [Source](https://x.com/i/web/status/2108407067480662298) |
@@ -134,6 +133,7 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [Aria-Hosseini/Doc-Builder](https://github.com/Aria-Hosseini/Doc-Builder) | [Try demo](https://aria-hosseini.github.io/Doc-Builder/) | [Screenshot](previews/8f732e788825c7181022a348.jpg) | [Source](https://x.com/i/web/status/2103421925997392088) |
 | [pmndrs/examples](https://github.com/pmndrs/examples) | [Try demo](https://pmndrs.github.io/examples/) | [Screenshot](previews/357d17a24aeb6549c5b36433.jpg) | [Source](https://x.com/i/web/status/2103228854953521269) |
 | [Sahilbisht12/heart-disease-prediction](https://github.com/Sahilbisht12/heart-disease-prediction) | [Try demo](https://sahilbisht12-heart-disease-prediction-app-urdufy.streamlit.app/) | [Screenshot](previews/19bc944a657789f6ca13f419.jpg) | [Source](https://x.com/i/web/status/2105715784085594464) |
+| [pplmaverick/gapwatch](https://github.com/pplmaverick/gapwatch) | [Try demo](https://gapwatch-app.vercel.app/) | [Screenshot](previews/86782a1346dd22e6d70089b9.jpg) | [Source](https://x.com/i/web/status/2105923045307392391) |
 | [fanchengliu/codeusagemonit](https://github.com/fanchengliu/codeusagemonit) | [Try demo](https://codeusagemonit.vercel.app/) | [Screenshot](previews/b6ca86da80b1a028227b5d79.jpg) | [Source](https://x.com/i/web/status/2105911390418702580) |
 | [flas-ai/FLAS](https://github.com/flas-ai/FLAS) | [Try demo](https://huggingface.co/spaces/Lunamos/flas-demo) | [Screenshot](previews/7a3633f9425f1cd58511b6d4.jpg) | [Source](https://x.com/i/web/status/2105857929626652823) |
 | [rahulde2007/rahuls-3d-world](https://github.com/rahulde2007/rahuls-3d-world) | [Try demo](https://rahuls-3d-world.vercel.app/) | [Screenshot](previews/292498640da69ae7dab2cf8f.jpg) | [Source](https://x.com/i/web/status/2105828527736299672) |
@@ -141,12 +141,16 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [pipecat-ai/nemo3-battleships](https://github.com/pipecat-ai/nemo3-battleships) | [Try demo](https://huggingface.co/nvidia/Nemotron-3-Diarization) | [Screenshot](previews/e3b3c306fc01106eedb84659.jpg) | [Source](https://x.com/i/web/status/2102796442175988063) |
 | [HealthyBuilder/owys](https://github.com/HealthyBuilder/owys) | [Try demo](https://owys-527896532687.us-central1.run.app/) | [Screenshot](previews/b1dc177f89e65a4baed32cc6.jpg) | [Source](https://x.com/i/web/status/2102783188498313477) |
 | [royerlab/luxar](https://github.com/royerlab/luxar) | [Try demo](https://demos.luxarviewer.dev/) | [Screenshot](previews/371f0b04e964d1fe89a3d01c.jpg) | [Source](https://x.com/i/web/status/2102679234653426075) |
+| [TencentARC/WorldCrafter](https://github.com/TencentARC/WorldCrafter) | [Try demo](https://drexubery.github.io/WorldCrafter/) | [Screenshot](previews/21388b04f9b5a9afb49f753a.jpg) | [Source](https://x.com/i/web/status/2102403703051591683) |
 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | [Try demo](https://huggingface.co/spaces/convaiinnovations/laya-demo) | [Screenshot](previews/4b4987ebf190b01b9d1964c9.jpg) | [Source](https://x.com/i/web/status/2102295117956526586) |
-| [wdobry/laya-playground](https://github.com/wdobry/laya-playground) | [Try demo](https://brainfunctioncollapse.com/laya) | [Screenshot](previews/6b23cb91a307617fcfb694bc.jpg) | [Source](https://x.com/i/web/status/2102295117956526586) |
 | [SamG-Coder/RealIsland](https://github.com/SamG-Coder/RealIsland) | [Try demo](https://iamtechartist.github.io/coastal-simulation/) | [Screenshot](previews/6185ad88afebb5f1c0cb1a9a.jpg) | [Source](https://x.com/i/web/status/2102141213658972301) |
 | [SamG-Coder/RealGrass](https://github.com/SamG-Coder/RealGrass) | [Try demo](https://samg-coder.github.io/RealGrass/) | [Screenshot](previews/05e4912e8b5d37b22464b0b7.jpg) | [Source](https://x.com/i/web/status/2102141213658972301) |
 | [SamG-Coder/MountainRIver](https://github.com/SamG-Coder/MountainRIver) | [Try demo](https://samg-coder.github.io/MountainRIver/) | [Screenshot](previews/e40d2542637a5ede98684d16.jpg) | [Source](https://x.com/i/web/status/2102141213658972301) |
 | [pascalorg/editor](https://github.com/pascalorg/editor) | [Try demo](https://editor.pascal.app/next) | [Screenshot](previews/da5e5ef81aa4e531f516c646.jpg) | [Source](https://x.com/i/web/status/2102106101130969225) |
 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | [Try demo](https://666ghj.github.io/mirofish-demo/) | [Screenshot](previews/92a4acba35f10d274cda0f4c.jpg) | [Source](https://x.com/i/web/status/2102057663454667153) |
+| [Shanghua-Gao/RSI-Jev](https://github.com/Shanghua-Gao/RSI-Jev) | [Try demo](https://shanghua-gao.github.io/RSI-Jev/) | [Screenshot](previews/8100cefca1ab6c90ac46cb00.jpg) | [Source](https://x.com/i/web/status/2105660120348905805) |
+| [Wolfe-Jam/mcp-context-card](https://github.com/Wolfe-Jam/mcp-context-card) | [Try demo](https://wolfe-jam.github.io/mcp-context-card/) | [Screenshot](previews/78a51294c35c500a845bcb36.jpg) | [Source](https://x.com/i/web/status/2105648914141774086) |
+| [txaty/TerraNvim](https://github.com/txaty/TerraNvim) | [Try demo](https://dotfyle.com/txaty/terranvim) | [Screenshot](previews/671f017b498e9ed5decd1b42.jpg) | [Source](https://x.com/i/web/status/2105617904087838802) |
+| [FILTRIX-net/filtrix-charts](https://github.com/FILTRIX-net/filtrix-charts) | [Try demo](https://charts.filtrix.net/) | [Screenshot](previews/a5f0419c03b7ff1402b36579.jpg) | [Source](https://x.com/i/web/status/2105602318339072220) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.
