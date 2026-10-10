@@ -1,32 +1,32 @@
 {
   "schema": 1,
   "runId": "38052225173",
-  "checkedAt": "2026-10-10T12:31:07.054Z",
+  "checkedAt": "2026-10-10T12:31:11.745Z",
   "collection": {
-    "at": "2026-10-10T07:19:46.804Z",
-    "postsRead": 33,
-    "newCandidates": 21,
-    "candidateCount": 301,
+    "at": "2026-10-10T12:31:11.736Z",
+    "postsRead": 50,
+    "newCandidates": 16,
+    "candidateCount": 317,
     "stopped": null,
     "postLimit": 50,
     "queries": [
       {
-        "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+        "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
         "endpoint": "recent",
-        "postsRead": 1,
+        "postsRead": 18,
         "newCandidates": 0
       },
       {
-        "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+        "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
         "endpoint": "all",
         "postsRead": 17,
-        "newCandidates": 9
+        "newCandidates": 16
       },
       {
-        "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
-        "endpoint": "all",
+        "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+        "endpoint": "recent",
         "postsRead": 15,
-        "newCandidates": 12
+        "newCandidates": 0
       }
     ]
   },
