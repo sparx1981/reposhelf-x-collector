@@ -1,26 +1,23 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-10T13:54:57.178Z
+Checked: 2026-10-10T16:19:54.787Z
 
-Quality-ready repositories: **122**
+Quality-ready repositories: **118**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 140 | 102 | 76 | 30 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 175 | 119 | 90 | 31 |
 | url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 74 | 72 | 82 | 32 |
 | (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 20 |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 45 | 16 | 10 | 3 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 60 | 16 | 10 | 3 |
 | url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 70 | 52 | 55 | 20 |
 
 Acceptance totals are attributed to the first discovery query; these are not controlled experiments.
 
 | Repository | Demo | Screenshot | Source post |
 | --- | --- | --- | --- |
-| [tomcode1000/Hapax](https://github.com/tomcode1000/Hapax) | [Try demo](https://hapax-aid.vercel.app/) | [Screenshot](previews/cda696b14ab1f9ccd3d231ae.jpg) | [Source](https://x.com/i/web/status/2108204978620002352) |
-| [maiyun/clickgo](https://github.com/maiyun/clickgo) | [Try demo](https://maiyun.github.io/clickgo/dist/test/) | [Screenshot](previews/7005255de37e65fffacef695.jpg) | [Source](https://x.com/i/web/status/2108202530723520609) |
-| [careerbotdev/careerbot](https://github.com/careerbotdev/careerbot) | [Try demo](https://careerbot.dev/docs/demo) | [Screenshot](previews/ade8af995099cc5d2c2d02d8.jpg) | [Source](https://x.com/i/web/status/2108199081486979229) |
 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | [Try demo](https://dynamical.org/) | [Screenshot](previews/1415501f0ca6b791ba4fef63.jpg) | [Source](https://x.com/i/web/status/2108192627401081009) |
 | [shmidtqq65/blueprint](https://github.com/shmidtqq65/blueprint) | [Try demo](https://shmidtqq65.github.io/blueprint/) | [Screenshot](previews/0fc0e01ca034823447a9dbcf.jpg) | [Source](https://x.com/i/web/status/2108186528593608932) |
 | [velesxbt/drex-night-desk](https://github.com/velesxbt/drex-night-desk) | [Try demo](https://night-desk-fvo7.onrender.com/) | [Screenshot](previews/eb1589464bb47e2915a0432e.jpg) | [Source](https://x.com/i/web/status/2108257823507259393) |
@@ -53,7 +50,6 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [HeyPuter/builder](https://github.com/HeyPuter/builder) | [Try demo](https://builder.puter.com/) | [Screenshot](previews/03e8454c6a575a7f4ccd8861.jpg) | [Source](https://x.com/i/web/status/2108358111233020254) |
 | [buildbyravi/thru-wallet-ext](https://github.com/buildbyravi/thru-wallet-ext) | [Try demo](https://chromewebstore.google.com/detail/thru-wallet/ocahgpmgfeapjnceaknkikanjikhjgok) | [Screenshot](previews/ffa0ffed8387cd13abb2e1d0.jpg) | [Source](https://x.com/i/web/status/2105934980274852060) |
 | [pdcgomes/redlamp](https://github.com/pdcgomes/redlamp) | [Try demo](https://redlamp.app/) | [Screenshot](previews/d2a7b6098d80875b8979e86b.jpg) | [Source](https://x.com/i/web/status/2105927006206689737) |
-| [pocket-nexus/pocketjs](https://github.com/pocket-nexus/pocketjs) | [Try demo](https://pocketjs.pocket.nexus/playground/) | [Screenshot](previews/2414b36ef28c085ed0cc63cb.jpg) | [Source](https://x.com/i/web/status/2105922870186737672) |
 | [Hari31416/indic-language-utils](https://github.com/Hari31416/indic-language-utils) | [Try demo](https://hari31416.github.io/indic-language-utils/) | [Screenshot](previews/c08f416c5012018715129218.jpg) | [Source](https://x.com/i/web/status/2105889038087733464) |
 | [0xobelisk/dubhe](https://github.com/0xobelisk/dubhe) | [Try demo](https://dubhe-docs.obelisk.build/dubhe/sui/quick-start) | [Screenshot](previews/4c69228d4eb447f4196d5eb2.jpg) | [Source](https://x.com/i/web/status/2105876321050202360) |
 | [mortspace/momo](https://github.com/mortspace/momo) | [Try demo](https://feralui.dev/momo) | [Screenshot](previews/db62aed309a065d039229554.jpg) | [Source](https://x.com/i/web/status/2105863035827204487) |
@@ -132,7 +128,6 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [precisit/onepass-webgpu-ternary](https://github.com/precisit/onepass-webgpu-ternary) | [Try demo](https://precisit.github.io/onepass-web/demo/c4-size/) | [Screenshot](previews/e3b28440003896dfab7d697c.jpg) | [Source](https://x.com/i/web/status/2105957965362552871) |
 | [Jubbic/technocore-did-beginner-guide](https://github.com/Jubbic/technocore-did-beginner-guide) | [Try demo](https://jubbic-spark-market-2026.vercel.app/) | [Screenshot](previews/efe1d7f01eeed97ed8626ec0.jpg) | [Source](https://x.com/i/web/status/2099041395063337304) |
 | [apiservicesac/s1grep](https://github.com/apiservicesac/s1grep) | [Try demo](https://huggingface.co/api-service-sac) | [Screenshot](previews/3021e9718e669ad286232e4e.jpg) | [Source](https://x.com/i/web/status/2105764500376883624) |
-| [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | [Try demo](https://meetings.hubspot.com/skyvern/demo) | [Screenshot](previews/01b61cb65e369258f5de92c7.jpg) | [Source](https://x.com/i/web/status/2105753423400370255) |
 | [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) | [Try demo](https://docs.langchain.com/oss/javascript/langchain/mcp) | [Screenshot](previews/a8f1aa99072c61471720da2a.jpg) | [Source](https://x.com/i/web/status/2105744481408716955) |
 | [Bhavadeep-coder/mic-testing-app](https://github.com/Bhavadeep-coder/mic-testing-app) | [Try demo](https://mic-testing-102f63.netlify.app/) | [Screenshot](previews/194acb8955d6e5b2118121ae.jpg) | [Source](https://x.com/i/web/status/2105739968845169082) |
 | [winsznx/unflinch](https://github.com/winsznx/unflinch) | [Try demo](https://unflinch-zeta.vercel.app/) | [Screenshot](previews/51fcfabdb0813b2e0286a08e.jpg) | [Source](https://x.com/i/web/status/2105730115267395604) |
@@ -140,5 +135,6 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [Abhist17/afterhours](https://github.com/Abhist17/afterhours) | [Try demo](https://afterhours-v0dr.onrender.com/) | [Screenshot](previews/9b59acb029bb06aadc853be6.jpg) | [Source](https://x.com/i/web/status/2103502999398277264) |
 | [Aria-Hosseini/Doc-Builder](https://github.com/Aria-Hosseini/Doc-Builder) | [Try demo](https://aria-hosseini.github.io/Doc-Builder/) | [Screenshot](previews/8f732e788825c7181022a348.jpg) | [Source](https://x.com/i/web/status/2103421925997392088) |
 | [pmndrs/examples](https://github.com/pmndrs/examples) | [Try demo](https://pmndrs.github.io/examples/) | [Screenshot](previews/357d17a24aeb6549c5b36433.jpg) | [Source](https://x.com/i/web/status/2103228854953521269) |
+| [Sahilbisht12/heart-disease-prediction](https://github.com/Sahilbisht12/heart-disease-prediction) | [Try demo](https://sahilbisht12-heart-disease-prediction-app-urdufy.streamlit.app/) | [Screenshot](previews/19bc944a657789f6ca13f419.jpg) | [Source](https://x.com/i/web/status/2105715784085594464) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.
