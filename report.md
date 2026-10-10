@@ -1,16 +1,16 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-10T05:40:19.497Z
+Checked: 2026-10-10T07:21:51.628Z
 
-Quality-ready repositories: **92**
+Quality-ready repositories: **105**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 105 | 85 | 60 | 25 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 44 | 42 | 55 | 21 |
-| (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 28 | 27 | 11 | 12 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 59 | 57 | 67 | 27 |
+| (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 19 |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 30 | 16 | 10 | 3 |
 | url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 35 | 35 | 39 | 14 |
 
@@ -110,5 +110,18 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [anonthedev/athel](https://github.com/anonthedev/athel) | [Try demo](https://athel-research.vercel.app/) | [Screenshot](previews/3b9cd15291fee356b9f34bc3.jpg) | [Source](https://x.com/i/web/status/2108537253429747842) |
 | [invincible04/SplitFree](https://github.com/invincible04/SplitFree) | [Try demo](https://invincible04.github.io/SplitFree/) | [Screenshot](previews/41f1dc58d7d7d631f15c8a9e.jpg) | [Source](https://x.com/i/web/status/2101720182322536877) |
 | [lgs1920/timeline](https://github.com/lgs1920/timeline) | [Try demo](https://lgs1920.github.io/timeline/) | [Screenshot](previews/742ba9b4b8090ef03b6ed803.jpg) | [Source](https://x.com/i/web/status/2100637400502313000) |
+| [SaumitraSaran/LifeOS](https://github.com/SaumitraSaran/LifeOS) | [Try demo](https://lifeos-3q6.pages.dev/) | [Screenshot](previews/fee1f81e508b1d0c3f7ec7d2.jpg) | [Source](https://x.com/i/web/status/2099793419455611137) |
+| [gauravmishra-1404/rubberai](https://github.com/gauravmishra-1404/rubberai) | [Try demo](https://gauravmishra-1404.github.io/rubberai_landing/) | [Screenshot](previews/e0ae60fef0ce1a558c6005ea.jpg) | [Source](https://x.com/i/web/status/2099159726617743555) |
+| [chapaevv123/pulse-arc](https://github.com/chapaevv123/pulse-arc) | [Try demo](https://chapaevv123.github.io/pulse-arc/) | [Screenshot](previews/c9ada48189c27f64abb731b5.jpg) | [Source](https://x.com/i/web/status/2099031808637558980) |
+| [daming98/cyberpunk-message-generator](https://github.com/daming98/cyberpunk-message-generator) | [Try demo](https://daming98.github.io/cyberpunk-message-generator/) | [Screenshot](previews/050bcd47fbca5df2dabfa351.jpg) | [Source](https://x.com/i/web/status/2099016012943253744) |
+| [bubblik525/Chernobyl_Atlas](https://github.com/bubblik525/Chernobyl_Atlas) | [Try demo](https://bubblik525.github.io/Chernobyl_Atlas/ATELIER-Reactor.html) | [Screenshot](previews/da1316357db71050941fabb0.jpg) | [Source](https://x.com/i/web/status/2098841319619649894) |
+| [Sai6522/copilot-day-spark](https://github.com/Sai6522/copilot-day-spark) | [Try demo](https://sai6522.github.io/copilot-day-spark/) | [Screenshot](previews/0124f65ac5448f1bebc30781.jpg) | [Source](https://x.com/i/web/status/2098768735951888891) |
+| [Vyom-2007/DuoFoldWallpaper](https://github.com/Vyom-2007/DuoFoldWallpaper) | [Try demo](https://vyom-2007.github.io/DuoFoldWallpaper/) | [Screenshot](previews/8141e3d68097f10aa661d492.jpg) | [Source](https://x.com/i/web/status/2098448513004958038) |
+| [jubayer910/Admin-panel](https://github.com/jubayer910/Admin-panel) | [Try demo](https://sql.js.org/) | [Screenshot](previews/dd54994c57815c08183f362d.jpg) | [Source](https://x.com/i/web/status/2103895604439208284) |
+| [SgtPooki/Avalanche-IPFS-Filecoin-RWA-reference-Architecture](https://github.com/SgtPooki/Avalanche-IPFS-Filecoin-RWA-reference-Architecture) | [Try demo](https://sgtpooki.github.io/Avalanche-IPFS-Filecoin-RWA-reference-Architecture/) | [Screenshot](previews/932adb48fa889aef71a1d0c8.jpg) | [Source](https://x.com/i/web/status/2103888602492969270) |
+| [alexshtf/spectral_neuron_paper](https://github.com/alexshtf/spectral_neuron_paper) | [Try demo](https://arxiv.org/abs/2608.08003) | [Screenshot](previews/4cb38e05a31ee2161b21e6ad.jpg) | [Source](https://x.com/i/web/status/2103887093302763889) |
+| [AgibotTech/sonic_for_a3](https://github.com/AgibotTech/sonic_for_a3) | [Try demo](https://agibottech.github.io/sonic_for_a3/) | [Screenshot](previews/adc12223f6190dd15d96bf1c.jpg) | [Source](https://x.com/i/web/status/2103726311202234601) |
+| [Kanahiro/cloud-optimized-geoparquet](https://github.com/Kanahiro/cloud-optimized-geoparquet) | [Try demo](https://kanahiro.github.io/cloud-optimized-geoparquet/) | [Screenshot](previews/a7cac89d1c2460a100b35e4a.jpg) | [Source](https://x.com/i/web/status/2103704428557836533) |
+| [FluidInference/FluidUse](https://github.com/FluidInference/FluidUse) | [Try demo](https://huggingface.co/FluidInference/gliner2-5-decide-coreml) | [Screenshot](previews/ef480a7e07c5a53892d5ec60.jpg) | [Source](https://x.com/i/web/status/2103576479124828564) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.

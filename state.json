@@ -18810,7 +18810,7 @@
     "antirez/anotherworld-zx-spectrum-48k": {
       "full": "antirez/anotherworld-zx-spectrum-48k",
       "firstSeenAt": "2026-10-09T17:42:11.600Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -18829,12 +18829,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-09T17:42:11.600Z"
+      "lastSeenAt": "2026-10-09T17:42:11.600Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T07:21:49.067Z"
     },
     "moguzbulbul/blueprint-animation": {
       "full": "moguzbulbul/blueprint-animation",
       "firstSeenAt": "2026-10-09T17:42:11.600Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -18853,7 +18855,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-09T17:42:11.600Z"
+      "lastSeenAt": "2026-10-09T17:42:11.600Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T07:21:51.029Z"
     },
     "richeyson/proof": {
       "full": "RicheySon/proof",
@@ -19675,7 +19679,7 @@
     "microsoft/wsl": {
       "full": "microsoft/wsl",
       "firstSeenAt": "2026-10-10T05:38:55.212Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -19694,7 +19698,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T05:38:55.212Z"
+      "lastSeenAt": "2026-10-10T05:38:55.212Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-17T07:21:51.621Z"
     },
     "socialiserapp-design/bgzflow": {
       "full": "socialiserapp-design/BGZFLOW",
@@ -20324,7 +20330,7 @@
     "saumitrasaran/lifeos": {
       "full": "SaumitraSaran/LifeOS",
       "firstSeenAt": "2026-10-10T07:19:38.317Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -20363,12 +20369,88 @@
           "repository": "SaumitraSaran/LifeOS"
         }
       ],
-      "lastSeenAt": "2026-10-10T07:19:38.317Z"
+      "lastSeenAt": "2026-10-10T07:19:38.317Z",
+      "entry": {
+        "availability": "available",
+        "full": "SaumitraSaran/LifeOS",
+        "name": "LifeOS",
+        "description": "LifeOS to manage overall organization of tasks and schedule, and make it easy for someone to sort their life!",
+        "category": "Productivity",
+        "language": "CSS",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-14T10:30:34Z",
+        "updated": "2026-09-16T07:16:23Z",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://lifeos-3q6.pages.dev/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-10T07:21:21.141Z",
+        "lastAvailableAt": "2026-10-10T07:21:21.141Z",
+        "lastAttemptAt": "2026-10-10T07:21:21.141Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099793419455611137",
+            "postId": "2099793419455611137",
+            "postedAt": "2026-09-15T09:32:18.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Productivity",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://lifeos-3q6.pages.dev/",
+          "attemptedAt": "2026-10-10T07:21:24.432Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T07:21:24.432Z",
+          "lastWorkingAt": "2026-10-10T07:21:24.432Z",
+          "target": "https://lifeos-3q6.pages.dev/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T07:21:24.432Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/fee1f81e508b1d0c3f7ec7d2.jpg",
+            "kind": "demo",
+            "url": "https://lifeos-3q6.pages.dev/",
+            "capturedAt": "2026-10-10T07:21:24.432Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T07:21:24.432Z",
+        "previewCheck": {
+          "url": "https://lifeos-3q6.pages.dev/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T07:21:24.432Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T07:21:24.433Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T19:21:24.433Z",
+      "checkedAt": "2026-10-10T07:21:24.433Z",
+      "firstAcceptedAt": "2026-10-10T07:21:24.433Z"
     },
     "bubblik525/cat_brain_anatomy": {
       "full": "bubblik525/cat_brain_anatomy",
       "firstSeenAt": "2026-10-10T07:19:38.317Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -20395,12 +20477,79 @@
           "repository": "bubblik525/cat_brain_anatomy"
         }
       ],
-      "lastSeenAt": "2026-10-10T07:19:38.317Z"
+      "lastSeenAt": "2026-10-10T07:19:38.317Z",
+      "entry": {
+        "availability": "available",
+        "full": "bubblik525/cat_brain_anatomy",
+        "name": "cat_brain_anatomy",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "Python",
+        "stars": 4,
+        "forks": 0,
+        "created": "2026-09-13T17:00:39Z",
+        "updated": "2026-09-13T18:10:55Z",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://brain-cat-illustrated.succinct-kirallik.chatgpt.site/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-10T07:20:51.779Z",
+        "lastAvailableAt": "2026-10-10T07:20:51.779Z",
+        "lastAttemptAt": "2026-10-10T07:20:51.779Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099206965012345179",
+            "postId": "2099206965012345179",
+            "postedAt": "2026-09-13T18:41:56.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://brain-cat-illustrated.succinct-kirallik.chatgpt.site/",
+          "attemptedAt": "2026-10-10T07:20:54.309Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "http_401",
+            "at": "2026-10-10T07:20:54.309Z"
+          },
+          "nextCheckAt": "2026-10-10T09:20:54.309Z"
+        },
+        "previewAttemptAt": "2026-10-10T07:20:54.309Z",
+        "previewCheck": {
+          "url": "https://brain-cat-illustrated.succinct-kirallik.chatgpt.site/",
+          "status": "retry",
+          "reason": "http_401",
+          "attemptedAt": "2026-10-10T07:20:54.309Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-10T09:20:54.309Z"
+        }
+      },
+      "reason": "http_401",
+      "nextAttemptAt": "2026-10-10T09:20:54.309Z",
+      "checkedAt": "2026-10-10T07:20:54.309Z"
     },
     "gauravmishra-1404/rubberai": {
       "full": "gauravmishra-1404/rubberai",
       "firstSeenAt": "2026-10-10T07:19:38.317Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -20434,12 +20583,125 @@
           "repository": "gauravmishra-1404/rubberai"
         }
       ],
-      "lastSeenAt": "2026-10-10T07:19:38.317Z"
+      "lastSeenAt": "2026-10-10T07:19:38.317Z",
+      "entry": {
+        "availability": "available",
+        "full": "gauravmishra-1404/rubberai",
+        "name": "rubberai",
+        "description": "Self-hosted observability for AI coding: every prompt, its diff, tokens and cost — from any agent or IDE. Go + PostgreSQL, one binary.",
+        "category": "Developer tools",
+        "language": "Go",
+        "stars": 1,
+        "forks": 0,
+        "created": "2026-09-10T22:34:55Z",
+        "updated": "2026-09-26T21:12:58Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://gauravmishra-1404.github.io/rubberai_landing/",
+        "topics": [
+          "ai-coding",
+          "claude-code",
+          "codex",
+          "developer-tools",
+          "golang",
+          "llm",
+          "observability",
+          "postgresql",
+          "self-hosted",
+          "svelte",
+          "token-usage"
+        ],
+        "demo": "https://gauravmishra-1404.github.io/rubberai_landing/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-10T07:21:09.692Z",
+        "lastAvailableAt": "2026-10-10T07:21:09.692Z",
+        "lastAttemptAt": "2026-10-10T07:21:09.692Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099159726617743555",
+            "postId": "2099159726617743555",
+            "postedAt": "2026-09-13T15:34:13.000Z"
+          },
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099159459159576948",
+            "postId": "2099159459159576948",
+            "postedAt": "2026-09-13T15:33:10.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents",
+          "Self-hosted apps"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "MCP servers & agents",
+            "Self-hosted apps"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "agent"
+            },
+            {
+              "subject": "Self-hosted apps",
+              "source": "metadata",
+              "match": "Self hosted"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://gauravmishra-1404.github.io/rubberai_landing/",
+          "attemptedAt": "2026-10-10T07:21:12.878Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T07:21:12.878Z",
+          "lastWorkingAt": "2026-10-10T07:21:12.878Z",
+          "target": "https://gauravmishra-1404.github.io/rubberai_landing/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T07:21:12.878Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/e0ae60fef0ce1a558c6005ea.jpg",
+            "kind": "demo",
+            "url": "https://gauravmishra-1404.github.io/rubberai_landing/",
+            "capturedAt": "2026-10-10T07:21:12.878Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T07:21:12.878Z",
+        "previewCheck": {
+          "url": "https://gauravmishra-1404.github.io/rubberai_landing/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T07:21:12.878Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T07:21:12.879Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T19:21:12.879Z",
+      "checkedAt": "2026-10-10T07:21:12.879Z",
+      "firstAcceptedAt": "2026-10-10T07:21:12.879Z"
     },
     "chapaevv123/pulse-arc": {
       "full": "chapaevv123/pulse-arc",
       "firstSeenAt": "2026-10-10T07:19:38.317Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -20497,12 +20759,118 @@
           "repository": "chapaevv123/pulse-arc"
         }
       ],
-      "lastSeenAt": "2026-10-10T07:19:38.317Z"
+      "lastSeenAt": "2026-10-10T07:19:38.317Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "chapaevv123/pulse-arc",
+        "postUrl": "https://x.com/i/web/status/2098764706122981566",
+        "url": "https://chapaevv123.github.io/pulse-arc/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "chapaevv123/pulse-arc",
+        "name": "pulse-arc",
+        "description": "Pulse x Arc - policy-controlled AI-agent execution, deterministic verification, and reproducible action proofs on Arc Testnet.",
+        "category": "AI & machine learning",
+        "language": "Python",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-12T12:03:28Z",
+        "updated": "2026-09-12T22:43:37Z",
+        "license": null,
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://chapaevv123.github.io/pulse-arc/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-10T07:21:25.074Z",
+        "lastAvailableAt": "2026-10-10T07:21:25.074Z",
+        "lastAttemptAt": "2026-10-10T07:21:25.074Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "chapaevv123/pulse-arc",
+          "postUrl": "https://x.com/i/web/status/2098764706122981566",
+          "url": "https://chapaevv123.github.io/pulse-arc/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099031808637558980",
+            "postId": "2099031808637558980",
+            "postedAt": "2026-09-13T07:05:55.000Z"
+          },
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2098764706122981566",
+            "postId": "2098764706122981566",
+            "postedAt": "2026-09-12T13:24:33.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "AI agent"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://chapaevv123.github.io/pulse-arc/",
+          "attemptedAt": "2026-10-10T07:21:28.249Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T07:21:28.249Z",
+          "lastWorkingAt": "2026-10-10T07:21:28.249Z",
+          "target": "https://chapaevv123.github.io/pulse-arc/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T07:21:28.249Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/c9ada48189c27f64abb731b5.jpg",
+            "kind": "demo",
+            "url": "https://chapaevv123.github.io/pulse-arc/",
+            "capturedAt": "2026-10-10T07:21:28.249Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T07:21:28.249Z",
+        "previewCheck": {
+          "url": "https://chapaevv123.github.io/pulse-arc/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T07:21:28.249Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T07:21:28.249Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T19:21:28.250Z",
+      "checkedAt": "2026-10-10T07:21:28.250Z",
+      "firstAcceptedAt": "2026-10-10T07:21:28.250Z"
     },
     "vanch007/mlx-auk": {
       "full": "vanch007/mlx-AuK",
       "firstSeenAt": "2026-10-10T07:19:38.317Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -20529,12 +20897,104 @@
           "repository": "vanch007/mlx-AuK"
         }
       ],
-      "lastSeenAt": "2026-10-10T07:19:38.317Z"
+      "lastSeenAt": "2026-10-10T07:19:38.317Z",
+      "entry": {
+        "availability": "available",
+        "full": "vanch007/mlx-AuK",
+        "name": "mlx-AuK",
+        "description": "AuK: Native Apple Silicon MLX Port for 1.5B Speech Foundation Model (TTS, Vocal/Content Edit, Enhancement & Separation)",
+        "category": "Other",
+        "language": "Python",
+        "stars": 14,
+        "forks": 0,
+        "created": "2026-09-12T01:56:02Z",
+        "updated": "2026-09-12T15:59:18Z",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://vanch007.github.io/mlx-AuK/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-10T07:21:28.854Z",
+        "lastAvailableAt": "2026-10-10T07:21:28.854Z",
+        "lastAttemptAt": "2026-10-10T07:21:28.854Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099017589850775671",
+            "postId": "2099017589850775671",
+            "postedAt": "2026-09-13T06:09:25.000Z"
+          }
+        ],
+        "subjects": [
+          "Apple",
+          "Image, audio & video AI"
+        ],
+        "platforms": [
+          "macOS"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "Apple",
+            "Image, audio & video AI"
+          ],
+          "evidence": [
+            {
+              "subject": "Apple",
+              "source": "metadata",
+              "match": "Apple Silicon"
+            },
+            {
+              "subject": "Image, audio & video AI",
+              "source": "metadata",
+              "match": "TTS"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "macOS",
+              "source": "metadata",
+              "match": "Apple Silicon"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://vanch007.github.io/mlx-AuK/",
+          "attemptedAt": "2026-10-10T07:21:43.915Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T07:21:43.915Z",
+          "lastWorkingAt": "2026-10-10T07:21:43.915Z",
+          "target": "https://vanch007.github.io/mlx-AuK/web/index.html",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T07:21:43.915Z"
+        },
+        "previewAttemptAt": "2026-10-10T07:21:43.915Z",
+        "previewCheck": {
+          "url": "https://vanch007.github.io/mlx-AuK/",
+          "status": "retry",
+          "reason": "screenshot_error",
+          "attemptedAt": "2026-10-10T07:21:43.915Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-17T07:21:43.915Z"
+        }
+      },
+      "reason": "screenshot_error",
+      "nextAttemptAt": "2026-10-17T07:21:43.915Z",
+      "checkedAt": "2026-10-10T07:21:43.915Z"
     },
     "daming98/cyberpunk-message-generator": {
       "full": "daming98/cyberpunk-message-generator",
       "firstSeenAt": "2026-10-10T07:19:38.317Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -20568,12 +21028,106 @@
           "repository": "daming98/cyberpunk-message-generator"
         }
       ],
-      "lastSeenAt": "2026-10-10T07:19:38.317Z"
+      "lastSeenAt": "2026-10-10T07:19:38.317Z",
+      "entry": {
+        "availability": "available",
+        "full": "daming98/cyberpunk-message-generator",
+        "name": "cyberpunk-message-generator",
+        "description": "高度还原《赛博朋克 2077》短信界面的聊天记录生成器｜中英双语・导出 PNG A fan-made Cyberpunk 2077 in-game messaging UI chat-log generator. Bilingual, highly configurable, PNG export.",
+        "category": "Other",
+        "language": "HTML",
+        "stars": 5,
+        "forks": 1,
+        "created": "2026-09-11T14:45:48Z",
+        "updated": "2026-09-24T18:37:14Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://daming98.github.io/cyberpunk-message-generator/",
+        "topics": [],
+        "demo": "https://daming98.github.io/cyberpunk-message-generator/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-10T07:20:55.061Z",
+        "lastAvailableAt": "2026-10-10T07:20:55.061Z",
+        "lastAttemptAt": "2026-10-10T07:20:55.061Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099016012943253744",
+            "postId": "2099016012943253744",
+            "postedAt": "2026-09-13T06:03:09.000Z"
+          },
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099015724521968019",
+            "postId": "2099015724521968019",
+            "postedAt": "2026-09-13T06:02:01.000Z"
+          }
+        ],
+        "subjects": [
+          "Games & game development"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "Games & game development"
+          ],
+          "evidence": [
+            {
+              "subject": "Games & game development",
+              "source": "metadata",
+              "match": "game"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://daming98.github.io/cyberpunk-message-generator/",
+          "attemptedAt": "2026-10-10T07:20:58.121Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T07:20:58.121Z",
+          "lastWorkingAt": "2026-10-10T07:20:58.121Z",
+          "target": "https://daming98.github.io/cyberpunk-message-generator/cyber-message.html",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T07:20:58.121Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/050bcd47fbca5df2dabfa351.jpg",
+            "kind": "demo",
+            "url": "https://daming98.github.io/cyberpunk-message-generator/",
+            "capturedAt": "2026-10-10T07:20:58.121Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T07:20:58.121Z",
+        "previewCheck": {
+          "url": "https://daming98.github.io/cyberpunk-message-generator/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T07:20:58.121Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T07:20:58.121Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T19:20:58.122Z",
+      "checkedAt": "2026-10-10T07:20:58.122Z",
+      "firstAcceptedAt": "2026-10-10T07:20:58.122Z"
     },
     "bubblik525/chernobyl_atlas": {
       "full": "bubblik525/Chernobyl_Atlas",
       "firstSeenAt": "2026-10-10T07:19:38.317Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -20600,12 +21154,100 @@
           "repository": "bubblik525/Chernobyl_Atlas"
         }
       ],
-      "lastSeenAt": "2026-10-10T07:19:38.317Z"
+      "lastSeenAt": "2026-10-10T07:19:38.317Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "bubblik525/Chernobyl_Atlas",
+        "postUrl": "https://x.com/i/web/status/2098841319619649894",
+        "url": "https://bubblik525.github.io/Chernobyl_Atlas/ATELIER-Reactor.html"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "bubblik525/Chernobyl_Atlas",
+        "name": "Chernobyl_Atlas",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "HTML",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-12T17:41:24Z",
+        "updated": "2026-09-12T17:44:44Z",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://bubblik525.github.io/Chernobyl_Atlas/ATELIER-Reactor.html",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-10T07:20:58.764Z",
+        "lastAvailableAt": "2026-10-10T07:20:58.764Z",
+        "lastAttemptAt": "2026-10-10T07:20:58.764Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "bubblik525/Chernobyl_Atlas",
+          "postUrl": "https://x.com/i/web/status/2098841319619649894",
+          "url": "https://bubblik525.github.io/Chernobyl_Atlas/ATELIER-Reactor.html"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2098841319619649894",
+            "postId": "2098841319619649894",
+            "postedAt": "2026-09-12T18:28:59.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://bubblik525.github.io/Chernobyl_Atlas/ATELIER-Reactor.html",
+          "attemptedAt": "2026-10-10T07:21:08.804Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T07:21:08.804Z",
+          "lastWorkingAt": "2026-10-10T07:21:08.804Z",
+          "target": "https://bubblik525.github.io/Chernobyl_Atlas/ATELIER-Reactor.html",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T07:21:08.804Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/da1316357db71050941fabb0.jpg",
+            "kind": "demo",
+            "url": "https://bubblik525.github.io/Chernobyl_Atlas/ATELIER-Reactor.html",
+            "capturedAt": "2026-10-10T07:21:08.804Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T07:21:08.804Z",
+        "previewCheck": {
+          "url": "https://bubblik525.github.io/Chernobyl_Atlas/ATELIER-Reactor.html",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T07:21:08.804Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T07:21:08.805Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T19:21:08.805Z",
+      "checkedAt": "2026-10-10T07:21:08.805Z",
+      "firstAcceptedAt": "2026-10-10T07:21:08.805Z"
     },
     "sai6522/copilot-day-spark": {
       "full": "Sai6522/copilot-day-spark",
       "firstSeenAt": "2026-10-10T07:19:38.317Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -20632,12 +21274,88 @@
           "repository": "Sai6522/copilot-day-spark"
         }
       ],
-      "lastSeenAt": "2026-10-10T07:19:38.317Z"
+      "lastSeenAt": "2026-10-10T07:19:38.317Z",
+      "entry": {
+        "availability": "available",
+        "full": "Sai6522/copilot-day-spark",
+        "name": "copilot-day-spark",
+        "description": "A tiny project idea generator built with GitHub Copilot",
+        "category": "Other",
+        "language": "CSS",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-12T13:28:37Z",
+        "updated": "2026-09-12T13:32:24Z",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://sai6522.github.io/copilot-day-spark/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-10T07:21:13.564Z",
+        "lastAvailableAt": "2026-10-10T07:21:13.564Z",
+        "lastAttemptAt": "2026-10-10T07:21:13.564Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2098768735951888891",
+            "postId": "2098768735951888891",
+            "postedAt": "2026-09-12T13:40:34.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://sai6522.github.io/copilot-day-spark/",
+          "attemptedAt": "2026-10-10T07:21:16.677Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T07:21:16.677Z",
+          "lastWorkingAt": "2026-10-10T07:21:16.677Z",
+          "target": "https://sai6522.github.io/copilot-day-spark/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T07:21:16.677Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/0124f65ac5448f1bebc30781.jpg",
+            "kind": "demo",
+            "url": "https://sai6522.github.io/copilot-day-spark/",
+            "capturedAt": "2026-10-10T07:21:16.677Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T07:21:16.677Z",
+        "previewCheck": {
+          "url": "https://sai6522.github.io/copilot-day-spark/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T07:21:16.677Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T07:21:16.677Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T19:21:16.678Z",
+      "checkedAt": "2026-10-10T07:21:16.678Z",
+      "firstAcceptedAt": "2026-10-10T07:21:16.678Z"
     },
     "vyom-2007/duofoldwallpaper": {
       "full": "Vyom-2007/DuoFoldWallpaper",
       "firstSeenAt": "2026-10-10T07:19:38.317Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -20664,7 +21382,147 @@
           "repository": "Vyom-2007/DuoFoldWallpaper"
         }
       ],
-      "lastSeenAt": "2026-10-10T07:19:38.317Z"
+      "lastSeenAt": "2026-10-10T07:19:38.317Z",
+      "entry": {
+        "availability": "available",
+        "full": "Vyom-2007/DuoFoldWallpaper",
+        "name": "DuoFoldWallpaper",
+        "description": "iPhone Duo fold transition animation ported to Android foldables (Pixel Fold, Galaxy Z Fold) using hardware hinge sensors & AGSL RuntimeShader.",
+        "category": "Design",
+        "language": "Kotlin",
+        "stars": 7,
+        "forks": 6,
+        "created": "2026-09-11T07:14:38Z",
+        "updated": "2026-09-11T16:02:22Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://vyom-2007.github.io/DuoFoldWallpaper/",
+        "topics": [
+          "agsl",
+          "android",
+          "foldable",
+          "galaxy-z-fold",
+          "hinge-angle-sensor",
+          "kotlin",
+          "live-wallpaper",
+          "pixel-fold",
+          "runtime-shader",
+          "shader"
+        ],
+        "demo": "https://vyom-2007.github.io/DuoFoldWallpaper/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-10T07:21:17.243Z",
+        "lastAvailableAt": "2026-10-10T07:21:17.243Z",
+        "lastAttemptAt": "2026-10-10T07:21:17.243Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2098448513004958038",
+            "postId": "2098448513004958038",
+            "postedAt": "2026-09-11T16:28:07.000Z"
+          }
+        ],
+        "subjects": [
+          "Animation & motion",
+          "Android",
+          "Apple",
+          "Mobile",
+          "3D & graphics"
+        ],
+        "platforms": [
+          "Android",
+          "iOS & iPadOS"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "Animation & motion",
+            "Android",
+            "Apple",
+            "Mobile",
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "Animation & motion",
+              "source": "metadata",
+              "match": "animation"
+            },
+            {
+              "subject": "Android",
+              "source": "metadata",
+              "match": "Android"
+            },
+            {
+              "subject": "Apple",
+              "source": "metadata",
+              "match": "iPhone"
+            },
+            {
+              "subject": "Mobile",
+              "source": "metadata",
+              "match": "iPhone"
+            },
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "shader"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "Android",
+              "source": "metadata",
+              "match": "Android"
+            },
+            {
+              "platform": "iOS & iPadOS",
+              "source": "metadata",
+              "match": "iPhone"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://vyom-2007.github.io/DuoFoldWallpaper/",
+          "attemptedAt": "2026-10-10T07:21:20.434Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T07:21:20.434Z",
+          "lastWorkingAt": "2026-10-10T07:21:20.434Z",
+          "target": "https://vyom-2007.github.io/DuoFoldWallpaper/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T07:21:20.434Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/8141e3d68097f10aa661d492.jpg",
+            "kind": "demo",
+            "url": "https://vyom-2007.github.io/DuoFoldWallpaper/",
+            "capturedAt": "2026-10-10T07:21:20.434Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T07:21:20.434Z",
+        "previewCheck": {
+          "url": "https://vyom-2007.github.io/DuoFoldWallpaper/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T07:21:20.434Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T07:21:20.435Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T19:21:20.435Z",
+      "checkedAt": "2026-10-10T07:21:20.435Z",
+      "firstAcceptedAt": "2026-10-10T07:21:20.435Z"
     },
     "ashemag/x-playground": {
       "full": "ashemag/X-playground",
@@ -20741,7 +21599,7 @@
     "guenael/didahsdr": {
       "full": "Guenael/didahSDR",
       "firstSeenAt": "2026-10-10T07:19:44.316Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -20768,12 +21626,92 @@
           "repository": "Guenael/didahSDR"
         }
       ],
-      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+      "lastSeenAt": "2026-10-10T07:19:44.316Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "Guenael/didahSDR",
+        "postUrl": "https://x.com/i/web/status/2104004353199599727",
+        "url": "https://didahsdr.guenael.ca/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "Guenael/didahSDR",
+        "name": "didahSDR",
+        "description": "Software Defined Radio for CW operators",
+        "category": "Other",
+        "language": "JavaScript",
+        "stars": 2,
+        "forks": 0,
+        "created": "2026-09-16T03:32:54Z",
+        "updated": "2026-10-02T12:07:34Z",
+        "license": "AGPL-3.0",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://didahsdr.guenael.ca/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-10T07:20:50.310Z",
+        "lastAvailableAt": "2026-10-10T07:20:50.310Z",
+        "lastAttemptAt": "2026-10-10T07:20:50.310Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "Guenael/didahSDR",
+          "postUrl": "https://x.com/i/web/status/2104004353199599727",
+          "url": "https://didahsdr.guenael.ca/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104004353199599727",
+            "postId": "2104004353199599727",
+            "postedAt": "2026-09-27T00:25:02.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://didahsdr.guenael.ca/",
+          "attemptedAt": "2026-10-10T07:20:51.016Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "http_502",
+            "at": "2026-10-10T07:20:51.016Z"
+          },
+          "nextCheckAt": "2026-10-10T09:20:51.016Z"
+        },
+        "previewAttemptAt": "2026-10-10T07:20:51.016Z",
+        "previewCheck": {
+          "url": "https://didahsdr.guenael.ca/",
+          "status": "retry",
+          "reason": "http_502",
+          "attemptedAt": "2026-10-10T07:20:51.016Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-10T09:20:51.016Z"
+        }
+      },
+      "reason": "http_502",
+      "nextAttemptAt": "2026-10-10T09:20:51.016Z",
+      "checkedAt": "2026-10-10T07:20:51.016Z"
     },
     "jubayer910/admin-panel": {
       "full": "jubayer910/Admin-panel",
       "firstSeenAt": "2026-10-10T07:19:44.316Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -20812,12 +21750,380 @@
           "repository": "jubayer910/Admin-panel"
         }
       ],
-      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+      "lastSeenAt": "2026-10-10T07:19:44.316Z",
+      "reusedEvidence": true,
+      "entry": {
+        "availability": "available",
+        "full": "jubayer910/Admin-panel",
+        "name": "Admin-panel",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 121,
+        "forks": 30,
+        "created": "2026-09-26T15:53:27Z",
+        "updated": "2026-09-26T17:28:25Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://admin-panel-three-puce.vercel.app",
+        "topics": [],
+        "demo": "https://sql.js.org/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-08T22:35:17.895Z",
+        "lastAttemptAt": "2026-10-08T22:35:17.895Z",
+        "lastAvailableAt": "2026-10-08T22:35:17.895Z",
+        "metrics": [
+          {
+            "at": "2026-10-08T22:35:17.895Z",
+            "stars": 121,
+            "forks": 30
+          }
+        ],
+        "technologies": [
+          "React",
+          "Next.js"
+        ],
+        "overview": {
+          "kind": "readme",
+          "version": 1,
+          "paragraphs": [
+            "An admin panel for a designer's portfolio site: projects, bookings, analytics, media and every line of text on the site, in one place. It is drawn in the site's own line art (engraved hairlines and a cross-hatch band instead of boxes), with a light and a dark theme.",
+            "Built by Maniruzzaman Jubayer for his portfolio, and open-sourced here with made-up data."
+          ],
+          "features": [
+            "Overview: this week's numbers, the next calls and every part of the site at a glance.",
+            "Bookings: a CRM-style table of intro calls. Tabs, search, filters (plan, interests, source, call date, booked date), sortable columns, columns you can hide, bulk select, CSV export, and a side panel with everything…",
+            "Analytics: first-party and cookie-free. Trends, the pricing funnel, button clicks, sources and campaigns, pages, time on page, scroll depth, a weekday by hour heatmap and the audience.",
+            "Projects: drag to reorder (or use the keyboard), list and grid views, filter by category, homepage on/off per project.",
+            "Media library: grid or table, sortable, upload by drag and drop."
+          ],
+          "sourceUrl": "https://github.com/jubayer910/Admin-panel/blob/main/README.md",
+          "fingerprint": "fad9c72da11d6768d46ca57cefda0e9c51accc82ed970c8239eac52e743107ad",
+          "extractedAt": "2026-10-08T22:35:17.993Z"
+        },
+        "overviewCheckedAt": "2026-10-08T22:35:17.993Z",
+        "projectInsights": {
+          "version": 1,
+          "whatItDoes": {
+            "text": "An admin panel for a designer's portfolio site: projects, bookings, analytics, media and every line of text on the site, in one place. It is drawn in the site's own line art (engraved hairlines and a cross-hatch band instead of boxes), with a light and a dark theme.",
+            "sourceUrl": "https://github.com/jubayer910/Admin-panel/blob/main/README.md"
+          },
+          "audience": [],
+          "requirements": [],
+          "fingerprint": "fad9c72da11d6768d46ca57cefda0e9c51accc82ed970c8239eac52e743107ad",
+          "sourceUrl": "https://github.com/jubayer910/Admin-panel/blob/main/README.md",
+          "checkedAt": "2026-10-08T22:35:17.993Z"
+        },
+        "overviewRepoUpdated": "2026-09-26T17:28:25Z",
+        "readmeSnapshot": {
+          "version": 1,
+          "status": "saved",
+          "sourceUrl": "https://github.com/jubayer910/Admin-panel/blob/main/README.md",
+          "checkedAt": "2026-10-08T22:35:17.993Z",
+          "hash": "fad9c72da11d6768d46ca57cefda0e9c51accc82ed970c8239eac52e743107ad",
+          "originalBytes": 3176,
+          "storedBytes": 3176,
+          "truncated": false,
+          "searchTerms": [
+            "admin",
+            "every",
+            "demo",
+            "lib",
+            "bookings",
+            "real",
+            "site",
+            "app",
+            "dark",
+            "light",
+            "line",
+            "made-up",
+            "media",
+            "page",
+            "panel",
+            "projects",
+            "run",
+            "save",
+            "sql.js",
+            "table",
+            "theme",
+            "about",
+            "actions.ts",
+            "analytics",
+            "art",
+            "browser",
+            "built",
+            "client",
+            "columns",
+            "data.",
+            "database",
+            "date",
+            "db.ts",
+            "docs",
+            "drag",
+            "drawn",
+            "each",
+            "engraved",
+            "grid",
+            "holds",
+            "hugeicons",
+            "license",
+            "maniruzzaman",
+            "npm",
+            "one",
+            "open",
+            "overview",
+            "portfolio",
+            "pricing",
+            "runs",
+            "schema",
+            "server",
+            "sortable",
+            "sqlite",
+            "text",
+            "works",
+            "action",
+            "admin-panel-three-puce.vercel.app",
+            "artwork",
+            "audience.",
+            "auth.ts",
+            "back",
+            "backend",
+            "band",
+            "bar",
+            "bash",
+            "batch",
+            "booked",
+            "booking",
+            "booking.",
+            "bookings-dark.webp",
+            "boxes",
+            "bulk",
+            "button",
+            "call",
+            "calls",
+            "calls.",
+            "campaigns",
+            "categories.",
+            "category",
+            "clicks",
+            "clicks.",
+            "cloudflare",
+            "collapses",
+            "content",
+            "cookie-free.",
+            "creates",
+            "crm-style",
+            "cross-hatch",
+            "css",
+            "csv",
+            "delete.",
+            "depth",
+            "designer",
+            "dev",
+            "dialog.",
+            "dnd-kit",
+            "down",
+            "drop.",
+            "everything",
+            "export",
+            "faqs",
+            "feel",
+            "filled",
+            "filter",
+            "filters",
+            "first-party",
+            "forms",
+            "free",
+            "funnel",
+            "glance.",
+            "guard",
+            "hairlines",
+            "heatmap",
+            "here",
+            "hide",
+            "his",
+            "homepage",
+            "hour",
+            "how",
+            "icons",
+            "images",
+            "install",
+            "instead",
+            "interests",
+            "intro",
+            "invented.",
+            "item",
+            "jubayer",
+            "jubayer.",
+            "keep",
+            "keyboard",
+            "labels",
+            "leaves",
+            "library",
+            "links.",
+            "list",
+            "lists",
+            "live",
+            "loads",
+            "localhost",
+            "logos",
+            "long",
+            "look",
+            "make",
+            "make-art.mjs",
+            "mark",
+            "mit",
+            "modules",
+            "name",
+            "next",
+            "next.js",
+            "nothing",
+            "numbers",
+            "off",
+            "only",
+            "open-sourced",
+            "over.",
+            "overview-light.webp",
+            "own",
+            "owner",
+            "pages",
+            "part",
+            "per",
+            "person",
+            "phone",
+            "photo",
+            "photos",
+            "place.",
+            "plain",
+            "plan",
+            "plans",
+            "point",
+            "postgres",
+            "profile",
+            "project",
+            "project.",
+            "public",
+            "put",
+            "queries",
+            "react",
+            "refresh",
+            "reorder",
+            "repo",
+            "requireadmin",
+            "responsive",
+            "same",
+            "schema.ts",
+            "scripts",
+            "scroll",
+            "search",
+            "seed.ts",
+            "seeds",
+            "select",
+            "set",
+            "side",
+            "sidebar",
+            "source",
+            "sources",
+            "sqlite.",
+            "starts",
+            "sticky",
+            "stock",
+            "storage.",
+            "system",
+            "tables",
+            "tabs",
+            "testimonials",
+            "them.",
+            "theme.",
+            "throughout.",
+            "time",
+            "trends",
+            "upload",
+            "upload-client.ts",
+            "uploads",
+            "views",
+            "visit",
+            "visits",
+            "week",
+            "weekday",
+            "what",
+            "workers",
+            "year",
+            "yours"
+          ]
+        },
+        "lastDemoCheckedAt": "2026-10-08T22:35:17.895Z",
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [
+            "Templates & UI components",
+            "Portfolios & personal sites"
+          ],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://sql.js.org/",
+          "attemptedAt": "2026-10-08T22:42:13.003Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-08T22:42:13.003Z",
+          "lastWorkingAt": "2026-10-08T22:42:13.003Z",
+          "target": "https://sql.js.org/#/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-15T22:42:13.003Z"
+        },
+        "previewAttemptAt": "2026-10-08T22:42:13.003Z",
+        "previewCheck": {
+          "url": "https://sql.js.org/",
+          "attemptedAt": "2026-10-08T22:42:13.003Z",
+          "consecutiveFailures": 0,
+          "status": "captured",
+          "reason": null,
+          "nextCheckAt": "2026-10-15T22:42:13.003Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/dd54994c57815c08183f362d.jpg",
+            "kind": "demo",
+            "capturedAt": "2026-10-08T22:42:13.003Z",
+            "url": "https://sql.js.org/"
+          }
+        ],
+        "qualityPriority": false,
+        "enrichmentAttemptAt": "2026-10-08T23:44:30.071Z",
+        "latestRelease": null,
+        "releaseCheckedAt": "2026-10-08T23:44:30.071Z",
+        "spaces": [],
+        "communityPosts": [],
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2103895604439208284",
+            "postId": "2103895604439208284",
+            "postedAt": "2026-09-26T17:12:55.000Z"
+          }
+        ]
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T19:20:32.938Z",
+      "checkedAt": "2026-10-10T07:20:32.938Z",
+      "firstAcceptedAt": "2026-10-10T07:20:32.938Z"
     },
     "sgtpooki/avalanche-ipfs-filecoin-rwa-reference-architecture": {
       "full": "SgtPooki/Avalanche-IPFS-Filecoin-RWA-reference-Architecture",
       "firstSeenAt": "2026-10-10T07:19:44.316Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -20836,12 +22142,89 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+      "lastSeenAt": "2026-10-10T07:19:44.316Z",
+      "entry": {
+        "availability": "available",
+        "full": "SgtPooki/Avalanche-IPFS-Filecoin-RWA-reference-Architecture",
+        "name": "Avalanche-IPFS-Filecoin-RWA-reference-Architecture",
+        "description": "Verifiable offchain records for tokenized real-world assets on Avalanche, with IPFS CIDs and Filecoin storage proofs",
+        "category": "Other",
+        "language": "Solidity",
+        "stars": 1,
+        "forks": 0,
+        "created": "2026-09-10T16:29:28Z",
+        "updated": "2026-10-07T12:51:57Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://sgtpooki.github.io/Avalanche-IPFS-Filecoin-RWA-reference-Architecture/",
+        "topics": [],
+        "demo": "https://sgtpooki.github.io/Avalanche-IPFS-Filecoin-RWA-reference-Architecture/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-10T07:21:44.915Z",
+        "lastAvailableAt": "2026-10-10T07:21:44.915Z",
+        "lastAttemptAt": "2026-10-10T07:21:44.915Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2103888602492969270",
+            "postId": "2103888602492969270",
+            "postedAt": "2026-09-26T16:45:05.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://sgtpooki.github.io/Avalanche-IPFS-Filecoin-RWA-reference-Architecture/",
+          "attemptedAt": "2026-10-10T07:21:48.294Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T07:21:48.294Z",
+          "lastWorkingAt": "2026-10-10T07:21:48.294Z",
+          "target": "https://sgtpooki.github.io/Avalanche-IPFS-Filecoin-RWA-reference-Architecture/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T07:21:48.294Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/932adb48fa889aef71a1d0c8.jpg",
+            "kind": "demo",
+            "url": "https://sgtpooki.github.io/Avalanche-IPFS-Filecoin-RWA-reference-Architecture/",
+            "capturedAt": "2026-10-10T07:21:48.294Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T07:21:48.294Z",
+        "previewCheck": {
+          "url": "https://sgtpooki.github.io/Avalanche-IPFS-Filecoin-RWA-reference-Architecture/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T07:21:48.294Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T07:21:48.294Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T19:21:48.295Z",
+      "checkedAt": "2026-10-10T07:21:48.295Z",
+      "firstAcceptedAt": "2026-10-10T07:21:48.295Z"
     },
     "alexshtf/spectral_neuron_paper": {
       "full": "alexshtf/spectral_neuron_paper",
       "firstSeenAt": "2026-10-10T07:19:44.316Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -20874,12 +22257,108 @@
           "repository": "alexshtf/spectral_neuron_paper"
         }
       ],
-      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+      "lastSeenAt": "2026-10-10T07:19:44.316Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "alexshtf/spectral_neuron_paper",
+        "postUrl": "https://x.com/i/web/status/2103887093302763889",
+        "url": "https://arxiv.org/abs/2608.08003"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "alexshtf/spectral_neuron_paper",
+        "name": "spectral_neuron_paper",
+        "description": "Experiments for the spectral neuron paper",
+        "category": "Education",
+        "language": "Jupyter Notebook",
+        "stars": 23,
+        "forks": 4,
+        "created": "2026-06-20T10:53:23Z",
+        "updated": "2026-09-05T17:39:08Z",
+        "license": "BSD-3-Clause",
+        "branch": "master",
+        "homepage": "https://arxiv.org/abs/2608.08003",
+        "topics": [
+          "eigenvalues",
+          "interpretable-machine-learning",
+          "machine-learning",
+          "pytorch",
+          "shape-constrained-learning",
+          "tabular-ml"
+        ],
+        "demo": "https://arxiv.org/abs/2608.08003",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-10T07:20:33.908Z",
+        "lastAvailableAt": "2026-10-10T07:20:33.908Z",
+        "lastAttemptAt": "2026-10-10T07:20:33.908Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "alexshtf/spectral_neuron_paper",
+          "postUrl": "https://x.com/i/web/status/2103887093302763889",
+          "url": "https://arxiv.org/abs/2608.08003"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2103887093302763889",
+            "postId": "2103887093302763889",
+            "postedAt": "2026-09-26T16:39:06.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Education",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://arxiv.org/abs/2608.08003",
+          "attemptedAt": "2026-10-10T07:20:37.137Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T07:20:37.137Z",
+          "lastWorkingAt": "2026-10-10T07:20:37.137Z",
+          "target": "https://arxiv.org/abs/2608.08003",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T07:20:37.137Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/4cb38e05a31ee2161b21e6ad.jpg",
+            "kind": "demo",
+            "url": "https://arxiv.org/abs/2608.08003",
+            "capturedAt": "2026-10-10T07:20:37.137Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T07:20:37.137Z",
+        "previewCheck": {
+          "url": "https://arxiv.org/abs/2608.08003",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T07:20:37.137Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T07:20:37.138Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T19:20:37.139Z",
+      "checkedAt": "2026-10-10T07:20:37.139Z",
+      "firstAcceptedAt": "2026-10-10T07:20:37.139Z"
     },
     "ashfakcodes/alphaind-trading-desk": {
       "full": "ashfakcodes/alphaind-trading-desk",
       "firstSeenAt": "2026-10-10T07:19:44.316Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -20906,12 +22385,79 @@
           "repository": "ashfakcodes/alphaind-trading-desk"
         }
       ],
-      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+      "lastSeenAt": "2026-10-10T07:19:44.316Z",
+      "entry": {
+        "availability": "available",
+        "full": "ashfakcodes/alphaind-trading-desk",
+        "name": "alphaind-trading-desk",
+        "description": "Alphaind is an institutional co-pilot, not an unconstrained black-box bot. Every execution requires sovereign human confirmation. Zero automated orders are dispatched without explicit trader review.",
+        "category": "Other",
+        "language": "Python",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-25T05:37:53Z",
+        "updated": "2026-09-25T15:46:28Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://alphaind-trading-desk-pi.vercel.app",
+        "topics": [],
+        "demo": "https://alphaind-trading-desk-pi.vercel.app/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-10T07:20:45.232Z",
+        "lastAvailableAt": "2026-10-10T07:20:45.232Z",
+        "lastAttemptAt": "2026-10-10T07:20:45.232Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2103841391910744436",
+            "postId": "2103841391910744436",
+            "postedAt": "2026-09-26T13:37:29.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://alphaind-trading-desk-pi.vercel.app/",
+          "attemptedAt": "2026-10-10T07:20:45.633Z",
+          "probeVersion": 3,
+          "status": "review",
+          "checkedAt": "2026-10-10T07:20:45.633Z",
+          "consecutiveTemporaryFailures": 0,
+          "failureCount": 1,
+          "reason": "http_404",
+          "nextCheckAt": "2026-10-10T13:20:45.633Z"
+        },
+        "previewAttemptAt": "2026-10-10T07:20:45.633Z",
+        "previewCheck": {
+          "url": "https://alphaind-trading-desk-pi.vercel.app/",
+          "status": "retry",
+          "reason": "http_404",
+          "attemptedAt": "2026-10-10T07:20:45.633Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-10T13:20:45.633Z"
+        }
+      },
+      "reason": "http_404",
+      "nextAttemptAt": "2026-10-10T13:20:45.633Z",
+      "checkedAt": "2026-10-10T07:20:45.633Z"
     },
     "agibottech/sonic_for_a3": {
       "full": "AgibotTech/sonic_for_a3",
       "firstSeenAt": "2026-10-10T07:19:44.316Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -20938,12 +22484,89 @@
           "repository": "AgibotTech/sonic_for_a3"
         }
       ],
-      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+      "lastSeenAt": "2026-10-10T07:19:44.316Z",
+      "entry": {
+        "availability": "available",
+        "full": "AgibotTech/sonic_for_a3",
+        "name": "sonic_for_a3",
+        "description": "SONIC adpation for new full size humanoid agibot A3！",
+        "category": "Other",
+        "language": "C++",
+        "stars": 66,
+        "forks": 6,
+        "created": "2026-09-24T03:49:57Z",
+        "updated": "2026-10-09T03:33:45Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": "https://agibottech.github.io/sonic_for_a3/",
+        "topics": [],
+        "demo": "https://agibottech.github.io/sonic_for_a3/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-10T07:20:37.890Z",
+        "lastAvailableAt": "2026-10-10T07:20:37.890Z",
+        "lastAttemptAt": "2026-10-10T07:20:37.890Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2103726311202234601",
+            "postId": "2103726311202234601",
+            "postedAt": "2026-09-26T06:00:12.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://agibottech.github.io/sonic_for_a3/",
+          "attemptedAt": "2026-10-10T07:20:40.849Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T07:20:40.849Z",
+          "lastWorkingAt": "2026-10-10T07:20:40.849Z",
+          "target": "https://agibottech.github.io/sonic_for_a3/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T07:20:40.849Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/adc12223f6190dd15d96bf1c.jpg",
+            "kind": "demo",
+            "url": "https://agibottech.github.io/sonic_for_a3/",
+            "capturedAt": "2026-10-10T07:20:40.849Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T07:20:40.849Z",
+        "previewCheck": {
+          "url": "https://agibottech.github.io/sonic_for_a3/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T07:20:40.849Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T07:20:40.850Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T19:20:40.851Z",
+      "checkedAt": "2026-10-10T07:20:40.851Z",
+      "firstAcceptedAt": "2026-10-10T07:20:40.851Z"
     },
     "kanahiro/cloud-optimized-geoparquet": {
       "full": "Kanahiro/cloud-optimized-geoparquet",
       "firstSeenAt": "2026-10-10T07:19:44.316Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -20970,7 +22593,84 @@
           "repository": "Kanahiro/cloud-optimized-geoparquet"
         }
       ],
-      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+      "lastSeenAt": "2026-10-10T07:19:44.316Z",
+      "entry": {
+        "availability": "available",
+        "full": "Kanahiro/cloud-optimized-geoparquet",
+        "name": "cloud-optimized-geoparquet",
+        "description": "A GeoParquet extension for progressive map rendering and partial access over HTTP range requests.",
+        "category": "Other",
+        "language": "Rust",
+        "stars": 98,
+        "forks": 8,
+        "created": "2026-05-10T12:54:14Z",
+        "updated": "2026-10-08T13:22:25Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://kanahiro.github.io/cloud-optimized-geoparquet/",
+        "topics": [],
+        "demo": "https://kanahiro.github.io/cloud-optimized-geoparquet/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-10T07:20:41.491Z",
+        "lastAvailableAt": "2026-10-10T07:20:41.491Z",
+        "lastAttemptAt": "2026-10-10T07:20:41.491Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2103704428557836533",
+            "postId": "2103704428557836533",
+            "postedAt": "2026-09-26T04:33:15.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://kanahiro.github.io/cloud-optimized-geoparquet/",
+          "attemptedAt": "2026-10-10T07:20:44.447Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T07:20:44.447Z",
+          "lastWorkingAt": "2026-10-10T07:20:44.447Z",
+          "target": "https://kanahiro.github.io/cloud-optimized-geoparquet/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T07:20:44.447Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/a7cac89d1c2460a100b35e4a.jpg",
+            "kind": "demo",
+            "url": "https://kanahiro.github.io/cloud-optimized-geoparquet/",
+            "capturedAt": "2026-10-10T07:20:44.447Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T07:20:44.447Z",
+        "previewCheck": {
+          "url": "https://kanahiro.github.io/cloud-optimized-geoparquet/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T07:20:44.447Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T07:20:44.447Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T19:20:44.448Z",
+      "checkedAt": "2026-10-10T07:20:44.448Z",
+      "firstAcceptedAt": "2026-10-10T07:20:44.448Z"
     },
     "luketheneuromancer/agentic-ai-system-design-primer-zh": {
       "full": "lukeTheNeuromancer/agentic-ai-system-design-primer-zh",
@@ -20999,7 +22699,7 @@
     "fluidinference/fluiduse": {
       "full": "FluidInference/FluidUse",
       "firstSeenAt": "2026-10-10T07:19:44.316Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -21026,7 +22726,124 @@
           "repository": "FluidInference/FluidUse"
         }
       ],
-      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+      "lastSeenAt": "2026-10-10T07:19:44.316Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "FluidInference/FluidUse",
+        "postUrl": "https://x.com/i/web/status/2103576479124828564",
+        "url": "https://huggingface.co/FluidInference/gliner2-5-decide-coreml"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "FluidInference/FluidUse",
+        "name": "FluidUse",
+        "description": "Local computer use on Apple silicon: on-device typed decisions with laya and form filling with CUA-S1-FORMS, driven through the macOS Accessibility API",
+        "category": "Developer tools",
+        "language": "Swift",
+        "stars": 294,
+        "forks": 23,
+        "created": "2026-09-21T00:47:25Z",
+        "updated": "2026-10-10T06:17:22Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": "https://huggingface.co/FluidInference",
+        "topics": [
+          "accessibility-api",
+          "apple-silicon",
+          "computer-use",
+          "coreml",
+          "decision-model",
+          "macos",
+          "neural-engine",
+          "on-device-ai",
+          "swift"
+        ],
+        "demo": "https://huggingface.co/FluidInference/gliner2-5-decide-coreml",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-10T07:20:46.270Z",
+        "lastAvailableAt": "2026-10-10T07:20:46.270Z",
+        "lastAttemptAt": "2026-10-10T07:20:46.270Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "FluidInference/FluidUse",
+          "postUrl": "https://x.com/i/web/status/2103576479124828564",
+          "url": "https://huggingface.co/FluidInference/gliner2-5-decide-coreml"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2103576479124828564",
+            "postId": "2103576479124828564",
+            "postedAt": "2026-09-25T20:04:49.000Z"
+          }
+        ],
+        "subjects": [
+          "Apple"
+        ],
+        "platforms": [
+          "macOS"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Apple"
+          ],
+          "evidence": [
+            {
+              "subject": "Apple",
+              "source": "metadata",
+              "match": "Apple silicon"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "macOS",
+              "source": "metadata",
+              "match": "Apple silicon"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://huggingface.co/FluidInference/gliner2-5-decide-coreml",
+          "attemptedAt": "2026-10-10T07:20:49.522Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-10T07:20:49.522Z",
+          "lastWorkingAt": "2026-10-10T07:20:49.522Z",
+          "target": "https://huggingface.co/FluidInference/gliner2-5-decide-coreml",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-17T07:20:49.522Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/ef480a7e07c5a53892d5ec60.jpg",
+            "kind": "demo",
+            "url": "https://huggingface.co/FluidInference/gliner2-5-decide-coreml",
+            "capturedAt": "2026-10-10T07:20:49.522Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-10T07:20:49.522Z",
+        "previewCheck": {
+          "url": "https://huggingface.co/FluidInference/gliner2-5-decide-coreml",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-10T07:20:49.522Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-17T07:20:49.522Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-11T19:20:49.523Z",
+      "checkedAt": "2026-10-10T07:20:49.523Z",
+      "firstAcceptedAt": "2026-10-10T07:20:49.523Z"
     }
   },
   "lastRun": {
@@ -21332,7 +23149,7 @@
       "posts": 105,
       "uniquePosts": 85,
       "newCandidates": 60,
-      "validationAttempts": 53,
+      "validationAttempts": 54,
       "accepted": 25
     },
     "2c0438e5283099cf": {
@@ -21340,16 +23157,16 @@
       "posts": 59,
       "uniquePosts": 57,
       "newCandidates": 67,
-      "validationAttempts": 51,
-      "accepted": 21
+      "validationAttempts": 61,
+      "accepted": 27
     },
     "ac3eb65e96558e14": {
       "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
       "posts": 46,
       "uniquePosts": 44,
       "newCandidates": 20,
-      "validationAttempts": 14,
-      "accepted": 12
+      "validationAttempts": 23,
+      "accepted": 19
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
@@ -21730,7 +23547,9 @@
         "reposts": 0,
         "replies": 0,
         "quotes": 0
-      }
+      },
+      "nextAttemptAt": "2026-10-17T07:20:30.230Z",
+      "reason": "no_repository_link"
     },
     "https://kucha-5.github.io/Project-Zero-web-version/": {
       "url": "https://kucha-5.github.io/Project-Zero-web-version/",
@@ -21750,7 +23569,9 @@
         "reposts": 0,
         "replies": 0,
         "quotes": 0
-      }
+      },
+      "nextAttemptAt": "2026-10-17T07:20:30.767Z",
+      "reason": "no_repository_link"
     },
     "https://kucha11451.itch.io/project-zero-mobile-version": {
       "url": "https://kucha11451.itch.io/project-zero-mobile-version",
@@ -21770,7 +23591,9 @@
         "reposts": 0,
         "replies": 0,
         "quotes": 0
-      }
+      },
+      "nextAttemptAt": "2026-10-17T07:20:31.097Z",
+      "reason": "no_repository_link"
     },
     "https://kucha-5.github.io/PZ-Mobile-version/": {
       "url": "https://kucha-5.github.io/PZ-Mobile-version/",
@@ -21790,7 +23613,9 @@
         "reposts": 0,
         "replies": 0,
         "quotes": 0
-      }
+      },
+      "nextAttemptAt": "2026-10-17T07:20:31.352Z",
+      "reason": "no_repository_link"
     },
     "https://elon-musk12.github.io/My-personal-AI/": {
       "url": "https://elon-musk12.github.io/My-personal-AI/",
@@ -21810,7 +23635,9 @@
         "reposts": 0,
         "replies": 1,
         "quotes": 0
-      }
+      },
+      "nextAttemptAt": "2026-10-11T07:20:31.957Z",
+      "reason": "temporary_error"
     },
     "https://elon-musk12.github.io/Elon-X-capital/": {
       "url": "https://elon-musk12.github.io/Elon-X-capital/",
@@ -21914,8 +23741,8 @@
     }
   },
   "lastDemoDiscovery": {
-    "checked": 4,
-    "resolved": 2,
-    "at": "2026-10-10T05:39:42.781Z"
+    "checked": 5,
+    "resolved": 0,
+    "at": "2026-10-10T07:20:31.993Z"
   }
 }
