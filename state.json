@@ -64,7 +64,7 @@
         "start": "2026-07-11T13:15:56.650Z",
         "end": "2026-10-02T13:15:56.650Z",
         "done": false,
-        "nextToken": "b26v89c19zqg8o3juzivsik8l0dqwe4a1evfr5uhs6gl9"
+        "nextToken": "b26v89c19zqg8o3juezisuz68zpplppd7fuw0jmr8hxfh"
       },
       "recent": {
         "start": "2026-10-10T07:17:59.641Z"
@@ -20300,6 +20300,351 @@
       "nextAttemptAt": "2026-10-11T17:39:53.682Z",
       "checkedAt": "2026-10-10T05:39:53.682Z",
       "firstAcceptedAt": "2026-10-10T05:39:53.682Z"
+    },
+    "saumitrasaran/lifeos": {
+      "full": "SaumitraSaran/LifeOS",
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2099793419455611137",
+          "postId": "2099793419455611137",
+          "postedAt": "2026-09-15T09:32:18.000Z"
+        }
+      ],
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://lifeos-3q6.pages.dev/",
+        "https://www.linkedin.com/posts/saumitrasaran_lifeos-buildinpublic-python-share-7505552965781495808-IFFi/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJFfPgBUCDS-4kdaqomXzG2YkxHuYRcHXw",
+        "https://lnkd.in/p/gxZvBN9W"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://lifeos-3q6.pages.dev/",
+          "postUrl": "https://x.com/i/web/status/2099793419455611137",
+          "repository": "SaumitraSaran/LifeOS"
+        },
+        {
+          "url": "https://www.linkedin.com/posts/saumitrasaran_lifeos-buildinpublic-python-share-7505552965781495808-IFFi/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJFfPgBUCDS-4kdaqomXzG2YkxHuYRcHXw",
+          "postUrl": "https://x.com/i/web/status/2099793419455611137",
+          "repository": "SaumitraSaran/LifeOS"
+        },
+        {
+          "url": "https://lnkd.in/p/gxZvBN9W",
+          "postUrl": "https://x.com/i/web/status/2099793419455611137",
+          "repository": "SaumitraSaran/LifeOS"
+        }
+      ],
+      "lastSeenAt": "2026-10-10T07:19:38.317Z"
+    },
+    "bubblik525/cat_brain_anatomy": {
+      "full": "bubblik525/cat_brain_anatomy",
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2099206965012345179",
+          "postId": "2099206965012345179",
+          "postedAt": "2026-09-13T18:41:56.000Z"
+        }
+      ],
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 15,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://bubblik525.github.io/cat_brain_anatomy/dist/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://bubblik525.github.io/cat_brain_anatomy/dist/",
+          "postUrl": "https://x.com/i/web/status/2099206965012345179",
+          "repository": "bubblik525/cat_brain_anatomy"
+        }
+      ],
+      "lastSeenAt": "2026-10-10T07:19:38.317Z"
+    },
+    "gauravmishra-1404/rubberai": {
+      "full": "gauravmishra-1404/rubberai",
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2099159726617743555",
+          "postId": "2099159726617743555",
+          "postedAt": "2026-09-13T15:34:13.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2099159459159576948",
+          "postId": "2099159459159576948",
+          "postedAt": "2026-09-13T15:33:10.000Z"
+        }
+      ],
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://gauravmishra-1404.github.io/rubberai_landing/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://gauravmishra-1404.github.io/rubberai_landing/",
+          "postUrl": "https://x.com/i/web/status/2099159459159576948",
+          "repository": "gauravmishra-1404/rubberai"
+        }
+      ],
+      "lastSeenAt": "2026-10-10T07:19:38.317Z"
+    },
+    "chapaevv123/pulse-arc": {
+      "full": "chapaevv123/pulse-arc",
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2099031808637558980",
+          "postId": "2099031808637558980",
+          "postedAt": "2026-09-13T07:05:55.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2098764706122981566",
+          "postId": "2098764706122981566",
+          "postedAt": "2026-09-12T13:24:33.000Z"
+        }
+      ],
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://chapaevv123.github.io/pulse-arc/",
+        "https://chapaevv123.github.io/pulse-arc/erc8004-agent-metadata.json",
+        "https://explorer.testnet.arc.io/address/0x1607Af4E1DA1C06362871443d2e95C367B984Efa",
+        "https://testnet.arcscan.app/address/0x1607Af4E1DA1C06362871443d2e95C367B984Efa",
+        "https://explorer.testnet.arc.io/tx/0xbbc906f56164560e160e1adcaa40e687a34400c0f0b3de182030416488308651"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://chapaevv123.github.io/pulse-arc/",
+          "postUrl": "https://x.com/i/web/status/2098764706122981566",
+          "repository": "chapaevv123/pulse-arc"
+        },
+        {
+          "url": "https://chapaevv123.github.io/pulse-arc/erc8004-agent-metadata.json",
+          "postUrl": "https://x.com/i/web/status/2099031808637558980",
+          "repository": "chapaevv123/pulse-arc"
+        },
+        {
+          "url": "https://explorer.testnet.arc.io/address/0x1607Af4E1DA1C06362871443d2e95C367B984Efa",
+          "postUrl": "https://x.com/i/web/status/2098764706122981566",
+          "repository": "chapaevv123/pulse-arc"
+        },
+        {
+          "url": "https://testnet.arcscan.app/address/0x1607Af4E1DA1C06362871443d2e95C367B984Efa",
+          "postUrl": "https://x.com/i/web/status/2098764706122981566",
+          "repository": "chapaevv123/pulse-arc"
+        },
+        {
+          "url": "https://explorer.testnet.arc.io/tx/0xbbc906f56164560e160e1adcaa40e687a34400c0f0b3de182030416488308651",
+          "postUrl": "https://x.com/i/web/status/2098764706122981566",
+          "repository": "chapaevv123/pulse-arc"
+        }
+      ],
+      "lastSeenAt": "2026-10-10T07:19:38.317Z"
+    },
+    "vanch007/mlx-auk": {
+      "full": "vanch007/mlx-AuK",
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2099017589850775671",
+          "postId": "2099017589850775671",
+          "postedAt": "2026-09-13T06:09:25.000Z"
+        }
+      ],
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://vanch007.github.io/mlx-AuK/web/index.html"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://vanch007.github.io/mlx-AuK/web/index.html",
+          "postUrl": "https://x.com/i/web/status/2099017589850775671",
+          "repository": "vanch007/mlx-AuK"
+        }
+      ],
+      "lastSeenAt": "2026-10-10T07:19:38.317Z"
+    },
+    "daming98/cyberpunk-message-generator": {
+      "full": "daming98/cyberpunk-message-generator",
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2099016012943253744",
+          "postId": "2099016012943253744",
+          "postedAt": "2026-09-13T06:03:09.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2099015724521968019",
+          "postId": "2099015724521968019",
+          "postedAt": "2026-09-13T06:02:01.000Z"
+        }
+      ],
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 8,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://daming98.github.io/cyberpunk-message-generator/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://daming98.github.io/cyberpunk-message-generator/",
+          "postUrl": "https://x.com/i/web/status/2099015724521968019",
+          "repository": "daming98/cyberpunk-message-generator"
+        }
+      ],
+      "lastSeenAt": "2026-10-10T07:19:38.317Z"
+    },
+    "bubblik525/chernobyl_atlas": {
+      "full": "bubblik525/Chernobyl_Atlas",
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2098841319619649894",
+          "postId": "2098841319619649894",
+          "postedAt": "2026-09-12T18:28:59.000Z"
+        }
+      ],
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://bubblik525.github.io/Chernobyl_Atlas/ATELIER-Reactor.html"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://bubblik525.github.io/Chernobyl_Atlas/ATELIER-Reactor.html",
+          "postUrl": "https://x.com/i/web/status/2098841319619649894",
+          "repository": "bubblik525/Chernobyl_Atlas"
+        }
+      ],
+      "lastSeenAt": "2026-10-10T07:19:38.317Z"
+    },
+    "sai6522/copilot-day-spark": {
+      "full": "Sai6522/copilot-day-spark",
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2098768735951888891",
+          "postId": "2098768735951888891",
+          "postedAt": "2026-09-12T13:40:34.000Z"
+        }
+      ],
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://sai6522.github.io/copilot-day-spark/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://sai6522.github.io/copilot-day-spark/",
+          "postUrl": "https://x.com/i/web/status/2098768735951888891",
+          "repository": "Sai6522/copilot-day-spark"
+        }
+      ],
+      "lastSeenAt": "2026-10-10T07:19:38.317Z"
+    },
+    "vyom-2007/duofoldwallpaper": {
+      "full": "Vyom-2007/DuoFoldWallpaper",
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2098448513004958038",
+          "postId": "2098448513004958038",
+          "postedAt": "2026-09-11T16:28:07.000Z"
+        }
+      ],
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://vyom-2007.github.io/DuoFoldWallpaper/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://vyom-2007.github.io/DuoFoldWallpaper/",
+          "postUrl": "https://x.com/i/web/status/2098448513004958038",
+          "repository": "Vyom-2007/DuoFoldWallpaper"
+        }
+      ],
+      "lastSeenAt": "2026-10-10T07:19:38.317Z"
     }
   },
   "lastRun": {
@@ -20565,7 +20910,24 @@
     "2108192627401081009",
     "2108183144738513043",
     "2108179358414422078",
-    "2108591281282949159"
+    "2108591281282949159",
+    "2100009626045653099",
+    "2099850280938480108",
+    "2099807734774284502",
+    "2099793419455611137",
+    "2099206965012345179",
+    "2099159726617743555",
+    "2099159459159576948",
+    "2099041395063337304",
+    "2099031808637558980",
+    "2099017589850775671",
+    "2099016012943253744",
+    "2099015724521968019",
+    "2098841319619649894",
+    "2098768735951888891",
+    "2098764706122981566",
+    "2098489154799829295",
+    "2098448513004958038"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -20586,9 +20948,9 @@
     },
     "ac3eb65e96558e14": {
       "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
-      "posts": 29,
-      "uniquePosts": 27,
-      "newCandidates": 11,
+      "posts": 46,
+      "uniquePosts": 44,
+      "newCandidates": 20,
       "validationAttempts": 14,
       "accepted": 12
     },
@@ -20952,6 +21314,206 @@
       },
       "nextAttemptAt": "2027-01-08T05:39:42.725Z",
       "reason": "repository_resolved"
+    },
+    "https://kucha11451.itch.io/project-zero": {
+      "url": "https://kucha11451.itch.io/project-zero",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2100009626045653099",
+          "postId": "2100009626045653099",
+          "postedAt": "2026-09-15T23:51:25.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 3,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      }
+    },
+    "https://kucha-5.github.io/Project-Zero-web-version/": {
+      "url": "https://kucha-5.github.io/Project-Zero-web-version/",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2100009626045653099",
+          "postId": "2100009626045653099",
+          "postedAt": "2026-09-15T23:51:25.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 3,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      }
+    },
+    "https://kucha11451.itch.io/project-zero-mobile-version": {
+      "url": "https://kucha11451.itch.io/project-zero-mobile-version",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2100009626045653099",
+          "postId": "2100009626045653099",
+          "postedAt": "2026-09-15T23:51:25.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 3,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      }
+    },
+    "https://kucha-5.github.io/PZ-Mobile-version/": {
+      "url": "https://kucha-5.github.io/PZ-Mobile-version/",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2100009626045653099",
+          "postId": "2100009626045653099",
+          "postedAt": "2026-09-15T23:51:25.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 3,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      }
+    },
+    "https://elon-musk12.github.io/My-personal-AI/": {
+      "url": "https://elon-musk12.github.io/My-personal-AI/",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2099850280938480108",
+          "postId": "2099850280938480108",
+          "postedAt": "2026-09-15T13:18:14.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      }
+    },
+    "https://elon-musk12.github.io/Elon-X-capital/": {
+      "url": "https://elon-musk12.github.io/Elon-X-capital/",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2099850280938480108",
+          "postId": "2099850280938480108",
+          "postedAt": "2026-09-15T13:18:14.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      }
+    },
+    "https://x.capital/": {
+      "url": "https://x.capital/",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2099850280938480108",
+          "postId": "2099850280938480108",
+          "postedAt": "2026-09-15T13:18:14.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      }
+    },
+    "https://glittering-concha-7cd396.netlify.app/": {
+      "url": "https://glittering-concha-7cd396.netlify.app/",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2099807734774284502",
+          "postId": "2099807734774284502",
+          "postedAt": "2026-09-15T10:29:11.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      }
+    },
+    "https://jubbic-spark-market-2026.vercel.app/": {
+      "url": "https://jubbic-spark-market-2026.vercel.app/",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2099041395063337304",
+          "postId": "2099041395063337304",
+          "postedAt": "2026-09-13T07:44:01.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 6,
+        "reposts": 2,
+        "replies": 3,
+        "quotes": 1
+      }
+    },
+    "https://anand8795.github.io/opportunity-radar/": {
+      "url": "https://anand8795.github.io/opportunity-radar/",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2098489154799829295",
+          "postId": "2098489154799829295",
+          "postedAt": "2026-09-11T19:09:37.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-10-10T07:19:38.317Z",
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 0,
+        "quotes": 0
+      }
     }
   },
   "lastDemoDiscovery": {
