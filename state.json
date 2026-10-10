@@ -79,7 +79,8 @@
       },
       "recent": {
         "start": "2026-10-03T12:32:03.570Z",
-        "end": "2026-10-09T13:15:36.184Z"
+        "end": "2026-10-09T13:15:36.184Z",
+        "nextToken": "b26v89c19zqg8o3juziz5gt1fieli0god3b8w9647x665"
       }
     },
     "a0153cbebcc5cf46": {
@@ -271,7 +272,7 @@
           "postedAt": "2026-10-08T14:49:40.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-10T05:38:59.915Z",
+      "lastSeenAt": "2026-10-10T12:31:07.041Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-15T15:22:02.879Z",
       "engagement": {
@@ -907,12 +908,12 @@
           "postedAt": "2026-10-08T13:47:45.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-10T05:38:59.915Z",
+      "lastSeenAt": "2026-10-10T12:31:07.041Z",
       "reason": null,
       "nextAttemptAt": "2026-10-11T01:16:58.054Z",
       "engagement": {
-        "likes": 293,
-        "reposts": 35,
+        "likes": 299,
+        "reposts": 36,
         "replies": 10,
         "quotes": 2
       },
@@ -2144,7 +2145,7 @@
           "postedAt": "2026-10-08T13:10:04.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-10T05:38:59.915Z",
+      "lastSeenAt": "2026-10-10T12:31:07.041Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T06:43:09.746Z",
       "engagement": {
@@ -2186,7 +2187,7 @@
           "postedAt": "2026-10-08T12:55:01.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-10T05:38:59.915Z",
+      "lastSeenAt": "2026-10-10T12:31:07.041Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T06:43:11.319Z",
       "engagement": {
@@ -2421,11 +2422,11 @@
           "postedAt": "2026-10-08T11:55:08.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T13:16:08.856Z",
+      "lastSeenAt": "2026-10-10T12:31:07.041Z",
       "reason": null,
       "nextAttemptAt": "2026-10-11T01:17:07.330Z",
       "engagement": {
-        "likes": 26,
+        "likes": 27,
         "reposts": 2,
         "replies": 0,
         "quotes": 0
@@ -2552,13 +2553,13 @@
           "postedAt": "2026-10-08T11:54:58.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-09T13:16:08.856Z",
+      "lastSeenAt": "2026-10-10T12:31:07.041Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T06:43:18.696Z",
       "engagement": {
-        "likes": 18,
-        "reposts": 2,
-        "replies": 2,
+        "likes": 27,
+        "reposts": 5,
+        "replies": 3,
         "quotes": 0
       },
       "demoHints": [],
@@ -7447,7 +7448,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T05:38:59.915Z",
+      "lastSeenAt": "2026-10-10T12:31:07.041Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:24:37.913Z"
     },
@@ -7689,7 +7690,7 @@
       "engagement": {
         "likes": 14,
         "reposts": 2,
-        "replies": 3,
+        "replies": 4,
         "quotes": 0
       },
       "demoHints": [
@@ -7702,7 +7703,7 @@
           "repository": "heyputer/builder"
         }
       ],
-      "lastSeenAt": "2026-10-10T05:38:59.915Z",
+      "lastSeenAt": "2026-10-10T12:31:07.041Z",
       "entry": {
         "availability": "available",
         "full": "HeyPuter/builder",
@@ -14804,14 +14805,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 73,
+        "likes": 76,
         "reposts": 6,
         "replies": 9,
         "quotes": 2
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T05:38:59.915Z",
+      "lastSeenAt": "2026-10-10T12:31:07.041Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T13:18:06.625Z"
     },
@@ -14830,14 +14831,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 310,
-        "reposts": 12,
+        "likes": 349,
+        "reposts": 14,
         "replies": 18,
-        "quotes": 0
+        "quotes": 1
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T05:38:59.915Z",
+      "lastSeenAt": "2026-10-10T12:31:07.041Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T13:18:06.107Z"
     },
@@ -14863,7 +14864,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T05:38:59.915Z",
+      "lastSeenAt": "2026-10-10T12:31:07.041Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T13:18:07.230Z"
     },
@@ -14882,9 +14883,9 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 563,
+        "likes": 564,
         "reposts": 75,
-        "replies": 45,
+        "replies": 47,
         "quotes": 19
       },
       "demoHints": [
@@ -14897,7 +14898,7 @@
           "repository": "lithos-ai/lithos-metal"
         }
       ],
-      "lastSeenAt": "2026-10-10T05:38:59.915Z",
+      "lastSeenAt": "2026-10-10T12:31:07.041Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "lithos-ai/lithos-metal",
@@ -15042,7 +15043,7 @@
           "repository": "speridlabs/iris-3b"
         }
       ],
-      "lastSeenAt": "2026-10-10T05:38:59.915Z",
+      "lastSeenAt": "2026-10-10T12:31:07.041Z",
       "entry": {
         "availability": "available",
         "full": "speridlabs/iris-3b",
@@ -15172,7 +15173,7 @@
           "repository": "pump-fun/transfer-hook-authority"
         }
       ],
-      "lastSeenAt": "2026-10-10T05:38:59.915Z",
+      "lastSeenAt": "2026-10-10T12:31:07.041Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "pump-fun/transfer-hook-authority",
@@ -19896,9 +19897,9 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 14,
+        "likes": 15,
         "reposts": 0,
-        "replies": 9,
+        "replies": 10,
         "quotes": 0
       },
       "demoHints": [
@@ -19917,7 +19918,7 @@
           "repository": "inklingfree/inkling"
         }
       ],
-      "lastSeenAt": "2026-10-10T05:38:59.915Z",
+      "lastSeenAt": "2026-10-10T12:31:07.041Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "inklingfree/inkling",
@@ -23459,8 +23460,6 @@
     "2101715030374756437",
     "2100851581457744109",
     "2100637400502313000",
-    "2108164286875152482",
-    "2108164245607383405",
     "2108075880341713291",
     "2106074232203391481",
     "2106072292417806619",
@@ -23530,20 +23529,7 @@
     "2105788179811066362",
     "2105784996107632861",
     "2108537253429747842",
-    "2108512054672015684",
-    "2108378085058035960",
-    "2108358111233020254",
-    "2108348324231381120",
-    "2108301670451163390",
-    "2108257406408900725",
-    "2108249739414147259",
     "2108245554816016662",
-    "2108241673897877739",
-    "2108227659591303663",
-    "2108208211375374698",
-    "2108192627401081009",
-    "2108183144738513043",
-    "2108179358414422078",
     "2100009626045653099",
     "2099850280938480108",
     "2099807734774284502",
@@ -23610,7 +23596,22 @@
     "2105957965362552871",
     "2105953449070514265",
     "2105948636450639889",
-    "2105948423593877540"
+    "2105948423593877540",
+    "2108512054672015684",
+    "2108378085058035960",
+    "2108358111233020254",
+    "2108348324231381120",
+    "2108301670451163390",
+    "2108257406408900725",
+    "2108249739414147259",
+    "2108241673897877739",
+    "2108227659591303663",
+    "2108208211375374698",
+    "2108192627401081009",
+    "2108183144738513043",
+    "2108179358414422078",
+    "2108164286875152482",
+    "2108164245607383405"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -23639,7 +23640,7 @@
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 30,
+      "posts": 45,
       "uniquePosts": 16,
       "newCandidates": 10,
       "validationAttempts": 10,
