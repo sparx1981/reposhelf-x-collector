@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "reservedUsd": 4.5,
-  "requests": 23,
+  "reservedUsd": 4.68,
+  "requests": 24,
   "queryTurn": 8,
   "queries": {
     "7c3cb66ff5244ce6": {
@@ -67,7 +67,8 @@
         "nextToken": "b26v89c19zqg8o3juzivsik8l0dqwe4a1evfr5uhs6gl9"
       },
       "recent": {
-        "start": "2026-10-09T13:14:26.651Z"
+        "start": "2026-10-09T13:14:26.651Z",
+        "end": "2026-10-10T07:18:59.641Z"
       }
     },
     "0cdbecff36d6436d": {
@@ -20331,8 +20332,8 @@
       }
     ]
   },
-  "lastFreeBalanceUsd": 18.42,
-  "lastTotalBalanceUsd": 18.42,
+  "lastFreeBalanceUsd": 18.35,
+  "lastTotalBalanceUsd": 18.35,
   "coverageGaps": [
     {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
