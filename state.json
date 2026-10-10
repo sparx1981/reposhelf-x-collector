@@ -79,7 +79,8 @@
       },
       "recent": {
         "start": "2026-10-03T21:01:21.685Z",
-        "end": "2026-10-09T13:15:36.184Z"
+        "end": "2026-10-09T13:15:36.184Z",
+        "nextToken": "b26v89c19zqg8o3juziz5gt1fieli0god3b8w9647x665"
       }
     },
     "a0153cbebcc5cf46": {
@@ -271,7 +272,7 @@
           "postedAt": "2026-10-08T14:49:40.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:57.403Z",
+      "lastSeenAt": "2026-10-10T21:00:25.334Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-15T15:22:02.879Z",
       "engagement": {
@@ -907,7 +908,7 @@
           "postedAt": "2026-10-08T13:47:45.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:57.403Z",
+      "lastSeenAt": "2026-10-10T21:00:25.334Z",
       "reason": null,
       "nextAttemptAt": "2026-10-11T01:16:58.054Z",
       "engagement": {
@@ -2166,7 +2167,7 @@
           "postedAt": "2026-10-08T13:10:04.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:57.403Z",
+      "lastSeenAt": "2026-10-10T21:00:25.334Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T06:43:09.746Z",
       "engagement": {
@@ -2208,7 +2209,7 @@
           "postedAt": "2026-10-08T12:55:01.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:57.403Z",
+      "lastSeenAt": "2026-10-10T21:00:25.334Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T06:43:11.319Z",
       "engagement": {
@@ -2443,7 +2444,7 @@
           "postedAt": "2026-10-08T11:55:08.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:57.403Z",
+      "lastSeenAt": "2026-10-10T21:00:25.334Z",
       "reason": null,
       "nextAttemptAt": "2026-10-11T01:17:07.330Z",
       "engagement": {
@@ -2574,7 +2575,7 @@
           "postedAt": "2026-10-08T11:54:58.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:57.403Z",
+      "lastSeenAt": "2026-10-10T21:00:25.334Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T06:43:18.696Z",
       "engagement": {
@@ -7469,7 +7470,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T16:18:57.403Z",
+      "lastSeenAt": "2026-10-10T21:00:25.334Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:24:37.913Z"
     },
@@ -7724,7 +7725,7 @@
           "repository": "heyputer/builder"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:57.403Z",
+      "lastSeenAt": "2026-10-10T21:00:25.334Z",
       "entry": {
         "availability": "available",
         "full": "HeyPuter/builder",
@@ -14846,7 +14847,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T16:18:57.403Z",
+      "lastSeenAt": "2026-10-10T21:00:25.334Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T13:18:06.625Z"
     },
@@ -14865,14 +14866,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 366,
-        "reposts": 15,
+        "likes": 379,
+        "reposts": 16,
         "replies": 19,
         "quotes": 1
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T16:18:57.403Z",
+      "lastSeenAt": "2026-10-10T21:00:25.334Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T13:18:06.107Z"
     },
@@ -14898,7 +14899,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T16:18:57.403Z",
+      "lastSeenAt": "2026-10-10T21:00:25.334Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T13:18:07.230Z"
     },
@@ -14917,7 +14918,7 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 567,
+        "likes": 568,
         "reposts": 76,
         "replies": 49,
         "quotes": 20
@@ -14932,7 +14933,7 @@
           "repository": "lithos-ai/lithos-metal"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:57.403Z",
+      "lastSeenAt": "2026-10-10T21:00:25.334Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "lithos-ai/lithos-metal",
@@ -15077,7 +15078,7 @@
           "repository": "speridlabs/iris-3b"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:57.403Z",
+      "lastSeenAt": "2026-10-10T21:00:25.334Z",
       "entry": {
         "availability": "available",
         "full": "speridlabs/iris-3b",
@@ -15207,7 +15208,7 @@
           "repository": "pump-fun/transfer-hook-authority"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:57.403Z",
+      "lastSeenAt": "2026-10-10T21:00:25.334Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "pump-fun/transfer-hook-authority",
@@ -20131,7 +20132,7 @@
           "repository": "inklingfree/inkling"
         }
       ],
-      "lastSeenAt": "2026-10-10T16:18:57.403Z",
+      "lastSeenAt": "2026-10-10T21:00:25.334Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "inklingfree/inkling",
@@ -33536,21 +33537,6 @@
     "2105676140132376998",
     "2105675155720552843",
     "2105671022968234114",
-    "2108512054672015684",
-    "2108378085058035960",
-    "2108358111233020254",
-    "2108348324231381120",
-    "2108301670451163390",
-    "2108257406408900725",
-    "2108249739414147259",
-    "2108241673897877739",
-    "2108227659591303663",
-    "2108208211375374698",
-    "2108192627401081009",
-    "2108183144738513043",
-    "2108179358414422078",
-    "2108164286875152482",
-    "2108164245607383405",
     "2108610948114313573",
     "2108610259275202745",
     "2108610236147712289",
@@ -33634,7 +33620,22 @@
     "2105634144755798229",
     "2105629786018316291",
     "2105617904087838802",
-    "2105602318339072220"
+    "2105602318339072220",
+    "2108512054672015684",
+    "2108378085058035960",
+    "2108358111233020254",
+    "2108348324231381120",
+    "2108301670451163390",
+    "2108257406408900725",
+    "2108249739414147259",
+    "2108241673897877739",
+    "2108227659591303663",
+    "2108208211375374698",
+    "2108192627401081009",
+    "2108183144738513043",
+    "2108179358414422078",
+    "2108164286875152482",
+    "2108164245607383405"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -33663,7 +33664,7 @@
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 60,
+      "posts": 75,
       "uniquePosts": 16,
       "newCandidates": 10,
       "validationAttempts": 10,
