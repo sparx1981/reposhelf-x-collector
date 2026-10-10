@@ -52,7 +52,7 @@
         "start": "2026-07-11T09:20:39.114Z",
         "end": "2026-10-02T09:20:39.114Z",
         "done": false,
-        "nextToken": "b26v89c19zqg8o3juzixgwgi1k0ta8rnfckoejthg2cu5"
+        "nextToken": "b26v89c19zqg8o3juzix1xajb1auz6atxyyr3l84o2irh"
       },
       "recent": {
         "start": "2026-10-02T09:21:39.114Z"
@@ -11682,26 +11682,46 @@
           "url": "https://x.com/i/web/status/2104397749424898424",
           "postId": "2104397749424898424",
           "postedAt": "2026-09-28T02:28:15.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104025998090244129",
+          "postId": "2104025998090244129",
+          "postedAt": "2026-09-27T01:51:03.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103996118258651205",
+          "postId": "2103996118258651205",
+          "postedAt": "2026-09-26T23:52:19.000Z"
         }
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 146,
-        "reposts": 7,
-        "replies": 5,
-        "quotes": 0
+        "likes": 206,
+        "reposts": 28,
+        "replies": 8,
+        "quotes": 2
       },
       "demoHints": [
-        "https://samg-coder.github.io/clearwater/"
+        "https://samg-coder.github.io/clearwater/",
+        "https://samg-coder.github.io/clearwater/pool/"
       ],
       "demoLinks": [
         {
           "url": "https://samg-coder.github.io/clearwater/",
-          "postUrl": "https://x.com/i/web/status/2104397749424898424",
+          "postUrl": "https://x.com/i/web/status/2103996118258651205",
+          "repository": "SamG-Coder/clearwater"
+        },
+        {
+          "url": "https://samg-coder.github.io/clearwater/pool/",
+          "postUrl": "https://x.com/i/web/status/2104025998090244129",
           "repository": "SamG-Coder/clearwater"
         }
       ],
-      "lastSeenAt": "2026-10-09T17:42:11.600Z",
+      "lastSeenAt": "2026-10-10T07:19:44.316Z",
       "entry": {
         "availability": "available",
         "full": "SamG-Coder/clearwater",
@@ -20645,6 +20665,368 @@
         }
       ],
       "lastSeenAt": "2026-10-10T07:19:38.317Z"
+    },
+    "ashemag/x-playground": {
+      "full": "ashemag/X-playground",
+      "firstSeenAt": "2026-10-10T07:19:44.316Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104215203139158070",
+          "postId": "2104215203139158070",
+          "postedAt": "2026-09-27T14:22:53.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 94,
+        "reposts": 3,
+        "replies": 11,
+        "quotes": 1
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+    },
+    "lauroguedes/laravel-demo-mode": {
+      "full": "lauroguedes/laravel-demo-mode",
+      "firstSeenAt": "2026-10-10T07:19:44.316Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104156680736948524",
+          "postId": "2104156680736948524",
+          "postedAt": "2026-09-27T10:30:20.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 42,
+        "reposts": 6,
+        "replies": 2,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+    },
+    "gianlucasposito/yolo-waste-detection": {
+      "full": "gianlucasposito/YOLO-Waste-Detection",
+      "firstSeenAt": "2026-10-10T07:19:44.316Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104088108236976563",
+          "postId": "2104088108236976563",
+          "postedAt": "2026-09-27T05:57:51.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 12,
+        "reposts": 1,
+        "replies": 2,
+        "quotes": 3
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+    },
+    "guenael/didahsdr": {
+      "full": "Guenael/didahSDR",
+      "firstSeenAt": "2026-10-10T07:19:44.316Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104004353199599727",
+          "postId": "2104004353199599727",
+          "postedAt": "2026-09-27T00:25:02.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 4,
+        "reposts": 3,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://didahsdr.guenael.ca/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://didahsdr.guenael.ca/",
+          "postUrl": "https://x.com/i/web/status/2104004353199599727",
+          "repository": "Guenael/didahSDR"
+        }
+      ],
+      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+    },
+    "jubayer910/admin-panel": {
+      "full": "jubayer910/Admin-panel",
+      "firstSeenAt": "2026-10-10T07:19:44.316Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103895604439208284",
+          "postId": "2103895604439208284",
+          "postedAt": "2026-09-26T17:12:55.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 418,
+        "reposts": 28,
+        "replies": 6,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://admin-panel-three-puce.vercel.app/admin",
+        "https://admin-panel-three-puce.vercel.app/",
+        "https://maniruzzamanjubayer.com/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://admin-panel-three-puce.vercel.app/admin",
+          "postUrl": "https://x.com/i/web/status/2103895604439208284",
+          "repository": "jubayer910/Admin-panel"
+        },
+        {
+          "url": "https://admin-panel-three-puce.vercel.app/",
+          "postUrl": "https://x.com/i/web/status/2103895604439208284",
+          "repository": "jubayer910/Admin-panel"
+        },
+        {
+          "url": "https://maniruzzamanjubayer.com/",
+          "postUrl": "https://x.com/i/web/status/2103895604439208284",
+          "repository": "jubayer910/Admin-panel"
+        }
+      ],
+      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+    },
+    "sgtpooki/avalanche-ipfs-filecoin-rwa-reference-architecture": {
+      "full": "SgtPooki/Avalanche-IPFS-Filecoin-RWA-reference-Architecture",
+      "firstSeenAt": "2026-10-10T07:19:44.316Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103888602492969270",
+          "postId": "2103888602492969270",
+          "postedAt": "2026-09-26T16:45:05.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 747,
+        "reposts": 120,
+        "replies": 30,
+        "quotes": 6
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+    },
+    "alexshtf/spectral_neuron_paper": {
+      "full": "alexshtf/spectral_neuron_paper",
+      "firstSeenAt": "2026-10-10T07:19:44.316Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103887093302763889",
+          "postId": "2103887093302763889",
+          "postedAt": "2026-09-26T16:39:06.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 73,
+        "reposts": 6,
+        "replies": 3,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://arxiv.org/abs/2608.08003",
+        "https://alexshtf-spectral-neuron-classifier.hf.space/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://arxiv.org/abs/2608.08003",
+          "postUrl": "https://x.com/i/web/status/2103887093302763889",
+          "repository": "alexshtf/spectral_neuron_paper"
+        },
+        {
+          "url": "https://alexshtf-spectral-neuron-classifier.hf.space/",
+          "postUrl": "https://x.com/i/web/status/2103887093302763889",
+          "repository": "alexshtf/spectral_neuron_paper"
+        }
+      ],
+      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+    },
+    "ashfakcodes/alphaind-trading-desk": {
+      "full": "ashfakcodes/alphaind-trading-desk",
+      "firstSeenAt": "2026-10-10T07:19:44.316Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103841391910744436",
+          "postId": "2103841391910744436",
+          "postedAt": "2026-09-26T13:37:29.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 14,
+        "reposts": 1,
+        "replies": 2,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://alphaind.ashfakcodes.wtf/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://alphaind.ashfakcodes.wtf/",
+          "postUrl": "https://x.com/i/web/status/2103841391910744436",
+          "repository": "ashfakcodes/alphaind-trading-desk"
+        }
+      ],
+      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+    },
+    "agibottech/sonic_for_a3": {
+      "full": "AgibotTech/sonic_for_a3",
+      "firstSeenAt": "2026-10-10T07:19:44.316Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103726311202234601",
+          "postId": "2103726311202234601",
+          "postedAt": "2026-09-26T06:00:12.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 44,
+        "reposts": 1,
+        "replies": 2,
+        "quotes": 2
+      },
+      "demoHints": [
+        "https://agibottech.github.io/sonic_for_a3/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://agibottech.github.io/sonic_for_a3/",
+          "postUrl": "https://x.com/i/web/status/2103726311202234601",
+          "repository": "AgibotTech/sonic_for_a3"
+        }
+      ],
+      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+    },
+    "kanahiro/cloud-optimized-geoparquet": {
+      "full": "Kanahiro/cloud-optimized-geoparquet",
+      "firstSeenAt": "2026-10-10T07:19:44.316Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103704428557836533",
+          "postId": "2103704428557836533",
+          "postedAt": "2026-09-26T04:33:15.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 12,
+        "reposts": 2,
+        "replies": 1,
+        "quotes": 1
+      },
+      "demoHints": [
+        "https://kanahiro.github.io/cloud-optimized-geoparquet/#2/20/0"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://kanahiro.github.io/cloud-optimized-geoparquet/#2/20/0",
+          "postUrl": "https://x.com/i/web/status/2103704428557836533",
+          "repository": "Kanahiro/cloud-optimized-geoparquet"
+        }
+      ],
+      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+    },
+    "luketheneuromancer/agentic-ai-system-design-primer-zh": {
+      "full": "lukeTheNeuromancer/agentic-ai-system-design-primer-zh",
+      "firstSeenAt": "2026-10-10T07:19:44.316Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103583789046005878",
+          "postId": "2103583789046005878",
+          "postedAt": "2026-09-25T20:33:52.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 80,
+        "reposts": 12,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-10T07:19:44.316Z"
+    },
+    "fluidinference/fluiduse": {
+      "full": "FluidInference/FluidUse",
+      "firstSeenAt": "2026-10-10T07:19:44.316Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103576479124828564",
+          "postId": "2103576479124828564",
+          "postedAt": "2026-09-25T20:04:49.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 18,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 1
+      },
+      "demoHints": [
+        "https://huggingface.co/FluidInference/gliner2-5-decide-coreml"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://huggingface.co/FluidInference/gliner2-5-decide-coreml",
+          "postUrl": "https://x.com/i/web/status/2103576479124828564",
+          "repository": "FluidInference/FluidUse"
+        }
+      ],
+      "lastSeenAt": "2026-10-10T07:19:44.316Z"
     }
   },
   "lastRun": {
@@ -20927,7 +21309,22 @@
     "2098768735951888891",
     "2098764706122981566",
     "2098489154799829295",
-    "2098448513004958038"
+    "2098448513004958038",
+    "2104215203139158070",
+    "2104178462034374915",
+    "2104156680736948524",
+    "2104088108236976563",
+    "2104025998090244129",
+    "2104004353199599727",
+    "2103996118258651205",
+    "2103895604439208284",
+    "2103888602492969270",
+    "2103887093302763889",
+    "2103841391910744436",
+    "2103726311202234601",
+    "2103704428557836533",
+    "2103583789046005878",
+    "2103576479124828564"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -20940,9 +21337,9 @@
     },
     "2c0438e5283099cf": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 44,
-      "uniquePosts": 42,
-      "newCandidates": 55,
+      "posts": 59,
+      "uniquePosts": 57,
+      "newCandidates": 67,
       "validationAttempts": 51,
       "accepted": 21
     },
