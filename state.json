@@ -38771,7 +38771,7 @@
     "liquefiedfi/presale": {
       "full": "liquefiedfi/Presale",
       "firstSeenAt": "2026-10-11T12:49:04.717Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -38790,7 +38790,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T12:49:04.717Z"
+      "lastSeenAt": "2026-10-11T12:49:04.717Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T12:51:13.456Z"
     },
     "mtecnic/village": {
       "full": "mtecnic/village",
@@ -38867,7 +38869,7 @@
     "oztalha/md-viewer": {
       "full": "oztalha/md-viewer",
       "firstSeenAt": "2026-10-11T12:49:04.717Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -38886,12 +38888,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T12:49:04.717Z"
+      "lastSeenAt": "2026-10-11T12:49:04.717Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T12:51:04.388Z"
     },
     "useslop/claude-plugins": {
       "full": "useslop/claude-plugins",
       "firstSeenAt": "2026-10-11T12:49:04.717Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -38918,12 +38922,116 @@
           "repository": "useslop/claude-plugins"
         }
       ],
-      "lastSeenAt": "2026-10-11T12:49:04.717Z"
+      "lastSeenAt": "2026-10-11T12:49:04.717Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "useslop/claude-plugins",
+        "postUrl": "https://x.com/i/web/status/2105470899596017953",
+        "url": "https://useslop.com/mcp?utm_source=x&utm_campaign=launch-1001"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "useslop/claude-plugins",
+        "name": "claude-plugins",
+        "description": "Claude Code plugins from Slop: post a session to useslop.com with an automatic Build Receipt",
+        "category": "Developer tools",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-30T19:28:04Z",
+        "updated": "2026-10-01T01:50:31Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://useslop.com/mcp",
+        "topics": [
+          "build-receipts",
+          "claude-code",
+          "claude-code-plugin",
+          "mcp"
+        ],
+        "demo": "https://useslop.com/mcp?utm_source=x&utm_campaign=launch-1001",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-11T12:50:40.398Z",
+        "lastAvailableAt": "2026-10-11T12:50:40.398Z",
+        "lastAttemptAt": "2026-10-11T12:50:40.398Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "useslop/claude-plugins",
+          "postUrl": "https://x.com/i/web/status/2105470899596017953",
+          "url": "https://useslop.com/mcp?utm_source=x&utm_campaign=launch-1001"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105470899596017953",
+            "postId": "2105470899596017953",
+            "postedAt": "2026-10-01T01:32:34.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "mcp"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://useslop.com/mcp?utm_source=x&utm_campaign=launch-1001",
+          "attemptedAt": "2026-10-11T12:50:43.815Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T12:50:43.815Z",
+          "lastWorkingAt": "2026-10-11T12:50:43.815Z",
+          "target": "https://useslop.com/mcp?utm_source=x&utm_campaign=launch-1001",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T12:50:43.815Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/58e335b57a3dd611232cad32.jpg",
+            "kind": "demo",
+            "url": "https://useslop.com/mcp?utm_source=x&utm_campaign=launch-1001",
+            "capturedAt": "2026-10-11T12:50:43.815Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T12:50:43.815Z",
+        "previewCheck": {
+          "url": "https://useslop.com/mcp?utm_source=x&utm_campaign=launch-1001",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T12:50:43.815Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T12:50:43.816Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T00:50:43.816Z",
+      "checkedAt": "2026-10-11T12:50:43.816Z",
+      "firstAcceptedAt": "2026-10-11T12:50:43.816Z"
     },
     "yusufgenc34/ilens": {
       "full": "yusufgenc34/ILens",
       "firstSeenAt": "2026-10-11T12:49:04.717Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -38950,7 +39058,84 @@
           "repository": "yusufgenc34/ILens"
         }
       ],
-      "lastSeenAt": "2026-10-11T12:49:04.717Z"
+      "lastSeenAt": "2026-10-11T12:49:04.717Z",
+      "entry": {
+        "availability": "available",
+        "full": "yusufgenc34/ILens",
+        "name": "ILens",
+        "description": "A browser-based .NET assembly explorer and decompiler.",
+        "category": "Other",
+        "language": "Rust",
+        "stars": 2,
+        "forks": 0,
+        "created": "2026-09-12T22:36:18Z",
+        "updated": "2026-10-01T00:46:44Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://yusufgenc34.github.io/ILens/",
+        "topics": [],
+        "demo": "https://yusufgenc34.github.io/ILens/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-11T12:50:28.936Z",
+        "lastAvailableAt": "2026-10-11T12:50:28.936Z",
+        "lastAttemptAt": "2026-10-11T12:50:28.936Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105464879263908126",
+            "postId": "2105464879263908126",
+            "postedAt": "2026-10-01T01:08:39.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://yusufgenc34.github.io/ILens/",
+          "attemptedAt": "2026-10-11T12:50:32.247Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T12:50:32.247Z",
+          "lastWorkingAt": "2026-10-11T12:50:32.247Z",
+          "target": "https://yusufgenc34.github.io/ILens/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T12:50:32.247Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/dc29cb0e4a2da27894764775.jpg",
+            "kind": "demo",
+            "url": "https://yusufgenc34.github.io/ILens/",
+            "capturedAt": "2026-10-11T12:50:32.247Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T12:50:32.247Z",
+        "previewCheck": {
+          "url": "https://yusufgenc34.github.io/ILens/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T12:50:32.247Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T12:50:32.248Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T00:50:32.249Z",
+      "checkedAt": "2026-10-11T12:50:32.249Z",
+      "firstAcceptedAt": "2026-10-11T12:50:32.249Z"
     },
     "bytethedev/superdb": {
       "full": "ByteTheDev/SuperDB",
@@ -38977,9 +39162,9 @@
       "lastSeenAt": "2026-10-11T12:49:04.717Z"
     },
     "mengto/skills": {
-      "full": "mengto/skills",
+      "full": "MengTo/Skills",
       "firstSeenAt": "2026-10-11T12:49:04.717Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -39013,7 +39198,104 @@
           "repository": "mengto/skills"
         }
       ],
-      "lastSeenAt": "2026-10-11T12:49:04.717Z"
+      "lastSeenAt": "2026-10-11T12:49:04.717Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "MengTo/Skills",
+        "postUrl": "https://x.com/i/web/status/2105432496842117297",
+        "url": "https://threeui.com/dark-souls-holo-card"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "MengTo/Skills",
+        "name": "Skills",
+        "description": "Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents",
+        "category": "Design",
+        "language": "HTML",
+        "stars": 6711,
+        "forks": 788,
+        "created": "2026-02-03T10:10:55Z",
+        "updated": "2026-10-06T14:20:26Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://threeui.com/dark-souls-holo-card",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-11T12:49:52.410Z",
+        "lastAvailableAt": "2026-10-11T12:49:52.410Z",
+        "lastAttemptAt": "2026-10-11T12:49:52.410Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "MengTo/Skills",
+          "postUrl": "https://x.com/i/web/status/2105432496842117297",
+          "url": "https://threeui.com/dark-souls-holo-card"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105444181279985778",
+            "postId": "2105444181279985778",
+            "postedAt": "2026-09-30T23:46:24.000Z"
+          },
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105432496842117297",
+            "postId": "2105432496842117297",
+            "postedAt": "2026-09-30T22:59:58.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "Agent"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://threeui.com/dark-souls-holo-card",
+          "attemptedAt": "2026-10-11T12:50:27.417Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "empty_page",
+            "at": "2026-10-11T12:50:27.417Z"
+          },
+          "nextCheckAt": "2026-10-11T14:50:27.417Z"
+        },
+        "previewAttemptAt": "2026-10-11T12:50:27.417Z",
+        "previewCheck": {
+          "url": "https://threeui.com/dark-souls-holo-card",
+          "status": "retry",
+          "reason": "empty_page",
+          "attemptedAt": "2026-10-11T12:50:27.417Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-11T14:50:27.417Z"
+        }
+      },
+      "reason": "empty_page",
+      "nextAttemptAt": "2026-10-11T14:50:27.417Z",
+      "checkedAt": "2026-10-11T12:50:27.418Z"
     },
     "openclaw/openclaw-enterprise": {
       "full": "openclaw/openclaw-enterprise",
@@ -39073,7 +39355,7 @@
     "humanwhocodes/pr-comment-inbox": {
       "full": "humanwhocodes/pr-comment-inbox",
       "firstSeenAt": "2026-10-11T12:49:04.717Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -39106,7 +39388,96 @@
           "repository": "humanwhocodes/pr-comment-inbox"
         }
       ],
-      "lastSeenAt": "2026-10-11T12:49:04.717Z"
+      "lastSeenAt": "2026-10-11T12:49:04.717Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "humanwhocodes/pr-comment-inbox",
+        "postUrl": "https://x.com/i/web/status/2105412709516988833",
+        "url": "https://humanwhocodes.com/blog/2026/09/introducing-pr-comment-inbox/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "humanwhocodes/pr-comment-inbox",
+        "name": "pr-comment-inbox",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 12,
+        "forks": 0,
+        "created": "2026-09-25T23:59:08Z",
+        "updated": "2026-09-30T21:41:00Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://humanwhocodes.com/blog/2026/09/introducing-pr-comment-inbox/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-11T12:50:44.335Z",
+        "lastAvailableAt": "2026-10-11T12:50:44.335Z",
+        "lastAttemptAt": "2026-10-11T12:50:44.335Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "humanwhocodes/pr-comment-inbox",
+          "postUrl": "https://x.com/i/web/status/2105412709516988833",
+          "url": "https://humanwhocodes.com/blog/2026/09/introducing-pr-comment-inbox/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105412709516988833",
+            "postId": "2105412709516988833",
+            "postedAt": "2026-09-30T21:41:21.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://humanwhocodes.com/blog/2026/09/introducing-pr-comment-inbox/",
+          "attemptedAt": "2026-10-11T12:50:47.897Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T12:50:47.897Z",
+          "lastWorkingAt": "2026-10-11T12:50:47.897Z",
+          "target": "https://humanwhocodes.com/blog/2026/09/introducing-pr-comment-inbox/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T12:50:47.897Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/2fb7a72d181ce5ac62660da1.jpg",
+            "kind": "demo",
+            "url": "https://humanwhocodes.com/blog/2026/09/introducing-pr-comment-inbox/",
+            "capturedAt": "2026-10-11T12:50:47.897Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T12:50:47.897Z",
+        "previewCheck": {
+          "url": "https://humanwhocodes.com/blog/2026/09/introducing-pr-comment-inbox/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T12:50:47.897Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T12:50:47.898Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T00:50:47.898Z",
+      "checkedAt": "2026-10-11T12:50:47.898Z",
+      "firstAcceptedAt": "2026-10-11T12:50:47.898Z"
     },
     "wildconstruct/localization-council": {
       "full": "WildConstruct/localization-council",
@@ -39135,7 +39506,7 @@
     "obrainarc/obrain": {
       "full": "obrainarc/obrain",
       "firstSeenAt": "2026-10-11T12:49:04.717Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -39154,12 +39525,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T12:49:04.717Z"
+      "lastSeenAt": "2026-10-11T12:49:04.717Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T12:50:51.700Z"
     },
     "ssanaullahrais/blazfetch-web": {
       "full": "ssanaullahrais/blazfetch-web",
       "firstSeenAt": "2026-10-11T12:49:04.717Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -39186,12 +39559,99 @@
           "repository": "ssanaullahrais/blazfetch-web"
         }
       ],
-      "lastSeenAt": "2026-10-11T12:49:04.717Z"
+      "lastSeenAt": "2026-10-11T12:49:04.717Z",
+      "entry": {
+        "availability": "available",
+        "full": "ssanaullahrais/blazfetch-web",
+        "name": "blazfetch-web",
+        "description": "Fast, clean web app for downloading video, audio and photos from 18 social platforms. React, Vite and Tailwind PWA for the BlazFetch backend.",
+        "category": "Developer tools",
+        "language": "TypeScript",
+        "stars": 6,
+        "forks": 1,
+        "created": "2026-09-24T16:22:32Z",
+        "updated": "2026-10-11T12:13:07Z",
+        "license": null,
+        "branch": "main",
+        "homepage": "",
+        "topics": [],
+        "demo": "https://social.blaztools.com/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-11T12:50:36.385Z",
+        "lastAvailableAt": "2026-10-11T12:50:36.385Z",
+        "lastAttemptAt": "2026-10-11T12:50:36.385Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105402154702017007",
+            "postId": "2105402154702017007",
+            "postedAt": "2026-09-30T20:59:24.000Z"
+          }
+        ],
+        "subjects": [
+          "Browser extensions & PWAs"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Browser extensions & PWAs"
+          ],
+          "evidence": [
+            {
+              "subject": "Browser extensions & PWAs",
+              "source": "metadata",
+              "match": "PWA"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://social.blaztools.com/",
+          "attemptedAt": "2026-10-11T12:50:39.768Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T12:50:39.768Z",
+          "lastWorkingAt": "2026-10-11T12:50:39.768Z",
+          "target": "https://social.blaztools.com/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T12:50:39.768Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/f2bd920f68af334a38d76b61.jpg",
+            "kind": "demo",
+            "url": "https://social.blaztools.com/",
+            "capturedAt": "2026-10-11T12:50:39.768Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T12:50:39.768Z",
+        "previewCheck": {
+          "url": "https://social.blaztools.com/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T12:50:39.768Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T12:50:39.769Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T00:50:39.770Z",
+      "checkedAt": "2026-10-11T12:50:39.770Z",
+      "firstAcceptedAt": "2026-10-11T12:50:39.770Z"
     },
     "typesafe-ai/skills": {
       "full": "typesafe-ai/skills",
       "firstSeenAt": "2026-10-11T12:49:10.760Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -39210,12 +39670,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T12:49:10.760Z"
+      "lastSeenAt": "2026-10-11T12:49:10.760Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T12:51:01.269Z"
     },
     "burnigtm/jev-mcp": {
       "full": "burnigtm/jev-mcp",
       "firstSeenAt": "2026-10-11T12:49:10.760Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -39234,12 +39696,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T12:49:10.760Z"
+      "lastSeenAt": "2026-10-11T12:49:10.760Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T12:50:48.605Z"
     },
     "samg-coder/watercuda": {
       "full": "SamG-Coder/WaterCuda",
       "firstSeenAt": "2026-10-11T12:49:10.760Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -39258,12 +39722,99 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T12:49:10.760Z"
+      "lastSeenAt": "2026-10-11T12:49:10.760Z",
+      "entry": {
+        "availability": "available",
+        "full": "SamG-Coder/WaterCuda",
+        "name": "WaterCuda",
+        "description": "Infinite procedural islands and a spectral ocean, authored in CUDA and rendered in the browser with WebGPU.",
+        "category": "Design",
+        "language": "JavaScript",
+        "stars": 47,
+        "forks": 8,
+        "created": "2026-09-19T10:44:08Z",
+        "updated": "2026-09-25T00:57:26Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://samg-coder.github.io/WaterCuda/",
+        "topics": [],
+        "demo": "https://samg-coder.github.io/WaterCuda/?seed=884&view=coast&look=coastal",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-11T12:50:52.322Z",
+        "lastAvailableAt": "2026-10-11T12:50:52.322Z",
+        "lastAttemptAt": "2026-10-11T12:50:52.322Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2101406451319329102",
+            "postId": "2101406451319329102",
+            "postedAt": "2026-09-19T20:21:54.000Z"
+          }
+        ],
+        "subjects": [
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "WebGPU"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://samg-coder.github.io/WaterCuda/?seed=884&view=coast&look=coastal",
+          "attemptedAt": "2026-10-11T12:50:56.441Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T12:50:56.441Z",
+          "lastWorkingAt": "2026-10-11T12:50:56.441Z",
+          "target": "https://samg-coder.github.io/WaterCuda/?seed=884&view=coast&look=coastal",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T12:50:56.441Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/5e8fd8da80ef1f34787d916f.jpg",
+            "kind": "demo",
+            "url": "https://samg-coder.github.io/WaterCuda/?seed=884&view=coast&look=coastal",
+            "capturedAt": "2026-10-11T12:50:56.441Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T12:50:56.441Z",
+        "previewCheck": {
+          "url": "https://samg-coder.github.io/WaterCuda/?seed=884&view=coast&look=coastal",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T12:50:56.441Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T12:50:56.443Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T00:50:56.444Z",
+      "checkedAt": "2026-10-11T12:50:56.444Z",
+      "firstAcceptedAt": "2026-10-11T12:50:56.444Z"
     },
     "adust09/hs-libp2p": {
       "full": "adust09/hs-libp2p",
       "firstSeenAt": "2026-10-11T12:49:10.760Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -39280,12 +39831,93 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-11T12:49:10.760Z"
+      "lastSeenAt": "2026-10-11T12:49:10.760Z",
+      "entry": {
+        "availability": "available",
+        "full": "adust09/hs-libp2p",
+        "name": "hs-libp2p",
+        "description": "libp2p implementation in Haskell",
+        "category": "Other",
+        "language": "Haskell",
+        "stars": 11,
+        "forks": 7,
+        "created": "2026-02-25T05:23:01Z",
+        "updated": "2026-10-11T12:15:13Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://adust09.github.io/hs-libp2p/",
+        "topics": [
+          "libp2p",
+          "network",
+          "p2p"
+        ],
+        "demo": "https://adust09.github.io/hs-libp2p/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-11T12:51:09.307Z",
+        "lastAvailableAt": "2026-10-11T12:51:09.307Z",
+        "lastAttemptAt": "2026-10-11T12:51:09.307Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2101290415626592322",
+            "postId": "2101290415626592322",
+            "postedAt": "2026-09-19T12:40:49.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://adust09.github.io/hs-libp2p/",
+          "attemptedAt": "2026-10-11T12:51:12.557Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T12:51:12.557Z",
+          "lastWorkingAt": "2026-10-11T12:51:12.557Z",
+          "target": "https://adust09.github.io/hs-libp2p/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T12:51:12.557Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/cacdb22e25c51d70bf4472c5.jpg",
+            "kind": "demo",
+            "url": "https://adust09.github.io/hs-libp2p/",
+            "capturedAt": "2026-10-11T12:51:12.557Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T12:51:12.557Z",
+        "previewCheck": {
+          "url": "https://adust09.github.io/hs-libp2p/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T12:51:12.557Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T12:51:12.558Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T00:51:12.559Z",
+      "checkedAt": "2026-10-11T12:51:12.559Z",
+      "firstAcceptedAt": "2026-10-11T12:51:12.559Z"
     },
     "adust09/libp2p-hs": {
       "full": "adust09/libp2p-hs",
       "firstSeenAt": "2026-10-11T12:49:10.760Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -39302,12 +39934,14 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-11T12:49:10.760Z"
+      "lastSeenAt": "2026-10-11T12:49:10.760Z",
+      "reason": "temporary_error",
+      "nextAttemptAt": "2026-10-11T18:51:12.819Z"
     },
     "nilbuild/video-demo": {
       "full": "nilbuild/video-demo",
       "firstSeenAt": "2026-10-11T12:49:10.760Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -39326,12 +39960,245 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T12:49:10.760Z"
+      "lastSeenAt": "2026-10-11T12:49:10.760Z",
+      "reusedEvidence": true,
+      "entry": {
+        "availability": "available",
+        "full": "nilbuild/video-demo",
+        "name": "video-demo",
+        "description": "Skill to record video demos of your web app with zoom-ins and voiceover",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 188,
+        "forks": 16,
+        "created": "2026-09-17T21:40:30Z",
+        "updated": "2026-09-21T09:11:30Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "",
+        "topics": [],
+        "demo": "https://roadmap.sh/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-11T04:29:50.165Z",
+        "lastAttemptAt": "2026-10-11T04:29:50.165Z",
+        "lastAvailableAt": "2026-10-11T04:29:50.165Z",
+        "metrics": [
+          {
+            "at": "2026-10-11T04:29:50.165Z",
+            "stars": 188,
+            "forks": 16
+          }
+        ],
+        "technologies": [],
+        "overview": {
+          "kind": "readme",
+          "version": 1,
+          "paragraphs": [
+            "Skill to make your agent record demo of your web app with voice over all on your machine.",
+            "Given below is a sample video generated using the skill for roadmap.sh."
+          ],
+          "features": [],
+          "sourceUrl": "https://github.com/nilbuild/video-demo/blob/main/README.md",
+          "fingerprint": "e62eb01b60f026e1f2ba07e28b5ea6cd3e0e520ac1d5a65421a5c3245d772a10",
+          "extractedAt": "2026-10-11T04:29:50.293Z"
+        },
+        "overviewCheckedAt": "2026-10-11T04:29:50.293Z",
+        "projectInsights": {
+          "version": 1,
+          "whatItDoes": {
+            "text": "Skill to make your agent record demo of your web app with voice over all on your machine.",
+            "sourceUrl": "https://github.com/nilbuild/video-demo/blob/main/README.md"
+          },
+          "audience": [],
+          "requirements": [],
+          "fingerprint": "e62eb01b60f026e1f2ba07e28b5ea6cd3e0e520ac1d5a65421a5c3245d772a10",
+          "sourceUrl": "https://github.com/nilbuild/video-demo/blob/main/README.md",
+          "checkedAt": "2026-10-11T04:29:50.293Z"
+        },
+        "overviewRepoUpdated": "2026-09-21T09:11:30Z",
+        "readmeSnapshot": {
+          "version": 1,
+          "status": "saved",
+          "sourceUrl": "https://github.com/nilbuild/video-demo/blob/main/README.md",
+          "checkedAt": "2026-10-11T04:29:50.293Z",
+          "hash": "e62eb01b60f026e1f2ba07e28b5ea6cd3e0e520ac1d5a65421a5c3245d772a10",
+          "originalBytes": 1644,
+          "storedBytes": 1644,
+          "truncated": false,
+          "searchTerms": [
+            "record",
+            "video-demo",
+            "video",
+            "ask",
+            "demo",
+            "flow",
+            "say",
+            "skill",
+            "too",
+            "what",
+            "add",
+            "agent",
+            "bash",
+            "e.g.",
+            "end",
+            "keep",
+            "machine.",
+            "produced",
+            "recorded",
+            "screenshots",
+            "updates",
+            "voice",
+            "voice-over",
+            "ahmed",
+            "app",
+            "below",
+            "broad",
+            "calendar",
+            "cash",
+            "checkout",
+            "current",
+            "delivery",
+            "different",
+            "done",
+            "down",
+            "every",
+            "everything",
+            "explain",
+            "first",
+            "generated",
+            "get",
+            "given",
+            "happy",
+            "happy.",
+            "install",
+            "instructions",
+            "it.",
+            "kamran",
+            "keeping.",
+            "keeps",
+            "keyboard",
+            "licence",
+            "like.",
+            "line",
+            "local",
+            "login",
+            "long",
+            "make",
+            "mention",
+            "mit",
+            "moment",
+            "mp4",
+            "much",
+            "nilbuild",
+            "now",
+            "npx",
+            "offline",
+            "one",
+            "over",
+            "page",
+            "pricing",
+            "project",
+            "re-recording",
+            "recording",
+            "roadmap",
+            "roadmap.sh",
+            "sample",
+            "search",
+            "seconds",
+            "shortcut",
+            "skills",
+            "slow",
+            "specific",
+            "stills",
+            "stop",
+            "tell",
+            "thanks",
+            "them",
+            "toolbar",
+            "try",
+            "twenty",
+            "under",
+            "until",
+            "using",
+            "visit",
+            "watching",
+            "web",
+            "works",
+            "worth",
+            "wrong",
+            "zoom",
+            "zooming"
+          ]
+        },
+        "lastDemoCheckedAt": "2026-10-11T04:29:50.165Z",
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://roadmap.sh/",
+          "attemptedAt": "2026-10-11T04:41:06.427Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T04:41:06.427Z",
+          "lastWorkingAt": "2026-10-11T04:41:06.427Z",
+          "target": "https://roadmap.sh/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T04:41:06.427Z"
+        },
+        "previewAttemptAt": "2026-10-11T04:41:06.427Z",
+        "previewCheck": {
+          "url": "https://roadmap.sh/",
+          "attemptedAt": "2026-10-11T04:41:06.427Z",
+          "consecutiveFailures": 0,
+          "status": "captured",
+          "reason": null,
+          "nextCheckAt": "2026-10-18T04:41:06.427Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/610727f96506fb12eae76687.jpg",
+            "kind": "demo",
+            "capturedAt": "2026-10-11T04:41:06.427Z",
+            "url": "https://roadmap.sh/"
+          }
+        ],
+        "qualityPriority": false,
+        "enrichmentAttemptAt": "2026-10-11T06:15:37.675Z",
+        "latestRelease": null,
+        "releaseCheckedAt": "2026-10-11T06:15:37.675Z",
+        "spaces": [],
+        "communityPosts": [],
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2101247123886845968",
+            "postId": "2101247123886845968",
+            "postedAt": "2026-09-19T09:48:48.000Z"
+          }
+        ]
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T00:50:50.222Z",
+      "checkedAt": "2026-10-11T12:50:50.222Z",
+      "firstAcceptedAt": "2026-10-11T12:50:50.222Z"
     },
     "takashiyoshinaga/localvisionai-for-unity": {
       "full": "TakashiYoshinaga/LocalVisionAI-for-Unity",
       "firstSeenAt": "2026-10-11T12:49:10.760Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -39350,12 +40217,136 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T12:49:10.760Z"
+      "lastSeenAt": "2026-10-11T12:49:10.760Z",
+      "entry": {
+        "availability": "available",
+        "full": "TakashiYoshinaga/LocalVisionAI-for-Unity",
+        "name": "LocalVisionAI-for-Unity",
+        "description": "Fully offline Unity sample for Android: describe camera photos and answer typed questions on-device with Gemma via LiteRT-LM. No network, model bundled in the APK.",
+        "category": "AI & machine learning",
+        "language": "C#",
+        "stars": 13,
+        "forks": 3,
+        "created": "2026-09-17T07:23:07Z",
+        "updated": "2026-09-21T22:12:34Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://takashiyoshinaga.github.io/portfolio/",
+        "topics": [
+          "ai",
+          "gemma4",
+          "litert-lm",
+          "llms",
+          "local-llm",
+          "ocr",
+          "unity"
+        ],
+        "demo": "https://www.linkedin.com/posts/tks-yoshinaga_localllms-ocr-computervision-activity-7506653758345560064-FxHq",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-11T12:51:04.935Z",
+        "lastAvailableAt": "2026-10-11T12:51:04.935Z",
+        "lastAttemptAt": "2026-10-11T12:51:04.935Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2101183362111357021",
+            "postId": "2101183362111357021",
+            "postedAt": "2026-09-19T05:35:26.000Z"
+          }
+        ],
+        "subjects": [
+          "Games & game development",
+          "Android",
+          "Mobile",
+          "Writing & documents"
+        ],
+        "platforms": [
+          "Android"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [
+            "Games & game development",
+            "Android",
+            "Mobile",
+            "Writing & documents"
+          ],
+          "evidence": [
+            {
+              "subject": "Games & game development",
+              "source": "metadata",
+              "match": "Unity"
+            },
+            {
+              "subject": "Android",
+              "source": "metadata",
+              "match": "Android"
+            },
+            {
+              "subject": "Mobile",
+              "source": "metadata",
+              "match": "Android"
+            },
+            {
+              "subject": "Writing & documents",
+              "source": "metadata",
+              "match": "ocr"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "Android",
+              "source": "metadata",
+              "match": "Android"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://www.linkedin.com/posts/tks-yoshinaga_localllms-ocr-computervision-activity-7506653758345560064-FxHq",
+          "attemptedAt": "2026-10-11T12:51:08.681Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T12:51:08.681Z",
+          "lastWorkingAt": "2026-10-11T12:51:08.681Z",
+          "target": "https://www.linkedin.com/posts/tks-yoshinaga_localllms-ocr-computervision-activity-7506653758345560064-FxHq",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T12:51:08.681Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/fa1bc6cb7171aa8613983c44.jpg",
+            "kind": "demo",
+            "url": "https://www.linkedin.com/posts/tks-yoshinaga_localllms-ocr-computervision-activity-7506653758345560064-FxHq",
+            "capturedAt": "2026-10-11T12:51:08.681Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T12:51:08.681Z",
+        "previewCheck": {
+          "url": "https://www.linkedin.com/posts/tks-yoshinaga_localllms-ocr-computervision-activity-7506653758345560064-FxHq",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T12:51:08.681Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T12:51:08.682Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T00:51:08.683Z",
+      "checkedAt": "2026-10-11T12:51:08.683Z",
+      "firstAcceptedAt": "2026-10-11T12:51:08.683Z"
     },
     "matthewp/flue-jev-demo": {
       "full": "matthewp/flue-jev-demo",
       "firstSeenAt": "2026-10-11T12:49:10.760Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -39374,12 +40365,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T12:49:10.760Z"
+      "lastSeenAt": "2026-10-11T12:49:10.760Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T12:51:03.690Z"
     },
     "sahibzada-allahyar/gliner2-ultrafast": {
       "full": "sahibzada-allahyar/gliner2-ultrafast",
       "firstSeenAt": "2026-10-11T12:49:10.760Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -39398,12 +40391,105 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T12:49:10.760Z"
+      "lastSeenAt": "2026-10-11T12:49:10.760Z",
+      "entry": {
+        "availability": "available",
+        "full": "sahibzada-allahyar/gliner2-ultrafast",
+        "name": "gliner2-ultrafast",
+        "description": "Real browser automation with local GLiNER2 inference and open weights. Work in progress. Contributions welcome.",
+        "category": "Other",
+        "language": "Python",
+        "stars": 79,
+        "forks": 9,
+        "created": "2026-09-18T19:35:23Z",
+        "updated": "2026-09-18T19:35:28Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [
+          "browser-automation",
+          "gliner2",
+          "local-inference",
+          "open-weights",
+          "python"
+        ],
+        "demo": "https://docs.astral.sh/uv/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-11T12:50:57.106Z",
+        "lastAvailableAt": "2026-10-11T12:50:57.106Z",
+        "lastAttemptAt": "2026-10-11T12:50:57.106Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2101038633293578604",
+            "postId": "2101038633293578604",
+            "postedAt": "2026-09-18T20:00:20.000Z"
+          }
+        ],
+        "subjects": [
+          "Automation & workflows"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "Automation & workflows"
+          ],
+          "evidence": [
+            {
+              "subject": "Automation & workflows",
+              "source": "metadata",
+              "match": "automation"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://docs.astral.sh/uv/",
+          "attemptedAt": "2026-10-11T12:51:00.682Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T12:51:00.682Z",
+          "lastWorkingAt": "2026-10-11T12:51:00.682Z",
+          "target": "https://docs.astral.sh/uv/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T12:51:00.682Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/b2f0b078f803b22b67b3acde.jpg",
+            "kind": "demo",
+            "url": "https://docs.astral.sh/uv/",
+            "capturedAt": "2026-10-11T12:51:00.682Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T12:51:00.682Z",
+        "previewCheck": {
+          "url": "https://docs.astral.sh/uv/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T12:51:00.682Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T12:51:00.683Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T00:51:00.683Z",
+      "checkedAt": "2026-10-11T12:51:00.683Z",
+      "firstAcceptedAt": "2026-10-11T12:51:00.683Z"
     },
     "hr98w/jev-visual": {
       "full": "hr98w/jev-visual",
       "firstSeenAt": "2026-10-11T12:49:10.760Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -39422,12 +40508,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T12:49:10.760Z"
+      "lastSeenAt": "2026-10-11T12:49:10.760Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T12:51:02.586Z"
     },
     "starboltsprint/boltverse-odyssey": {
       "full": "StarBoltSprint/boltverse-odyssey",
       "firstSeenAt": "2026-10-11T12:49:10.760Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -39446,7 +40534,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T12:49:10.760Z"
+      "lastSeenAt": "2026-10-11T12:49:10.760Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T12:51:03.093Z"
     },
     "opencoredev/bg0": {
       "full": "opencoredev/bg0",
@@ -39475,7 +40565,7 @@
     "alibaba/open-code-review": {
       "full": "alibaba/open-code-review",
       "firstSeenAt": "2026-10-11T12:49:10.760Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -39526,7 +40616,113 @@
           "repository": "alibaba/open-code-review"
         }
       ],
-      "lastSeenAt": "2026-10-11T12:49:10.760Z"
+      "lastSeenAt": "2026-10-11T12:49:10.760Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "alibaba/open-code-review",
+        "postUrl": "https://x.com/i/web/status/2100766752594690064",
+        "url": "https://images.openai.com/static-rsc-4/PLPMwP0CW4zNg8XZ70LTqvQ419_ZZ9PtOKDVvPLiB7JKlMDjEichunrse8aRngfXk8lExQlSGXRVedZTx5635VsnxBf7rPljRoXEkclQWF5U6IMhAdvAtWMiZylcqXknEGcimlz8U6j6U9yuUtq5z_xYiyxna5mvPhRLQpPWjWDJFLZ9YoDtMr3P_TNPiWfq?purpose=fullsize"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "alibaba/open-code-review",
+        "name": "open-code-review",
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "category": "Developer tools",
+        "language": "Go",
+        "stars": 46019,
+        "forks": 3343,
+        "created": "2026-05-18T02:16:36Z",
+        "updated": "2026-10-10T08:37:26Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": "https://open-codereview.ai",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "demo": "https://images.openai.com/static-rsc-4/PLPMwP0CW4zNg8XZ70LTqvQ419_ZZ9PtOKDVvPLiB7JKlMDjEichunrse8aRngfXk8lExQlSGXRVedZTx5635VsnxBf7rPljRoXEkclQWF5U6IMhAdvAtWMiZylcqXknEGcimlz8U6j6U9yuUtq5z_xYiyxna5mvPhRLQpPWjWDJFLZ9YoDtMr3P_TNPiWfq?purpose=fullsize",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-11T12:50:32.789Z",
+        "lastAvailableAt": "2026-10-11T12:50:32.789Z",
+        "lastAttemptAt": "2026-10-11T12:50:32.789Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "alibaba/open-code-review",
+          "postUrl": "https://x.com/i/web/status/2100766752594690064",
+          "url": "https://images.openai.com/static-rsc-4/PLPMwP0CW4zNg8XZ70LTqvQ419_ZZ9PtOKDVvPLiB7JKlMDjEichunrse8aRngfXk8lExQlSGXRVedZTx5635VsnxBf7rPljRoXEkclQWF5U6IMhAdvAtWMiZylcqXknEGcimlz8U6j6U9yuUtq5z_xYiyxna5mvPhRLQpPWjWDJFLZ9YoDtMr3P_TNPiWfq?purpose=fullsize"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2100766752594690064",
+            "postId": "2100766752594690064",
+            "postedAt": "2026-09-18T01:59:58.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "LLM Agent"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://images.openai.com/static-rsc-4/PLPMwP0CW4zNg8XZ70LTqvQ419_ZZ9PtOKDVvPLiB7JKlMDjEichunrse8aRngfXk8lExQlSGXRVedZTx5635VsnxBf7rPljRoXEkclQWF5U6IMhAdvAtWMiZylcqXknEGcimlz8U6j6U9yuUtq5z_xYiyxna5mvPhRLQpPWjWDJFLZ9YoDtMr3P_TNPiWfq?purpose=fullsize",
+          "attemptedAt": "2026-10-11T12:50:35.911Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T12:50:35.911Z",
+          "lastWorkingAt": "2026-10-11T12:50:35.911Z",
+          "target": "https://images.openai.com/static-rsc-4/PLPMwP0CW4zNg8XZ70LTqvQ419_ZZ9PtOKDVvPLiB7JKlMDjEichunrse8aRngfXk8lExQlSGXRVedZTx5635VsnxBf7rPljRoXEkclQWF5U6IMhAdvAtWMiZylcqXknEGcimlz8U6j6U9yuUtq5z_xYiyxna5mvPhRLQpPWjWDJFLZ9YoDtMr3P_TNPiWfq?purpose=fullsize",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T12:50:35.911Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/c8f5678810f1cfbe27a32e3f.jpg",
+            "kind": "demo",
+            "url": "https://images.openai.com/static-rsc-4/PLPMwP0CW4zNg8XZ70LTqvQ419_ZZ9PtOKDVvPLiB7JKlMDjEichunrse8aRngfXk8lExQlSGXRVedZTx5635VsnxBf7rPljRoXEkclQWF5U6IMhAdvAtWMiZylcqXknEGcimlz8U6j6U9yuUtq5z_xYiyxna5mvPhRLQpPWjWDJFLZ9YoDtMr3P_TNPiWfq?purpose=fullsize",
+            "capturedAt": "2026-10-11T12:50:35.911Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T12:50:35.911Z",
+        "previewCheck": {
+          "url": "https://images.openai.com/static-rsc-4/PLPMwP0CW4zNg8XZ70LTqvQ419_ZZ9PtOKDVvPLiB7JKlMDjEichunrse8aRngfXk8lExQlSGXRVedZTx5635VsnxBf7rPljRoXEkclQWF5U6IMhAdvAtWMiZylcqXknEGcimlz8U6j6U9yuUtq5z_xYiyxna5mvPhRLQpPWjWDJFLZ9YoDtMr3P_TNPiWfq?purpose=fullsize",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T12:50:35.911Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T12:50:35.912Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T00:50:35.913Z",
+      "checkedAt": "2026-10-11T12:50:35.913Z",
+      "firstAcceptedAt": "2026-10-11T12:50:35.913Z"
     }
   },
   "lastRun": {
@@ -40085,16 +41281,16 @@
       "posts": 280,
       "uniquePosts": 170,
       "newCandidates": 136,
-      "validationAttempts": 93,
-      "accepted": 38
+      "validationAttempts": 101,
+      "accepted": 42
     },
     "2c0438e5283099cf": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "posts": 117,
       "uniquePosts": 115,
       "newCandidates": 130,
-      "validationAttempts": 117,
-      "accepted": 50
+      "validationAttempts": 129,
+      "accepted": 56
     },
     "ac3eb65e96558e14": {
       "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",

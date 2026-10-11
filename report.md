@@ -1,15 +1,15 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-11T10:17:31.802Z
+Checked: 2026-10-11T12:51:13.471Z
 
-Quality-ready repositories: **102**
+Quality-ready repositories: **112**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 245 | 153 | 121 | 38 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 103 | 101 | 117 | 50 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 280 | 170 | 136 | 42 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 117 | 115 | 130 | 56 |
 | (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 20 |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 90 | 16 | 10 | 3 |
 | url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 140 | 85 | 87 | 31 |
@@ -120,5 +120,15 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [saurabhgayali/ModelProxy](https://github.com/saurabhgayali/ModelProxy) | [Try demo](https://modelproxy-site.vercel.app/) | [Screenshot](previews/d3886a591da6f1a4628e22df.jpg) | [Source](https://x.com/i/web/status/2105775461657936310) |
 | [afxjzs/office-layout](https://github.com/afxjzs/office-layout) | [Try demo](https://www.doug.is/building/stuff/office-layout) | [Screenshot](previews/8fff7be33a479417654c7f7e.jpg) | [Source](https://x.com/i/web/status/2105767972350677314) |
 | [kikoncuo/jevfire](https://github.com/kikoncuo/jevfire) | [Try demo](https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD) | [Screenshot](previews/74c82e6fd41706c1f8f93b17.jpg) | [Source](https://x.com/i/web/status/2105759846247342377) |
+| [useslop/claude-plugins](https://github.com/useslop/claude-plugins) | [Try demo](https://useslop.com/mcp?utm_source=x&utm_campaign=launch-1001) | [Screenshot](previews/58e335b57a3dd611232cad32.jpg) | [Source](https://x.com/i/web/status/2105470899596017953) |
+| [yusufgenc34/ILens](https://github.com/yusufgenc34/ILens) | [Try demo](https://yusufgenc34.github.io/ILens/) | [Screenshot](previews/dc29cb0e4a2da27894764775.jpg) | [Source](https://x.com/i/web/status/2105464879263908126) |
+| [humanwhocodes/pr-comment-inbox](https://github.com/humanwhocodes/pr-comment-inbox) | [Try demo](https://humanwhocodes.com/blog/2026/09/introducing-pr-comment-inbox/) | [Screenshot](previews/2fb7a72d181ce5ac62660da1.jpg) | [Source](https://x.com/i/web/status/2105412709516988833) |
+| [ssanaullahrais/blazfetch-web](https://github.com/ssanaullahrais/blazfetch-web) | [Try demo](https://social.blaztools.com/) | [Screenshot](previews/f2bd920f68af334a38d76b61.jpg) | [Source](https://x.com/i/web/status/2105402154702017007) |
+| [SamG-Coder/WaterCuda](https://github.com/SamG-Coder/WaterCuda) | [Try demo](https://samg-coder.github.io/WaterCuda/?seed=884&view=coast&look=coastal) | [Screenshot](previews/5e8fd8da80ef1f34787d916f.jpg) | [Source](https://x.com/i/web/status/2101406451319329102) |
+| [adust09/hs-libp2p](https://github.com/adust09/hs-libp2p) | [Try demo](https://adust09.github.io/hs-libp2p/) | [Screenshot](previews/cacdb22e25c51d70bf4472c5.jpg) | [Source](https://x.com/i/web/status/2101290415626592322) |
+| [nilbuild/video-demo](https://github.com/nilbuild/video-demo) | [Try demo](https://roadmap.sh/) | [Screenshot](previews/610727f96506fb12eae76687.jpg) | [Source](https://x.com/i/web/status/2101247123886845968) |
+| [TakashiYoshinaga/LocalVisionAI-for-Unity](https://github.com/TakashiYoshinaga/LocalVisionAI-for-Unity) | [Try demo](https://www.linkedin.com/posts/tks-yoshinaga_localllms-ocr-computervision-activity-7506653758345560064-FxHq) | [Screenshot](previews/fa1bc6cb7171aa8613983c44.jpg) | [Source](https://x.com/i/web/status/2101183362111357021) |
+| [sahibzada-allahyar/gliner2-ultrafast](https://github.com/sahibzada-allahyar/gliner2-ultrafast) | [Try demo](https://docs.astral.sh/uv/) | [Screenshot](previews/b2f0b078f803b22b67b3acde.jpg) | [Source](https://x.com/i/web/status/2101038633293578604) |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [Try demo](https://images.openai.com/static-rsc-4/PLPMwP0CW4zNg8XZ70LTqvQ419_ZZ9PtOKDVvPLiB7JKlMDjEichunrse8aRngfXk8lExQlSGXRVedZTx5635VsnxBf7rPljRoXEkclQWF5U6IMhAdvAtWMiZylcqXknEGcimlz8U6j6U9yuUtq5z_xYiyxna5mvPhRLQpPWjWDJFLZ9YoDtMr3P_TNPiWfq?purpose=fullsize) | [Screenshot](previews/c8f5678810f1cfbe27a32e3f.jpg) | [Source](https://x.com/i/web/status/2100766752594690064) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.
