@@ -38,7 +38,7 @@
         "start": "2026-07-11T09:20:22.003Z",
         "end": "2026-10-02T09:20:22.003Z",
         "done": false,
-        "nextToken": "b26v89c19zqg8o3juzixwal1lexfp4h3yfxmmq2j1kscd"
+        "nextToken": "b26v89c19zqg8o3juzixw6eaelt9ryi1jvwy4p983y9vh"
       },
       "recent": {
         "start": "2026-10-04T04:05:05.718Z",
@@ -33794,12 +33794,26 @@
           "url": "https://x.com/i/web/status/2105602318339072220",
           "postId": "2105602318339072220",
           "postedAt": "2026-10-01T10:14:47.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105602100231364769",
+          "postId": "2105602100231364769",
+          "postedAt": "2026-10-01T10:13:55.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105601967305187633",
+          "postId": "2105601967305187633",
+          "postedAt": "2026-10-01T10:13:23.000Z"
         }
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 0,
-        "reposts": 0,
+        "likes": 1,
+        "reposts": 1,
         "replies": 0,
         "quotes": 0
       },
@@ -33810,16 +33824,16 @@
       "demoLinks": [
         {
           "url": "https://filtrix.net/",
-          "postUrl": "https://x.com/i/web/status/2105602318339072220",
+          "postUrl": "https://x.com/i/web/status/2105601967305187633",
           "repository": "FILTRIX-net/filtrix-charts"
         },
         {
           "url": "https://charts.filtrix.net/",
-          "postUrl": "https://x.com/i/web/status/2105602318339072220",
+          "postUrl": "https://x.com/i/web/status/2105601967305187633",
           "repository": "FILTRIX-net/filtrix-charts"
         }
       ],
-      "lastSeenAt": "2026-10-10T21:00:18.988Z",
+      "lastSeenAt": "2026-10-11T04:04:16.289Z",
       "entry": {
         "availability": "available",
         "full": "FILTRIX-net/filtrix-charts",
@@ -33914,6 +33928,349 @@
       "nextAttemptAt": "2026-10-12T09:01:30.232Z",
       "checkedAt": "2026-10-10T21:01:30.232Z",
       "firstAcceptedAt": "2026-10-10T21:01:30.232Z"
+    },
+    "diffusionstudio/editor": {
+      "full": "diffusionstudio/editor",
+      "firstSeenAt": "2026-10-11T04:04:16.289Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105598263445627372",
+          "postId": "2105598263445627372",
+          "postedAt": "2026-10-01T09:58:40.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 6,
+        "reposts": 1,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+    },
+    "devmuhakeem/configuring-high-availability-with-an-application-load-balancer-and-auto-scaling": {
+      "full": "devmuhakeem/Configuring-High-Availability-with-an-Application-Load-Balancer-and-Auto-Scaling",
+      "firstSeenAt": "2026-10-11T04:04:16.289Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105594441654214744",
+          "postId": "2105594441654214744",
+          "postedAt": "2026-10-01T09:43:29.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+    },
+    "tnaftali/s1-tui": {
+      "full": "tnaftali/s1-tui",
+      "firstSeenAt": "2026-10-11T04:04:16.289Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105593156146286885",
+          "postId": "2105593156146286885",
+          "postedAt": "2026-10-01T09:38:23.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+    },
+    "erkamyaman/hinge-guess-angular-native": {
+      "full": "erkamyaman/hinge-guess-angular-native",
+      "firstSeenAt": "2026-10-11T04:04:16.289Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105581759991529926",
+          "postId": "2105581759991529926",
+          "postedAt": "2026-10-01T08:53:06.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 7,
+        "reposts": 1,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://ng-native.com/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://ng-native.com/",
+          "postUrl": "https://x.com/i/web/status/2105581759991529926",
+          "repository": "erkamyaman/hinge-guess-angular-native"
+        }
+      ],
+      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+    },
+    "anyrouterh/anyroute": {
+      "full": "AnyRouteRH/AnyRoute",
+      "firstSeenAt": "2026-10-11T04:04:16.289Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105577709015638126",
+          "postId": "2105577709015638126",
+          "postedAt": "2026-10-01T08:37:00.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 16,
+        "reposts": 1,
+        "replies": 0,
+        "quotes": 1
+      },
+      "demoHints": [
+        "https://anyroute.tech/agents"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://anyroute.tech/agents",
+          "postUrl": "https://x.com/i/web/status/2105577709015638126",
+          "repository": "AnyRouteRH/AnyRoute"
+        }
+      ],
+      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+    },
+    "sumit639-code/sxan-expensemanager-ocr": {
+      "full": "sumit639-code/sxan-expensemanager-ocr",
+      "firstSeenAt": "2026-10-11T04:04:16.289Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105565460888694967",
+          "postId": "2105565460888694967",
+          "postedAt": "2026-10-01T07:48:20.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+    },
+    "circuitlord/circuitlordvrmodinstaller": {
+      "full": "CircuitLord/CircuitLordVRModInstaller",
+      "firstSeenAt": "2026-10-11T04:04:16.289Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105558052271456619",
+          "postId": "2105558052271456619",
+          "postedAt": "2026-10-01T07:18:53.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105557245862068488",
+          "postId": "2105557245862068488",
+          "postedAt": "2026-10-01T07:15:41.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 1,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+    },
+    "quoid/userscripts": {
+      "full": "quoid/userscripts",
+      "firstSeenAt": "2026-10-11T04:04:16.289Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105555930158911751",
+          "postId": "2105555930158911751",
+          "postedAt": "2026-10-01T07:10:27.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+    },
+    "hauitsu/weverse-dm-archiver": {
+      "full": "Hauitsu/weverse-dm-archiver",
+      "firstSeenAt": "2026-10-11T04:04:16.289Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105555779365548422",
+          "postId": "2105555779365548422",
+          "postedAt": "2026-10-01T07:09:51.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+    },
+    "johnzweng/lightning-payment-proof": {
+      "full": "johnzweng/lightning-payment-proof",
+      "firstSeenAt": "2026-10-11T04:04:16.289Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105542463276613882",
+          "postId": "2105542463276613882",
+          "postedAt": "2026-10-01T06:16:56.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 6,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://lnproof.utxo.at/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://lnproof.utxo.at/",
+          "postUrl": "https://x.com/i/web/status/2105542463276613882",
+          "repository": "johnzweng/lightning-payment-proof"
+        }
+      ],
+      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+    },
+    "hyperlogue/r3": {
+      "full": "hyperlogue/r3",
+      "firstSeenAt": "2026-10-11T04:04:16.289Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105521094387999014",
+          "postId": "2105521094387999014",
+          "postedAt": "2026-10-01T04:52:02.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 2,
+        "reposts": 1,
+        "replies": 1,
+        "quotes": 1
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+    },
+    "taslimmuhammed/local_assistant_v2": {
+      "full": "taslimmuhammed/local_assistant_v2",
+      "firstSeenAt": "2026-10-11T04:04:16.289Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105509796485226531",
+          "postId": "2105509796485226531",
+          "postedAt": "2026-10-01T04:07:08.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+    },
+    "fernandosluz/agentfare": {
+      "full": "FernandoSLuz/agentfare",
+      "firstSeenAt": "2026-10-11T04:04:16.289Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105492585599172730",
+          "postId": "2105492585599172730",
+          "postedAt": "2026-10-01T02:58:45.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-11T04:04:16.289Z"
     }
   },
   "lastRun": {
@@ -34369,14 +34726,31 @@
     "2108440240704913681",
     "2108438465524507126",
     "2108438176348160130",
-    "2108429148473774108"
+    "2108429148473774108",
+    "2105602100231364769",
+    "2105601967305187633",
+    "2105598263445627372",
+    "2105594441654214744",
+    "2105593156146286885",
+    "2105581759991529926",
+    "2105577709015638126",
+    "2105565460888694967",
+    "2105558052271456619",
+    "2105557245862068488",
+    "2105555930158911751",
+    "2105555779365548422",
+    "2105542463276613882",
+    "2105540687899058478",
+    "2105521094387999014",
+    "2105509796485226531",
+    "2105492585599172730"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
-      "posts": 228,
-      "uniquePosts": 136,
-      "newCandidates": 108,
+      "posts": 245,
+      "uniquePosts": 153,
+      "newCandidates": 121,
       "validationAttempts": 84,
       "accepted": 35
     },
