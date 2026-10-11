@@ -79,7 +79,8 @@
       },
       "recent": {
         "start": "2026-10-04T10:17:02.743Z",
-        "end": "2026-10-09T13:15:36.184Z"
+        "end": "2026-10-09T13:15:36.184Z",
+        "nextToken": "b26v89c19zqg8o3juziz5gt1fieli0god3b8w9647x665"
       }
     },
     "a0153cbebcc5cf46": {
@@ -271,13 +272,13 @@
           "postedAt": "2026-10-08T14:49:40.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-10T21:00:25.334Z",
+      "lastSeenAt": "2026-10-11T10:16:06.410Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-15T15:22:02.879Z",
       "engagement": {
-        "likes": 131,
+        "likes": 132,
         "reposts": 7,
-        "replies": 11,
+        "replies": 12,
         "quotes": 0
       },
       "demoHints": [],
@@ -907,7 +908,7 @@
           "postedAt": "2026-10-08T13:47:45.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-10T21:00:25.334Z",
+      "lastSeenAt": "2026-10-11T10:16:06.410Z",
       "reason": null,
       "nextAttemptAt": "2026-10-11T01:16:58.054Z",
       "engagement": {
@@ -2166,7 +2167,7 @@
           "postedAt": "2026-10-08T13:10:04.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-10T21:00:25.334Z",
+      "lastSeenAt": "2026-10-11T10:16:06.410Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T06:43:09.746Z",
       "engagement": {
@@ -2208,7 +2209,7 @@
           "postedAt": "2026-10-08T12:55:01.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-10T21:00:25.334Z",
+      "lastSeenAt": "2026-10-11T10:16:06.410Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T06:43:11.319Z",
       "engagement": {
@@ -2443,7 +2444,7 @@
           "postedAt": "2026-10-08T11:55:08.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-10T21:00:25.334Z",
+      "lastSeenAt": "2026-10-11T10:16:06.410Z",
       "reason": null,
       "nextAttemptAt": "2026-10-11T01:17:07.330Z",
       "engagement": {
@@ -2574,7 +2575,7 @@
           "postedAt": "2026-10-08T11:54:58.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-10T21:00:25.334Z",
+      "lastSeenAt": "2026-10-11T10:16:06.410Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T06:43:18.696Z",
       "engagement": {
@@ -7469,7 +7470,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T21:00:25.334Z",
+      "lastSeenAt": "2026-10-11T10:16:06.410Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:24:37.913Z"
     },
@@ -7724,7 +7725,7 @@
           "repository": "heyputer/builder"
         }
       ],
-      "lastSeenAt": "2026-10-10T21:00:25.334Z",
+      "lastSeenAt": "2026-10-11T10:16:06.410Z",
       "entry": {
         "availability": "available",
         "full": "HeyPuter/builder",
@@ -14839,14 +14840,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 76,
+        "likes": 78,
         "reposts": 6,
-        "replies": 9,
+        "replies": 10,
         "quotes": 2
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T21:00:25.334Z",
+      "lastSeenAt": "2026-10-11T10:16:06.410Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T13:18:06.625Z"
     },
@@ -14865,14 +14866,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 379,
+        "likes": 398,
         "reposts": 16,
-        "replies": 19,
+        "replies": 21,
         "quotes": 1
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T21:00:25.334Z",
+      "lastSeenAt": "2026-10-11T10:16:06.410Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T13:18:06.107Z"
     },
@@ -14898,7 +14899,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T21:00:25.334Z",
+      "lastSeenAt": "2026-10-11T10:16:06.410Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T13:18:07.230Z"
     },
@@ -14917,9 +14918,9 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 568,
+        "likes": 570,
         "reposts": 76,
-        "replies": 49,
+        "replies": 50,
         "quotes": 20
       },
       "demoHints": [
@@ -14932,7 +14933,7 @@
           "repository": "lithos-ai/lithos-metal"
         }
       ],
-      "lastSeenAt": "2026-10-10T21:00:25.334Z",
+      "lastSeenAt": "2026-10-11T10:16:06.410Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "lithos-ai/lithos-metal",
@@ -15056,8 +15057,8 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 57,
-        "reposts": 5,
+        "likes": 59,
+        "reposts": 6,
         "replies": 2,
         "quotes": 1
       },
@@ -15077,7 +15078,7 @@
           "repository": "speridlabs/iris-3b"
         }
       ],
-      "lastSeenAt": "2026-10-10T21:00:25.334Z",
+      "lastSeenAt": "2026-10-11T10:16:06.410Z",
       "entry": {
         "availability": "available",
         "full": "speridlabs/iris-3b",
@@ -15207,7 +15208,7 @@
           "repository": "pump-fun/transfer-hook-authority"
         }
       ],
-      "lastSeenAt": "2026-10-10T21:00:25.334Z",
+      "lastSeenAt": "2026-10-11T10:16:06.410Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "pump-fun/transfer-hook-authority",
@@ -20131,7 +20132,7 @@
           "repository": "inklingfree/inkling"
         }
       ],
-      "lastSeenAt": "2026-10-10T21:00:25.334Z",
+      "lastSeenAt": "2026-10-11T10:16:06.410Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "inklingfree/inkling",
@@ -37154,21 +37155,6 @@
     "2105629786018316291",
     "2105617904087838802",
     "2105602318339072220",
-    "2108512054672015684",
-    "2108378085058035960",
-    "2108358111233020254",
-    "2108348324231381120",
-    "2108301670451163390",
-    "2108257406408900725",
-    "2108249739414147259",
-    "2108241673897877739",
-    "2108227659591303663",
-    "2108208211375374698",
-    "2108192627401081009",
-    "2108183144738513043",
-    "2108179358414422078",
-    "2108164286875152482",
-    "2108164245607383405",
     "2108485073180000447",
     "2108484722263208375",
     "2108475131341500495",
@@ -37253,7 +37239,22 @@
     "2105775461657936310",
     "2105767972350677314",
     "2105761968456089954",
-    "2105759846247342377"
+    "2105759846247342377",
+    "2108512054672015684",
+    "2108378085058035960",
+    "2108358111233020254",
+    "2108348324231381120",
+    "2108301670451163390",
+    "2108257406408900725",
+    "2108249739414147259",
+    "2108241673897877739",
+    "2108227659591303663",
+    "2108208211375374698",
+    "2108192627401081009",
+    "2108183144738513043",
+    "2108179358414422078",
+    "2108164286875152482",
+    "2108164245607383405"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -37282,7 +37283,7 @@
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 75,
+      "posts": 90,
       "uniquePosts": 16,
       "newCandidates": 10,
       "validationAttempts": 10,
