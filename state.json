@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "reservedUsd": 9.35,
-  "requests": 52,
+  "reservedUsd": 9.5,
+  "requests": 53,
   "queryTurn": 17,
   "queries": {
     "7c3cb66ff5244ce6": {
@@ -78,9 +78,8 @@
         "done": false
       },
       "recent": {
-        "start": "2026-10-04T10:17:02.743Z",
-        "end": "2026-10-09T13:15:36.184Z",
-        "nextToken": "b26v89c19zqg8o3juziz5gt1fieli0god3b8w9647x665"
+        "start": "2026-10-04T12:56:47.423Z",
+        "end": "2026-10-09T13:15:36.184Z"
       }
     },
     "a0153cbebcc5cf46": {
@@ -41029,8 +41028,8 @@
       }
     ]
   },
-  "lastFreeBalanceUsd": 16.86,
-  "lastTotalBalanceUsd": 16.86,
+  "lastFreeBalanceUsd": 16.78,
+  "lastTotalBalanceUsd": 16.78,
   "coverageGaps": [
     {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
@@ -41121,6 +41120,11 @@
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "start": "2026-10-04T12:49:52.274Z",
       "end": "2026-10-04T12:56:30.363Z"
+    },
+    {
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "start": "2026-10-04T10:17:02.743Z",
+      "end": "2026-10-04T12:56:47.423Z"
     }
   ],
   "postIds": [
