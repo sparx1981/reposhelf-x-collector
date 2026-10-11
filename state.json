@@ -42935,7 +42935,7 @@
     "bootnodedev/canton-dappbooster": {
       "full": "BootNodeDev/canton-dappbooster",
       "firstSeenAt": "2026-10-11T20:31:52.999Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -42974,12 +42974,101 @@
           "repository": "BootNodeDev/canton-dappbooster"
         }
       ],
-      "lastSeenAt": "2026-10-11T20:31:52.999Z"
+      "lastSeenAt": "2026-10-11T20:31:52.999Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "BootNodeDev/canton-dappbooster",
+        "postUrl": "https://x.com/i/web/status/2105737505471398383",
+        "url": "https://docs.dappbooster.cc/installation/installer"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "BootNodeDev/canton-dappbooster",
+        "name": "canton-dappbooster",
+        "description": "Local Canton development stack",
+        "category": "Developer tools",
+        "language": "TypeScript",
+        "stars": 5,
+        "forks": 2,
+        "created": "2026-07-24T13:12:42Z",
+        "updated": "2026-10-10T02:37:44Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://dappbooster.cc/",
+        "topics": [],
+        "demo": "https://docs.dappbooster.cc/installation/installer",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-11T20:33:05.691Z",
+        "lastAvailableAt": "2026-10-11T20:33:05.691Z",
+        "lastAttemptAt": "2026-10-11T20:33:05.691Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "BootNodeDev/canton-dappbooster",
+          "postUrl": "https://x.com/i/web/status/2105737505471398383",
+          "url": "https://docs.dappbooster.cc/installation/installer"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105737505471398383",
+            "postId": "2105737505471398383",
+            "postedAt": "2026-10-01T19:11:58.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://docs.dappbooster.cc/installation/installer",
+          "attemptedAt": "2026-10-11T20:33:09.213Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T20:33:09.213Z",
+          "lastWorkingAt": "2026-10-11T20:33:09.213Z",
+          "target": "https://docs.dappbooster.cc/installation/installer",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T20:33:09.213Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/20df7b6068db6309b06f2b7b.jpg",
+            "kind": "demo",
+            "url": "https://docs.dappbooster.cc/installation/installer",
+            "capturedAt": "2026-10-11T20:33:09.213Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T20:33:09.213Z",
+        "previewCheck": {
+          "url": "https://docs.dappbooster.cc/installation/installer",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T20:33:09.213Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T20:33:09.214Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T08:33:09.215Z",
+      "checkedAt": "2026-10-11T20:33:09.215Z",
+      "firstAcceptedAt": "2026-10-11T20:33:09.215Z"
     },
     "drmbios/praesidionyx": {
       "full": "drmbios/praesidionyx",
       "firstSeenAt": "2026-10-11T20:31:52.999Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -43006,7 +43095,106 @@
           "repository": "drmbios/praesidionyx"
         }
       ],
-      "lastSeenAt": "2026-10-11T20:31:52.999Z"
+      "lastSeenAt": "2026-10-11T20:31:52.999Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "drmbios/praesidionyx",
+        "postUrl": "https://x.com/i/web/status/2105728877398282630",
+        "url": "https://huggingface.co/spaces/drmbios/praesidionyx"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "drmbios/praesidionyx",
+        "name": "praesidionyx",
+        "description": "An operating layer for supervised AI agents: scoped capabilities, Linux confinement, sticky provenance and human decisions.",
+        "category": "AI & machine learning",
+        "language": "Rust",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-10-01T17:49:05Z",
+        "updated": "2026-10-10T04:45:05Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://huggingface.co/spaces/drmbios/praesidionyx",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-11T20:33:21.333Z",
+        "lastAvailableAt": "2026-10-11T20:33:21.333Z",
+        "lastAttemptAt": "2026-10-11T20:33:21.333Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "drmbios/praesidionyx",
+          "postUrl": "https://x.com/i/web/status/2105728877398282630",
+          "url": "https://huggingface.co/spaces/drmbios/praesidionyx"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105728877398282630",
+            "postId": "2105728877398282630",
+            "postedAt": "2026-10-01T18:37:41.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "AI agents"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://huggingface.co/spaces/drmbios/praesidionyx",
+          "attemptedAt": "2026-10-11T20:33:24.760Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T20:33:24.760Z",
+          "lastWorkingAt": "2026-10-11T20:33:24.760Z",
+          "target": "https://huggingface.co/spaces/drmbios/praesidionyx",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T20:33:24.760Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/fcaf86683fb69601044fa37e.jpg",
+            "kind": "demo",
+            "url": "https://huggingface.co/spaces/drmbios/praesidionyx",
+            "capturedAt": "2026-10-11T20:33:24.760Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T20:33:24.760Z",
+        "previewCheck": {
+          "url": "https://huggingface.co/spaces/drmbios/praesidionyx",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T20:33:24.760Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T20:33:24.761Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T08:33:24.762Z",
+      "checkedAt": "2026-10-11T20:33:24.762Z",
+      "firstAcceptedAt": "2026-10-11T20:33:24.762Z"
     },
     "nickkklian/nk-data-story": {
       "full": "NickkkLian/nk-data-story",
@@ -43035,7 +43223,7 @@
     "sallieha/design-engineering-animation-library": {
       "full": "sallieha/design-engineering-animation-library",
       "firstSeenAt": "2026-10-11T20:31:52.999Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -43062,7 +43250,93 @@
           "repository": "sallieha/design-engineering-animation-library"
         }
       ],
-      "lastSeenAt": "2026-10-11T20:31:52.999Z"
+      "lastSeenAt": "2026-10-11T20:31:52.999Z",
+      "entry": {
+        "availability": "available",
+        "full": "sallieha/design-engineering-animation-library",
+        "name": "design-engineering-animation-library",
+        "description": "Open Source Design Engineering library, vol. 1: Hover States",
+        "category": "Design",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-07T20:24:42Z",
+        "updated": "2026-10-06T20:43:41Z",
+        "branch": "main",
+        "homepage": "https://design-engineering-animation-librar.vercel.app",
+        "topics": [],
+        "demo": "https://design-engineering-animation-librar.vercel.app/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-11T20:33:09.909Z",
+        "lastAvailableAt": "2026-10-11T20:33:09.909Z",
+        "lastAttemptAt": "2026-10-11T20:33:09.909Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105716352048927137",
+            "postId": "2105716352048927137",
+            "postedAt": "2026-10-01T17:47:55.000Z"
+          }
+        ],
+        "subjects": [
+          "Animation & motion"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "Animation & motion"
+          ],
+          "evidence": [
+            {
+              "subject": "Animation & motion",
+              "source": "metadata",
+              "match": "animation"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://design-engineering-animation-librar.vercel.app/",
+          "attemptedAt": "2026-10-11T20:33:13.457Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T20:33:13.457Z",
+          "lastWorkingAt": "2026-10-11T20:33:13.457Z",
+          "target": "https://design-engineering-animation-librar.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T20:33:13.457Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/2be1fe1b4f319c2c34cc6f0e.jpg",
+            "kind": "demo",
+            "url": "https://design-engineering-animation-librar.vercel.app/",
+            "capturedAt": "2026-10-11T20:33:13.457Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T20:33:13.457Z",
+        "previewCheck": {
+          "url": "https://design-engineering-animation-librar.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T20:33:13.457Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T20:33:13.458Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T08:33:13.458Z",
+      "checkedAt": "2026-10-11T20:33:13.458Z",
+      "firstAcceptedAt": "2026-10-11T20:33:13.458Z"
     },
     "webdriverio/native-demo-app": {
       "full": "webdriverio/native-demo-app",
@@ -43091,7 +43365,7 @@
     "artemtsitronov/glacex": {
       "full": "artemtsitronov/glacex",
       "firstSeenAt": "2026-10-11T20:31:52.999Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -43118,7 +43392,106 @@
           "repository": "artemtsitronov/glacex"
         }
       ],
-      "lastSeenAt": "2026-10-11T20:31:52.999Z"
+      "lastSeenAt": "2026-10-11T20:31:52.999Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "artemtsitronov/glacex",
+        "postUrl": "https://x.com/i/web/status/2105709359564980451",
+        "url": "https://crates.io/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "artemtsitronov/glacex",
+        "name": "glacex",
+        "description": "GPU-Rendered UI library built from scratch in Rust [WIP]",
+        "category": "Design",
+        "language": "Rust",
+        "stars": 110,
+        "forks": 5,
+        "created": "2026-08-29T08:08:00Z",
+        "updated": "2026-10-06T13:49:47Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://crates.io/crates/glacex",
+        "topics": [
+          "cargo",
+          "gpu",
+          "graphics",
+          "gui",
+          "library",
+          "rust",
+          "ui",
+          "wgpu",
+          "winit"
+        ],
+        "demo": "https://crates.io/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-11T20:33:01.605Z",
+        "lastAvailableAt": "2026-10-11T20:33:01.605Z",
+        "lastAttemptAt": "2026-10-11T20:33:01.605Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "artemtsitronov/glacex",
+          "postUrl": "https://x.com/i/web/status/2105709359564980451",
+          "url": "https://crates.io/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105709359564980451",
+            "postId": "2105709359564980451",
+            "postedAt": "2026-10-01T17:20:08.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://crates.io/",
+          "attemptedAt": "2026-10-11T20:33:05.095Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T20:33:05.095Z",
+          "lastWorkingAt": "2026-10-11T20:33:05.095Z",
+          "target": "https://crates.io/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T20:33:05.095Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/6657be9c939f8e868983786d.jpg",
+            "kind": "demo",
+            "url": "https://crates.io/",
+            "capturedAt": "2026-10-11T20:33:05.095Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T20:33:05.095Z",
+        "previewCheck": {
+          "url": "https://crates.io/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T20:33:05.095Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T20:33:05.096Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T08:33:05.097Z",
+      "checkedAt": "2026-10-11T20:33:05.097Z",
+      "firstAcceptedAt": "2026-10-11T20:33:05.097Z"
     },
     "reacherwu/giant-fiber": {
       "full": "reacherwu/giant-fiber",
@@ -43147,7 +43520,7 @@
     "rorshopping/shipside": {
       "full": "rorshopping/shipside",
       "firstSeenAt": "2026-10-11T20:31:52.999Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -43174,7 +43547,121 @@
           "repository": "rorshopping/shipside"
         }
       ],
-      "lastSeenAt": "2026-10-11T20:31:52.999Z"
+      "lastSeenAt": "2026-10-11T20:31:52.999Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "rorshopping/shipside",
+        "postUrl": "https://x.com/i/web/status/2105703756222374382",
+        "url": "https://shipside-app.vercel.app/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "rorshopping/shipside",
+        "name": "shipside",
+        "description": "Ship iOS apps to App Store Connect from the command line - your key, your machine, the last mile automated.",
+        "category": "Developer tools",
+        "language": "Python",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-10-01T16:01:39Z",
+        "updated": "2026-10-02T19:21:12Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://shipside-app.vercel.app/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-11T20:33:26.433Z",
+        "lastAvailableAt": "2026-10-11T20:33:26.433Z",
+        "lastAttemptAt": "2026-10-11T20:33:26.433Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "rorshopping/shipside",
+          "postUrl": "https://x.com/i/web/status/2105703756222374382",
+          "url": "https://shipside-app.vercel.app/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105703756222374382",
+            "postId": "2105703756222374382",
+            "postedAt": "2026-10-01T16:57:52.000Z"
+          }
+        ],
+        "subjects": [
+          "Apple",
+          "Mobile"
+        ],
+        "platforms": [
+          "iOS & iPadOS"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Apple",
+            "Mobile"
+          ],
+          "evidence": [
+            {
+              "subject": "Apple",
+              "source": "metadata",
+              "match": "iOS"
+            },
+            {
+              "subject": "Mobile",
+              "source": "metadata",
+              "match": "iOS"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "iOS & iPadOS",
+              "source": "metadata",
+              "match": "iOS"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://shipside-app.vercel.app/",
+          "attemptedAt": "2026-10-11T20:33:29.736Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T20:33:29.736Z",
+          "lastWorkingAt": "2026-10-11T20:33:29.736Z",
+          "target": "https://shipside-app.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T20:33:29.736Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/d7bd4529d1860e628a61c9a1.jpg",
+            "kind": "demo",
+            "url": "https://shipside-app.vercel.app/",
+            "capturedAt": "2026-10-11T20:33:29.736Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T20:33:29.736Z",
+        "previewCheck": {
+          "url": "https://shipside-app.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T20:33:29.736Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T20:33:29.736Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T08:33:29.737Z",
+      "checkedAt": "2026-10-11T20:33:29.737Z",
+      "firstAcceptedAt": "2026-10-11T20:33:29.737Z"
     },
     "balatonaszofo/imprint": {
       "full": "balatonaszofo/imprint",
@@ -43227,7 +43714,7 @@
     "shksushant/butler": {
       "full": "SHKsushant/Butler",
       "firstSeenAt": "2026-10-11T20:31:52.999Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -43254,7 +43741,83 @@
           "repository": "SHKsushant/Butler"
         }
       ],
-      "lastSeenAt": "2026-10-11T20:31:52.999Z"
+      "lastSeenAt": "2026-10-11T20:31:52.999Z",
+      "entry": {
+        "availability": "available",
+        "full": "SHKsushant/Butler",
+        "name": "Butler",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "Python",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-29T15:09:04Z",
+        "updated": "2026-09-30T04:28:49Z",
+        "branch": "main",
+        "homepage": "https://butler-rosy.vercel.app",
+        "topics": [],
+        "demo": "https://butler-rosy.vercel.app/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-11T20:33:14.044Z",
+        "lastAvailableAt": "2026-10-11T20:33:14.044Z",
+        "lastAttemptAt": "2026-10-11T20:33:14.044Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105690596732178776",
+            "postId": "2105690596732178776",
+            "postedAt": "2026-10-01T16:05:34.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://butler-rosy.vercel.app/",
+          "attemptedAt": "2026-10-11T20:33:20.523Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T20:33:20.523Z",
+          "lastWorkingAt": "2026-10-11T20:33:20.523Z",
+          "target": "https://butler-rosy.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T20:33:20.523Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/f527cad9a99d25a032e1689e.jpg",
+            "kind": "demo",
+            "url": "https://butler-rosy.vercel.app/",
+            "capturedAt": "2026-10-11T20:33:20.523Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T20:33:20.523Z",
+        "previewCheck": {
+          "url": "https://butler-rosy.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T20:33:20.523Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T20:33:20.524Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T08:33:20.576Z",
+      "checkedAt": "2026-10-11T20:33:20.576Z",
+      "firstAcceptedAt": "2026-10-11T20:33:20.576Z"
     },
     "rohitcn-hub/thermacompute-crashlens": {
       "full": "rohitcn-hub/thermacompute-crashlens",
@@ -43283,7 +43846,7 @@
     "eightman999/oisint-nextgen": {
       "full": "eightman999/OISINT-nextgen",
       "firstSeenAt": "2026-10-11T20:31:52.999Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -43310,12 +43873,89 @@
           "repository": "eightman999/OISINT-nextgen"
         }
       ],
-      "lastSeenAt": "2026-10-11T20:31:52.999Z"
+      "lastSeenAt": "2026-10-11T20:31:52.999Z",
+      "entry": {
+        "availability": "available",
+        "full": "eightman999/OISINT-nextgen",
+        "name": "OISINT-nextgen",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 1,
+        "forks": 0,
+        "created": "2026-10-01T09:08:42Z",
+        "updated": "2026-10-01T15:37:56Z",
+        "license": "AGPL-3.0",
+        "branch": "master",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://oisint.com/DEMO",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-11T20:32:53.280Z",
+        "lastAvailableAt": "2026-10-11T20:32:53.280Z",
+        "lastAttemptAt": "2026-10-11T20:32:53.280Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105687842752225522",
+            "postId": "2105687842752225522",
+            "postedAt": "2026-10-01T15:54:38.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://oisint.com/DEMO",
+          "attemptedAt": "2026-10-11T20:32:56.824Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T20:32:56.824Z",
+          "lastWorkingAt": "2026-10-11T20:32:56.824Z",
+          "target": "https://oisint.com/DEMO",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T20:32:56.824Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/6a3a6150c4eb3e9e0fe752b3.jpg",
+            "kind": "demo",
+            "url": "https://oisint.com/DEMO",
+            "capturedAt": "2026-10-11T20:32:56.824Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T20:32:56.824Z",
+        "previewCheck": {
+          "url": "https://oisint.com/DEMO",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T20:32:56.824Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T20:32:56.825Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T08:32:56.826Z",
+      "checkedAt": "2026-10-11T20:32:56.826Z",
+      "firstAcceptedAt": "2026-10-11T20:32:56.826Z"
     },
     "jagadeeshftw/memokit": {
       "full": "Jagadeeshftw/memokit",
       "firstSeenAt": "2026-10-11T20:31:52.999Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -43354,12 +43994,101 @@
           "repository": "Jagadeeshftw/memokit"
         }
       ],
-      "lastSeenAt": "2026-10-11T20:31:52.999Z"
+      "lastSeenAt": "2026-10-11T20:31:52.999Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "Jagadeeshftw/memokit",
+        "postUrl": "https://x.com/i/web/status/2105682213295776252",
+        "url": "https://memokit.0xo.in/docs/introduction"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "Jagadeeshftw/memokit",
+        "name": "memokit",
+        "description": "XRPL-originated calls on assets a Flare account already holds. No FAssets mint in the path, no Flare-assigned destination tag or wallet registration.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-22T08:56:11Z",
+        "updated": "2026-10-01T11:49:50Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://memokit.0xo.in/docs/introduction",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-11T20:32:57.519Z",
+        "lastAvailableAt": "2026-10-11T20:32:57.519Z",
+        "lastAttemptAt": "2026-10-11T20:32:57.519Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "Jagadeeshftw/memokit",
+          "postUrl": "https://x.com/i/web/status/2105682213295776252",
+          "url": "https://memokit.0xo.in/docs/introduction"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105682213295776252",
+            "postId": "2105682213295776252",
+            "postedAt": "2026-10-01T15:32:15.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://memokit.0xo.in/docs/introduction",
+          "attemptedAt": "2026-10-11T20:33:01.039Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T20:33:01.039Z",
+          "lastWorkingAt": "2026-10-11T20:33:01.039Z",
+          "target": "https://memokit.0xo.in/docs/introduction",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T20:33:01.039Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/046aa91b8a77e8ab5a00db0d.jpg",
+            "kind": "demo",
+            "url": "https://memokit.0xo.in/docs/introduction",
+            "capturedAt": "2026-10-11T20:33:01.039Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T20:33:01.039Z",
+        "previewCheck": {
+          "url": "https://memokit.0xo.in/docs/introduction",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T20:33:01.039Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T20:33:01.040Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T08:33:01.041Z",
+      "checkedAt": "2026-10-11T20:33:01.041Z",
+      "firstAcceptedAt": "2026-10-11T20:33:01.041Z"
     },
     "standardagents/jevpilot": {
       "full": "standardagents/jevpilot",
       "firstSeenAt": "2026-10-11T20:32:00.666Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -43392,12 +44121,117 @@
           "repository": "standardagents/jevpilot"
         }
       ],
-      "lastSeenAt": "2026-10-11T20:32:00.666Z"
+      "lastSeenAt": "2026-10-11T20:32:00.666Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "standardagents/jevpilot",
+        "postUrl": "https://x.com/i/web/status/2100698502531514761",
+        "url": "https://jevpilot.standardagents.ai/login"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "standardagents/jevpilot",
+        "name": "jevpilot",
+        "description": "A playable Three.js driving simulator with Jev-powered autopilot",
+        "category": "Other",
+        "language": "JavaScript",
+        "stars": 220,
+        "forks": 41,
+        "created": "2026-09-17T15:47:59Z",
+        "updated": "2026-09-17T21:22:33Z",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://jevpilot.standardagents.ai/login",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-11T20:32:45.230Z",
+        "lastAvailableAt": "2026-10-11T20:32:45.230Z",
+        "lastAttemptAt": "2026-10-11T20:32:45.230Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "standardagents/jevpilot",
+          "postUrl": "https://x.com/i/web/status/2100698502531514761",
+          "url": "https://jevpilot.standardagents.ai/login"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2100698502531514761",
+            "postId": "2100698502531514761",
+            "postedAt": "2026-09-17T21:28:46.000Z"
+          }
+        ],
+        "subjects": [
+          "Simulation & physics",
+          "Automotive"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "Simulation & physics",
+            "Automotive"
+          ],
+          "evidence": [
+            {
+              "subject": "Simulation & physics",
+              "source": "metadata",
+              "match": "simulator"
+            },
+            {
+              "subject": "Automotive",
+              "source": "metadata",
+              "match": "driving"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://jevpilot.standardagents.ai/login",
+          "attemptedAt": "2026-10-11T20:32:48.879Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T20:32:48.879Z",
+          "lastWorkingAt": "2026-10-11T20:32:48.879Z",
+          "target": "https://jevpilot.standardagents.ai/login",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T20:32:48.879Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/1f2f397900bb68c51550b360.jpg",
+            "kind": "demo",
+            "url": "https://jevpilot.standardagents.ai/login",
+            "capturedAt": "2026-10-11T20:32:48.879Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T20:32:48.879Z",
+        "previewCheck": {
+          "url": "https://jevpilot.standardagents.ai/login",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T20:32:48.879Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T20:32:48.880Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T08:32:48.882Z",
+      "checkedAt": "2026-10-11T20:32:48.882Z",
+      "firstAcceptedAt": "2026-10-11T20:32:48.882Z"
     },
     "netgrph/cs2-demo-ragdoll-pause-fix": {
       "full": "netgrph/cs2-demo-ragdoll-pause-fix",
       "firstSeenAt": "2026-10-11T20:32:00.666Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -43416,12 +44250,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T20:32:00.666Z"
+      "lastSeenAt": "2026-10-11T20:32:00.666Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T20:33:41.832Z"
     },
     "dartnative/dar": {
       "full": "DartNative/dar",
       "firstSeenAt": "2026-10-11T20:32:00.666Z",
-      "status": "queued",
+      "status": "rejected",
       "sources": [
         {
           "kind": "x",
@@ -43440,12 +44276,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T20:32:00.666Z"
+      "lastSeenAt": "2026-10-11T20:32:00.666Z",
+      "reason": "repository_unavailable",
+      "nextAttemptAt": "2026-10-12T02:33:35.015Z"
     },
     "dinasor/tersreleases": {
       "full": "DiNaSoR/Tersreleases",
       "firstSeenAt": "2026-10-11T20:32:00.666Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -43464,12 +44302,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T20:32:00.666Z"
+      "lastSeenAt": "2026-10-11T20:32:00.666Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T20:33:36.875Z"
     },
     "fred-terzi/totem-llm": {
       "full": "fred-terzi/totem-llm",
       "firstSeenAt": "2026-10-11T20:32:00.666Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -43486,12 +44326,14 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-11T20:32:00.666Z"
+      "lastSeenAt": "2026-10-11T20:32:00.666Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T20:33:40.658Z"
     },
     "fred-terzi/riddle-quest": {
       "full": "fred-terzi/riddle-quest",
       "firstSeenAt": "2026-10-11T20:32:00.666Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -43508,12 +44350,14 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-11T20:32:00.666Z"
+      "lastSeenAt": "2026-10-11T20:32:00.666Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T20:33:41.233Z"
     },
     "jarrodwatts/jev-trader": {
       "full": "jarrodwatts/jev-trader",
       "firstSeenAt": "2026-10-11T20:32:00.666Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -43540,12 +44384,101 @@
           "repository": "jarrodwatts/jev-trader"
         }
       ],
-      "lastSeenAt": "2026-10-11T20:32:00.666Z"
+      "lastSeenAt": "2026-10-11T20:32:00.666Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "jarrodwatts/jev-trader",
+        "postUrl": "https://x.com/i/web/status/2100484936679764250",
+        "url": "https://jev-trader.vercel.app/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "jarrodwatts/jev-trader",
+        "name": "jev-trader",
+        "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+        "category": "AI & machine learning",
+        "language": "TypeScript",
+        "stars": 2945,
+        "forks": 560,
+        "created": "2026-09-16T21:36:20Z",
+        "updated": "2026-09-17T02:48:22Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://jev-trader.vercel.app/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-11T20:32:49.416Z",
+        "lastAvailableAt": "2026-10-11T20:32:49.416Z",
+        "lastAttemptAt": "2026-10-11T20:32:49.416Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "jarrodwatts/jev-trader",
+          "postUrl": "https://x.com/i/web/status/2100484936679764250",
+          "url": "https://jev-trader.vercel.app/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2100484936679764250",
+            "postId": "2100484936679764250",
+            "postedAt": "2026-09-17T07:20:08.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://jev-trader.vercel.app/",
+          "attemptedAt": "2026-10-11T20:32:52.656Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T20:32:52.656Z",
+          "lastWorkingAt": "2026-10-11T20:32:52.656Z",
+          "target": "https://jev-trader.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T20:32:52.656Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/9a522ef16afe7510c28cdd64.jpg",
+            "kind": "demo",
+            "url": "https://jev-trader.vercel.app/",
+            "capturedAt": "2026-10-11T20:32:52.656Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T20:32:52.656Z",
+        "previewCheck": {
+          "url": "https://jev-trader.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T20:32:52.656Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T20:32:52.656Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T08:32:52.657Z",
+      "checkedAt": "2026-10-11T20:32:52.657Z",
+      "firstAcceptedAt": "2026-10-11T20:32:52.657Z"
     },
     "ericjuta/grok-bot-effect-cli": {
       "full": "ericjuta/Grok-Bot-effect-cli",
       "firstSeenAt": "2026-10-11T20:32:00.666Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -43564,12 +44497,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T20:32:00.666Z"
+      "lastSeenAt": "2026-10-11T20:32:00.666Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T20:33:39.382Z"
     },
     "d0xeddevi0/dejavu-sibyl-memory": {
       "full": "D0xedDevi0/dejavu-sibyl-memory",
       "firstSeenAt": "2026-10-11T20:32:00.666Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -43588,12 +44523,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T20:32:00.666Z"
+      "lastSeenAt": "2026-10-11T20:32:00.666Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T20:33:38.115Z"
     },
     "mrnetwork0001/meritor": {
       "full": "mrnetwork0001/Meritor",
       "firstSeenAt": "2026-10-11T20:32:00.666Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -43612,12 +44549,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T20:32:00.666Z"
+      "lastSeenAt": "2026-10-11T20:32:00.666Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T20:33:40.152Z"
     },
     "mrchaosdev/proofpulse": {
       "full": "mrchaosdev/proofpulse",
       "firstSeenAt": "2026-10-11T20:32:00.666Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -43636,12 +44575,88 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T20:32:00.666Z"
+      "lastSeenAt": "2026-10-11T20:32:00.666Z",
+      "entry": {
+        "availability": "available",
+        "full": "mrchaosdev/proofpulse",
+        "name": "proofpulse",
+        "description": "Explainable onchain signal investigator built for the Nansen Meridian Buildathon",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 1,
+        "forks": 1,
+        "created": "2026-09-14T16:26:17Z",
+        "updated": "2026-09-23T15:15:58Z",
+        "branch": "main",
+        "homepage": "https://proofpulse-eta.vercel.app",
+        "topics": [],
+        "demo": "https://proofpulse-eta.vercel.app/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-11T20:33:30.441Z",
+        "lastAvailableAt": "2026-10-11T20:33:30.441Z",
+        "lastAttemptAt": "2026-10-11T20:33:30.441Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2100278284298961156",
+            "postId": "2100278284298961156",
+            "postedAt": "2026-09-16T17:38:58.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://proofpulse-eta.vercel.app/",
+          "attemptedAt": "2026-10-11T20:33:34.670Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T20:33:34.670Z",
+          "lastWorkingAt": "2026-10-11T20:33:34.670Z",
+          "target": "https://proofpulse-eta.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T20:33:34.670Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/51ef703d9369968f35a023b1.jpg",
+            "kind": "demo",
+            "url": "https://proofpulse-eta.vercel.app/",
+            "capturedAt": "2026-10-11T20:33:34.670Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T20:33:34.670Z",
+        "previewCheck": {
+          "url": "https://proofpulse-eta.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T20:33:34.670Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T20:33:34.671Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-13T08:33:34.671Z",
+      "checkedAt": "2026-10-11T20:33:34.671Z",
+      "firstAcceptedAt": "2026-10-11T20:33:34.671Z"
     },
     "automateyournetwork/pyats_mcp": {
       "full": "automateyournetwork/pyATS_MCP",
       "firstSeenAt": "2026-10-11T20:32:00.666Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -43660,7 +44675,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T20:32:00.666Z"
+      "lastSeenAt": "2026-10-11T20:32:00.666Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T20:33:35.553Z"
     }
   },
   "lastRun": {
@@ -44287,8 +45304,8 @@
       "posts": 131,
       "uniquePosts": 129,
       "newCandidates": 142,
-      "validationAttempts": 130,
-      "accepted": 56
+      "validationAttempts": 142,
+      "accepted": 59
     },
     "ac3eb65e96558e14": {
       "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
@@ -44311,8 +45328,8 @@
       "posts": 175,
       "uniquePosts": 100,
       "newCandidates": 102,
-      "validationAttempts": 73,
-      "accepted": 33
+      "validationAttempts": 81,
+      "accepted": 41
     }
   },
   "demoSeeds": {
