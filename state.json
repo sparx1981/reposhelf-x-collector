@@ -93,7 +93,8 @@
       },
       "recent": {
         "start": "2026-10-04T20:32:41.830Z",
-        "end": "2026-10-09T17:41:27.700Z"
+        "end": "2026-10-09T17:41:27.700Z",
+        "nextToken": "b26v89c19zqg8o3juziz5pbc9x07p7ff7dbdx5lqn7qf1"
       }
     }
   },
@@ -2257,7 +2258,7 @@
           "postedAt": "2026-10-09T13:40:13.000Z"
         }
       ],
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "entry": {
         "availability": "available",
         "full": "LydiaTools/browser-agent-blueprint",
@@ -15461,14 +15462,14 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 0,
+        "likes": 1,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T10:15:53.790Z"
+      "lastSeenAt": "2026-10-11T20:31:46.124Z"
     },
     "lephiziel/findrail": {
       "full": "Lephiziel/findrail",
@@ -15499,7 +15500,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-18T10:17:23.169Z"
     },
@@ -15525,7 +15526,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T10:15:53.790Z"
+      "lastSeenAt": "2026-10-11T20:31:46.124Z"
     },
     "feiyanglyy-stack/projectkeeper": {
       "full": "feiyanglyy-stack/ProjectKeeper",
@@ -15549,7 +15550,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T10:15:53.790Z"
+      "lastSeenAt": "2026-10-11T20:31:46.124Z"
     },
     "kaif110/nike-website": {
       "full": "Kaif110/NIke-Website",
@@ -15581,7 +15582,7 @@
           "repository": "Kaif110/NIke-Website"
         }
       ],
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "Kaif110/NIke-Website",
@@ -15686,7 +15687,7 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 57,
+        "likes": 58,
         "reposts": 4,
         "replies": 3,
         "quotes": 0
@@ -15707,7 +15708,7 @@
           "repository": "drcmda/handguard"
         }
       ],
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "entry": {
         "availability": "available",
         "full": "drcmda/handguard",
@@ -15807,7 +15808,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-17T05:40:10.116Z"
     },
@@ -15831,7 +15832,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "entry": {
         "availability": "available",
         "full": "vikrampsingh/ai-swe-seminar-anna-university",
@@ -15939,7 +15940,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-17T05:40:18.806Z"
     },
@@ -15979,7 +15980,7 @@
           "repository": "Nigestyh/etch-a-sketch"
         }
       ],
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "entry": {
         "availability": "available",
         "full": "Nigestyh/etch-a-sketch",
@@ -16077,7 +16078,7 @@
         "replies": 29,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-17T05:40:05.927Z"
     },
@@ -16101,7 +16102,7 @@
         "replies": 29,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "reason": "temporary_error",
       "nextAttemptAt": "2026-10-10T11:40:06.553Z"
     },
@@ -16125,7 +16126,7 @@
         "replies": 29,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-17T05:40:07.138Z"
     },
@@ -16149,7 +16150,7 @@
         "replies": 29,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-17T05:40:07.662Z"
     },
@@ -16173,7 +16174,7 @@
         "replies": 29,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-17T05:40:08.154Z"
     },
@@ -16197,7 +16198,7 @@
         "replies": 29,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-17T05:40:08.658Z"
     },
@@ -16231,7 +16232,7 @@
           "repository": "MichinaoShimizu/kiroku"
         }
       ],
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "entry": {
         "availability": "available",
         "full": "MichinaoShimizu/kiroku",
@@ -16360,7 +16361,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-17T05:40:09.651Z"
     },
@@ -16393,7 +16394,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-17T12:32:15.837Z"
     },
@@ -16427,7 +16428,7 @@
           "repository": "xenodrive/timescope"
         }
       ],
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "entry": {
         "availability": "available",
         "full": "xenodrive/timescope",
@@ -16542,7 +16543,7 @@
           "repository": "ToberJ/reflex"
         }
       ],
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "entry": {
         "availability": "available",
         "full": "ToberJ/reflex",
@@ -16649,7 +16650,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T10:15:53.790Z",
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-17T12:32:16.281Z"
     },
@@ -43328,24 +43329,6 @@
     "2101499311452496262",
     "2101467390160589283",
     "2101462516320579826",
-    "2108610948114313573",
-    "2108610259275202745",
-    "2108610236147712289",
-    "2108609342341792050",
-    "2108591281282949159",
-    "2108586669662261732",
-    "2108586500744974790",
-    "2108582141970006360",
-    "2108579785740046814",
-    "2108579750650458417",
-    "2108560097161212372",
-    "2108558937339363523",
-    "2108558816233295970",
-    "2108558618165694907",
-    "2108553118216777916",
-    "2108543386550784058",
-    "2108540428563931303",
-    "2108540200129564901",
     "2105821931782217892",
     "2105816003867447303",
     "2105813764402462878",
@@ -43442,7 +43425,25 @@
     "2108183144738513043",
     "2108179358414422078",
     "2108164286875152482",
-    "2108164245607383405"
+    "2108164245607383405",
+    "2108610948114313573",
+    "2108610259275202745",
+    "2108610236147712289",
+    "2108609342341792050",
+    "2108591281282949159",
+    "2108586669662261732",
+    "2108586500744974790",
+    "2108582141970006360",
+    "2108579785740046814",
+    "2108579750650458417",
+    "2108560097161212372",
+    "2108558937339363523",
+    "2108558816233295970",
+    "2108558618165694907",
+    "2108553118216777916",
+    "2108543386550784058",
+    "2108540428563931303",
+    "2108540200129564901"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -43479,7 +43480,7 @@
     },
     "a0153cbebcc5cf46": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
-      "posts": 140,
+      "posts": 158,
       "uniquePosts": 85,
       "newCandidates": 87,
       "validationAttempts": 73,
