@@ -33939,7 +33939,7 @@
     "diffusionstudio/editor": {
       "full": "diffusionstudio/editor",
       "firstSeenAt": "2026-10-11T04:04:16.289Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -33958,7 +33958,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+      "lastSeenAt": "2026-10-11T04:04:16.289Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T04:05:45.204Z"
     },
     "devmuhakeem/configuring-high-availability-with-an-application-load-balancer-and-auto-scaling": {
       "full": "devmuhakeem/Configuring-High-Availability-with-an-Application-Load-Balancer-and-Auto-Scaling",
@@ -34011,7 +34013,7 @@
     "erkamyaman/hinge-guess-angular-native": {
       "full": "erkamyaman/hinge-guess-angular-native",
       "firstSeenAt": "2026-10-11T04:04:16.289Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -34038,12 +34040,130 @@
           "repository": "erkamyaman/hinge-guess-angular-native"
         }
       ],
-      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+      "lastSeenAt": "2026-10-11T04:04:16.289Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "erkamyaman/hinge-guess-angular-native",
+        "postUrl": "https://x.com/i/web/status/2105581759991529926",
+        "url": "https://ng-native.com/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "erkamyaman/hinge-guess-angular-native",
+        "name": "hinge-guess-angular-native",
+        "description": "Guess the hinge angle on iPhone Duo and Android foldables, in Angular with real native views (Angular Native)",
+        "category": "Developer tools",
+        "language": "TypeScript",
+        "stars": 1,
+        "forks": 0,
+        "created": "2026-09-30T22:04:47Z",
+        "updated": "2026-10-01T08:52:05Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://ng-native.com/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-11T04:05:28.257Z",
+        "lastAvailableAt": "2026-10-11T04:05:28.257Z",
+        "lastAttemptAt": "2026-10-11T04:05:28.257Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "erkamyaman/hinge-guess-angular-native",
+          "postUrl": "https://x.com/i/web/status/2105581759991529926",
+          "url": "https://ng-native.com/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105581759991529926",
+            "postId": "2105581759991529926",
+            "postedAt": "2026-10-01T08:53:06.000Z"
+          }
+        ],
+        "subjects": [
+          "Android",
+          "Apple",
+          "Mobile"
+        ],
+        "platforms": [
+          "Android",
+          "iOS & iPadOS"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Android",
+            "Apple",
+            "Mobile"
+          ],
+          "evidence": [
+            {
+              "subject": "Android",
+              "source": "metadata",
+              "match": "Android"
+            },
+            {
+              "subject": "Apple",
+              "source": "metadata",
+              "match": "iPhone"
+            },
+            {
+              "subject": "Mobile",
+              "source": "metadata",
+              "match": "iPhone"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "Android",
+              "source": "metadata",
+              "match": "Android"
+            },
+            {
+              "platform": "iOS & iPadOS",
+              "source": "metadata",
+              "match": "iPhone"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://ng-native.com/",
+          "attemptedAt": "2026-10-11T04:05:28.784Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "challenge",
+            "at": "2026-10-11T04:05:28.784Z"
+          },
+          "nextCheckAt": "2026-10-11T06:05:28.784Z"
+        },
+        "previewAttemptAt": "2026-10-11T04:05:28.784Z",
+        "previewCheck": {
+          "url": "https://ng-native.com/",
+          "status": "retry",
+          "reason": "challenge",
+          "attemptedAt": "2026-10-11T04:05:28.784Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-11T06:05:28.784Z"
+        }
+      },
+      "reason": "challenge",
+      "nextAttemptAt": "2026-10-11T06:05:28.784Z",
+      "checkedAt": "2026-10-11T04:05:28.784Z"
     },
     "anyrouterh/anyroute": {
       "full": "AnyRouteRH/AnyRoute",
       "firstSeenAt": "2026-10-11T04:04:16.289Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -34070,7 +34190,115 @@
           "repository": "AnyRouteRH/AnyRoute"
         }
       ],
-      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+      "lastSeenAt": "2026-10-11T04:04:16.289Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "AnyRouteRH/AnyRoute",
+        "postUrl": "https://x.com/i/web/status/2105577709015638126",
+        "url": "https://anyroute.tech/agents"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "AnyRouteRH/AnyRoute",
+        "name": "AnyRoute",
+        "description": "OpenRouter-compatible inference routing, signed receipts and USDG payments on Robinhood Chain.",
+        "category": "AI & machine learning",
+        "language": "TypeScript",
+        "stars": 2,
+        "forks": 0,
+        "created": "2026-09-29T00:55:33Z",
+        "updated": "2026-10-10T14:48:02Z",
+        "license": null,
+        "branch": "main",
+        "homepage": null,
+        "topics": [
+          "ai",
+          "bun",
+          "inference-router",
+          "llm",
+          "openai-compatible",
+          "solidity",
+          "source-available",
+          "typescript"
+        ],
+        "demo": "https://anyroute.tech/agents",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-11T04:05:20.270Z",
+        "lastAvailableAt": "2026-10-11T04:05:20.270Z",
+        "lastAttemptAt": "2026-10-11T04:05:20.270Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "AnyRouteRH/AnyRoute",
+          "postUrl": "https://x.com/i/web/status/2105577709015638126",
+          "url": "https://anyroute.tech/agents"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105577709015638126",
+            "postId": "2105577709015638126",
+            "postedAt": "2026-10-01T08:37:00.000Z"
+          }
+        ],
+        "subjects": [
+          "Crypto & blockchain"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [
+            "Crypto & blockchain"
+          ],
+          "evidence": [
+            {
+              "subject": "Crypto & blockchain",
+              "source": "metadata",
+              "match": "solidity"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://anyroute.tech/agents",
+          "attemptedAt": "2026-10-11T04:05:23.663Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T04:05:23.663Z",
+          "lastWorkingAt": "2026-10-11T04:05:23.663Z",
+          "target": "https://anyroute.tech/agents",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T04:05:23.663Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/7ad9017f6066587467e90d4f.jpg",
+            "kind": "demo",
+            "url": "https://anyroute.tech/agents",
+            "capturedAt": "2026-10-11T04:05:23.663Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T04:05:23.663Z",
+        "previewCheck": {
+          "url": "https://anyroute.tech/agents",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T04:05:23.663Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T04:05:23.664Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-12T16:05:23.665Z",
+      "checkedAt": "2026-10-11T04:05:23.665Z",
+      "firstAcceptedAt": "2026-10-11T04:05:23.665Z"
     },
     "sumit639-code/sxan-expensemanager-ocr": {
       "full": "sumit639-code/sxan-expensemanager-ocr",
@@ -34178,7 +34406,7 @@
     "johnzweng/lightning-payment-proof": {
       "full": "johnzweng/lightning-payment-proof",
       "firstSeenAt": "2026-10-11T04:04:16.289Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -34205,12 +34433,108 @@
           "repository": "johnzweng/lightning-payment-proof"
         }
       ],
-      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+      "lastSeenAt": "2026-10-11T04:04:16.289Z",
+      "entry": {
+        "availability": "available",
+        "full": "johnzweng/lightning-payment-proof",
+        "name": "lightning-payment-proof",
+        "description": "One link that proves a Lightning payment: invoice + preimage, verified in your browser, explained in plain words, checkable in your own terminal. Zero dependencies.",
+        "category": "Developer tools",
+        "language": "JavaScript",
+        "stars": 1,
+        "forks": 0,
+        "created": "2026-09-30T20:46:33Z",
+        "updated": "2026-10-09T08:59:24Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://lnproof.utxo.at/",
+        "topics": [
+          "bitcoin",
+          "bolt11",
+          "lightning",
+          "preimage",
+          "secp256k1",
+          "static-site",
+          "vanilla-js",
+          "zero-dependencies"
+        ],
+        "demo": "https://lnproof.utxo.at/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-11T04:05:29.417Z",
+        "lastAvailableAt": "2026-10-11T04:05:29.417Z",
+        "lastAttemptAt": "2026-10-11T04:05:29.417Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105542463276613882",
+            "postId": "2105542463276613882",
+            "postedAt": "2026-10-01T06:16:56.000Z"
+          }
+        ],
+        "subjects": [
+          "Crypto & blockchain"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Crypto & blockchain"
+          ],
+          "evidence": [
+            {
+              "subject": "Crypto & blockchain",
+              "source": "metadata",
+              "match": "bitcoin"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://lnproof.utxo.at/",
+          "attemptedAt": "2026-10-11T04:05:33.399Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T04:05:33.399Z",
+          "lastWorkingAt": "2026-10-11T04:05:33.399Z",
+          "target": "https://lnproof.utxo.at/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T04:05:33.399Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/927f7f273edd4c0e24472e4c.jpg",
+            "kind": "demo",
+            "url": "https://lnproof.utxo.at/",
+            "capturedAt": "2026-10-11T04:05:33.399Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T04:05:33.399Z",
+        "previewCheck": {
+          "url": "https://lnproof.utxo.at/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T04:05:33.399Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T04:05:33.399Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-12T16:05:33.400Z",
+      "checkedAt": "2026-10-11T04:05:33.400Z",
+      "firstAcceptedAt": "2026-10-11T04:05:33.400Z"
     },
     "hyperlogue/r3": {
       "full": "hyperlogue/r3",
       "firstSeenAt": "2026-10-11T04:04:16.289Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -34229,7 +34553,114 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+      "lastSeenAt": "2026-10-11T04:04:16.289Z",
+      "entry": {
+        "availability": "available",
+        "full": "hyperlogue/r3",
+        "name": "r3",
+        "description": "Like Claude Artifacts, but running locally for any agent. Comment on HTML, docs and diffs, your agent gets the feedback.",
+        "category": "Developer tools",
+        "language": "TypeScript",
+        "stars": 41,
+        "forks": 1,
+        "created": "2026-06-29T18:35:49Z",
+        "updated": "2026-10-10T14:27:32Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://hyperlogue.github.io/r3/demo/",
+        "topics": [
+          "ai-coding",
+          "ai-pair-programming",
+          "artifacts",
+          "bun",
+          "claude-code",
+          "code-review",
+          "codex",
+          "coding-agents",
+          "developer-tools",
+          "grok-build",
+          "localhost",
+          "self-hosted"
+        ],
+        "demo": "https://hyperlogue.github.io/r3/demo/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-11T04:05:46.751Z",
+        "lastAvailableAt": "2026-10-11T04:05:46.751Z",
+        "lastAttemptAt": "2026-10-11T04:05:46.751Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105521094387999014",
+            "postId": "2105521094387999014",
+            "postedAt": "2026-10-01T04:52:02.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents",
+          "Self-hosted apps"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "MCP servers & agents",
+            "Self-hosted apps"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "agent"
+            },
+            {
+              "subject": "Self-hosted apps",
+              "source": "metadata",
+              "match": "self hosted"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://hyperlogue.github.io/r3/demo/",
+          "attemptedAt": "2026-10-11T04:05:50.078Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T04:05:50.078Z",
+          "lastWorkingAt": "2026-10-11T04:05:50.078Z",
+          "target": "https://hyperlogue.github.io/r3/demo/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T04:05:50.078Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/fb48242c1cd0abf0faf17cbd.jpg",
+            "kind": "demo",
+            "url": "https://hyperlogue.github.io/r3/demo/",
+            "capturedAt": "2026-10-11T04:05:50.078Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T04:05:50.078Z",
+        "previewCheck": {
+          "url": "https://hyperlogue.github.io/r3/demo/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T04:05:50.078Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T04:05:50.079Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-12T16:05:50.079Z",
+      "checkedAt": "2026-10-11T04:05:50.079Z",
+      "firstAcceptedAt": "2026-10-11T04:05:50.079Z"
     },
     "taslimmuhammed/local_assistant_v2": {
       "full": "taslimmuhammed/local_assistant_v2",
@@ -34282,7 +34713,7 @@
     "sdras/jev-webmcp-extension": {
       "full": "sdras/jev-webmcp-extension",
       "firstSeenAt": "2026-10-11T04:04:23.065Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -34299,12 +34730,105 @@
         "replies": 2,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-11T04:04:23.065Z"
+      "lastSeenAt": "2026-10-11T04:04:23.065Z",
+      "entry": {
+        "availability": "available",
+        "full": "sdras/jev-webmcp-extension",
+        "name": "jev-webmcp-extension",
+        "description": "A small extension that demos the combination of Jev x WebMCP",
+        "category": "Other",
+        "language": "JavaScript",
+        "stars": 129,
+        "forks": 8,
+        "created": "2026-09-19T22:41:26Z",
+        "updated": "2026-09-20T16:18:14Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": "https://chromewebstore.google.com/detail/jev-%C3%97-webmcp/gglnhcbhjfbmcpgccnmolbhejloflgkb?authuser=0&hl=en",
+        "topics": [
+          "chrome",
+          "extension",
+          "extension-chrome",
+          "jev",
+          "webmcp"
+        ],
+        "demo": "https://shopping-webmcp-demo.netlify.app/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-11T04:05:35.114Z",
+        "lastAvailableAt": "2026-10-11T04:05:35.114Z",
+        "lastAttemptAt": "2026-10-11T04:05:35.114Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2102025647321219338",
+            "postId": "2102025647321219338",
+            "postedAt": "2026-09-21T13:22:22.000Z"
+          }
+        ],
+        "subjects": [
+          "Browser extensions & PWAs"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "Browser extensions & PWAs"
+          ],
+          "evidence": [
+            {
+              "subject": "Browser extensions & PWAs",
+              "source": "metadata",
+              "match": "chrome extension"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://shopping-webmcp-demo.netlify.app/",
+          "attemptedAt": "2026-10-11T04:05:38.310Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T04:05:38.310Z",
+          "lastWorkingAt": "2026-10-11T04:05:38.310Z",
+          "target": "https://shopping-webmcp-demo.netlify.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T04:05:38.310Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/2ed4d644f5726eb38cce8fcf.jpg",
+            "kind": "demo",
+            "url": "https://shopping-webmcp-demo.netlify.app/",
+            "capturedAt": "2026-10-11T04:05:38.310Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T04:05:38.310Z",
+        "previewCheck": {
+          "url": "https://shopping-webmcp-demo.netlify.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T04:05:38.310Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T04:05:38.310Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-12T16:05:38.311Z",
+      "checkedAt": "2026-10-11T04:05:38.311Z",
+      "firstAcceptedAt": "2026-10-11T04:05:38.311Z"
     },
     "sdras/shopping-cart-webmcp": {
       "full": "sdras/shopping-cart-webmcp",
       "firstSeenAt": "2026-10-11T04:04:23.065Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -34321,12 +34845,89 @@
         "replies": 2,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-11T04:04:23.065Z"
+      "lastSeenAt": "2026-10-11T04:04:23.065Z",
+      "entry": {
+        "availability": "available",
+        "full": "sdras/shopping-cart-webmcp",
+        "name": "shopping-cart-webmcp",
+        "description": "Demo of how WebMCP can progressively enhance a shopping experience",
+        "category": "Other",
+        "language": "JavaScript",
+        "stars": 25,
+        "forks": 0,
+        "created": "2026-09-19T00:44:13Z",
+        "updated": "2026-09-20T16:18:05Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": "https://shopping-webmcp-demo.netlify.app",
+        "topics": [],
+        "demo": "https://shopping-webmcp-demo.netlify.app/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-11T04:05:38.865Z",
+        "lastAvailableAt": "2026-10-11T04:05:38.865Z",
+        "lastAttemptAt": "2026-10-11T04:05:38.865Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2102025647321219338",
+            "postId": "2102025647321219338",
+            "postedAt": "2026-09-21T13:22:22.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://shopping-webmcp-demo.netlify.app/",
+          "attemptedAt": "2026-10-11T04:05:42.517Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T04:05:42.517Z",
+          "lastWorkingAt": "2026-10-11T04:05:42.517Z",
+          "target": "https://shopping-webmcp-demo.netlify.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T04:05:42.517Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/decc77605c54917adc0cd593.jpg",
+            "kind": "demo",
+            "url": "https://shopping-webmcp-demo.netlify.app/",
+            "capturedAt": "2026-10-11T04:05:42.517Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T04:05:42.517Z",
+        "previewCheck": {
+          "url": "https://shopping-webmcp-demo.netlify.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T04:05:42.517Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T04:05:42.517Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-12T16:05:42.518Z",
+      "checkedAt": "2026-10-11T04:05:42.518Z",
+      "firstAcceptedAt": "2026-10-11T04:05:42.518Z"
     },
     "fazlerocks/jevmail": {
       "full": "fazlerocks/jevmail",
       "firstSeenAt": "2026-10-11T04:04:23.065Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -34345,12 +34946,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T04:04:23.065Z"
+      "lastSeenAt": "2026-10-11T04:04:23.065Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T04:05:34.024Z"
     },
     "cardano-foundation/x402-cardano-demo": {
       "full": "cardano-foundation/x402-cardano-demo",
       "firstSeenAt": "2026-10-11T04:04:23.065Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -34367,12 +34970,14 @@
         "replies": 1,
         "quotes": 2
       },
-      "lastSeenAt": "2026-10-11T04:04:23.065Z"
+      "lastSeenAt": "2026-10-11T04:04:23.065Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T04:05:43.746Z"
     },
     "kammerlo/x402-cardano-demo": {
       "full": "Kammerlo/x402-cardano-demo",
       "firstSeenAt": "2026-10-11T04:04:23.065Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -34389,12 +34994,14 @@
         "replies": 1,
         "quotes": 2
       },
-      "lastSeenAt": "2026-10-11T04:04:23.065Z"
+      "lastSeenAt": "2026-10-11T04:04:23.065Z",
+      "reason": "temporary_error",
+      "nextAttemptAt": "2026-10-11T10:05:43.974Z"
     },
     "cardano-foundation/cardano-x402-facilitator": {
       "full": "cardano-foundation/cardano-x402-facilitator",
       "firstSeenAt": "2026-10-11T04:04:23.065Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -34411,12 +35018,14 @@
         "replies": 1,
         "quotes": 2
       },
-      "lastSeenAt": "2026-10-11T04:04:23.065Z"
+      "lastSeenAt": "2026-10-11T04:04:23.065Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T04:05:44.476Z"
     },
     "smfworks/omarchy-overwatch": {
       "full": "smfworks/omarchy-overwatch",
       "firstSeenAt": "2026-10-11T04:04:23.065Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -34442,12 +35051,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T04:04:23.065Z"
+      "lastSeenAt": "2026-10-11T04:04:23.065Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T04:05:43.080Z"
     },
     "zefan-cai/open-jev": {
       "full": "Zefan-Cai/Open-Jev",
       "firstSeenAt": "2026-10-11T04:04:23.065Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -34486,12 +35097,89 @@
           "repository": "Zefan-Cai/Open-Jev"
         }
       ],
-      "lastSeenAt": "2026-10-11T04:04:23.065Z"
+      "lastSeenAt": "2026-10-11T04:04:23.065Z",
+      "entry": {
+        "availability": "available",
+        "full": "Zefan-Cai/Open-Jev",
+        "name": "Open-Jev",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "Python",
+        "stars": 402,
+        "forks": 56,
+        "created": "2026-09-20T20:12:13Z",
+        "updated": "2026-10-04T17:08:14Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://zefan-cai.github.io/open-jev/v1-1/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-11T04:05:15.534Z",
+        "lastAvailableAt": "2026-10-11T04:05:15.534Z",
+        "lastAttemptAt": "2026-10-11T04:05:15.534Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2101782158658695388",
+            "postId": "2101782158658695388",
+            "postedAt": "2026-09-20T21:14:50.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://zefan-cai.github.io/open-jev/v1-1/",
+          "attemptedAt": "2026-10-11T04:05:19.502Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T04:05:19.502Z",
+          "lastWorkingAt": "2026-10-11T04:05:19.502Z",
+          "target": "https://zefan-cai.github.io/open-jev/v1-1/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T04:05:19.502Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/3b8d5e3104c4e87155e2f1e4.jpg",
+            "kind": "demo",
+            "url": "https://zefan-cai.github.io/open-jev/v1-1/",
+            "capturedAt": "2026-10-11T04:05:19.502Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T04:05:19.502Z",
+        "previewCheck": {
+          "url": "https://zefan-cai.github.io/open-jev/v1-1/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T04:05:19.502Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T04:05:19.504Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-12T16:05:19.526Z",
+      "checkedAt": "2026-10-11T04:05:19.526Z",
+      "firstAcceptedAt": "2026-10-11T04:05:19.526Z"
     },
     "i-priyanshuverma/laravel-jev": {
       "full": "i-priyanshuverma/laravel-jev",
       "firstSeenAt": "2026-10-11T04:04:23.065Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -34510,12 +35198,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T04:04:23.065Z"
+      "lastSeenAt": "2026-10-11T04:04:23.065Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T04:05:34.642Z"
     },
     "mahapps/mahapps.metro": {
       "full": "MahApps/MahApps.Metro",
       "firstSeenAt": "2026-10-11T04:04:23.065Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -34534,12 +35224,740 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T04:04:23.065Z"
+      "lastSeenAt": "2026-10-11T04:04:23.065Z",
+      "reusedEvidence": true,
+      "entry": {
+        "availability": "available",
+        "full": "MahApps/MahApps.Metro",
+        "name": "MahApps.Metro",
+        "description": "A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.",
+        "category": "Developer tools",
+        "language": "C#",
+        "stars": 9833,
+        "forks": 2422,
+        "created": "2011-10-16T04:16:10Z",
+        "updated": "2026-10-09T20:35:35Z",
+        "license": "MIT",
+        "branch": "develop",
+        "homepage": "https://mahapps.github.io/mahapps.com/",
+        "topics": [
+          "c-sharp",
+          "hacktoberfest",
+          "mahapps",
+          "metro",
+          "modern",
+          "open-source",
+          "oss",
+          "theme",
+          "ui",
+          "windows",
+          "winui",
+          "wpf",
+          "wpf-mahapps",
+          "xaml"
+        ],
+        "demo": "https://mahapps.github.io/mahapps.com/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-09T23:11:17.126Z",
+        "lastAttemptAt": "2026-10-09T23:11:17.126Z",
+        "lastAvailableAt": "2026-10-09T23:11:17.126Z",
+        "metrics": [
+          {
+            "at": "2026-10-09T23:11:17.126Z",
+            "stars": 9833,
+            "forks": 2422
+          }
+        ],
+        "technologies": [],
+        "overview": {
+          "kind": "readme",
+          "version": 1,
+          "paragraphs": [
+            "MahApps.Metro is a UI toolkit for WPF. It takes the standard WPF controls, the ones you already use, gives them a clean and modern look, and adds the pieces WPF never shipped: a proper window chrome, a theming engine, dialogs that do not block, and a set of navigation controls.",
+            "The project started on 29 January 2011, is MIT licensed, and has been part of the .NET Foundation since 2020. More than 160 people have contributed to it.",
+            "It restyles what you already have. Most UI libraries ask you to swap your controls for theirs. MahApps.Metro does the opposite: reference it, merge two resource dictionaries, and your existing Button, TextBox, DataGrid and TreeView are restyled in place. No rewrite, no new control names, no vendor lock-in on your XAML."
+          ],
+          "features": [
+            "Windows and chrome: MetroWindow with custom title-bar commands and glow borders, MetroNavigationWindow for page-based navigation.",
+            "Navigation: a HamburgerMenu for the side-bar pattern, a SplitView underneath it, flyouts from any edge, and animated tab controls.",
+            "Dialogs: message, input, login and progress dialogs shown as an overlay inside your window instead of a blocking modal. They are awaitable and usable from a view model.",
+            "Input and data: ColorPicker, DateTimePicker, NumericUpDown, MultiSelectionComboBox, HotKeyBox and a restyled DataGrid.",
+            "Feedback: badges, progress bars and rings, toggle switches and validation popups."
+          ],
+          "sourceUrl": "https://github.com/MahApps/MahApps.Metro/blob/develop/readme.md",
+          "fingerprint": "6e6fe56b75c8c1d2d609276059e6990914e5f94ff24b20b0b6b56116bcebe918",
+          "extractedAt": "2026-10-09T23:11:17.308Z"
+        },
+        "overviewCheckedAt": "2026-10-09T23:11:17.308Z",
+        "projectInsights": {
+          "version": 1,
+          "whatItDoes": {
+            "text": "MahApps.Metro is a UI toolkit for WPF. It takes the standard WPF controls, the ones you already use, gives them a clean and modern look, and adds the pieces WPF never shipped: a proper window chrome, a theming engine, dialogs that do not block, and a set of navigation controls.",
+            "sourceUrl": "https://github.com/MahApps/MahApps.Metro/blob/develop/readme.md"
+          },
+          "audience": [],
+          "requirements": [
+            {
+              "kind": "account",
+              "status": "required",
+              "text": "Dialogs: message, input, login and progress dialogs shown as an overlay inside your window instead of a blocking modal.",
+              "sourceUrl": "https://github.com/MahApps/MahApps.Metro/blob/develop/readme.md"
+            }
+          ],
+          "fingerprint": "6e6fe56b75c8c1d2d609276059e6990914e5f94ff24b20b0b6b56116bcebe918",
+          "sourceUrl": "https://github.com/MahApps/MahApps.Metro/blob/develop/readme.md",
+          "checkedAt": "2026-10-09T23:11:17.309Z"
+        },
+        "overviewRepoUpdated": "2026-10-09T20:35:35Z",
+        "readmeSnapshot": {
+          "version": 1,
+          "status": "saved",
+          "sourceUrl": "https://github.com/MahApps/MahApps.Metro/blob/develop/readme.md",
+          "checkedAt": "2026-10-09T23:13:06.085Z",
+          "hash": "6e6fe56b75c8c1d2d609276059e6990914e5f94ff24b20b0b6b56116bcebe918",
+          "originalBytes": 15834,
+          "storedBytes": 15834,
+          "truncated": false,
+          "searchTerms": [
+            "net",
+            "windows",
+            "mahapps.metro",
+            "foundation",
+            "free",
+            "license",
+            "project",
+            "control",
+            "simple",
+            "window",
+            "wpf",
+            "application",
+            "code",
+            "markdown",
+            "open",
+            "source",
+            "version",
+            "visual",
+            "awesome",
+            "contributors",
+            "dialogs",
+            "framework",
+            "mit",
+            "studio",
+            "azure",
+            "button",
+            "chrome",
+            "conduct",
+            "contributed",
+            "controls",
+            "creating",
+            "editor",
+            "follow",
+            "get",
+            "instead",
+            "new",
+            "releases",
+            "server",
+            "showcase",
+            "src",
+            "theme",
+            "tool",
+            "user",
+            "versions",
+            "what",
+            "which",
+            "xamarin",
+            "accent",
+            "already",
+            "any",
+            "applications.",
+            "artifacts",
+            "backers",
+            "backup",
+            "big",
+            "build",
+            "buttons",
+            "changer",
+            "code52",
+            "codetrack",
+            "colour",
+            "commands",
+            "contribution",
+            "controls.",
+            "core",
+            "dark",
+            "data",
+            "datagrid",
+            "demo",
+            "dev",
+            "devops",
+            "documentation",
+            "downloaded",
+            "easy",
+            "edit",
+            "flyouts",
+            "glow",
+            "goes",
+            "gui",
+            "heart",
+            "information",
+            "input",
+            "interface",
+            "keyboard",
+            "let",
+            "libraries",
+            "library",
+            "light",
+            "like",
+            "look",
+            "made",
+            "mahapps.metro.samples",
+            "makes",
+            "metrowindow",
+            "modern",
+            "music",
+            "navigation",
+            "newer",
+            "one",
+            "ones",
+            "other",
+            "overlay",
+            "own",
+            "part",
+            "people",
+            "per",
+            "pray",
+            "progress",
+            "projects",
+            "properties",
+            "provide",
+            "punker76",
+            "release",
+            "resharper",
+            "restyled",
+            "runtime",
+            "same",
+            "see",
+            "simplemp",
+            "some",
+            "started",
+            "style",
+            "system",
+            "tab",
+            "takes",
+            "them",
+            "themes",
+            "theming",
+            "title",
+            "toolkit",
+            "tools",
+            "under",
+            "used",
+            "view",
+            "who",
+            "work",
+            "workbooks",
+            "ad-hoc",
+            "adds",
+            "adopted",
+            "agreement",
+            "aids.",
+            "akruimink",
+            "alex",
+            "animated",
+            "app",
+            "app.",
+            "appreciate",
+            "appveyor",
+            "archived",
+            "around",
+            "arrive",
+            "as-is",
+            "ask",
+            "attach",
+            "attached",
+            "automatic",
+            "automation",
+            "awaitable",
+            "azuser",
+            "backdrop",
+            "badges",
+            "bar",
+            "bars",
+            "base",
+            "batzen",
+            "become",
+            "been",
+            "behavior",
+            "behaviour",
+            "behind",
+            "binaries",
+            "bit",
+            "blend",
+            "block",
+            "blocking",
+            "border",
+            "borders",
+            "box.",
+            "brendan",
+            "brings",
+            "brushes",
+            "building",
+            "built",
+            "built-in",
+            "cake",
+            "candidate",
+            "caption",
+            "carnac",
+            "certificates",
+            "certify",
+            "change",
+            "chat",
+            "check",
+            "child",
+            "chocolatey",
+            "cla",
+            "clarify",
+            "clean",
+            "clear",
+            "colorpicker",
+            "coloured",
+            "comes",
+            "commercial",
+            "community",
+            "community.",
+            "compatible",
+            "compiled",
+            "comprehensive",
+            "content",
+            "contributing",
+            "contributor",
+            "contributors.",
+            "conventions.",
+            "copyright",
+            "corner",
+            "covenant",
+            "create",
+            "cross-platform",
+            "custom",
+            "date",
+            "datetimepicker",
+            "daume",
+            "debug",
+            "deck",
+            "defined",
+            "dennis",
+            "design",
+            "desktop",
+            "desktop.",
+            "dialog",
+            "dictionaries",
+            "docking",
+            "does",
+            "donate.",
+            "dotnet",
+            "downmarkerwpf",
+            "dragablz",
+            "each",
+            "easier",
+            "ecosystem",
+            "edge",
+            "edge.",
+            "effective",
+            "email",
+            "emphasis",
+            "encrypt",
+            "engine",
+            "epix37",
+            "existing",
+            "expected",
+            "experimentation",
+            "extensible",
+            "extension",
+            "extra",
+            "feature.",
+            "feedback",
+            "feel",
+            "files",
+            "first-class",
+            "fluent.ribbon",
+            "foldersecurityviewer",
+            "forster",
+            "full-featured",
+            "gallery",
+            "generate",
+            "give",
+            "gives",
+            "goethem",
+            "goodness",
+            "great",
+            "greater",
+            "guides",
+            "hamburgermenu",
+            "have.",
+            "hdt",
+            "hearthstone",
+            "hearthstone-deck-tracker",
+            "help",
+            "helpers",
+            "hit",
+            "hotkeybox",
+            "hug",
+            "hugs",
+            "icons",
+            "implements",
+            "includes",
+            "income",
+            "increases",
+            "inheriting",
+            "inside",
+            "inspector",
+            "inspired",
+            "installer",
+            "invest",
+            "inzanit",
+            "it.",
+            "jaben",
+            "jan",
+            "january",
+            "jenkins",
+            "jetbrains",
+            "join",
+            "karger",
+            "keeps",
+            "layouts",
+            "learning",
+            "left",
+            "license.",
+            "licensed",
+            "linux",
+            "little",
+            "live",
+            "loadingindicators.wpf",
+            "lock-in",
+            "login",
+            "looking",
+            "looks",
+            "lots",
+            "macos",
+            "magic",
+            "magnificent",
+            "mahapps",
+            "mahapps.metro.",
+            "mahapps.metro.demo",
+            "mahapps.metro.gallery",
+            "mahapps.metro.iconpacks",
+            "mahapps.metro.simplechildwindow",
+            "mahapps.metro.templates",
+            "make",
+            "manage",
+            "management",
+            "manager",
+            "managing",
+            "many",
+            "markpad",
+            "markup",
+            "master",
+            "material",
+            "materialdesigninxamltoolkit",
+            "materials.",
+            "maximise",
+            "mdi.",
+            "member",
+            "merge",
+            "message",
+            "metronavigationwindow",
+            "microsoft",
+            "mike-ward",
+            "missing",
+            "mitchell",
+            "modal.",
+            "model.",
+            "monster",
+            "most",
+            "msi",
+            "mst",
+            "mui",
+            "multiselectioncombobox",
+            "names",
+            "navigation.",
+            "network",
+            "networkmanager",
+            "networks",
+            "never",
+            "nico",
+            "non-client",
+            "notes",
+            "ntfs",
+            "nuget",
+            "nugets",
+            "numbers",
+            "numericupdown",
+            "office-like",
+            "one.",
+            "opencollective",
+            "opposite",
+            "out",
+            "out-of-the",
+            "owners",
+            "packager",
+            "page",
+            "page-based",
+            "papercut",
+            "pattern",
+            "paul",
+            "people.",
+            "per-control",
+            "perfect",
+            "permissions",
+            "pieces",
+            "place.",
+            "play",
+            "player",
+            "plays",
+            "please",
+            "plus",
+            "popups.",
+            "powerful",
+            "presentation",
+            "preview",
+            "problems",
+            "productivity",
+            "profiler",
+            "project.",
+            "projects.",
+            "proper",
+            "provided",
+            "publisher",
+            "quick",
+            "radii",
+            "rainyday",
+            "readme.md",
+            "receiver",
+            "reference",
+            "registered",
+            "relocate",
+            "replaces",
+            "reporter",
+            "resize",
+            "resource",
+            "restyles",
+            "rewrite",
+            "rider",
+            "rider.",
+            "right",
+            "rings",
+            "runs",
+            "sample",
+            "samples",
+            "scheme",
+            "screenshots",
+            "security",
+            "selected-item",
+            "serious",
+            "service",
+            "services",
+            "set",
+            "setting.",
+            "shipped",
+            "shortcuts",
+            "show",
+            "shown",
+            "side-bar",
+            "signing",
+            "since",
+            "sleeve.",
+            "slide",
+            "smtp",
+            "snap",
+            "software",
+            "solution",
+            "solution.",
+            "solutionizer",
+            "solutions",
+            "something",
+            "special",
+            "spell-check",
+            "splitview",
+            "sponsor",
+            "sponsoring",
+            "sql",
+            "standard",
+            "star",
+            "start",
+            "stock",
+            "stubborn",
+            "styling",
+            "subclasses.",
+            "such",
+            "support",
+            "supported",
+            "supporting",
+            "swap",
+            "switch",
+            "switchable",
+            "switches",
+            "system.",
+            "targets",
+            "task",
+            "teaching",
+            "team",
+            "team.",
+            "tearable",
+            "templates",
+            "tested",
+            "textbox",
+            "textboxhelper.watermark",
+            "thank",
+            "their",
+            "theirs.",
+            "thememanager",
+            "they",
+            "thoemmi",
+            "time",
+            "time.",
+            "title-bar",
+            "toggle",
+            "too.",
+            "touch",
+            "tracker",
+            "treeview",
+            "tricks",
+            "troubleshoot",
+            "two",
+            "underneath",
+            "usability",
+            "usable",
+            "use.",
+            "utility",
+            "validation",
+            "van",
+            "variants",
+            "vendor",
+            "versatile",
+            "viewer",
+            "virtual",
+            "visualize",
+            "want",
+            "watermarks",
+            "web",
+            "weblog",
+            "webprofusion",
+            "well",
+            "wiki",
+            "windows.",
+            "winreform",
+            "winui",
+            "with.",
+            "world",
+            "wpf.",
+            "xaml.",
+            "zeluisping"
+          ]
+        },
+        "lastDemoCheckedAt": "2026-10-09T23:11:17.126Z",
+        "enrichmentAttemptAt": "2026-10-09T23:12:12.870Z",
+        "latestRelease": {
+          "name": "MahApps.Metro v2.4.11",
+          "tag": "2.4.11",
+          "publishedAt": "2025-09-14T00:36:46Z",
+          "url": "https://github.com/MahApps/MahApps.Metro/releases/tag/2.4.11"
+        },
+        "releaseCheckedAt": "2026-10-09T23:12:12.870Z",
+        "agentContextAttemptAt": "2026-10-09T23:13:03.543Z",
+        "agentContext": {
+          "version": 1,
+          "checkedAt": "2026-10-09T23:13:06.269Z",
+          "documents": [
+            {
+              "name": "LICENSE",
+              "sourceUrl": "https://github.com/MahApps/MahApps.Metro/blob/develop/LICENSE",
+              "hash": "647134b73ca7d8cfa37d02dae093e1424de570fb009d0babffa703858e7e9dc1",
+              "originalBytes": 1106,
+              "truncated": false
+            }
+          ]
+        },
+        "agentContextRepoUpdated": "2026-10-09T20:35:35Z",
+        "subjects": [
+          "Templates & UI components"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Templates & UI components"
+          ],
+          "evidence": [
+            {
+              "subject": "Templates & UI components",
+              "source": "metadata",
+              "match": "theme"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [
+            "Automation & workflows",
+            "Apple",
+            "Music & audio",
+            "Privacy & security"
+          ],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://mahapps.github.io/mahapps.com/",
+          "attemptedAt": "2026-10-09T23:20:33.775Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-09T23:20:33.775Z",
+          "lastWorkingAt": "2026-10-09T23:20:33.775Z",
+          "target": "https://mahapps.github.io/mahapps.com/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-16T23:20:33.775Z"
+        },
+        "previewAttemptAt": "2026-10-09T23:20:33.775Z",
+        "previewCheck": {
+          "url": "https://mahapps.github.io/mahapps.com/",
+          "attemptedAt": "2026-10-09T23:20:33.775Z",
+          "consecutiveFailures": 0,
+          "status": "captured",
+          "reason": null,
+          "nextCheckAt": "2026-10-16T23:20:33.775Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/76e04cce60353fc722b5a7b9.jpg",
+            "kind": "demo",
+            "capturedAt": "2026-10-09T23:20:33.775Z",
+            "url": "https://mahapps.github.io/mahapps.com/"
+          }
+        ],
+        "qualityPriority": false,
+        "spaces": [],
+        "communityPosts": [],
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2101730680967221510",
+            "postId": "2101730680967221510",
+            "postedAt": "2026-09-20T17:50:17.000Z"
+          }
+        ]
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-12T16:05:44.774Z",
+      "checkedAt": "2026-10-11T04:05:44.774Z",
+      "firstAcceptedAt": "2026-10-11T04:05:44.774Z"
     },
     "prismml-eng/bonsai-demo": {
       "full": "PrismML-Eng/Bonsai-demo",
       "firstSeenAt": "2026-10-11T04:04:23.065Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -34566,12 +35984,108 @@
           "repository": "PrismML-Eng/Bonsai-demo"
         }
       ],
-      "lastSeenAt": "2026-10-11T04:04:23.065Z"
+      "lastSeenAt": "2026-10-11T04:04:23.065Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "PrismML-Eng/Bonsai-demo",
+        "postUrl": "https://x.com/i/web/status/2101724052566012007",
+        "url": "https://huggingface.co/collections/prism-ml/bonsai-2"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "PrismML-Eng/Bonsai-demo",
+        "name": "Bonsai-demo",
+        "description": "Bonsai Demo",
+        "category": "AI & machine learning",
+        "language": "Shell",
+        "stars": 3325,
+        "forks": 373,
+        "created": "2026-03-25T19:25:09Z",
+        "updated": "2026-10-10T22:58:27Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": "https://prismml.com/",
+        "topics": [
+          "bonsai",
+          "llamacpp",
+          "llm",
+          "mlx",
+          "prism-ml",
+          "small-models"
+        ],
+        "demo": "https://huggingface.co/collections/prism-ml/bonsai-2",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-11T04:05:24.220Z",
+        "lastAvailableAt": "2026-10-11T04:05:24.220Z",
+        "lastAttemptAt": "2026-10-11T04:05:24.220Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "PrismML-Eng/Bonsai-demo",
+          "postUrl": "https://x.com/i/web/status/2101724052566012007",
+          "url": "https://huggingface.co/collections/prism-ml/bonsai-2"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2101724052566012007",
+            "postId": "2101724052566012007",
+            "postedAt": "2026-09-20T17:23:56.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://huggingface.co/collections/prism-ml/bonsai-2",
+          "attemptedAt": "2026-10-11T04:05:27.587Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T04:05:27.587Z",
+          "lastWorkingAt": "2026-10-11T04:05:27.587Z",
+          "target": "https://huggingface.co/collections/prism-ml/bonsai-2",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T04:05:27.587Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/9e760928ac428184ce37dd58.jpg",
+            "kind": "demo",
+            "url": "https://huggingface.co/collections/prism-ml/bonsai-2",
+            "capturedAt": "2026-10-11T04:05:27.587Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T04:05:27.587Z",
+        "previewCheck": {
+          "url": "https://huggingface.co/collections/prism-ml/bonsai-2",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T04:05:27.587Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T04:05:27.588Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-12T16:05:27.589Z",
+      "checkedAt": "2026-10-11T04:05:27.589Z",
+      "firstAcceptedAt": "2026-10-11T04:05:27.589Z"
     },
     "seongilp/clickpower": {
       "full": "seongilp/clickpower",
       "firstSeenAt": "2026-10-11T04:04:23.065Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -34590,12 +36104,88 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T04:04:23.065Z"
+      "lastSeenAt": "2026-10-11T04:04:23.065Z",
+      "entry": {
+        "availability": "available",
+        "full": "seongilp/clickpower",
+        "name": "clickpower",
+        "description": "ClickHouse-native log platform: a lightweight ELK replacement with a Kibana-grade UI",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 1,
+        "forks": 1,
+        "created": "2026-09-13T04:07:09Z",
+        "updated": "2026-09-17T12:27:45Z",
+        "branch": "main",
+        "homepage": "https://clickpower.vercel.app",
+        "topics": [],
+        "demo": "https://clickpower.vercel.app/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-11T04:05:51.413Z",
+        "lastAvailableAt": "2026-10-11T04:05:51.413Z",
+        "lastAttemptAt": "2026-10-11T04:05:51.413Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2101639179822420088",
+            "postId": "2101639179822420088",
+            "postedAt": "2026-09-20T11:46:41.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://clickpower.vercel.app/",
+          "attemptedAt": "2026-10-11T04:05:55.440Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T04:05:55.440Z",
+          "lastWorkingAt": "2026-10-11T04:05:55.440Z",
+          "target": "https://clickpower.vercel.app/discover",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T04:05:55.440Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/b56ca3a41f227732a6f40924.jpg",
+            "kind": "demo",
+            "url": "https://clickpower.vercel.app/",
+            "capturedAt": "2026-10-11T04:05:55.440Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-11T04:05:55.440Z",
+        "previewCheck": {
+          "url": "https://clickpower.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-11T04:05:55.440Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-18T04:05:55.441Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-12T16:05:55.441Z",
+      "checkedAt": "2026-10-11T04:05:55.441Z",
+      "firstAcceptedAt": "2026-10-11T04:05:55.441Z"
     },
     "christianalexander/effect-jev-cwe": {
       "full": "ChristianAlexander/effect-jev-cwe",
       "firstSeenAt": "2026-10-11T04:04:23.065Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -34614,12 +36204,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T04:04:23.065Z"
+      "lastSeenAt": "2026-10-11T04:04:23.065Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T04:05:45.792Z"
     },
     "commandcodeai/slash-design-showcase": {
       "full": "CommandCodeAI/slash-design-showcase",
       "firstSeenAt": "2026-10-11T04:04:23.065Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -34638,12 +36230,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T04:04:23.065Z"
+      "lastSeenAt": "2026-10-11T04:04:23.065Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T04:05:46.271Z"
     },
     "smfworks/omarchy-orbit-dock": {
       "full": "smfworks/omarchy-orbit-dock",
       "firstSeenAt": "2026-10-11T04:04:23.065Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -34662,7 +36256,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T04:04:23.065Z"
+      "lastSeenAt": "2026-10-11T04:04:23.065Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-18T04:05:50.777Z"
     },
     "smfworks/omarchy-neural-pulse": {
       "full": "smfworks/omarchy-neural-pulse",
@@ -35182,16 +36778,16 @@
       "posts": 245,
       "uniquePosts": 153,
       "newCandidates": 121,
-      "validationAttempts": 84,
-      "accepted": 35
+      "validationAttempts": 89,
+      "accepted": 38
     },
     "2c0438e5283099cf": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "posts": 103,
       "uniquePosts": 101,
       "newCandidates": 117,
-      "validationAttempts": 101,
-      "accepted": 44
+      "validationAttempts": 116,
+      "accepted": 50
     },
     "ac3eb65e96558e14": {
       "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",

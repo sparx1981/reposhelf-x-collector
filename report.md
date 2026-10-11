@@ -1,15 +1,15 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-10T21:02:05.538Z
+Checked: 2026-10-11T04:05:55.462Z
 
-Quality-ready repositories: **134**
+Quality-ready repositories: **138**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 210 | 136 | 108 | 35 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 88 | 86 | 101 | 44 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 245 | 153 | 121 | 38 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 103 | 101 | 117 | 50 |
 | (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 20 |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 75 | 16 | 10 | 3 |
 | url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 105 | 68 | 71 | 24 |
@@ -19,9 +19,6 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | Repository | Demo | Screenshot | Source post |
 | --- | --- | --- | --- |
 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | [Try demo](https://dynamical.org/) | [Screenshot](previews/1415501f0ca6b791ba4fef63.jpg) | [Source](https://x.com/i/web/status/2108192627401081009) |
-| [Aryabhatta-0/Wynk](https://github.com/Aryabhatta-0/Wynk) | [Try demo](https://ui-ten-virid.vercel.app/) | [Screenshot](previews/a8edff465d1f012cebe73af0.jpg) | [Source](https://x.com/i/web/status/2108255200779874616) |
-| [archestack/best-of-selfhosted-ai](https://github.com/archestack/best-of-selfhosted-ai) | [Try demo](https://platform.agentscope.io/) | [Screenshot](previews/8dfedb2f5799bb017242eebb.jpg) | [Source](https://x.com/i/web/status/2108255094743728504) |
-| [archestack/best-of-ai-starters](https://github.com/archestack/best-of-ai-starters) | [Try demo](https://agent-service-toolkit.streamlit.app/) | [Screenshot](previews/970795cf2e61680fc8ff09de.jpg) | [Source](https://x.com/i/web/status/2108255094743728504) |
 | [LydiaTools/browser-agent-blueprint](https://github.com/LydiaTools/browser-agent-blueprint) | [Try demo](https://lydiatools.github.io/browser-agent-blueprint/demo/) | [Screenshot](previews/bbed666a18f77240bde24baf.jpg) | [Source](https://x.com/i/web/status/2108177703446978708) |
 | [neuphonic/neudecide](https://github.com/neuphonic/neudecide) | [Try demo](https://huggingface.co/spaces/neuphonic/neudecide) | [Screenshot](previews/ebb774b0d2e1992414b6fc5f.jpg) | [Source](https://x.com/i/web/status/2108164286875152482) |
 | [real-rain/LocalAgent-UI](https://github.com/real-rain/LocalAgent-UI) | [Try demo](https://local-agent-ui-chi.vercel.app/) | [Screenshot](previews/8bd4c3e88eed9d666c11de83.jpg) | [Source](https://x.com/i/web/status/2108158807377694817) |
@@ -94,7 +91,6 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [VahidYousefzadeh/pretext-harfbuzz](https://github.com/VahidYousefzadeh/pretext-harfbuzz) | [Try demo](https://www.vahidyousefzadeh.com/pretext-harfbuzz) | [Screenshot](previews/498312a778c1351f9b5f5dfe.jpg) | [Source](https://x.com/i/web/status/2106018671093063764) |
 | [Likemiens/SpeakLouderSphere](https://github.com/Likemiens/SpeakLouderSphere) | [Try demo](https://speak-louder-sphere.vercel.app/) | [Screenshot](previews/41aacfbedd61c967e99424a0.jpg) | [Source](https://x.com/i/web/status/2106017261999861947) |
 | [dgreenheck/threejs-particle-fluids](https://github.com/dgreenheck/threejs-particle-fluids) | [Try demo](https://dgreenheck.github.io/threejs-particle-fluids/) | [Screenshot](previews/516bf15c48a7ef643f617e49.jpg) | [Source](https://x.com/i/web/status/2104597039757594724) |
-| [dgreenheck/tidewater](https://github.com/dgreenheck/tidewater) | [Try demo](https://dgreenheck.github.io/tidewater/) | [Screenshot](previews/57a9516a811db8692d653564.jpg) | [Source](https://x.com/i/web/status/2104594391491105179) |
 | [sbobyn/three-voxel-destruction](https://github.com/sbobyn/three-voxel-destruction) | [Try demo](https://three-voxel-destruction.vercel.app/) | [Screenshot](previews/bf7e99631a9ffd189b281b87.jpg) | [Source](https://x.com/i/web/status/2104584028980707668) |
 | [rishu4436/rwa-basis-desk](https://github.com/rishu4436/rwa-basis-desk) | [Try demo](https://rwa-basis-desk.vercel.app/) | [Screenshot](previews/20cc34493ed584b7f7003fe3.jpg) | [Source](https://x.com/i/web/status/2104578973170630857) |
 | [RicheySon/proof](https://github.com/RicheySon/proof) | [Try demo](https://proof-smoky.vercel.app/) | [Screenshot](previews/892b581a8a8c26bc206a2728.jpg) | [Source](https://x.com/i/web/status/2104332694331314504) |
@@ -113,7 +109,6 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [Sai6522/copilot-day-spark](https://github.com/Sai6522/copilot-day-spark) | [Try demo](https://sai6522.github.io/copilot-day-spark/) | [Screenshot](previews/0124f65ac5448f1bebc30781.jpg) | [Source](https://x.com/i/web/status/2098768735951888891) |
 | [Vyom-2007/DuoFoldWallpaper](https://github.com/Vyom-2007/DuoFoldWallpaper) | [Try demo](https://vyom-2007.github.io/DuoFoldWallpaper/) | [Screenshot](previews/8141e3d68097f10aa661d492.jpg) | [Source](https://x.com/i/web/status/2098448513004958038) |
 | [lauroguedes/laravel-demo-mode](https://github.com/lauroguedes/laravel-demo-mode) | [Try demo](https://packagist.org/packages/lauroguedes/laravel-demo-mode) | [Screenshot](previews/57b6cbad3a45cdf418f0cfc0.jpg) | [Source](https://x.com/i/web/status/2104156680736948524) |
-| [jubayer910/Admin-panel](https://github.com/jubayer910/Admin-panel) | [Try demo](https://sql.js.org/) | [Screenshot](previews/dd54994c57815c08183f362d.jpg) | [Source](https://x.com/i/web/status/2103895604439208284) |
 | [SgtPooki/Avalanche-IPFS-Filecoin-RWA-reference-Architecture](https://github.com/SgtPooki/Avalanche-IPFS-Filecoin-RWA-reference-Architecture) | [Try demo](https://sgtpooki.github.io/Avalanche-IPFS-Filecoin-RWA-reference-Architecture/) | [Screenshot](previews/932adb48fa889aef71a1d0c8.jpg) | [Source](https://x.com/i/web/status/2103888602492969270) |
 | [alexshtf/spectral_neuron_paper](https://github.com/alexshtf/spectral_neuron_paper) | [Try demo](https://arxiv.org/abs/2608.08003) | [Screenshot](previews/4cb38e05a31ee2161b21e6ad.jpg) | [Source](https://x.com/i/web/status/2103887093302763889) |
 | [AgibotTech/sonic_for_a3](https://github.com/AgibotTech/sonic_for_a3) | [Try demo](https://agibottech.github.io/sonic_for_a3/) | [Screenshot](previews/adc12223f6190dd15d96bf1c.jpg) | [Source](https://x.com/i/web/status/2103726311202234601) |
@@ -152,5 +147,14 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [Wolfe-Jam/mcp-context-card](https://github.com/Wolfe-Jam/mcp-context-card) | [Try demo](https://wolfe-jam.github.io/mcp-context-card/) | [Screenshot](previews/78a51294c35c500a845bcb36.jpg) | [Source](https://x.com/i/web/status/2105648914141774086) |
 | [txaty/TerraNvim](https://github.com/txaty/TerraNvim) | [Try demo](https://dotfyle.com/txaty/terranvim) | [Screenshot](previews/671f017b498e9ed5decd1b42.jpg) | [Source](https://x.com/i/web/status/2105617904087838802) |
 | [FILTRIX-net/filtrix-charts](https://github.com/FILTRIX-net/filtrix-charts) | [Try demo](https://charts.filtrix.net/) | [Screenshot](previews/a5f0419c03b7ff1402b36579.jpg) | [Source](https://x.com/i/web/status/2105602318339072220) |
+| [AnyRouteRH/AnyRoute](https://github.com/AnyRouteRH/AnyRoute) | [Try demo](https://anyroute.tech/agents) | [Screenshot](previews/7ad9017f6066587467e90d4f.jpg) | [Source](https://x.com/i/web/status/2105577709015638126) |
+| [johnzweng/lightning-payment-proof](https://github.com/johnzweng/lightning-payment-proof) | [Try demo](https://lnproof.utxo.at/) | [Screenshot](previews/927f7f273edd4c0e24472e4c.jpg) | [Source](https://x.com/i/web/status/2105542463276613882) |
+| [hyperlogue/r3](https://github.com/hyperlogue/r3) | [Try demo](https://hyperlogue.github.io/r3/demo/) | [Screenshot](previews/fb48242c1cd0abf0faf17cbd.jpg) | [Source](https://x.com/i/web/status/2105521094387999014) |
+| [sdras/jev-webmcp-extension](https://github.com/sdras/jev-webmcp-extension) | [Try demo](https://shopping-webmcp-demo.netlify.app/) | [Screenshot](previews/2ed4d644f5726eb38cce8fcf.jpg) | [Source](https://x.com/i/web/status/2102025647321219338) |
+| [sdras/shopping-cart-webmcp](https://github.com/sdras/shopping-cart-webmcp) | [Try demo](https://shopping-webmcp-demo.netlify.app/) | [Screenshot](previews/decc77605c54917adc0cd593.jpg) | [Source](https://x.com/i/web/status/2102025647321219338) |
+| [Zefan-Cai/Open-Jev](https://github.com/Zefan-Cai/Open-Jev) | [Try demo](https://zefan-cai.github.io/open-jev/v1-1/) | [Screenshot](previews/3b8d5e3104c4e87155e2f1e4.jpg) | [Source](https://x.com/i/web/status/2101782158658695388) |
+| [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | [Try demo](https://mahapps.github.io/mahapps.com/) | [Screenshot](previews/76e04cce60353fc722b5a7b9.jpg) | [Source](https://x.com/i/web/status/2101730680967221510) |
+| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | [Try demo](https://huggingface.co/collections/prism-ml/bonsai-2) | [Screenshot](previews/9e760928ac428184ce37dd58.jpg) | [Source](https://x.com/i/web/status/2101724052566012007) |
+| [seongilp/clickpower](https://github.com/seongilp/clickpower) | [Try demo](https://clickpower.vercel.app/) | [Screenshot](previews/b56ca3a41f227732a6f40924.jpg) | [Source](https://x.com/i/web/status/2101639179822420088) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.
