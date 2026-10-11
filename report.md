@@ -1,18 +1,18 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-11T12:51:13.471Z
+Checked: 2026-10-11T12:57:09.335Z
 
-Quality-ready repositories: **112**
+Quality-ready repositories: **117**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 280 | 170 | 136 | 42 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 314 | 186 | 145 | 45 |
 | url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 117 | 115 | 130 | 56 |
 | (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 20 |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 90 | 16 | 10 | 3 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 140 | 85 | 87 | 31 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 105 | 16 | 10 | 3 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 140 | 85 | 87 | 33 |
 
 Acceptance totals are attributed to the first discovery query; these are not controlled experiments.
 
@@ -55,6 +55,7 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [Dami904/steward](https://github.com/Dami904/steward) | [Try demo](https://steward-rwa.vercel.app/demo) | [Screenshot](previews/cd7b4e47216372ccd50b3233.jpg) | [Source](https://x.com/i/web/status/2104250842362839217) |
 | [Kshot3000/Night-Messenger-](https://github.com/Kshot3000/Night-Messenger-) | [Try demo](https://kshot3000.github.io/Night-Messenger-/) | [Screenshot](previews/1761d61737b4e2ea3f88b201.jpg) | [Source](https://x.com/i/web/status/2105816290544005527) |
 | [ryancampbell/ask-canada](https://github.com/ryancampbell/ask-canada) | [Try demo](https://america.gov/) | [Screenshot](previews/02e5686931e77ba765c25493.jpg) | [Source](https://x.com/i/web/status/2105801774028476623) |
+| [JordanDalton/clef-playground](https://github.com/JordanDalton/clef-playground) | [Try demo](https://blog.cloudflare.com/clef-decision-models) | [Screenshot](previews/e25c8a5e82833092f97d1a6c.jpg) | [Source](https://x.com/i/web/status/2105784996107632861) |
 | [anonthedev/athel](https://github.com/anonthedev/athel) | [Try demo](https://athel-research.vercel.app/) | [Screenshot](previews/3b9cd15291fee356b9f34bc3.jpg) | [Source](https://x.com/i/web/status/2108537253429747842) |
 | [invincible04/SplitFree](https://github.com/invincible04/SplitFree) | [Try demo](https://invincible04.github.io/SplitFree/) | [Screenshot](previews/41f1dc58d7d7d631f15c8a9e.jpg) | [Source](https://x.com/i/web/status/2101720182322536877) |
 | [lgs1920/timeline](https://github.com/lgs1920/timeline) | [Try demo](https://lgs1920.github.io/timeline/) | [Screenshot](previews/742ba9b4b8090ef03b6ed803.jpg) | [Source](https://x.com/i/web/status/2100637400502313000) |
@@ -115,10 +116,12 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | [Try demo](https://huggingface.co/collections/prism-ml/bonsai-2) | [Screenshot](previews/9e760928ac428184ce37dd58.jpg) | [Source](https://x.com/i/web/status/2101724052566012007) |
 | [seongilp/clickpower](https://github.com/seongilp/clickpower) | [Try demo](https://clickpower.vercel.app/) | [Screenshot](previews/b56ca3a41f227732a6f40924.jpg) | [Source](https://x.com/i/web/status/2101639179822420088) |
 | [Vovala14/Mica-Ai](https://github.com/Vovala14/Mica-Ai) | [Try demo](https://mica-ai-ten.vercel.app/) | [Screenshot](previews/1e5d27f6e80cecac222ec714.jpg) | [Source](https://x.com/i/web/status/2105812888422093073) |
+| [Seeed-Projects/reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) | [Try demo](https://yang-ci.github.io/Rebot_Arm_AGV/) | [Screenshot](previews/ada3f46a901787958e2eba57.jpg) | [Source](https://x.com/i/web/status/2105804871035191420) |
 | [almogdepaz/wolfpack](https://github.com/almogdepaz/wolfpack) | [Try demo](https://almogdepaz.github.io/wolfpack/) | [Screenshot](previews/57c52751578221917af36611.jpg) | [Source](https://x.com/i/web/status/2105795575463457267) |
 | [authorOd/3d-anatomy-atlas](https://github.com/authorOd/3d-anatomy-atlas) | [Try demo](https://svitylo.com/3d-anatomy-atlas) | [Screenshot](previews/f44b5f28368028d2936fbe5e.jpg) | [Source](https://x.com/i/web/status/2105777046660305072) |
 | [saurabhgayali/ModelProxy](https://github.com/saurabhgayali/ModelProxy) | [Try demo](https://modelproxy-site.vercel.app/) | [Screenshot](previews/d3886a591da6f1a4628e22df.jpg) | [Source](https://x.com/i/web/status/2105775461657936310) |
 | [afxjzs/office-layout](https://github.com/afxjzs/office-layout) | [Try demo](https://www.doug.is/building/stuff/office-layout) | [Screenshot](previews/8fff7be33a479417654c7f7e.jpg) | [Source](https://x.com/i/web/status/2105767972350677314) |
+| [jameskomo/config-drift-checker](https://github.com/jameskomo/config-drift-checker) | [Try demo](https://jameskomo.github.io/config-drift-checker-demo/) | [Screenshot](previews/03cfdda7f7ca83aedca43cf5.jpg) | [Source](https://x.com/i/web/status/2105761968456089954) |
 | [kikoncuo/jevfire](https://github.com/kikoncuo/jevfire) | [Try demo](https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD) | [Screenshot](previews/74c82e6fd41706c1f8f93b17.jpg) | [Source](https://x.com/i/web/status/2105759846247342377) |
 | [useslop/claude-plugins](https://github.com/useslop/claude-plugins) | [Try demo](https://useslop.com/mcp?utm_source=x&utm_campaign=launch-1001) | [Screenshot](previews/58e335b57a3dd611232cad32.jpg) | [Source](https://x.com/i/web/status/2105470899596017953) |
 | [yusufgenc34/ILens](https://github.com/yusufgenc34/ILens) | [Try demo](https://yusufgenc34.github.io/ILens/) | [Screenshot](previews/dc29cb0e4a2da27894764775.jpg) | [Source](https://x.com/i/web/status/2105464879263908126) |
@@ -130,5 +133,7 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [TakashiYoshinaga/LocalVisionAI-for-Unity](https://github.com/TakashiYoshinaga/LocalVisionAI-for-Unity) | [Try demo](https://www.linkedin.com/posts/tks-yoshinaga_localllms-ocr-computervision-activity-7506653758345560064-FxHq) | [Screenshot](previews/fa1bc6cb7171aa8613983c44.jpg) | [Source](https://x.com/i/web/status/2101183362111357021) |
 | [sahibzada-allahyar/gliner2-ultrafast](https://github.com/sahibzada-allahyar/gliner2-ultrafast) | [Try demo](https://docs.astral.sh/uv/) | [Screenshot](previews/b2f0b078f803b22b67b3acde.jpg) | [Source](https://x.com/i/web/status/2101038633293578604) |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [Try demo](https://images.openai.com/static-rsc-4/PLPMwP0CW4zNg8XZ70LTqvQ419_ZZ9PtOKDVvPLiB7JKlMDjEichunrse8aRngfXk8lExQlSGXRVedZTx5635VsnxBf7rPljRoXEkclQWF5U6IMhAdvAtWMiZylcqXknEGcimlz8U6j6U9yuUtq5z_xYiyxna5mvPhRLQpPWjWDJFLZ9YoDtMr3P_TNPiWfq?purpose=fullsize) | [Screenshot](previews/c8f5678810f1cfbe27a32e3f.jpg) | [Source](https://x.com/i/web/status/2100766752594690064) |
+| [Sonatrix/robotic-arm](https://github.com/Sonatrix/robotic-arm) | [Try demo](https://sim-robotic-arm.netlify.app/) | [Screenshot](previews/0d53834e89bd305a05bed333.jpg) | [Source](https://x.com/i/web/status/2105363589427294645) |
+| [iamzimozic/busiRAG](https://github.com/iamzimozic/busiRAG) | [Try demo](https://busi-rag.vercel.app/) | [Screenshot](previews/01726921a080f97dc0ffec76.jpg) | [Source](https://x.com/i/web/status/2105357264655884707) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.
