@@ -45104,7 +45104,7 @@
     "vcfgdev/skills": {
       "full": "vcfgdev/skills",
       "firstSeenAt": "2026-10-12T19:02:28.748Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -45137,12 +45137,101 @@
           "repository": "vcfgdev/skills"
         }
       ],
-      "lastSeenAt": "2026-10-12T19:02:28.748Z"
+      "lastSeenAt": "2026-10-12T19:02:28.748Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "vcfgdev/skills",
+        "postUrl": "https://x.com/i/web/status/2105660850552127666",
+        "url": "https://vcfgdev.github.io/skills/thermal-svg/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "vcfgdev/skills",
+        "name": "skills",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-11T16:40:44Z",
+        "updated": "2026-10-01T16:20:06Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://vcfgdev.github.io/skills/thermal-svg/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-12T19:03:34.487Z",
+        "lastAvailableAt": "2026-10-12T19:03:34.487Z",
+        "lastAttemptAt": "2026-10-12T19:03:34.487Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "vcfgdev/skills",
+          "postUrl": "https://x.com/i/web/status/2105660850552127666",
+          "url": "https://vcfgdev.github.io/skills/thermal-svg/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105660850552127666",
+            "postId": "2105660850552127666",
+            "postedAt": "2026-10-01T14:07:22.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://vcfgdev.github.io/skills/thermal-svg/",
+          "attemptedAt": "2026-10-12T19:03:37.929Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-12T19:03:37.929Z",
+          "lastWorkingAt": "2026-10-12T19:03:37.929Z",
+          "target": "https://vcfgdev.github.io/skills/thermal-svg/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-19T19:03:37.929Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/6ecf3d582179186b6dd5c65b.jpg",
+            "kind": "demo",
+            "url": "https://vcfgdev.github.io/skills/thermal-svg/",
+            "capturedAt": "2026-10-12T19:03:37.929Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-12T19:03:37.929Z",
+        "previewCheck": {
+          "url": "https://vcfgdev.github.io/skills/thermal-svg/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-12T19:03:37.929Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-19T19:03:37.930Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-14T07:03:37.931Z",
+      "checkedAt": "2026-10-12T19:03:37.931Z",
+      "firstAcceptedAt": "2026-10-12T19:03:37.931Z"
     },
     "ashrafmmahdy/conmgmt-bench": {
       "full": "AshrafMMahdy/conmgmt-bench",
       "firstSeenAt": "2026-10-12T19:02:28.748Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -45169,12 +45258,111 @@
           "repository": "AshrafMMahdy/conmgmt-bench"
         }
       ],
-      "lastSeenAt": "2026-10-12T19:02:28.748Z"
+      "lastSeenAt": "2026-10-12T19:02:28.748Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "AshrafMMahdy/conmgmt-bench",
+        "postUrl": "https://x.com/i/web/status/2105656611582750904",
+        "url": "https://huggingface.co/datasets/AshrafMMahdy/conmgmt-bench"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "AshrafMMahdy/conmgmt-bench",
+        "name": "conmgmt-bench",
+        "description": "An open evaluation set for AI agents in construction project management. 20 chained scenarios from one synthetic design-and-build project: programme, contract, bids, subcontracts, progress, claims. Prompts, documents, answer keys and a baseline",
+        "category": "Design",
+        "language": "HTML",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-10-01T12:08:08Z",
+        "updated": "2026-10-11T13:29:29Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://huggingface.co/datasets/AshrafMMahdy/conmgmt-bench",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-12T19:03:43.949Z",
+        "lastAvailableAt": "2026-10-12T19:03:43.949Z",
+        "lastAttemptAt": "2026-10-12T19:03:43.949Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "AshrafMMahdy/conmgmt-bench",
+          "postUrl": "https://x.com/i/web/status/2105656611582750904",
+          "url": "https://huggingface.co/datasets/AshrafMMahdy/conmgmt-bench"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105656611582750904",
+            "postId": "2105656611582750904",
+            "postedAt": "2026-10-01T13:50:32.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "AI agents"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://huggingface.co/datasets/AshrafMMahdy/conmgmt-bench",
+          "attemptedAt": "2026-10-12T19:03:47.565Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-12T19:03:47.565Z",
+          "lastWorkingAt": "2026-10-12T19:03:47.565Z",
+          "target": "https://huggingface.co/datasets/AshrafMMahdy/conmgmt-bench",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-19T19:03:47.565Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/e381aecb559d2e6a9584e30a.jpg",
+            "kind": "demo",
+            "url": "https://huggingface.co/datasets/AshrafMMahdy/conmgmt-bench",
+            "capturedAt": "2026-10-12T19:03:47.565Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-12T19:03:47.565Z",
+        "previewCheck": {
+          "url": "https://huggingface.co/datasets/AshrafMMahdy/conmgmt-bench",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-12T19:03:47.565Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-19T19:03:47.566Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-14T07:03:47.609Z",
+      "checkedAt": "2026-10-12T19:03:47.609Z",
+      "firstAcceptedAt": "2026-10-12T19:03:47.609Z"
     },
     "vanirvan/kadle": {
       "full": "vanirvan/kadle",
       "firstSeenAt": "2026-10-12T19:02:28.748Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -45201,7 +45389,109 @@
           "repository": "vanirvan/kadle"
         }
       ],
-      "lastSeenAt": "2026-10-12T19:02:28.748Z"
+      "lastSeenAt": "2026-10-12T19:02:28.748Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "vanirvan/kadle",
+        "postUrl": "https://x.com/i/web/status/2105653735896846458",
+        "url": "https://kadle.vanirvan.my.id/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "vanirvan/kadle",
+        "name": "kadle",
+        "description": "Kadle (Kana + Doodle) is an interactive, privacy-first Japanese handwriting practice web application powered by client-side AI handwriting recognition.",
+        "category": "AI & machine learning",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-10-01T06:19:29Z",
+        "updated": "2026-10-01T09:48:12Z",
+        "branch": "main",
+        "homepage": "https://kadle.vanirvan.my.id/",
+        "topics": [
+          "hiragana",
+          "japanese-study",
+          "katakana"
+        ],
+        "demo": "https://kadle.vanirvan.my.id/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-12T19:03:38.592Z",
+        "lastAvailableAt": "2026-10-12T19:03:38.592Z",
+        "lastAttemptAt": "2026-10-12T19:03:38.592Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "vanirvan/kadle",
+          "postUrl": "https://x.com/i/web/status/2105653735896846458",
+          "url": "https://kadle.vanirvan.my.id/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105653735896846458",
+            "postId": "2105653735896846458",
+            "postedAt": "2026-10-01T13:39:06.000Z"
+          }
+        ],
+        "subjects": [
+          "Privacy & security"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [
+            "Privacy & security"
+          ],
+          "evidence": [
+            {
+              "subject": "Privacy & security",
+              "source": "metadata",
+              "match": "privacy first"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://kadle.vanirvan.my.id/",
+          "attemptedAt": "2026-10-12T19:03:43.222Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-12T19:03:43.222Z",
+          "lastWorkingAt": "2026-10-12T19:03:43.222Z",
+          "target": "https://kadle.vanirvan.my.id/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-19T19:03:43.222Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/65094e8a5bbf843229f16a71.jpg",
+            "kind": "demo",
+            "url": "https://kadle.vanirvan.my.id/",
+            "capturedAt": "2026-10-12T19:03:43.222Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-12T19:03:43.222Z",
+        "previewCheck": {
+          "url": "https://kadle.vanirvan.my.id/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-12T19:03:43.222Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-19T19:03:43.223Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-14T07:03:43.224Z",
+      "checkedAt": "2026-10-12T19:03:43.224Z",
+      "firstAcceptedAt": "2026-10-12T19:03:43.224Z"
     },
     "getopenscreen/openscreen": {
       "full": "getopenscreen/openscreen",
@@ -45278,7 +45568,7 @@
     "zee-palm-llc/zeepalmlabs-automation-tools": {
       "full": "Zee-Palm-LLC/ZeepalmLabs-Automation-Tools",
       "firstSeenAt": "2026-10-12T19:02:28.748Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -45305,7 +45595,106 @@
           "repository": "Zee-Palm-LLC/ZeepalmLabs-Automation-Tools"
         }
       ],
-      "lastSeenAt": "2026-10-12T19:02:28.748Z"
+      "lastSeenAt": "2026-10-12T19:02:28.748Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "Zee-Palm-LLC/ZeepalmLabs-Automation-Tools",
+        "postUrl": "https://x.com/i/web/status/2105626184088494398",
+        "url": "https://gym-churn-radar.vercel.app/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "Zee-Palm-LLC/ZeepalmLabs-Automation-Tools",
+        "name": "ZeepalmLabs-Automation-Tools",
+        "description": "Explore this public GitHub project.",
+        "category": "Developer tools",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-29T10:12:43Z",
+        "updated": "2026-10-06T12:07:52Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://gym-churn-radar.vercel.app/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-12T19:03:48.406Z",
+        "lastAvailableAt": "2026-10-12T19:03:48.406Z",
+        "lastAttemptAt": "2026-10-12T19:03:48.406Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "Zee-Palm-LLC/ZeepalmLabs-Automation-Tools",
+          "postUrl": "https://x.com/i/web/status/2105626184088494398",
+          "url": "https://gym-churn-radar.vercel.app/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105626184088494398",
+            "postId": "2105626184088494398",
+            "postedAt": "2026-10-01T11:49:37.000Z"
+          }
+        ],
+        "subjects": [
+          "Automation & workflows"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Automation & workflows"
+          ],
+          "evidence": [
+            {
+              "subject": "Automation & workflows",
+              "source": "metadata",
+              "match": "Automation"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://gym-churn-radar.vercel.app/",
+          "attemptedAt": "2026-10-12T19:03:52.002Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-12T19:03:52.002Z",
+          "lastWorkingAt": "2026-10-12T19:03:52.002Z",
+          "target": "https://gym-churn-radar.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-19T19:03:52.002Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/a834645fda16a3f8a5f50ecc.jpg",
+            "kind": "demo",
+            "url": "https://gym-churn-radar.vercel.app/",
+            "capturedAt": "2026-10-12T19:03:52.002Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-12T19:03:52.002Z",
+        "previewCheck": {
+          "url": "https://gym-churn-radar.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-12T19:03:52.002Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-19T19:03:52.003Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-14T07:03:52.004Z",
+      "checkedAt": "2026-10-12T19:03:52.004Z",
+      "firstAcceptedAt": "2026-10-12T19:03:52.004Z"
     },
     "jem-computer/bb-live": {
       "full": "jem-computer/bb-live",
@@ -45334,7 +45723,7 @@
     "leekt/frametx-toolkit": {
       "full": "leekt/FrameTx-toolkit",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -45361,12 +45750,100 @@
           "repository": "leekt/FrameTx-toolkit"
         }
       ],
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "leekt/FrameTx-toolkit",
+        "postUrl": "https://x.com/i/web/status/2100220072300360121",
+        "url": "https://vframes.taek.tech/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "leekt/FrameTx-toolkit",
+        "name": "FrameTx-toolkit",
+        "description": "Explore this public GitHub project.",
+        "category": "Developer tools",
+        "language": "Solidity",
+        "stars": 4,
+        "forks": 0,
+        "created": "2026-08-12T10:48:32Z",
+        "updated": "2026-09-16T13:51:29Z",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://vframes.taek.tech/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-12T19:03:30.118Z",
+        "lastAvailableAt": "2026-10-12T19:03:30.118Z",
+        "lastAttemptAt": "2026-10-12T19:03:30.118Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "leekt/FrameTx-toolkit",
+          "postUrl": "https://x.com/i/web/status/2100220072300360121",
+          "url": "https://vframes.taek.tech/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2100220072300360121",
+            "postId": "2100220072300360121",
+            "postedAt": "2026-09-16T13:47:40.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://vframes.taek.tech/",
+          "attemptedAt": "2026-10-12T19:03:33.807Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-12T19:03:33.807Z",
+          "lastWorkingAt": "2026-10-12T19:03:33.807Z",
+          "target": "https://vframes.taek.tech/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-19T19:03:33.807Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/ffcd4ecb0e27cd37219e9f13.jpg",
+            "kind": "demo",
+            "url": "https://vframes.taek.tech/",
+            "capturedAt": "2026-10-12T19:03:33.807Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-12T19:03:33.807Z",
+        "previewCheck": {
+          "url": "https://vframes.taek.tech/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-12T19:03:33.807Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-19T19:03:33.808Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-14T07:03:33.809Z",
+      "checkedAt": "2026-10-12T19:03:33.809Z",
+      "firstAcceptedAt": "2026-10-12T19:03:33.809Z"
     },
     "argent-lang/argent-template": {
       "full": "argent-lang/argent-template",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45383,12 +45860,14 @@
         "replies": 2,
         "quotes": 4
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T19:04:00.765Z"
     },
     "argent-lang/argent-playground": {
       "full": "argent-lang/argent-playground",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45405,12 +45884,14 @@
         "replies": 2,
         "quotes": 4
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T19:04:01.290Z"
     },
     "argent-lang/argent": {
       "full": "argent-lang/argent",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45427,7 +45908,9 @@
         "replies": 2,
         "quotes": 4
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T19:04:01.830Z"
     },
     "isaac-mason/scifi-fetch-quest": {
       "full": "isaac-mason/scifi-fetch-quest",
@@ -45456,7 +45939,7 @@
     "cheng-haha/gpt-policy": {
       "full": "cheng-haha/GPT-Policy",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -45483,12 +45966,701 @@
           "repository": "cheng-haha/GPT-Policy"
         }
       ],
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reusedEvidence": true,
+      "entry": {
+        "availability": "available",
+        "full": "cheng-haha/GPT-Policy",
+        "name": "GPT-Policy",
+        "description": "GPT-Policy: In-Context Robot Learning with VLM Agents",
+        "category": "Education",
+        "language": "Python",
+        "stars": 310,
+        "forks": 5,
+        "created": "2026-09-10T23:34:52Z",
+        "updated": "2026-10-10T15:38:52Z",
+        "license": null,
+        "branch": "main",
+        "homepage": "https://cheng-haha.github.io/GPT-Policy/",
+        "topics": [],
+        "demo": "https://cheng-haha.github.io/GPT-Policy/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-11T04:29:36.377Z",
+        "lastAttemptAt": "2026-10-11T04:29:36.377Z",
+        "lastAvailableAt": "2026-10-11T04:29:36.377Z",
+        "metrics": [
+          {
+            "at": "2026-10-11T04:29:36.377Z",
+            "stars": 310,
+            "forks": 5
+          }
+        ],
+        "technologies": [
+          "Python"
+        ],
+        "overview": {
+          "kind": "readme",
+          "version": 1,
+          "paragraphs": [
+            "This repository is the public implementation of GPT-Policy, a closed-loop control framework that connects a fixed vision-language model (VLM) to robot tools. At deployment time, the agent can use demonstrations, goal images, interaction history, and execution feedback without gradient updates or task-specific parameter changes.",
+            "The implementation currently provides hardware adapters for two robot arm platforms: ARX X5 and I2RT/YAM.",
+            "Paper: In-Context Robot Learning with VLM Agents \\ Authors: Dongzhou Cheng, Taoran Yi, Ye Fang, Xingwu Zhang, Fan Feng, Yixuan Li, Gengxiong Zhuang, Rongze Wang, Shuai Yang, Wei Song, Weizhi Xue, Minyan Wu, Jie Gui, Jiaqi Wang, and Tong Wu."
+          ],
+          "features": [],
+          "sourceUrl": "https://github.com/cheng-haha/GPT-Policy/blob/main/README.md",
+          "fingerprint": "72e7f6bebc3e16a0fcde96de6cdbc40a65ff0c68be1ceece1201891973d6a9cf",
+          "extractedAt": "2026-10-11T04:29:36.487Z"
+        },
+        "overviewCheckedAt": "2026-10-11T04:29:36.487Z",
+        "projectInsights": {
+          "version": 1,
+          "whatItDoes": {
+            "text": "This repository is the public implementation of GPT-Policy, a closed-loop control framework that connects a fixed vision-language model (VLM) to robot tools. At deployment time, the agent can use demonstrations, goal images, interaction history, and execution feedback without gradient updates or task-specific parameter changes.",
+            "sourceUrl": "https://github.com/cheng-haha/GPT-Policy/blob/main/README.md"
+          },
+          "audience": [],
+          "requirements": [],
+          "fingerprint": "72e7f6bebc3e16a0fcde96de6cdbc40a65ff0c68be1ceece1201891973d6a9cf",
+          "sourceUrl": "https://github.com/cheng-haha/GPT-Policy/blob/main/README.md",
+          "checkedAt": "2026-10-11T04:29:36.487Z"
+        },
+        "overviewRepoUpdated": "2026-10-10T15:38:52Z",
+        "readmeSnapshot": {
+          "version": 1,
+          "status": "saved",
+          "sourceUrl": "https://github.com/cheng-haha/GPT-Policy/blob/main/README.md",
+          "checkedAt": "2026-10-11T04:29:36.488Z",
+          "hash": "72e7f6bebc3e16a0fcde96de6cdbc40a65ff0c68be1ceece1201891973d6a9cf",
+          "originalBytes": 11609,
+          "storedBytes": 11609,
+          "truncated": false,
+          "searchTerms": [
+            "robot",
+            "gpt-policy",
+            "context",
+            "task",
+            "yam",
+            "python",
+            "install",
+            "nbsp",
+            "configs",
+            "video",
+            "arx",
+            "bash",
+            "in-context",
+            "paper",
+            "project",
+            "vlm",
+            "action",
+            "bottle",
+            "configuration",
+            "demonstrations",
+            "learning",
+            "provider",
+            "venv",
+            "adapters",
+            "agents",
+            "behavior",
+            "camera",
+            "default",
+            "demonstration",
+            "deployment",
+            "docs",
+            "feedback",
+            "hardware",
+            "human",
+            "includes",
+            "interaction",
+            "live",
+            "party.md",
+            "request",
+            "run",
+            "scripts",
+            "success",
+            "third",
+            "yambox",
+            "actions",
+            "activate",
+            "agent",
+            "arxiv",
+            "backend",
+            "bin",
+            "control",
+            "drivers.py",
+            "each",
+            "evaluation",
+            "examples",
+            "history",
+            "installation",
+            "machine",
+            "machines",
+            "model",
+            "models",
+            "motion",
+            "observations",
+            "physical",
+            "pipeline",
+            "plug",
+            "profile",
+            "public",
+            "realsense",
+            "release",
+            "repository",
+            "robots",
+            "see",
+            "source",
+            "tests",
+            "these",
+            "wang",
+            "without",
+            "across",
+            "aligned",
+            "arm",
+            "astra",
+            "auto",
+            "available",
+            "before",
+            "calibration",
+            "cap",
+            "capabilities",
+            "check",
+            "checks",
+            "cheng",
+            "commercial",
+            "complete",
+            "completion",
+            "credentials",
+            "demo.json",
+            "different",
+            "dongzhou",
+            "executes",
+            "execution",
+            "external",
+            "fan",
+            "fang",
+            "feng",
+            "framework",
+            "gengxiong",
+            "goal",
+            "gpt-6",
+            "gradient",
+            "harness",
+            "i2rt",
+            "image",
+            "images",
+            "implementation",
+            "improves",
+            "input",
+            "insertion",
+            "integrates",
+            "json",
+            "learn",
+            "limitations",
+            "live-window",
+            "measured",
+            "mode",
+            "must",
+            "need",
+            "offline",
+            "one",
+            "opening",
+            "optional",
+            "page",
+            "path",
+            "pip",
+            "position",
+            "preview",
+            "profiles",
+            "rate",
+            "readme.md",
+            "recording",
+            "recordings",
+            "references",
+            "regression",
+            "remains",
+            "reports",
+            "results",
+            "rongze",
+            "runtime",
+            "self",
+            "shuai",
+            "song",
+            "src",
+            "state",
+            "such",
+            "taoran",
+            "target",
+            "task-specific",
+            "tasks",
+            "through",
+            "unscrew",
+            "updates",
+            "video+action",
+            "view",
+            "vision-language",
+            "visual",
+            "vlms",
+            "wei",
+            "xingwu",
+            "yang",
+            "yixuan",
+            "zhang",
+            "zhuang",
+            "ability",
+            "ablations.",
+            "abstract",
+            "acceptance",
+            "acknowledgements",
+            "actually-loaded",
+            "adapt",
+            "adaptation",
+            "adapter",
+            "added",
+            "after",
+            "agentic",
+            "ai.",
+            "alternative",
+            "any",
+            "append-only",
+            "arrangement",
+            "article",
+            "arx247",
+            "arx248",
+            "assets",
+            "authenticate",
+            "author",
+            "authors",
+            "available.",
+            "backend-specific",
+            "base",
+            "beyond",
+            "bibtex",
+            "both",
+            "broad",
+            "builds",
+            "calibration.",
+            "cameras",
+            "cartesian",
+            "cases",
+            "challenges",
+            "change",
+            "changes",
+            "changes.",
+            "cheng2026context",
+            "choose",
+            "citation",
+            "clarifying",
+            "cli",
+            "click",
+            "clis",
+            "closed-loop",
+            "code",
+            "codex",
+            "collection",
+            "collision",
+            "collision-free",
+            "command",
+            "comparisons",
+            "comparisons.",
+            "compelling",
+            "compileall",
+            "compiler",
+            "conditions.",
+            "configure",
+            "connects",
+            "constrained",
+            "construction",
+            "contact-sensitive",
+            "controlled",
+            "controller",
+            "controls",
+            "core",
+            "corrections",
+            "cover",
+            "currently",
+            "decision.",
+            "default.json",
+            "defaults",
+            "demo",
+            "demo-mode",
+            "demonstrations.md#see-which-mode-was",
+            "demonstrations.md#select-a-mode",
+            "demos",
+            "dependencies.",
+            "deployed",
+            "deployment.",
+            "desired",
+            "development",
+            "directory",
+            "discovered",
+            "documentation",
+            "driver",
+            "earlier",
+            "efficiency",
+            "efficiency.",
+            "embodied",
+            "embodiments.",
+            "emergency-stop",
+            "emits",
+            "empirical",
+            "enabling",
+            "encounter",
+            "energizing",
+            "entry",
+            "environment",
+            "environments",
+            "essential",
+            "establish",
+            "evaluate",
+            "evaluated",
+            "evaluation.",
+            "even",
+            "every",
+            "example",
+            "excludes",
+            "executable",
+            "existing",
+            "experiment",
+            "explicit",
+            "extra",
+            "false",
+            "figures",
+            "filename",
+            "findings",
+            "finite",
+            "first",
+            "first.",
+            "fixed",
+            "flexible",
+            "focused",
+            "format",
+            "foundation",
+            "four",
+            "fresh",
+            "full",
+            "further",
+            "gains",
+            "gallery",
+            "general-agent",
+            "general-purpose",
+            "generalization.",
+            "generated",
+            "gpt",
+            "gpt-6-astra",
+            "granted",
+            "gripper",
+            "gui",
+            "hardware-free.",
+            "history.",
+            "however",
+            "human-robot",
+            "humans",
+            "icl",
+            "implication.",
+            "improve",
+            "included",
+            "including",
+            "information",
+            "initial",
+            "input-json",
+            "inspect-robots",
+            "inspection",
+            "installation.",
+            "instead",
+            "integration",
+            "integrator",
+            "intent",
+            "intentionally",
+            "interactions",
+            "interfaces",
+            "intrinsics",
+            "introduce",
+            "jiaqi",
+            "jie",
+            "journal",
+            "keeps",
+            "labels",
+            "largely",
+            "layout",
+            "layout.",
+            "learning.",
+            "leaving",
+            "license",
+            "limits",
+            "loaded",
+            "local",
+            "local-machine",
+            "loop.",
+            "making",
+            "matched",
+            "message",
+            "method",
+            "metrics",
+            "minyan",
+            "modes",
+            "moonshot",
+            "mp4.",
+            "needed.",
+            "new",
+            "newer",
+            "news",
+            "next",
+            "notebook",
+            "notices",
+            "now",
+            "object",
+            "only",
+            "open",
+            "opened",
+            "optimize",
+            "other",
+            "others",
+            "outcome.",
+            "outside",
+            "overcome",
+            "overrides",
+            "overview",
+            "parameter",
+            "parameters",
+            "pdf",
+            "pending",
+            "persistent",
+            "pickup.",
+            "place",
+            "placement",
+            "planning",
+            "platforms",
+            "please",
+            "pointing",
+            "points",
+            "policies.",
+            "policy",
+            "portable",
+            "precedence.",
+            "preparation",
+            "preprint",
+            "preserves",
+            "preview.",
+            "previous",
+            "printed",
+            "private",
+            "procedure",
+            "procedures",
+            "prompts",
+            "proposes",
+            "protocol",
+            "provides",
+            "providing",
+            "publicly",
+            "pytest",
+            "question",
+            "quick",
+            "raise",
+            "reach",
+            "readily",
+            "readme",
+            "real",
+            "real-robot",
+            "real-world",
+            "recorded",
+            "recording.",
+            "records",
+            "redistributing",
+            "redistribution",
+            "reference",
+            "reference.",
+            "references.",
+            "reinsertion.",
+            "reliability",
+            "reliable",
+            "remove",
+            "replace",
+            "repository.",
+            "reproducible",
+            "requests",
+            "required.",
+            "requirements",
+            "research",
+            "result.",
+            "retrieval",
+            "returns",
+            "reuse",
+            "reviewed",
+            "right",
+            "robocurve",
+            "robodojo",
+            "robot-demonstration",
+            "robot-tool",
+            "robot.",
+            "robotic",
+            "roles",
+            "runs.",
+            "runtime.md",
+            "safety",
+            "saved",
+            "sdk",
+            "sdks.",
+            "search",
+            "securely",
+            "select",
+            "selected",
+            "separate",
+            "sequences",
+            "sequential",
+            "settings",
+            "simulation",
+            "situation",
+            "six",
+            "sources.",
+            "spacing.",
+            "sprite",
+            "standing",
+            "start",
+            "starts",
+            "states",
+            "step",
+            "stored",
+            "structured",
+            "subgoals.",
+            "success.",
+            "suite",
+            "support",
+            "support.",
+            "synchronized",
+            "table.",
+            "take",
+            "targets",
+            "task-relevant",
+            "tasks.",
+            "templates",
+            "text",
+            "their",
+            "third-party",
+            "three",
+            "time",
+            "timing",
+            "title",
+            "todo",
+            "tong",
+            "tool",
+            "tools.",
+            "top",
+            "toward",
+            "towel",
+            "transfer",
+            "transforms",
+            "transitions",
+            "translate",
+            "translating",
+            "tree",
+            "trials",
+            "turn-taking.",
+            "two",
+            "types",
+            "types.",
+            "under",
+            "unfamiliar",
+            "unscrew-remove-bottle-cap.json",
+            "used",
+            "validates",
+            "var",
+            "verifiable",
+            "verifies",
+            "verify",
+            "views",
+            "waypoint",
+            "weizhi",
+            "when",
+            "while",
+            "workspace",
+            "wrist",
+            "wu.",
+            "xue",
+            "year",
+            "yield"
+          ]
+        },
+        "lastDemoCheckedAt": "2026-10-11T04:29:36.377Z",
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Education",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "Agents"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [
+            "Simulation & physics"
+          ],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://cheng-haha.github.io/GPT-Policy/",
+          "attemptedAt": "2026-10-11T04:40:59.406Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-11T04:40:59.406Z",
+          "lastWorkingAt": "2026-10-11T04:40:59.406Z",
+          "target": "https://cheng-haha.github.io/GPT-Policy/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-18T04:40:59.406Z"
+        },
+        "previewAttemptAt": "2026-10-11T04:40:59.406Z",
+        "previewCheck": {
+          "url": "https://cheng-haha.github.io/GPT-Policy/",
+          "attemptedAt": "2026-10-11T04:40:59.406Z",
+          "consecutiveFailures": 0,
+          "status": "captured",
+          "reason": null,
+          "nextCheckAt": "2026-10-18T04:40:59.406Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/ca2ea40492a685d9e81aca56.jpg",
+            "kind": "demo",
+            "capturedAt": "2026-10-11T04:40:59.406Z",
+            "url": "https://cheng-haha.github.io/GPT-Policy/"
+          }
+        ],
+        "qualityPriority": false,
+        "enrichmentAttemptAt": "2026-10-11T06:15:37.675Z",
+        "latestRelease": null,
+        "releaseCheckedAt": "2026-10-11T06:15:37.675Z",
+        "spaces": [],
+        "communityPosts": [],
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2100000830372094057",
+            "postId": "2100000830372094057",
+            "postedAt": "2026-09-15T23:16:28.000Z"
+          }
+        ]
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-14T07:03:29.167Z",
+      "checkedAt": "2026-10-12T19:03:29.167Z",
+      "firstAcceptedAt": "2026-10-12T19:03:29.167Z"
     },
     "kytrascript/comfyui-fs_audio_suite": {
       "full": "KytraScript/ComfyUI-FS_Audio_Suite",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -45515,12 +46687,117 @@
           "repository": "KytraScript/ComfyUI-FS_Audio_Suite"
         }
       ],
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "KytraScript/ComfyUI-FS_Audio_Suite",
+        "postUrl": "https://x.com/i/web/status/2099982375140630744",
+        "url": "https://huggingface.co/Mothersuperior/YuE2-hum-to-song"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "KytraScript/ComfyUI-FS_Audio_Suite",
+        "name": "ComfyUI-FS_Audio_Suite",
+        "description": "FS_Audio Suite: modular YuE2 audio generation nodes for ComfyUI, by Make the Robot Do It",
+        "category": "Other",
+        "language": "Python",
+        "stars": 39,
+        "forks": 6,
+        "created": "2026-09-15T21:51:34Z",
+        "updated": "2026-09-17T00:02:53Z",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://huggingface.co/Mothersuperior/YuE2-hum-to-song",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-12T19:03:24.454Z",
+        "lastAvailableAt": "2026-10-12T19:03:24.454Z",
+        "lastAttemptAt": "2026-10-12T19:03:24.454Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "KytraScript/ComfyUI-FS_Audio_Suite",
+          "postUrl": "https://x.com/i/web/status/2099982375140630744",
+          "url": "https://huggingface.co/Mothersuperior/YuE2-hum-to-song"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099982375140630744",
+            "postId": "2099982375140630744",
+            "postedAt": "2026-09-15T22:03:08.000Z"
+          }
+        ],
+        "subjects": [
+          "Image, audio & video AI",
+          "Music & audio"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "Image, audio & video AI",
+            "Music & audio"
+          ],
+          "evidence": [
+            {
+              "subject": "Image, audio & video AI",
+              "source": "metadata",
+              "match": "audio generation"
+            },
+            {
+              "subject": "Music & audio",
+              "source": "metadata",
+              "match": "audio generation"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://huggingface.co/Mothersuperior/YuE2-hum-to-song",
+          "attemptedAt": "2026-10-12T19:03:28.150Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-12T19:03:28.150Z",
+          "lastWorkingAt": "2026-10-12T19:03:28.150Z",
+          "target": "https://huggingface.co/Mothersuperior/YuE2-hum-to-song",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-19T19:03:28.150Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/d028673865a4478e9e5338e4.jpg",
+            "kind": "demo",
+            "url": "https://huggingface.co/Mothersuperior/YuE2-hum-to-song",
+            "capturedAt": "2026-10-12T19:03:28.149Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-12T19:03:28.149Z",
+        "previewCheck": {
+          "url": "https://huggingface.co/Mothersuperior/YuE2-hum-to-song",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-12T19:03:28.149Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-19T19:03:28.151Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-14T07:03:28.153Z",
+      "checkedAt": "2026-10-12T19:03:28.153Z",
+      "firstAcceptedAt": "2026-10-12T19:03:28.153Z"
     },
     "supabase/supabase": {
       "full": "supabase/supabase",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45537,12 +46814,14 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T19:04:02.348Z"
     },
     "open-webui/open-webui": {
       "full": "open-webui/open-webui",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45559,7 +46838,9 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T19:04:02.886Z"
     },
     "godotengine/godot": {
       "full": "godotengine/godot",
@@ -45652,7 +46933,7 @@
     "webadderallorg/recordly": {
       "full": "webadderallorg/Recordly",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -45676,7 +46957,118 @@
         "replies": 20,
         "quotes": 2
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "entry": {
+        "availability": "available",
+        "full": "webadderallorg/Recordly",
+        "name": "Recordly",
+        "description": "Create polished demo videos without editing skills. Mac/Windows/Linux",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 33484,
+        "forks": 2709,
+        "created": "2026-03-12T23:38:32Z",
+        "updated": "2026-10-10T03:21:27Z",
+        "license": null,
+        "branch": "main",
+        "homepage": "https://recordly.dev",
+        "topics": [
+          "electron",
+          "free",
+          "linux",
+          "macos",
+          "open-source",
+          "screen-recorder",
+          "screen-studio",
+          "windows"
+        ],
+        "demo": "https://www.recordly.dev/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-12T19:03:52.633Z",
+        "lastAvailableAt": "2026-10-12T19:03:52.633Z",
+        "lastAttemptAt": "2026-10-12T19:03:52.633Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099868940759384552",
+            "postId": "2099868940759384552",
+            "postedAt": "2026-09-15T14:32:23.000Z"
+          },
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099593754659459507",
+            "postId": "2099593754659459507",
+            "postedAt": "2026-09-14T20:18:54.000Z"
+          }
+        ],
+        "subjects": [
+          "Apple"
+        ],
+        "platforms": [
+          "macOS"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "Apple"
+          ],
+          "evidence": [
+            {
+              "subject": "Apple",
+              "source": "metadata",
+              "match": "macos"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "macOS",
+              "source": "metadata",
+              "match": "macos"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://www.recordly.dev/",
+          "attemptedAt": "2026-10-12T19:03:56.226Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-12T19:03:56.226Z",
+          "lastWorkingAt": "2026-10-12T19:03:56.226Z",
+          "target": "https://recordly.dev/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-19T19:03:56.226Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/487164a196ef592e5ce94cd3.jpg",
+            "kind": "demo",
+            "url": "https://www.recordly.dev/",
+            "capturedAt": "2026-10-12T19:03:56.226Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-12T19:03:56.226Z",
+        "previewCheck": {
+          "url": "https://www.recordly.dev/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-12T19:03:56.226Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-19T19:03:56.227Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-14T07:03:56.228Z",
+      "checkedAt": "2026-10-12T19:03:56.228Z",
+      "firstAcceptedAt": "2026-10-12T19:03:56.228Z"
     },
     "panniantong/agent-reach": {
       "full": "Panniantong/Agent-Reach",
@@ -45814,7 +47206,7 @@
     "remotion-dev/remotion": {
       "full": "remotion-dev/remotion",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45831,12 +47223,14 @@
         "replies": 20,
         "quotes": 2
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T19:03:56.806Z"
     },
     "langgenius/dify": {
       "full": "langgenius/dify",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45853,12 +47247,14 @@
         "replies": 20,
         "quotes": 2
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T19:03:57.337Z"
     },
     "garrytan/gstack": {
       "full": "garrytan/gstack",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45875,12 +47271,14 @@
         "replies": 20,
         "quotes": 2
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T19:03:57.914Z"
     },
     "shadcn-ui/ui": {
       "full": "shadcn-ui/ui",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45897,12 +47295,14 @@
         "replies": 20,
         "quotes": 2
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T19:03:58.489Z"
     },
     "coreyhaines31/marketingskills": {
       "full": "coreyhaines31/marketingskills",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45919,12 +47319,14 @@
         "replies": 20,
         "quotes": 2
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T19:03:59.002Z"
     },
     "gitroomhq/postiz-app": {
       "full": "gitroomhq/postiz-app",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45941,12 +47343,14 @@
         "replies": 20,
         "quotes": 2
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T19:03:59.492Z"
     },
     "frankweb33/flybrain-robot-bridge": {
       "full": "Frankweb33/flybrain-robot-bridge",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45965,7 +47369,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T19:04:00.027Z"
     }
   },
   "lastRun": {
@@ -46651,8 +48057,8 @@
       "posts": 146,
       "uniquePosts": 144,
       "newCandidates": 169,
-      "validationAttempts": 142,
-      "accepted": 59
+      "validationAttempts": 158,
+      "accepted": 63
     },
     "ac3eb65e96558e14": {
       "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
@@ -46675,8 +48081,8 @@
       "posts": 210,
       "uniquePosts": 112,
       "newCandidates": 112,
-      "validationAttempts": 88,
-      "accepted": 41
+      "validationAttempts": 92,
+      "accepted": 45
     }
   },
   "demoSeeds": {

@@ -1,18 +1,18 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-12T15:25:03.798Z
+Checked: 2026-10-12T19:04:02.902Z
 
-Quality-ready repositories: **58**
+Quality-ready repositories: **65**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 349 | 203 | 145 | 46 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 131 | 129 | 142 | 59 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 146 | 144 | 169 | 63 |
 | (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 20 |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 120 | 16 | 10 | 3 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 175 | 100 | 102 | 41 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 210 | 112 | 112 | 45 |
 
 Acceptance totals are attributed to the first discovery query; these are not controlled experiments.
 
@@ -20,7 +20,6 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | --- | --- | --- | --- |
 | [JordanDalton/clef-playground](https://github.com/JordanDalton/clef-playground) | [Try demo](https://blog.cloudflare.com/clef-decision-models) | [Screenshot](previews/e25c8a5e82833092f97d1a6c.jpg) | [Source](https://x.com/i/web/status/2105784996107632861) |
 | [metadevpro/apricot-demo-integrations](https://github.com/metadevpro/apricot-demo-integrations) | [Try demo](https://apricot.tools/) | [Screenshot](previews/8a28a31c61492333c8ee53f1.jpg) | [Source](https://x.com/i/web/status/2105953449070514265) |
-| [Sahilbisht12/heart-disease-prediction](https://github.com/Sahilbisht12/heart-disease-prediction) | [Try demo](https://sahilbisht12-heart-disease-prediction-app-urdufy.streamlit.app/) | [Screenshot](previews/19bc944a657789f6ca13f419.jpg) | [Source](https://x.com/i/web/status/2105715784085594464) |
 | [pplmaverick/gapwatch](https://github.com/pplmaverick/gapwatch) | [Try demo](https://gapwatch-app.vercel.app/) | [Screenshot](previews/86782a1346dd22e6d70089b9.jpg) | [Source](https://x.com/i/web/status/2105923045307392391) |
 | [fanchengliu/codeusagemonit](https://github.com/fanchengliu/codeusagemonit) | [Try demo](https://codeusagemonit.vercel.app/) | [Screenshot](previews/b6ca86da80b1a028227b5d79.jpg) | [Source](https://x.com/i/web/status/2105911390418702580) |
 | [flas-ai/FLAS](https://github.com/flas-ai/FLAS) | [Try demo](https://huggingface.co/spaces/Lunamos/flas-demo) | [Screenshot](previews/7a3633f9425f1cd58511b6d4.jpg) | [Source](https://x.com/i/web/status/2105857929626652823) |
@@ -76,5 +75,13 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [standardagents/jevpilot](https://github.com/standardagents/jevpilot) | [Try demo](https://jevpilot.standardagents.ai/login) | [Screenshot](previews/1f2f397900bb68c51550b360.jpg) | [Source](https://x.com/i/web/status/2100698502531514761) |
 | [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) | [Try demo](https://jev-trader.vercel.app/) | [Screenshot](previews/9a522ef16afe7510c28cdd64.jpg) | [Source](https://x.com/i/web/status/2100484936679764250) |
 | [mrchaosdev/proofpulse](https://github.com/mrchaosdev/proofpulse) | [Try demo](https://proofpulse-eta.vercel.app/) | [Screenshot](previews/51ef703d9369968f35a023b1.jpg) | [Source](https://x.com/i/web/status/2100278284298961156) |
+| [vcfgdev/skills](https://github.com/vcfgdev/skills) | [Try demo](https://vcfgdev.github.io/skills/thermal-svg/) | [Screenshot](previews/6ecf3d582179186b6dd5c65b.jpg) | [Source](https://x.com/i/web/status/2105660850552127666) |
+| [AshrafMMahdy/conmgmt-bench](https://github.com/AshrafMMahdy/conmgmt-bench) | [Try demo](https://huggingface.co/datasets/AshrafMMahdy/conmgmt-bench) | [Screenshot](previews/e381aecb559d2e6a9584e30a.jpg) | [Source](https://x.com/i/web/status/2105656611582750904) |
+| [vanirvan/kadle](https://github.com/vanirvan/kadle) | [Try demo](https://kadle.vanirvan.my.id/) | [Screenshot](previews/65094e8a5bbf843229f16a71.jpg) | [Source](https://x.com/i/web/status/2105653735896846458) |
+| [Zee-Palm-LLC/ZeepalmLabs-Automation-Tools](https://github.com/Zee-Palm-LLC/ZeepalmLabs-Automation-Tools) | [Try demo](https://gym-churn-radar.vercel.app/) | [Screenshot](previews/a834645fda16a3f8a5f50ecc.jpg) | [Source](https://x.com/i/web/status/2105626184088494398) |
+| [leekt/FrameTx-toolkit](https://github.com/leekt/FrameTx-toolkit) | [Try demo](https://vframes.taek.tech/) | [Screenshot](previews/ffcd4ecb0e27cd37219e9f13.jpg) | [Source](https://x.com/i/web/status/2100220072300360121) |
+| [cheng-haha/GPT-Policy](https://github.com/cheng-haha/GPT-Policy) | [Try demo](https://cheng-haha.github.io/GPT-Policy/) | [Screenshot](previews/ca2ea40492a685d9e81aca56.jpg) | [Source](https://x.com/i/web/status/2100000830372094057) |
+| [KytraScript/ComfyUI-FS_Audio_Suite](https://github.com/KytraScript/ComfyUI-FS_Audio_Suite) | [Try demo](https://huggingface.co/Mothersuperior/YuE2-hum-to-song) | [Screenshot](previews/d028673865a4478e9e5338e4.jpg) | [Source](https://x.com/i/web/status/2099982375140630744) |
+| [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | [Try demo](https://www.recordly.dev/) | [Screenshot](previews/487164a196ef592e5ce94cd3.jpg) | [Source](https://x.com/i/web/status/2099868940759384552) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.
