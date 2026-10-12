@@ -15457,7 +15457,7 @@
     "saber1y/liverloop": {
       "full": "Saber1Y/LiverLoop",
       "firstSeenAt": "2026-10-09T17:42:01.384Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -15476,7 +15476,75 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T20:31:46.124Z"
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
+      "entry": {
+        "availability": "available",
+        "full": "Saber1Y/LiverLoop",
+        "name": "LiverLoop",
+        "description": "Liverloop is an autonomous multimodal media production loop that uses Livepeer to create media, evaluates and selectively improves its work, and preserves durable lessons through OriginTrail DKG.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-11T12:26:34Z",
+        "updated": "2026-09-23T23:17:53Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "http://162.62.231.147:3000/",
+        "topics": [],
+        "demo": "http://162.62.231.147:3000/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-12T15:24:27.578Z",
+        "lastAvailableAt": "2026-10-12T15:24:27.578Z",
+        "lastAttemptAt": "2026-10-12T15:24:27.578Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2108610948114313573",
+            "postId": "2108610948114313573",
+            "postedAt": "2026-10-09T17:30:00.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "http://162.62.231.147:3000/",
+          "attemptedAt": "2026-10-12T15:24:48.028Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "network_or_timeout",
+            "at": "2026-10-12T15:24:48.028Z"
+          },
+          "nextCheckAt": "2026-10-12T17:24:48.028Z"
+        },
+        "previewAttemptAt": "2026-10-12T15:24:48.028Z",
+        "previewCheck": {
+          "url": "http://162.62.231.147:3000/",
+          "status": "retry",
+          "reason": "network_or_timeout",
+          "attemptedAt": "2026-10-12T15:24:48.028Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-12T17:24:48.028Z"
+        }
+      },
+      "reason": "network_or_timeout",
+      "nextAttemptAt": "2026-10-12T17:24:48.028Z",
+      "checkedAt": "2026-10-12T15:24:48.029Z"
     },
     "lephiziel/findrail": {
       "full": "Lephiziel/findrail",
@@ -15514,7 +15582,7 @@
     "glass-hq/liquid-glass": {
       "full": "Glass-HQ/liquid-glass",
       "firstSeenAt": "2026-10-09T17:42:01.384Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -15533,12 +15601,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T20:31:46.124Z"
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T15:25:02.671Z"
     },
     "feiyanglyy-stack/projectkeeper": {
       "full": "feiyanglyy-stack/ProjectKeeper",
       "firstSeenAt": "2026-10-09T17:42:01.384Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -15557,7 +15627,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T20:31:46.124Z"
+      "lastSeenAt": "2026-10-11T20:31:46.124Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T15:25:03.252Z"
     },
     "kaif110/nike-website": {
       "full": "Kaif110/NIke-Website",
@@ -17052,7 +17124,7 @@
     "prof-nussbaum/applications-of-reading-the-robot-mind": {
       "full": "prof-nussbaum/Applications-of-Reading-the-Robot-Mind",
       "firstSeenAt": "2026-10-09T17:42:06.433Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -17071,7 +17143,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-09T17:42:06.433Z"
+      "lastSeenAt": "2026-10-09T17:42:06.433Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T15:25:03.783Z"
     },
     "shahin-hu/dialtrace": {
       "full": "shahin-hu/dialtrace",
@@ -24979,7 +25053,7 @@
     "ovoarnav/girlfriend-emotion-tracker": {
       "full": "ovoarnav/Girlfriend-emotion-tracker",
       "firstSeenAt": "2026-10-10T13:52:51.831Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -24998,7 +25072,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T13:52:51.831Z"
+      "lastSeenAt": "2026-10-10T13:52:51.831Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T15:24:48.724Z"
     },
     "skyvern-ai/skyvern": {
       "full": "Skyvern-AI/skyvern",
@@ -26274,7 +26350,7 @@
     "productfculty-aipm/ai-adobe-trailer-workflow": {
       "full": "Productfculty-aipm/ai-adobe-trailer-workflow",
       "firstSeenAt": "2026-10-10T13:52:51.831Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -26293,7 +26369,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T13:52:51.831Z"
+      "lastSeenAt": "2026-10-10T13:52:51.831Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T15:24:50.581Z"
     },
     "thisizeru/fpl-data-pipeline": {
       "full": "thisizeru/fpl-data-pipeline",
@@ -26467,7 +26545,7 @@
     "zarpay/rock-solid-omarchy-theme": {
       "full": "zarpay/rock-solid-omarchy-theme",
       "firstSeenAt": "2026-10-10T13:52:51.831Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -26486,7 +26564,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T13:52:51.831Z"
+      "lastSeenAt": "2026-10-10T13:52:51.831Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T15:24:51.192Z"
     },
     "looted/kibi": {
       "full": "Looted/kibi",
@@ -27770,7 +27850,7 @@
     "feniix/hindsight-llm-bench": {
       "full": "feniix/hindsight-llm-bench",
       "firstSeenAt": "2026-10-10T16:18:51.704Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -27789,7 +27869,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T16:18:51.704Z"
+      "lastSeenAt": "2026-10-10T16:18:51.704Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T15:24:52.671Z"
     },
     "monogame/monogame": {
       "full": "MonoGame/MonoGame",
@@ -33327,7 +33409,7 @@
     "avinash-jetwani/jevmem": {
       "full": "Avinash-jetwani/jevmem",
       "firstSeenAt": "2026-10-10T21:00:18.988Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -33346,12 +33428,119 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T21:00:18.988Z"
+      "lastSeenAt": "2026-10-10T21:00:18.988Z",
+      "entry": {
+        "availability": "available",
+        "full": "Avinash-jetwani/jevmem",
+        "name": "jevmem",
+        "description": "jevmem saves the decisions, rules and failed approaches from your Claude Code chats to JEVMEM.md in your repo, and brings the relevant ones back next session.",
+        "category": "Developer tools",
+        "language": "TypeScript",
+        "stars": 121,
+        "forks": 9,
+        "created": "2026-09-22T11:47:24Z",
+        "updated": "2026-10-09T22:05:51Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://avinash-jetwani.github.io/jevmem/",
+        "topics": [
+          "agent-memory",
+          "ai-memory",
+          "claude",
+          "claude-code",
+          "claude-code-hooks",
+          "claude-code-plugin",
+          "claude-code-plugins",
+          "claude-code-plugins-marketplace",
+          "claude-plugin",
+          "codex",
+          "coding-agents",
+          "cursor",
+          "developer-tools",
+          "guardrails",
+          "jev",
+          "mcp",
+          "mcp-server",
+          "project-memory",
+          "typesafe"
+        ],
+        "demo": "https://avinash-jetwani.github.io/jevmem/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-12T15:24:53.725Z",
+        "lastAvailableAt": "2026-10-12T15:24:53.725Z",
+        "lastAttemptAt": "2026-10-12T15:24:53.725Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105662575920714150",
+            "postId": "2105662575920714150",
+            "postedAt": "2026-10-01T14:14:14.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "agent"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://avinash-jetwani.github.io/jevmem/",
+          "attemptedAt": "2026-10-12T15:24:56.984Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-12T15:24:56.984Z",
+          "lastWorkingAt": "2026-10-12T15:24:56.984Z",
+          "target": "https://avinash-jetwani.github.io/jevmem/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-19T15:24:56.984Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/fbd55ca17877ec320a7f4579.jpg",
+            "kind": "demo",
+            "url": "https://avinash-jetwani.github.io/jevmem/",
+            "capturedAt": "2026-10-12T15:24:56.984Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-12T15:24:56.984Z",
+        "previewCheck": {
+          "url": "https://avinash-jetwani.github.io/jevmem/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-12T15:24:56.984Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-19T15:24:56.985Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-14T03:24:56.987Z",
+      "checkedAt": "2026-10-12T15:24:56.987Z",
+      "firstAcceptedAt": "2026-10-12T15:24:56.987Z"
     },
     "iliatankelevich/maslul": {
       "full": "iliatankelevich/maslul",
       "firstSeenAt": "2026-10-10T21:00:18.988Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -33370,7 +33559,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T21:00:18.988Z"
+      "lastSeenAt": "2026-10-10T21:00:18.988Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T15:24:57.638Z"
     },
     "shanghua-gao/rsi-jev": {
       "full": "Shanghua-Gao/RSI-Jev",
@@ -33577,7 +33768,7 @@
     "openai/codex": {
       "full": "openai/codex",
       "firstSeenAt": "2026-10-10T21:00:18.988Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -33596,7 +33787,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T21:00:18.988Z"
+      "lastSeenAt": "2026-10-10T21:00:18.988Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T15:24:58.948Z"
     },
     "wolfe-jam/mcp-context-card": {
       "full": "Wolfe-Jam/mcp-context-card",
@@ -33721,7 +33914,7 @@
     "dilshod-abdullayev/kvitansiya": {
       "full": "Dilshod-Abdullayev/kvitansiya",
       "firstSeenAt": "2026-10-10T21:00:18.988Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -33740,7 +33933,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T21:00:18.988Z"
+      "lastSeenAt": "2026-10-10T21:00:18.988Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T15:24:59.525Z"
     },
     "oinoproaikweid/xshuffle": {
       "full": "oinoproaikweid/XShuffle",
@@ -33769,7 +33964,7 @@
     "kaseelman/demo-recorder": {
       "full": "kaseelman/demo-recorder",
       "firstSeenAt": "2026-10-10T21:00:18.988Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -33788,7 +33983,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T21:00:18.988Z"
+      "lastSeenAt": "2026-10-10T21:00:18.988Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T15:25:00.120Z"
     },
     "themhv/workshop-cdk-wallet": {
       "full": "TheMhv/workshop-cdk-wallet",
@@ -34191,7 +34388,7 @@
     "tnaftali/s1-tui": {
       "full": "tnaftali/s1-tui",
       "firstSeenAt": "2026-10-11T04:04:16.289Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -34210,7 +34407,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T04:04:16.289Z"
+      "lastSeenAt": "2026-10-11T04:04:16.289Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T15:25:00.542Z"
     },
     "erkamyaman/hinge-guess-angular-native": {
       "full": "erkamyaman/hinge-guess-angular-native",
@@ -40490,7 +40689,7 @@
     "ramidecodes/fred-skill": {
       "full": "ramidecodes/fred-skill",
       "firstSeenAt": "2026-10-11T12:49:04.717Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -40509,7 +40708,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T12:49:04.717Z"
+      "lastSeenAt": "2026-10-11T12:49:04.717Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T15:25:01.058Z"
     },
     "hngpt52/humm": {
       "full": "hngpt52/humm",
@@ -41004,7 +41205,7 @@
     "bzdvdn/reactifact": {
       "full": "bzdvdn/reactifact",
       "firstSeenAt": "2026-10-11T12:49:04.717Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -41023,7 +41224,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T12:49:04.717Z"
+      "lastSeenAt": "2026-10-11T12:49:04.717Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T15:25:01.730Z"
     },
     "humanwhocodes/pr-comment-inbox": {
       "full": "humanwhocodes/pr-comment-inbox",
@@ -42842,7 +43045,7 @@
     "donvito/jev-dev": {
       "full": "donvito/jev-dev",
       "firstSeenAt": "2026-10-11T12:55:44.234Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -42861,7 +43064,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T12:55:44.234Z"
+      "lastSeenAt": "2026-10-11T12:55:44.234Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T15:25:02.191Z"
     },
     "funnybeer/kvmoonshot-trial-sdk": {
       "full": "funnybeer/kvmoonshot-trial-sdk",
@@ -43023,7 +43228,7 @@
     "yuhai-china/jev-27b-demo": {
       "full": "yuhai-china/JEV-27B-DEMO",
       "firstSeenAt": "2026-10-11T20:31:52.999Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -43042,7 +43247,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T20:31:52.999Z"
+      "lastSeenAt": "2026-10-11T20:31:52.999Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T15:24:49.963Z"
     },
     "bootnodedev/canton-dappbooster": {
       "full": "BootNodeDev/canton-dappbooster",
@@ -43311,7 +43518,7 @@
     "nickkklian/nk-data-story": {
       "full": "NickkkLian/nk-data-story",
       "firstSeenAt": "2026-10-11T20:31:52.999Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -43330,7 +43537,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T20:31:52.999Z"
+      "lastSeenAt": "2026-10-11T20:31:52.999Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-19T15:24:51.831Z"
     },
     "sallieha/design-engineering-animation-library": {
       "full": "sallieha/design-engineering-animation-library",
@@ -43778,7 +43987,7 @@
     "balatonaszofo/imprint": {
       "full": "balatonaszofo/imprint",
       "firstSeenAt": "2026-10-11T20:31:52.999Z",
-      "status": "queued",
+      "status": "rejected",
       "sources": [
         {
           "kind": "x",
@@ -43797,7 +44006,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T20:31:52.999Z"
+      "lastSeenAt": "2026-10-11T20:31:52.999Z",
+      "reason": "repository_unavailable",
+      "nextAttemptAt": "2026-10-12T21:24:52.069Z"
     },
     "knownothing20/dots-panel": {
       "full": "knownothing20/dots-panel",
@@ -45435,8 +45646,8 @@
       "posts": 349,
       "uniquePosts": 203,
       "newCandidates": 145,
-      "validationAttempts": 115,
-      "accepted": 45
+      "validationAttempts": 128,
+      "accepted": 46
     },
     "2c0438e5283099cf": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
@@ -45467,7 +45678,7 @@
       "posts": 175,
       "uniquePosts": 100,
       "newCandidates": 102,
-      "validationAttempts": 81,
+      "validationAttempts": 88,
       "accepted": 41
     }
   },
@@ -45922,7 +46133,7 @@
         "replies": 1,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-12T10:16:47.053Z",
+      "nextAttemptAt": "2026-10-13T15:24:26.767Z",
       "reason": "temporary_error"
     },
     "https://elon-musk12.github.io/Elon-X-capital/": {
@@ -46039,6 +46250,6 @@
   "lastDemoDiscovery": {
     "checked": 1,
     "resolved": 0,
-    "at": "2026-10-11T10:16:47.089Z"
+    "at": "2026-10-12T15:24:26.812Z"
   }
 }

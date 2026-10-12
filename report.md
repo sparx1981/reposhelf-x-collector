@@ -1,60 +1,25 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-11T20:33:41.854Z
+Checked: 2026-10-12T15:25:03.798Z
 
-Quality-ready repositories: **96**
+Quality-ready repositories: **58**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 314 | 186 | 145 | 45 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 349 | 203 | 145 | 46 |
 | url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 131 | 129 | 142 | 59 |
 | (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 20 |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 105 | 16 | 10 | 3 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 120 | 16 | 10 | 3 |
 | url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 175 | 100 | 102 | 41 |
 
 Acceptance totals are attributed to the first discovery query; these are not controlled experiments.
 
 | Repository | Demo | Screenshot | Source post |
 | --- | --- | --- | --- |
-| [vikrampsingh/ai-swe-seminar-anna-university](https://github.com/vikrampsingh/ai-swe-seminar-anna-university) | [Try demo](https://opencode.ai/) | [Screenshot](previews/4d74f7784efeb2d202c6eca2.jpg) | [Source](https://x.com/i/web/status/2108582141970006360) |
-| [mfbz/taste-review](https://github.com/mfbz/taste-review) | [Try demo](https://taste-review-action.vercel.app/) | [Screenshot](previews/9718cc97091dec26c4b6c8f0.jpg) | [Source](https://x.com/i/web/status/2106036113789923438) |
-| [mfbz/taste-review-demo](https://github.com/mfbz/taste-review-demo) | [Try demo](https://taste-review-demo.vercel.app/) | [Screenshot](previews/f25791265faf663d2e38be13.jpg) | [Source](https://x.com/i/web/status/2106036113789923438) |
-| [Likemiens/SpeakLouderSphere](https://github.com/Likemiens/SpeakLouderSphere) | [Try demo](https://speak-louder-sphere.vercel.app/) | [Screenshot](previews/41aacfbedd61c967e99424a0.jpg) | [Source](https://x.com/i/web/status/2106017261999861947) |
-| [Kshot3000/Night-Messenger-](https://github.com/Kshot3000/Night-Messenger-) | [Try demo](https://kshot3000.github.io/Night-Messenger-/) | [Screenshot](previews/1761d61737b4e2ea3f88b201.jpg) | [Source](https://x.com/i/web/status/2105816290544005527) |
-| [ryancampbell/ask-canada](https://github.com/ryancampbell/ask-canada) | [Try demo](https://america.gov/) | [Screenshot](previews/02e5686931e77ba765c25493.jpg) | [Source](https://x.com/i/web/status/2105801774028476623) |
 | [JordanDalton/clef-playground](https://github.com/JordanDalton/clef-playground) | [Try demo](https://blog.cloudflare.com/clef-decision-models) | [Screenshot](previews/e25c8a5e82833092f97d1a6c.jpg) | [Source](https://x.com/i/web/status/2105784996107632861) |
-| [anonthedev/athel](https://github.com/anonthedev/athel) | [Try demo](https://athel-research.vercel.app/) | [Screenshot](previews/3b9cd15291fee356b9f34bc3.jpg) | [Source](https://x.com/i/web/status/2108537253429747842) |
-| [invincible04/SplitFree](https://github.com/invincible04/SplitFree) | [Try demo](https://invincible04.github.io/SplitFree/) | [Screenshot](previews/41f1dc58d7d7d631f15c8a9e.jpg) | [Source](https://x.com/i/web/status/2101720182322536877) |
-| [lgs1920/timeline](https://github.com/lgs1920/timeline) | [Try demo](https://lgs1920.github.io/timeline/) | [Screenshot](previews/742ba9b4b8090ef03b6ed803.jpg) | [Source](https://x.com/i/web/status/2100637400502313000) |
-| [SaumitraSaran/LifeOS](https://github.com/SaumitraSaran/LifeOS) | [Try demo](https://lifeos-3q6.pages.dev/) | [Screenshot](previews/fee1f81e508b1d0c3f7ec7d2.jpg) | [Source](https://x.com/i/web/status/2099793419455611137) |
-| [gauravmishra-1404/rubberai](https://github.com/gauravmishra-1404/rubberai) | [Try demo](https://gauravmishra-1404.github.io/rubberai_landing/) | [Screenshot](previews/e0ae60fef0ce1a558c6005ea.jpg) | [Source](https://x.com/i/web/status/2099159726617743555) |
-| [chapaevv123/pulse-arc](https://github.com/chapaevv123/pulse-arc) | [Try demo](https://chapaevv123.github.io/pulse-arc/) | [Screenshot](previews/c9ada48189c27f64abb731b5.jpg) | [Source](https://x.com/i/web/status/2099031808637558980) |
-| [daming98/cyberpunk-message-generator](https://github.com/daming98/cyberpunk-message-generator) | [Try demo](https://daming98.github.io/cyberpunk-message-generator/) | [Screenshot](previews/050bcd47fbca5df2dabfa351.jpg) | [Source](https://x.com/i/web/status/2099016012943253744) |
-| [bubblik525/Chernobyl_Atlas](https://github.com/bubblik525/Chernobyl_Atlas) | [Try demo](https://bubblik525.github.io/Chernobyl_Atlas/ATELIER-Reactor.html) | [Screenshot](previews/da1316357db71050941fabb0.jpg) | [Source](https://x.com/i/web/status/2098841319619649894) |
-| [Sai6522/copilot-day-spark](https://github.com/Sai6522/copilot-day-spark) | [Try demo](https://sai6522.github.io/copilot-day-spark/) | [Screenshot](previews/0124f65ac5448f1bebc30781.jpg) | [Source](https://x.com/i/web/status/2098768735951888891) |
-| [Vyom-2007/DuoFoldWallpaper](https://github.com/Vyom-2007/DuoFoldWallpaper) | [Try demo](https://vyom-2007.github.io/DuoFoldWallpaper/) | [Screenshot](previews/8141e3d68097f10aa661d492.jpg) | [Source](https://x.com/i/web/status/2098448513004958038) |
-| [lauroguedes/laravel-demo-mode](https://github.com/lauroguedes/laravel-demo-mode) | [Try demo](https://packagist.org/packages/lauroguedes/laravel-demo-mode) | [Screenshot](previews/57b6cbad3a45cdf418f0cfc0.jpg) | [Source](https://x.com/i/web/status/2104156680736948524) |
-| [SgtPooki/Avalanche-IPFS-Filecoin-RWA-reference-Architecture](https://github.com/SgtPooki/Avalanche-IPFS-Filecoin-RWA-reference-Architecture) | [Try demo](https://sgtpooki.github.io/Avalanche-IPFS-Filecoin-RWA-reference-Architecture/) | [Screenshot](previews/932adb48fa889aef71a1d0c8.jpg) | [Source](https://x.com/i/web/status/2103888602492969270) |
-| [alexshtf/spectral_neuron_paper](https://github.com/alexshtf/spectral_neuron_paper) | [Try demo](https://arxiv.org/abs/2608.08003) | [Screenshot](previews/4cb38e05a31ee2161b21e6ad.jpg) | [Source](https://x.com/i/web/status/2103887093302763889) |
-| [AgibotTech/sonic_for_a3](https://github.com/AgibotTech/sonic_for_a3) | [Try demo](https://agibottech.github.io/sonic_for_a3/) | [Screenshot](previews/adc12223f6190dd15d96bf1c.jpg) | [Source](https://x.com/i/web/status/2103726311202234601) |
-| [Kanahiro/cloud-optimized-geoparquet](https://github.com/Kanahiro/cloud-optimized-geoparquet) | [Try demo](https://kanahiro.github.io/cloud-optimized-geoparquet/) | [Screenshot](previews/a7cac89d1c2460a100b35e4a.jpg) | [Source](https://x.com/i/web/status/2103704428557836533) |
-| [FluidInference/FluidUse](https://github.com/FluidInference/FluidUse) | [Try demo](https://huggingface.co/FluidInference/gliner2-5-decide-coreml) | [Screenshot](previews/ef480a7e07c5a53892d5ec60.jpg) | [Source](https://x.com/i/web/status/2103576479124828564) |
-| [Jason-uxui/gray-ui-csm](https://github.com/Jason-uxui/gray-ui-csm) | [Try demo](https://gray-ui-csm.vercel.app/) | [Screenshot](previews/665be4b4ee8d8c7928d76e44.jpg) | [Source](https://x.com/i/web/status/2106013833638895857) |
-| [selimaytac/hashspan](https://github.com/selimaytac/hashspan) | [Try demo](https://hashspan.dev/) | [Screenshot](previews/f366e66219bef6164b2a2850.jpg) | [Source](https://x.com/i/web/status/2106008393177567402) |
-| [AbhiVarde/tryeve](https://github.com/AbhiVarde/tryeve) | [Try demo](https://tryeve.abhivarde.in/) | [Screenshot](previews/44a86f85f5be269d6cccdb43.jpg) | [Source](https://x.com/i/web/status/2105984067238027607) |
-| [precisit/onepass-webgpu-ternary](https://github.com/precisit/onepass-webgpu-ternary) | [Try demo](https://precisit.github.io/onepass-web/demo/c4-size/) | [Screenshot](previews/e3b28440003896dfab7d697c.jpg) | [Source](https://x.com/i/web/status/2105957965362552871) |
 | [metadevpro/apricot-demo-integrations](https://github.com/metadevpro/apricot-demo-integrations) | [Try demo](https://apricot.tools/) | [Screenshot](previews/8a28a31c61492333c8ee53f1.jpg) | [Source](https://x.com/i/web/status/2105953449070514265) |
-| [Jubbic/technocore-did-beginner-guide](https://github.com/Jubbic/technocore-did-beginner-guide) | [Try demo](https://jubbic-spark-market-2026.vercel.app/) | [Screenshot](previews/efe1d7f01eeed97ed8626ec0.jpg) | [Source](https://x.com/i/web/status/2099041395063337304) |
-| [apiservicesac/s1grep](https://github.com/apiservicesac/s1grep) | [Try demo](https://huggingface.co/api-service-sac) | [Screenshot](previews/3021e9718e669ad286232e4e.jpg) | [Source](https://x.com/i/web/status/2105764500376883624) |
-| [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) | [Try demo](https://docs.langchain.com/oss/javascript/langchain/mcp) | [Screenshot](previews/a8f1aa99072c61471720da2a.jpg) | [Source](https://x.com/i/web/status/2105744481408716955) |
-| [Bhavadeep-coder/mic-testing-app](https://github.com/Bhavadeep-coder/mic-testing-app) | [Try demo](https://mic-testing-102f63.netlify.app/) | [Screenshot](previews/194acb8955d6e5b2118121ae.jpg) | [Source](https://x.com/i/web/status/2105739968845169082) |
-| [winsznx/unflinch](https://github.com/winsznx/unflinch) | [Try demo](https://unflinch-zeta.vercel.app/) | [Screenshot](previews/51fcfabdb0813b2e0286a08e.jpg) | [Source](https://x.com/i/web/status/2105730115267395604) |
-| [SamanPandey-in/jevrail](https://github.com/SamanPandey-in/jevrail) | [Try demo](https://drive.google.com/file/d/1ksJ9aENsfMtx9wtLVekHFqu3kjrnCAhj/view?usp=sharing) | [Screenshot](previews/845508c8fcf7cf0be219b9b2.jpg) | [Source](https://x.com/i/web/status/2103515249815245030) |
-| [Abhist17/afterhours](https://github.com/Abhist17/afterhours) | [Try demo](https://afterhours-v0dr.onrender.com/) | [Screenshot](previews/9b59acb029bb06aadc853be6.jpg) | [Source](https://x.com/i/web/status/2103502999398277264) |
-| [Aria-Hosseini/Doc-Builder](https://github.com/Aria-Hosseini/Doc-Builder) | [Try demo](https://aria-hosseini.github.io/Doc-Builder/) | [Screenshot](previews/8f732e788825c7181022a348.jpg) | [Source](https://x.com/i/web/status/2103421925997392088) |
-| [pmndrs/examples](https://github.com/pmndrs/examples) | [Try demo](https://pmndrs.github.io/examples/) | [Screenshot](previews/357d17a24aeb6549c5b36433.jpg) | [Source](https://x.com/i/web/status/2103228854953521269) |
 | [Sahilbisht12/heart-disease-prediction](https://github.com/Sahilbisht12/heart-disease-prediction) | [Try demo](https://sahilbisht12-heart-disease-prediction-app-urdufy.streamlit.app/) | [Screenshot](previews/19bc944a657789f6ca13f419.jpg) | [Source](https://x.com/i/web/status/2105715784085594464) |
 | [pplmaverick/gapwatch](https://github.com/pplmaverick/gapwatch) | [Try demo](https://gapwatch-app.vercel.app/) | [Screenshot](previews/86782a1346dd22e6d70089b9.jpg) | [Source](https://x.com/i/web/status/2105923045307392391) |
 | [fanchengliu/codeusagemonit](https://github.com/fanchengliu/codeusagemonit) | [Try demo](https://codeusagemonit.vercel.app/) | [Screenshot](previews/b6ca86da80b1a028227b5d79.jpg) | [Source](https://x.com/i/web/status/2105911390418702580) |
@@ -65,11 +30,10 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [HealthyBuilder/owys](https://github.com/HealthyBuilder/owys) | [Try demo](https://owys-527896532687.us-central1.run.app/) | [Screenshot](previews/b1dc177f89e65a4baed32cc6.jpg) | [Source](https://x.com/i/web/status/2102783188498313477) |
 | [royerlab/luxar](https://github.com/royerlab/luxar) | [Try demo](https://demos.luxarviewer.dev/) | [Screenshot](previews/371f0b04e964d1fe89a3d01c.jpg) | [Source](https://x.com/i/web/status/2102679234653426075) |
 | [TencentARC/WorldCrafter](https://github.com/TencentARC/WorldCrafter) | [Try demo](https://drexubery.github.io/WorldCrafter/) | [Screenshot](previews/21388b04f9b5a9afb49f753a.jpg) | [Source](https://x.com/i/web/status/2102403703051591683) |
-| [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | [Try demo](https://huggingface.co/spaces/convaiinnovations/laya-demo) | [Screenshot](previews/4b4987ebf190b01b9d1964c9.jpg) | [Source](https://x.com/i/web/status/2102295117956526586) |
 | [SamG-Coder/RealIsland](https://github.com/SamG-Coder/RealIsland) | [Try demo](https://iamtechartist.github.io/coastal-simulation/) | [Screenshot](previews/6185ad88afebb5f1c0cb1a9a.jpg) | [Source](https://x.com/i/web/status/2102141213658972301) |
 | [SamG-Coder/RealGrass](https://github.com/SamG-Coder/RealGrass) | [Try demo](https://samg-coder.github.io/RealGrass/) | [Screenshot](previews/05e4912e8b5d37b22464b0b7.jpg) | [Source](https://x.com/i/web/status/2102141213658972301) |
 | [SamG-Coder/MountainRIver](https://github.com/SamG-Coder/MountainRIver) | [Try demo](https://samg-coder.github.io/MountainRIver/) | [Screenshot](previews/e40d2542637a5ede98684d16.jpg) | [Source](https://x.com/i/web/status/2102141213658972301) |
-| [pascalorg/editor](https://github.com/pascalorg/editor) | [Try demo](https://editor.pascal.app/next) | [Screenshot](previews/da5e5ef81aa4e531f516c646.jpg) | [Source](https://x.com/i/web/status/2102106101130969225) |
+| [Avinash-jetwani/jevmem](https://github.com/Avinash-jetwani/jevmem) | [Try demo](https://avinash-jetwani.github.io/jevmem/) | [Screenshot](previews/fbd55ca17877ec320a7f4579.jpg) | [Source](https://x.com/i/web/status/2105662575920714150) |
 | [Shanghua-Gao/RSI-Jev](https://github.com/Shanghua-Gao/RSI-Jev) | [Try demo](https://shanghua-gao.github.io/RSI-Jev/) | [Screenshot](previews/8100cefca1ab6c90ac46cb00.jpg) | [Source](https://x.com/i/web/status/2105660120348905805) |
 | [Wolfe-Jam/mcp-context-card](https://github.com/Wolfe-Jam/mcp-context-card) | [Try demo](https://wolfe-jam.github.io/mcp-context-card/) | [Screenshot](previews/78a51294c35c500a845bcb36.jpg) | [Source](https://x.com/i/web/status/2105648914141774086) |
 | [txaty/TerraNvim](https://github.com/txaty/TerraNvim) | [Try demo](https://dotfyle.com/txaty/terranvim) | [Screenshot](previews/671f017b498e9ed5decd1b42.jpg) | [Source](https://x.com/i/web/status/2105617904087838802) |
@@ -80,12 +44,10 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [sdras/jev-webmcp-extension](https://github.com/sdras/jev-webmcp-extension) | [Try demo](https://shopping-webmcp-demo.netlify.app/) | [Screenshot](previews/2ed4d644f5726eb38cce8fcf.jpg) | [Source](https://x.com/i/web/status/2102025647321219338) |
 | [sdras/shopping-cart-webmcp](https://github.com/sdras/shopping-cart-webmcp) | [Try demo](https://shopping-webmcp-demo.netlify.app/) | [Screenshot](previews/decc77605c54917adc0cd593.jpg) | [Source](https://x.com/i/web/status/2102025647321219338) |
 | [Zefan-Cai/Open-Jev](https://github.com/Zefan-Cai/Open-Jev) | [Try demo](https://zefan-cai.github.io/open-jev/v1-1/) | [Screenshot](previews/3b8d5e3104c4e87155e2f1e4.jpg) | [Source](https://x.com/i/web/status/2101782158658695388) |
-| [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | [Try demo](https://mahapps.github.io/mahapps.com/) | [Screenshot](previews/76e04cce60353fc722b5a7b9.jpg) | [Source](https://x.com/i/web/status/2101730680967221510) |
 | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | [Try demo](https://huggingface.co/collections/prism-ml/bonsai-2) | [Screenshot](previews/9e760928ac428184ce37dd58.jpg) | [Source](https://x.com/i/web/status/2101724052566012007) |
 | [seongilp/clickpower](https://github.com/seongilp/clickpower) | [Try demo](https://clickpower.vercel.app/) | [Screenshot](previews/b56ca3a41f227732a6f40924.jpg) | [Source](https://x.com/i/web/status/2101639179822420088) |
 | [Vovala14/Mica-Ai](https://github.com/Vovala14/Mica-Ai) | [Try demo](https://mica-ai-ten.vercel.app/) | [Screenshot](previews/1e5d27f6e80cecac222ec714.jpg) | [Source](https://x.com/i/web/status/2105812888422093073) |
 | [Seeed-Projects/reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) | [Try demo](https://yang-ci.github.io/Rebot_Arm_AGV/) | [Screenshot](previews/ada3f46a901787958e2eba57.jpg) | [Source](https://x.com/i/web/status/2105804871035191420) |
-| [almogdepaz/wolfpack](https://github.com/almogdepaz/wolfpack) | [Try demo](https://almogdepaz.github.io/wolfpack/) | [Screenshot](previews/57c52751578221917af36611.jpg) | [Source](https://x.com/i/web/status/2105795575463457267) |
 | [authorOd/3d-anatomy-atlas](https://github.com/authorOd/3d-anatomy-atlas) | [Try demo](https://svitylo.com/3d-anatomy-atlas) | [Screenshot](previews/f44b5f28368028d2936fbe5e.jpg) | [Source](https://x.com/i/web/status/2105777046660305072) |
 | [saurabhgayali/ModelProxy](https://github.com/saurabhgayali/ModelProxy) | [Try demo](https://modelproxy-site.vercel.app/) | [Screenshot](previews/d3886a591da6f1a4628e22df.jpg) | [Source](https://x.com/i/web/status/2105775461657936310) |
 | [afxjzs/office-layout](https://github.com/afxjzs/office-layout) | [Try demo](https://www.doug.is/building/stuff/office-layout) | [Screenshot](previews/8fff7be33a479417654c7f7e.jpg) | [Source](https://x.com/i/web/status/2105767972350677314) |
