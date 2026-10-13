@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "reservedUsd": 11.18,
-  "requests": 63,
+  "reservedUsd": 11.35,
+  "requests": 64,
   "queryTurn": 21,
   "queries": {
     "7c3cb66ff5244ce6": {
@@ -47403,8 +47403,8 @@
       }
     ]
   },
-  "lastFreeBalanceUsd": 16.13,
-  "lastTotalBalanceUsd": 16.13,
+  "lastFreeBalanceUsd": 16.04,
+  "lastTotalBalanceUsd": 16.04,
   "coverageGaps": [
     {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
