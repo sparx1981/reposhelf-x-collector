@@ -45056,7 +45056,7 @@
     "thatswiftguy/perch": {
       "full": "thatswiftguy/Perch",
       "firstSeenAt": "2026-10-12T19:02:28.748Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45075,7 +45075,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T19:02:28.748Z"
+      "lastSeenAt": "2026-10-12T19:02:28.748Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-20T14:12:51.117Z"
     },
     "igoakulov/scenie": {
       "full": "igoakulov/scenie",
@@ -45520,7 +45522,7 @@
     "praanaavvv/bebop-leverage-engine": {
       "full": "praanaavvv/bebop-leverage-engine",
       "firstSeenAt": "2026-10-12T19:02:28.748Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45539,7 +45541,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T19:02:28.748Z"
+      "lastSeenAt": "2026-10-12T19:02:28.748Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-20T14:12:36.543Z"
     },
     "latent-spaces/brag": {
       "full": "latent-spaces/brag",
@@ -45699,7 +45703,7 @@
     "jem-computer/bb-live": {
       "full": "jem-computer/bb-live",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45718,7 +45722,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-20T14:12:20.978Z"
     },
     "leekt/frametx-toolkit": {
       "full": "leekt/FrameTx-toolkit",
@@ -45915,7 +45921,7 @@
     "isaac-mason/scifi-fetch-quest": {
       "full": "isaac-mason/scifi-fetch-quest",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -45934,7 +45940,83 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "entry": {
+        "availability": "available",
+        "full": "isaac-mason/scifi-fetch-quest",
+        "name": "scifi-fetch-quest",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 13,
+        "forks": 0,
+        "created": "2026-07-24T04:45:50Z",
+        "updated": "2026-09-16T02:32:10Z",
+        "branch": "main",
+        "homepage": "https://isaac-mason.github.io/scifi-fetch-quest/",
+        "topics": [],
+        "demo": "https://isaac-mason.github.io/scifi-fetch-quest/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-13T14:12:07.601Z",
+        "lastAvailableAt": "2026-10-13T14:12:07.601Z",
+        "lastAttemptAt": "2026-10-13T14:12:07.601Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2100050524842475874",
+            "postId": "2100050524842475874",
+            "postedAt": "2026-09-16T02:33:56.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://isaac-mason.github.io/scifi-fetch-quest/",
+          "attemptedAt": "2026-10-13T14:12:14.372Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-13T14:12:14.372Z",
+          "lastWorkingAt": "2026-10-13T14:12:14.372Z",
+          "target": "https://isaac-mason.github.io/scifi-fetch-quest/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-20T14:12:14.372Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/9289b75ef3c1d3697738b581.jpg",
+            "kind": "demo",
+            "url": "https://isaac-mason.github.io/scifi-fetch-quest/",
+            "capturedAt": "2026-10-13T14:12:14.372Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-13T14:12:14.372Z",
+        "previewCheck": {
+          "url": "https://isaac-mason.github.io/scifi-fetch-quest/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-13T14:12:14.372Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-20T14:12:14.372Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-15T02:12:14.373Z",
+      "checkedAt": "2026-10-13T14:12:14.373Z",
+      "firstAcceptedAt": "2026-10-13T14:12:14.373Z"
     },
     "cheng-haha/gpt-policy": {
       "full": "cheng-haha/GPT-Policy",
@@ -46845,7 +46927,7 @@
     "godotengine/godot": {
       "full": "godotengine/godot",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -46862,12 +46944,14 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-20T14:12:02.550Z"
     },
     "excalidraw/excalidraw": {
       "full": "excalidraw/excalidraw",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -46884,12 +46968,14 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-20T14:12:04.387Z"
     },
     "rustdesk/rustdesk": {
       "full": "rustdesk/rustdesk",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -46906,12 +46992,14 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-20T14:12:04.935Z"
     },
     "comfyanonymous/comfyui": {
       "full": "comfyanonymous/ComfyUI",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -46928,7 +47016,9 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "temporary_error",
+      "nextAttemptAt": "2026-10-13T20:12:05.920Z"
     },
     "webadderallorg/recordly": {
       "full": "webadderallorg/Recordly",
@@ -47073,7 +47163,7 @@
     "panniantong/agent-reach": {
       "full": "Panniantong/Agent-Reach",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -47090,12 +47180,14 @@
         "replies": 3,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-20T14:12:19.404Z"
     },
     "samg-coder/vapor-cuda-boiling-lab": {
       "full": "SamG-Coder/vapor-cuda-boiling-lab",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -47112,12 +47204,111 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "entry": {
+        "availability": "available",
+        "full": "SamG-Coder/vapor-cuda-boiling-lab",
+        "name": "vapor-cuda-boiling-lab",
+        "description": "CUDA-authored boiling water, liquid markers and volumetric mist in Three.js WebGPU.",
+        "category": "Design",
+        "language": "WGSL",
+        "stars": 1,
+        "forks": 0,
+        "created": "2026-09-15T08:55:10Z",
+        "updated": "2026-09-15T09:00:27Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://samg-coder.github.io/vapor-cuda-boiling-lab/",
+        "topics": [
+          "cuda",
+          "fluid-simulation",
+          "threejs",
+          "webgpu"
+        ],
+        "demo": "https://samg-coder.github.io/vapor-cuda-boiling-lab/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-13T14:12:31.433Z",
+        "lastAvailableAt": "2026-10-13T14:12:31.433Z",
+        "lastAttemptAt": "2026-10-13T14:12:31.433Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099785823059312799",
+            "postId": "2099785823059312799",
+            "postedAt": "2026-09-15T09:02:07.000Z"
+          }
+        ],
+        "subjects": [
+          "Simulation & physics",
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "Simulation & physics",
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "Simulation & physics",
+              "source": "metadata",
+              "match": "simulation"
+            },
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "WebGPU"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://samg-coder.github.io/vapor-cuda-boiling-lab/",
+          "attemptedAt": "2026-10-13T14:12:35.684Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-13T14:12:35.684Z",
+          "lastWorkingAt": "2026-10-13T14:12:35.684Z",
+          "target": "https://samg-coder.github.io/vapor-cuda-boiling-lab/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-20T14:12:35.684Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/28375cb2833263edbb5a90f9.jpg",
+            "kind": "demo",
+            "url": "https://samg-coder.github.io/vapor-cuda-boiling-lab/",
+            "capturedAt": "2026-10-13T14:12:35.684Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-13T14:12:35.684Z",
+        "previewCheck": {
+          "url": "https://samg-coder.github.io/vapor-cuda-boiling-lab/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-13T14:12:35.684Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-20T14:12:35.685Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-15T02:12:35.685Z",
+      "checkedAt": "2026-10-13T14:12:35.685Z",
+      "firstAcceptedAt": "2026-10-13T14:12:35.685Z"
     },
     "samg-coder/cuda-webshader": {
       "full": "SamG-Coder/cuda-webshader",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -47148,12 +47339,113 @@
         "replies": 2,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "entry": {
+        "availability": "available",
+        "full": "SamG-Coder/cuda-webshader",
+        "name": "cuda-webshader",
+        "description": "CUDA → WebGPU showcase explorer. Run NVIDIA sine-wave and particle demos in your browser; compare verified native CUDA benchmarks. MIT project.",
+        "category": "Design",
+        "language": "Cuda",
+        "stars": 11,
+        "forks": 0,
+        "created": "2026-09-11T21:46:44Z",
+        "updated": "2026-10-04T22:40:12Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://samg-coder.github.io/cuda-webshader/",
+        "topics": [],
+        "demo": "https://samg-coder.github.io/cuda-webshader/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-13T14:12:21.557Z",
+        "lastAvailableAt": "2026-10-13T14:12:21.557Z",
+        "lastAttemptAt": "2026-10-13T14:12:21.557Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099785823059312799",
+            "postId": "2099785823059312799",
+            "postedAt": "2026-09-15T09:02:07.000Z"
+          },
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099668340579164637",
+            "postId": "2099668340579164637",
+            "postedAt": "2026-09-15T01:15:17.000Z"
+          },
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099658065973002384",
+            "postId": "2099658065973002384",
+            "postedAt": "2026-09-15T00:34:27.000Z"
+          }
+        ],
+        "subjects": [
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "WebGPU"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://samg-coder.github.io/cuda-webshader/",
+          "attemptedAt": "2026-10-13T14:12:24.853Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-13T14:12:24.853Z",
+          "lastWorkingAt": "2026-10-13T14:12:24.853Z",
+          "target": "https://samg-coder.github.io/cuda-webshader/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-20T14:12:24.853Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/2ea73efc450526e98f66671e.jpg",
+            "kind": "demo",
+            "url": "https://samg-coder.github.io/cuda-webshader/",
+            "capturedAt": "2026-10-13T14:12:24.853Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-13T14:12:24.853Z",
+        "previewCheck": {
+          "url": "https://samg-coder.github.io/cuda-webshader/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-13T14:12:24.853Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-20T14:12:24.854Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-15T02:12:24.926Z",
+      "checkedAt": "2026-10-13T14:12:24.927Z",
+      "firstAcceptedAt": "2026-10-13T14:12:24.927Z"
     },
     "vincentwei1021/video-shotcraft": {
       "full": "Vincentwei1021/video-shotcraft",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -47172,12 +47464,128 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "entry": {
+        "availability": "available",
+        "full": "Vincentwei1021/video-shotcraft",
+        "name": "video-shotcraft",
+        "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
+        "category": "Design",
+        "language": "TypeScript",
+        "stars": 11675,
+        "forks": 1040,
+        "created": "2026-07-19T11:44:41Z",
+        "updated": "2026-10-13T07:09:41Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": "https://vincentwei1021.github.io/video-shotcraft/",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "ai-video",
+          "claude-code",
+          "claude-code-skills",
+          "claude-skills",
+          "codex",
+          "motion-design",
+          "motion-graphics",
+          "product-video",
+          "promo-video",
+          "remotion",
+          "video-generation",
+          "video-production"
+        ],
+        "demo": "https://vincentwei1021.github.io/video-shotcraft/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-13T14:12:15.725Z",
+        "lastAvailableAt": "2026-10-13T14:12:15.725Z",
+        "lastAttemptAt": "2026-10-13T14:12:15.725Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099770249373729128",
+            "postId": "2099770249373729128",
+            "postedAt": "2026-09-15T08:00:13.000Z"
+          }
+        ],
+        "subjects": [
+          "Animation & motion",
+          "MCP servers & agents",
+          "Image, audio & video AI"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "Animation & motion",
+            "MCP servers & agents",
+            "Image, audio & video AI"
+          ],
+          "evidence": [
+            {
+              "subject": "Animation & motion",
+              "source": "metadata",
+              "match": "motion graphics"
+            },
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "agent"
+            },
+            {
+              "subject": "Image, audio & video AI",
+              "source": "metadata",
+              "match": "AI video"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://vincentwei1021.github.io/video-shotcraft/",
+          "attemptedAt": "2026-10-13T14:12:18.812Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-13T14:12:18.812Z",
+          "lastWorkingAt": "2026-10-13T14:12:18.812Z",
+          "target": "https://vincentwei1021.github.io/video-shotcraft/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-20T14:12:18.812Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/8edb6666c4aa5e4c11966d3d.jpg",
+            "kind": "demo",
+            "url": "https://vincentwei1021.github.io/video-shotcraft/",
+            "capturedAt": "2026-10-13T14:12:18.812Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-13T14:12:18.812Z",
+        "previewCheck": {
+          "url": "https://vincentwei1021.github.io/video-shotcraft/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-13T14:12:18.812Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-20T14:12:18.813Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-15T02:12:18.813Z",
+      "checkedAt": "2026-10-13T14:12:18.813Z",
+      "firstAcceptedAt": "2026-10-13T14:12:18.813Z"
     },
     "samg-coder/xylem-cuda": {
       "full": "SamG-Coder/xylem-cuda",
       "firstSeenAt": "2026-10-12T19:02:35.856Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -47201,7 +47609,106 @@
         "replies": 2,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-12T19:02:35.856Z"
+      "lastSeenAt": "2026-10-12T19:02:35.856Z",
+      "entry": {
+        "availability": "available",
+        "full": "SamG-Coder/xylem-cuda",
+        "name": "xylem-cuda",
+        "description": "Procedural trees, roots, leaves and materials authored in CUDA, running in the browser via WebGPU.",
+        "category": "Design",
+        "language": "WGSL",
+        "stars": 2,
+        "forks": 0,
+        "created": "2026-09-15T00:28:03Z",
+        "updated": "2026-09-15T00:30:42Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://samg-coder.github.io/xylem-cuda/",
+        "topics": [
+          "cuda",
+          "procedural-generation",
+          "threejs",
+          "webgpu"
+        ],
+        "demo": "https://samg-coder.github.io/xylem-cuda/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-13T14:12:25.927Z",
+        "lastAvailableAt": "2026-10-13T14:12:25.927Z",
+        "lastAttemptAt": "2026-10-13T14:12:25.927Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099668340579164637",
+            "postId": "2099668340579164637",
+            "postedAt": "2026-09-15T01:15:17.000Z"
+          },
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099658065973002384",
+            "postId": "2099658065973002384",
+            "postedAt": "2026-09-15T00:34:27.000Z"
+          }
+        ],
+        "subjects": [
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "WebGPU"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://samg-coder.github.io/xylem-cuda/",
+          "attemptedAt": "2026-10-13T14:12:30.437Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-13T14:12:30.437Z",
+          "lastWorkingAt": "2026-10-13T14:12:30.437Z",
+          "target": "https://samg-coder.github.io/xylem-cuda/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-20T14:12:30.437Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/2a90ceeed3c751bae42b031d.jpg",
+            "kind": "demo",
+            "url": "https://samg-coder.github.io/xylem-cuda/",
+            "capturedAt": "2026-10-13T14:12:30.437Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-13T14:12:30.437Z",
+        "previewCheck": {
+          "url": "https://samg-coder.github.io/xylem-cuda/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-13T14:12:30.437Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-20T14:12:30.438Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-15T02:12:30.439Z",
+      "checkedAt": "2026-10-13T14:12:30.439Z",
+      "firstAcceptedAt": "2026-10-13T14:12:30.439Z"
     },
     "remotion-dev/remotion": {
       "full": "remotion-dev/remotion",
@@ -47376,7 +47883,7 @@
     "yuj1osm/aws-public-ip-ranges-navigator": {
       "full": "yuj1osm/aws-public-ip-ranges-navigator",
       "firstSeenAt": "2026-10-13T14:10:54.092Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -47395,7 +47902,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-13T14:10:54.092Z"
+      "lastSeenAt": "2026-10-13T14:10:54.092Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-20T14:12:38.103Z"
     },
     "leularia/aria-icons": {
       "full": "LeulAria/Aria-Icons",
@@ -47424,7 +47933,7 @@
     "vibeaman/tradereplay": {
       "full": "Vibeaman/TradeReplay",
       "firstSeenAt": "2026-10-13T14:10:54.092Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -47451,12 +47960,79 @@
           "repository": "Vibeaman/TradeReplay"
         }
       ],
-      "lastSeenAt": "2026-10-13T14:10:54.092Z"
+      "lastSeenAt": "2026-10-13T14:10:54.092Z",
+      "entry": {
+        "availability": "available",
+        "full": "Vibeaman/TradeReplay",
+        "name": "TradeReplay",
+        "description": "GitHub for trading. Replay Hyperliquid days, label mistakes from the tape.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-26T15:40:56Z",
+        "updated": "2026-09-26T16:52:30Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://tradereplay-pi.vercel.app",
+        "topics": [],
+        "demo": "https://tradereplay-pi.vercel.app/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-13T14:11:47.471Z",
+        "lastAvailableAt": "2026-10-13T14:11:47.471Z",
+        "lastAttemptAt": "2026-10-13T14:11:47.471Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105613807108473070",
+            "postId": "2105613807108473070",
+            "postedAt": "2026-10-01T11:00:26.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://tradereplay-pi.vercel.app/",
+          "attemptedAt": "2026-10-13T14:11:48.245Z",
+          "probeVersion": 3,
+          "status": "review",
+          "checkedAt": "2026-10-13T14:11:48.245Z",
+          "consecutiveTemporaryFailures": 0,
+          "failureCount": 1,
+          "reason": "http_404",
+          "nextCheckAt": "2026-10-13T20:11:48.245Z"
+        },
+        "previewAttemptAt": "2026-10-13T14:11:48.245Z",
+        "previewCheck": {
+          "url": "https://tradereplay-pi.vercel.app/",
+          "status": "retry",
+          "reason": "http_404",
+          "attemptedAt": "2026-10-13T14:11:48.245Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-13T20:11:48.245Z"
+        }
+      },
+      "reason": "http_404",
+      "nextAttemptAt": "2026-10-13T20:11:48.245Z",
+      "checkedAt": "2026-10-13T14:11:48.246Z"
     },
     "jack-of-aces/dev-ledgr": {
       "full": "Jack-Of-Aces/dev-ledgr",
       "firstSeenAt": "2026-10-13T14:10:54.092Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -47489,7 +48065,83 @@
           "repository": "Jack-Of-Aces/dev-ledgr"
         }
       ],
-      "lastSeenAt": "2026-10-13T14:10:54.092Z"
+      "lastSeenAt": "2026-10-13T14:10:54.092Z",
+      "entry": {
+        "availability": "available",
+        "full": "Jack-Of-Aces/dev-ledgr",
+        "name": "dev-ledgr",
+        "description": "The official repository for the DevLegdr project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 1,
+        "forks": 0,
+        "created": "2026-09-24T13:27:47Z",
+        "updated": "2026-10-01T23:32:30Z",
+        "branch": "master",
+        "homepage": "https://dev-ledgr-ten.vercel.app",
+        "topics": [],
+        "demo": "https://dev-ledgr-ten.vercel.app/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-13T14:11:50.384Z",
+        "lastAvailableAt": "2026-10-13T14:11:50.384Z",
+        "lastAttemptAt": "2026-10-13T14:11:50.384Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105613022764904618",
+            "postId": "2105613022764904618",
+            "postedAt": "2026-10-01T10:57:19.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://dev-ledgr-ten.vercel.app/",
+          "attemptedAt": "2026-10-13T14:11:53.554Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-13T14:11:53.554Z",
+          "lastWorkingAt": "2026-10-13T14:11:53.554Z",
+          "target": "https://dev-ledgr-ten.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-20T14:11:53.554Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/e9bfc4e12a071bd7d7435185.jpg",
+            "kind": "demo",
+            "url": "https://dev-ledgr-ten.vercel.app/",
+            "capturedAt": "2026-10-13T14:11:53.554Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-13T14:11:53.554Z",
+        "previewCheck": {
+          "url": "https://dev-ledgr-ten.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-13T14:11:53.554Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-20T14:11:53.554Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-15T02:11:53.555Z",
+      "checkedAt": "2026-10-13T14:11:53.555Z",
+      "firstAcceptedAt": "2026-10-13T14:11:53.555Z"
     },
     "atsushiyago/shipready": {
       "full": "atsushiyago/shipready",
@@ -47542,7 +48194,7 @@
     "edankwan/the-spirit": {
       "full": "edankwan/The-Spirit",
       "firstSeenAt": "2026-10-13T14:10:54.092Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -47561,7 +48213,94 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-13T14:10:54.092Z"
+      "lastSeenAt": "2026-10-13T14:10:54.092Z",
+      "entry": {
+        "availability": "available",
+        "full": "edankwan/The-Spirit",
+        "name": "The-Spirit",
+        "description": "WebGL Experiment",
+        "category": "Design",
+        "language": "JavaScript",
+        "stars": 1285,
+        "forks": 204,
+        "created": "2016-01-18T18:09:15Z",
+        "updated": "2016-07-12T16:27:49Z",
+        "license": "MIT",
+        "branch": "master",
+        "homepage": null,
+        "topics": [],
+        "demo": "http://www.edankwan.com/experiments/the-spirit/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-13T14:12:38.815Z",
+        "lastAvailableAt": "2026-10-13T14:12:38.815Z",
+        "lastAttemptAt": "2026-10-13T14:12:38.815Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105604716168384862",
+            "postId": "2105604716168384862",
+            "postedAt": "2026-10-01T10:24:19.000Z"
+          }
+        ],
+        "subjects": [
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "WebGL"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "http://www.edankwan.com/experiments/the-spirit/",
+          "attemptedAt": "2026-10-13T14:12:50.196Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-13T14:12:50.196Z",
+          "lastWorkingAt": "2026-10-13T14:12:50.196Z",
+          "target": "https://edankwan.com/experiments/the-spirit/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-20T14:12:50.196Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/ba2806bbb6fdd23d5f428525.jpg",
+            "kind": "demo",
+            "url": "http://www.edankwan.com/experiments/the-spirit/",
+            "capturedAt": "2026-10-13T14:12:50.196Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-13T14:12:50.196Z",
+        "previewCheck": {
+          "url": "http://www.edankwan.com/experiments/the-spirit/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-13T14:12:50.196Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-20T14:12:50.197Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-15T02:12:50.197Z",
+      "checkedAt": "2026-10-13T14:12:50.197Z",
+      "firstAcceptedAt": "2026-10-13T14:12:50.197Z"
     },
     "nudgen-marketing/mermail-skills": {
       "full": "Nudgen-Marketing/mermail-skills",
@@ -47590,7 +48329,7 @@
     "divyanshudhruv/oev": {
       "full": "divyanshudhruv/oev",
       "firstSeenAt": "2026-10-13T14:10:54.092Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -47617,12 +48356,108 @@
           "repository": "divyanshudhruv/oev"
         }
       ],
-      "lastSeenAt": "2026-10-13T14:10:54.092Z"
+      "lastSeenAt": "2026-10-13T14:10:54.092Z",
+      "entry": {
+        "availability": "available",
+        "full": "divyanshudhruv/oev",
+        "name": "oev",
+        "description": "An 184M-parameter decision engine delivering calibrated distributions from one 22ms forward pass while matching models 2.3x its size.",
+        "category": "Education",
+        "language": "Python",
+        "stars": 3,
+        "forks": 0,
+        "created": "2026-09-23T17:36:41Z",
+        "updated": "2026-10-04T13:54:13Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": "https://huggingface.co/spaces/divyanshudhruv/oev-demo",
+        "topics": [
+          "calibration",
+          "callibration",
+          "colab-notebook",
+          "deberta",
+          "decision-engine",
+          "decision-model",
+          "distillation",
+          "fine-tuning",
+          "jev",
+          "jev-model",
+          "jupyter-notebook",
+          "kaggle",
+          "machine-learning",
+          "ml",
+          "oev",
+          "onnx",
+          "pythorch",
+          "tiny-model"
+        ],
+        "demo": "https://huggingface.co/spaces/divyanshudhruv/oev-demo",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-13T14:11:58.562Z",
+        "lastAvailableAt": "2026-10-13T14:11:58.562Z",
+        "lastAttemptAt": "2026-10-13T14:11:58.562Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105602004316016812",
+            "postId": "2105602004316016812",
+            "postedAt": "2026-10-01T10:13:32.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Education",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://huggingface.co/spaces/divyanshudhruv/oev-demo",
+          "attemptedAt": "2026-10-13T14:12:01.896Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-13T14:12:01.896Z",
+          "lastWorkingAt": "2026-10-13T14:12:01.896Z",
+          "target": "https://huggingface.co/spaces/divyanshudhruv/oev-demo",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-20T14:12:01.896Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/c97e8dc399a124f4bd6c1ca2.jpg",
+            "kind": "demo",
+            "url": "https://huggingface.co/spaces/divyanshudhruv/oev-demo",
+            "capturedAt": "2026-10-13T14:12:01.896Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-13T14:12:01.896Z",
+        "previewCheck": {
+          "url": "https://huggingface.co/spaces/divyanshudhruv/oev-demo",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-13T14:12:01.896Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-20T14:12:01.897Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-15T02:12:01.898Z",
+      "checkedAt": "2026-10-13T14:12:01.898Z",
+      "firstAcceptedAt": "2026-10-13T14:12:01.898Z"
     },
     "dare0x/scopepay": {
       "full": "Dare0x/ScopePay",
       "firstSeenAt": "2026-10-13T14:10:54.092Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -47649,7 +48484,83 @@
           "repository": "Dare0x/ScopePay"
         }
       ],
-      "lastSeenAt": "2026-10-13T14:10:54.092Z"
+      "lastSeenAt": "2026-10-13T14:10:54.092Z",
+      "entry": {
+        "availability": "available",
+        "full": "Dare0x/ScopePay",
+        "name": "ScopePay",
+        "description": "Milestone escrow on Arbitrum where nobody can sit on the money: the client locks the whole budget in USDC or USDG up front, each milestone pays on approval, and deadlines agreed at signing settle it if anyone goes quiet.",
+        "category": "Finance",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-13T01:05:36Z",
+        "updated": "2026-10-01T09:08:33Z",
+        "branch": "main",
+        "homepage": "https://scopepay-arbitrum.vercel.app",
+        "topics": [],
+        "demo": "https://scopepay-arbitrum.vercel.app/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-13T14:11:54.375Z",
+        "lastAvailableAt": "2026-10-13T14:11:54.375Z",
+        "lastAttemptAt": "2026-10-13T14:11:54.375Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105601557337419821",
+            "postId": "2105601557337419821",
+            "postedAt": "2026-10-01T10:11:46.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Finance",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://scopepay-arbitrum.vercel.app/",
+          "attemptedAt": "2026-10-13T14:11:57.653Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-13T14:11:57.653Z",
+          "lastWorkingAt": "2026-10-13T14:11:57.653Z",
+          "target": "https://scopepay-arbitrum.vercel.app/?deal=6",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-20T14:11:57.653Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/1750dba6959a06a53bdb6426.jpg",
+            "kind": "demo",
+            "url": "https://scopepay-arbitrum.vercel.app/",
+            "capturedAt": "2026-10-13T14:11:57.653Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-13T14:11:57.653Z",
+        "previewCheck": {
+          "url": "https://scopepay-arbitrum.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-13T14:11:57.653Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-20T14:11:57.653Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-15T02:11:57.654Z",
+      "checkedAt": "2026-10-13T14:11:57.654Z",
+      "firstAcceptedAt": "2026-10-13T14:11:57.654Z"
     },
     "jiyajain23/lifeline-index-offload": {
       "full": "jiyajain23/lifeline-index-offload",
@@ -47678,7 +48589,7 @@
     "mertkayacs/jevalt": {
       "full": "mertkayacs/jevalt",
       "firstSeenAt": "2026-10-13T14:10:54.092Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -47711,7 +48622,102 @@
           "repository": "mertkayacs/jevalt"
         }
       ],
-      "lastSeenAt": "2026-10-13T14:10:54.092Z"
+      "lastSeenAt": "2026-10-13T14:10:54.092Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "mertkayacs/jevalt",
+        "postUrl": "https://x.com/i/web/status/2105594599016390722",
+        "url": "https://huggingface.co/collections/mertkayacs/jevalt"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "mertkayacs/jevalt",
+        "name": "jevalt",
+        "description": "Three small 4B language models for local decisions in English, Turkish and German. Jev-compatible API, per-option probabilities and CPU GGUF builds.",
+        "category": "Developer tools",
+        "language": "Python",
+        "stars": 5,
+        "forks": 1,
+        "created": "2026-10-01T05:54:11Z",
+        "updated": "2026-10-07T11:47:04Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": "https://jevalt.mertkayacs.com",
+        "topics": [
+          "calibration",
+          "decision-model",
+          "german",
+          "gguf",
+          "jev",
+          "llama-cpp",
+          "local-llm",
+          "multilingual",
+          "open-weights",
+          "prompt-injection",
+          "python",
+          "small-language-model",
+          "text-classification",
+          "turkish",
+          "uncertainty-quantification"
+        ],
+        "demo": "https://huggingface.co/collections/mertkayacs/jevalt",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-13T14:11:48.945Z",
+        "lastAvailableAt": "2026-10-13T14:11:48.945Z",
+        "lastAttemptAt": "2026-10-13T14:11:48.945Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "mertkayacs/jevalt",
+          "postUrl": "https://x.com/i/web/status/2105594599016390722",
+          "url": "https://huggingface.co/collections/mertkayacs/jevalt"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105594599016390722",
+            "postId": "2105594599016390722",
+            "postedAt": "2026-10-01T09:44:07.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://huggingface.co/collections/mertkayacs/jevalt",
+          "attemptedAt": "2026-10-13T14:11:49.729Z",
+          "probeVersion": 3,
+          "status": "review",
+          "checkedAt": "2026-10-13T14:11:49.729Z",
+          "consecutiveTemporaryFailures": 0,
+          "failureCount": 1,
+          "reason": "http_404",
+          "nextCheckAt": "2026-10-13T20:11:49.729Z"
+        },
+        "previewAttemptAt": "2026-10-13T14:11:49.729Z",
+        "previewCheck": {
+          "url": "https://huggingface.co/collections/mertkayacs/jevalt",
+          "status": "retry",
+          "reason": "http_404",
+          "attemptedAt": "2026-10-13T14:11:49.729Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-13T20:11:49.729Z"
+        }
+      },
+      "reason": "http_404",
+      "nextAttemptAt": "2026-10-13T20:11:49.729Z",
+      "checkedAt": "2026-10-13T14:11:49.729Z"
     },
     "garcfd/ellis-wormhole": {
       "full": "garcfd/ellis-wormhole",
@@ -48444,8 +49450,8 @@
       "posts": 146,
       "uniquePosts": 144,
       "newCandidates": 169,
-      "validationAttempts": 158,
-      "accepted": 63
+      "validationAttempts": 169,
+      "accepted": 68
     },
     "ac3eb65e96558e14": {
       "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
@@ -48468,8 +49474,8 @@
       "posts": 245,
       "uniquePosts": 125,
       "newCandidates": 125,
-      "validationAttempts": 92,
-      "accepted": 45
+      "validationAttempts": 101,
+      "accepted": 49
     }
   },
   "demoSeeds": {
