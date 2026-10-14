@@ -42,7 +42,8 @@
       },
       "recent": {
         "start": "2026-10-07T11:52:04.517Z",
-        "end": "2026-10-09T09:19:52.004Z"
+        "end": "2026-10-09T09:19:52.004Z",
+        "nextToken": "b26v89c19zqg8o3juziz5n60xdos2gjcwkzxfs9v7zo1p"
       }
     },
     "2c0438e5283099cf": {
@@ -3944,7 +3945,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T15:23:17.499Z",
+      "lastSeenAt": "2026-10-14T11:51:10.362Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:30:25.935Z"
     },
@@ -3978,7 +3979,7 @@
           "repository": "0xMadMaks/Dino-Crab"
         }
       ],
-      "lastSeenAt": "2026-10-12T15:23:17.499Z",
+      "lastSeenAt": "2026-10-14T11:51:10.362Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "0xMadMaks/Dino-Crab",
@@ -4091,7 +4092,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T15:23:17.499Z",
+      "lastSeenAt": "2026-10-14T11:51:10.362Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:30:26.535Z"
     },
@@ -4117,7 +4118,7 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 14,
+        "likes": 15,
         "reposts": 6,
         "replies": 6,
         "quotes": 6
@@ -4132,7 +4133,7 @@
           "repository": "ponsdotdev/pons-labs"
         }
       ],
-      "lastSeenAt": "2026-10-12T15:23:17.499Z",
+      "lastSeenAt": "2026-10-14T11:51:10.362Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "ponsdotdev/pons-labs",
@@ -4256,7 +4257,7 @@
           "repository": "mohitagw15856/notugly"
         }
       ],
-      "lastSeenAt": "2026-10-12T15:23:17.499Z",
+      "lastSeenAt": "2026-10-14T11:51:10.362Z",
       "entry": {
         "availability": "available",
         "full": "mohitagw15856/notugly",
@@ -4382,7 +4383,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T15:23:17.499Z",
+      "lastSeenAt": "2026-10-14T11:51:10.362Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:24:43.043Z"
     },
@@ -4408,7 +4409,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T15:23:17.499Z",
+      "lastSeenAt": "2026-10-14T11:51:10.362Z",
       "reason": "repository_unavailable",
       "nextAttemptAt": "2026-10-09T15:24:43.319Z"
     },
@@ -4441,7 +4442,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T15:23:17.499Z",
+      "lastSeenAt": "2026-10-14T11:51:10.362Z",
       "entry": {
         "availability": "available",
         "full": "IAmUnbounded/shed",
@@ -4556,7 +4557,7 @@
           "repository": "princebansal/openclaw-plugin-x"
         }
       ],
-      "lastSeenAt": "2026-10-12T15:23:17.499Z",
+      "lastSeenAt": "2026-10-14T11:51:10.362Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "princebansal/openclaw-plugin-x",
@@ -4676,7 +4677,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T15:23:17.499Z",
+      "lastSeenAt": "2026-10-14T11:51:10.362Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:24:38.591Z"
     },
@@ -4710,7 +4711,7 @@
           "repository": "AzizMohseny/FFB"
         }
       ],
-      "lastSeenAt": "2026-10-12T15:23:17.499Z",
+      "lastSeenAt": "2026-10-14T11:51:10.362Z",
       "entry": {
         "availability": "available",
         "full": "AzizMohseny/FFB",
@@ -4829,7 +4830,7 @@
           "repository": "tangpeiqi/BabyCare"
         }
       ],
-      "lastSeenAt": "2026-10-12T15:23:17.499Z",
+      "lastSeenAt": "2026-10-14T11:51:10.362Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "tangpeiqi/BabyCare",
@@ -4949,7 +4950,7 @@
           "repository": "mercurial20/loremapper"
         }
       ],
-      "lastSeenAt": "2026-10-12T15:23:17.499Z",
+      "lastSeenAt": "2026-10-14T11:51:10.362Z",
       "entry": {
         "availability": "available",
         "full": "mercurial20/loremapper",
@@ -5050,7 +5051,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T15:23:17.499Z",
+      "lastSeenAt": "2026-10-14T11:51:10.362Z",
       "reusedEvidence": true,
       "entry": {
         "availability": "available",
@@ -49322,24 +49323,6 @@
     "2100306121865199780",
     "2100278284298961156",
     "2100250153688920121",
-    "2108485073180000447",
-    "2108484722263208375",
-    "2108475131341500495",
-    "2108473533110124580",
-    "2108473375559667786",
-    "2108473161478246700",
-    "2108472703560892741",
-    "2108462598924681600",
-    "2108454100455301390",
-    "2108453378737197284",
-    "2108450882463699039",
-    "2108448875703161226",
-    "2108441955491557811",
-    "2108441522186440844",
-    "2108440240704913681",
-    "2108438465524507126",
-    "2108438176348160130",
-    "2108429148473774108",
     "2105344317065990509",
     "2105344299760222544",
     "2105344281536024589",
@@ -49438,12 +49421,30 @@
     "2108183144738513043",
     "2108179358414422078",
     "2108164286875152482",
-    "2108164245607383405"
+    "2108164245607383405",
+    "2108485073180000447",
+    "2108484722263208375",
+    "2108475131341500495",
+    "2108473533110124580",
+    "2108473375559667786",
+    "2108473161478246700",
+    "2108472703560892741",
+    "2108462598924681600",
+    "2108454100455301390",
+    "2108453378737197284",
+    "2108450882463699039",
+    "2108448875703161226",
+    "2108441955491557811",
+    "2108441522186440844",
+    "2108440240704913681",
+    "2108438465524507126",
+    "2108438176348160130",
+    "2108429148473774108"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
-      "posts": 349,
+      "posts": 367,
       "uniquePosts": 203,
       "newCandidates": 145,
       "validationAttempts": 128,
