@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T14:12:51.135Z",
+  "updatedAt": "2026-10-14T11:53:22.650Z",
   "runtimeRevision": "ed71211be3a262dd1b928f3740f110b041b3708e",
   "checked": 20,
   "repositories": [
@@ -112,827 +112,46 @@
     },
     {
       "availability": "available",
-      "full": "BootNodeDev/canton-dappbooster",
-      "name": "canton-dappbooster",
-      "description": "Local Canton development stack",
-      "category": "Developer tools",
-      "language": "TypeScript",
-      "stars": 5,
-      "forks": 2,
-      "created": "2026-07-24T13:12:42Z",
-      "updated": "2026-10-10T02:37:44Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "https://dappbooster.cc/",
-      "topics": [],
-      "demo": "https://docs.dappbooster.cc/installation/installer",
-      "color": "#193546",
-      "ink": "#a6d6e8",
-      "lastCheckedAt": "2026-10-11T20:33:05.691Z",
-      "lastAvailableAt": "2026-10-11T20:33:05.691Z",
-      "lastAttemptAt": "2026-10-11T20:33:05.691Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "BootNodeDev/canton-dappbooster",
-        "postUrl": "https://x.com/i/web/status/2105737505471398383",
-        "url": "https://docs.dappbooster.cc/installation/installer"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105737505471398383",
-          "postId": "2105737505471398383",
-          "postedAt": "2026-10-01T19:11:58.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://docs.dappbooster.cc/installation/installer",
-        "attemptedAt": "2026-10-11T20:33:09.213Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-11T20:33:09.213Z",
-        "lastWorkingAt": "2026-10-11T20:33:09.213Z",
-        "target": "https://docs.dappbooster.cc/installation/installer",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-18T20:33:09.213Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/20df7b6068db6309b06f2b7b.jpg",
-          "kind": "demo",
-          "url": "https://docs.dappbooster.cc/installation/installer",
-          "capturedAt": "2026-10-11T20:33:09.213Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-11T20:33:09.213Z",
-      "previewCheck": {
-        "url": "https://docs.dappbooster.cc/installation/installer",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-11T20:33:09.213Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-18T20:33:09.214Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "drmbios/praesidionyx",
-      "name": "praesidionyx",
-      "description": "An operating layer for supervised AI agents: scoped capabilities, Linux confinement, sticky provenance and human decisions.",
+      "full": "rohitcn-hub/thermacompute-crashlens",
+      "name": "thermacompute-crashlens",
+      "description": "Fast, local log triage for LLM inference and PyTorch training.",
       "category": "AI & machine learning",
-      "language": "Rust",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-10-01T17:49:05Z",
-      "updated": "2026-10-10T04:45:05Z",
-      "license": "Apache-2.0",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://huggingface.co/spaces/drmbios/praesidionyx",
-      "color": "#25392f",
-      "ink": "#d1e5c5",
-      "lastCheckedAt": "2026-10-11T20:33:21.333Z",
-      "lastAvailableAt": "2026-10-11T20:33:21.333Z",
-      "lastAttemptAt": "2026-10-11T20:33:21.333Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "drmbios/praesidionyx",
-        "postUrl": "https://x.com/i/web/status/2105728877398282630",
-        "url": "https://huggingface.co/spaces/drmbios/praesidionyx"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105728877398282630",
-          "postId": "2105728877398282630",
-          "postedAt": "2026-10-01T18:37:41.000Z"
-        }
-      ],
-      "subjects": [
-        "MCP servers & agents"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "AI & machine learning",
-        "subjects": [
-          "MCP servers & agents"
-        ],
-        "evidence": [
-          {
-            "subject": "MCP servers & agents",
-            "source": "metadata",
-            "match": "AI agents"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://huggingface.co/spaces/drmbios/praesidionyx",
-        "attemptedAt": "2026-10-11T20:33:24.760Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-11T20:33:24.760Z",
-        "lastWorkingAt": "2026-10-11T20:33:24.760Z",
-        "target": "https://huggingface.co/spaces/drmbios/praesidionyx",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-18T20:33:24.760Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/fcaf86683fb69601044fa37e.jpg",
-          "kind": "demo",
-          "url": "https://huggingface.co/spaces/drmbios/praesidionyx",
-          "capturedAt": "2026-10-11T20:33:24.760Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-11T20:33:24.760Z",
-      "previewCheck": {
-        "url": "https://huggingface.co/spaces/drmbios/praesidionyx",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-11T20:33:24.760Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-18T20:33:24.761Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "sallieha/design-engineering-animation-library",
-      "name": "design-engineering-animation-library",
-      "description": "Open Source Design Engineering library, vol. 1: Hover States",
-      "category": "Design",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-09-07T20:24:42Z",
-      "updated": "2026-10-06T20:43:41Z",
-      "branch": "main",
-      "homepage": "https://design-engineering-animation-librar.vercel.app",
-      "topics": [],
-      "demo": "https://design-engineering-animation-librar.vercel.app/",
-      "color": "#25392f",
-      "ink": "#d1e5c5",
-      "lastCheckedAt": "2026-10-11T20:33:09.909Z",
-      "lastAvailableAt": "2026-10-11T20:33:09.909Z",
-      "lastAttemptAt": "2026-10-11T20:33:09.909Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105716352048927137",
-          "postId": "2105716352048927137",
-          "postedAt": "2026-10-01T17:47:55.000Z"
-        }
-      ],
-      "subjects": [
-        "Animation & motion"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Design",
-        "subjects": [
-          "Animation & motion"
-        ],
-        "evidence": [
-          {
-            "subject": "Animation & motion",
-            "source": "metadata",
-            "match": "animation"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://design-engineering-animation-librar.vercel.app/",
-        "attemptedAt": "2026-10-11T20:33:13.457Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-11T20:33:13.457Z",
-        "lastWorkingAt": "2026-10-11T20:33:13.457Z",
-        "target": "https://design-engineering-animation-librar.vercel.app/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-18T20:33:13.457Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/2be1fe1b4f319c2c34cc6f0e.jpg",
-          "kind": "demo",
-          "url": "https://design-engineering-animation-librar.vercel.app/",
-          "capturedAt": "2026-10-11T20:33:13.457Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-11T20:33:13.457Z",
-      "previewCheck": {
-        "url": "https://design-engineering-animation-librar.vercel.app/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-11T20:33:13.457Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-18T20:33:13.458Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "artemtsitronov/glacex",
-      "name": "glacex",
-      "description": "GPU-Rendered UI library built from scratch in Rust [WIP]",
-      "category": "Design",
-      "language": "Rust",
-      "stars": 110,
-      "forks": 5,
-      "created": "2026-08-29T08:08:00Z",
-      "updated": "2026-10-06T13:49:47Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "https://crates.io/crates/glacex",
-      "topics": [
-        "cargo",
-        "gpu",
-        "graphics",
-        "gui",
-        "library",
-        "rust",
-        "ui",
-        "wgpu",
-        "winit"
-      ],
-      "demo": "https://crates.io/",
-      "color": "#302e55",
-      "ink": "#dbd2ff",
-      "lastCheckedAt": "2026-10-11T20:33:01.605Z",
-      "lastAvailableAt": "2026-10-11T20:33:01.605Z",
-      "lastAttemptAt": "2026-10-11T20:33:01.605Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "artemtsitronov/glacex",
-        "postUrl": "https://x.com/i/web/status/2105709359564980451",
-        "url": "https://crates.io/"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105709359564980451",
-          "postId": "2105709359564980451",
-          "postedAt": "2026-10-01T17:20:08.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Design",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://crates.io/",
-        "attemptedAt": "2026-10-11T20:33:05.095Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-11T20:33:05.095Z",
-        "lastWorkingAt": "2026-10-11T20:33:05.095Z",
-        "target": "https://crates.io/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-18T20:33:05.095Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/6657be9c939f8e868983786d.jpg",
-          "kind": "demo",
-          "url": "https://crates.io/",
-          "capturedAt": "2026-10-11T20:33:05.095Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-11T20:33:05.095Z",
-      "previewCheck": {
-        "url": "https://crates.io/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-11T20:33:05.095Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-18T20:33:05.096Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "rorshopping/shipside",
-      "name": "shipside",
-      "description": "Ship iOS apps to App Store Connect from the command line - your key, your machine, the last mile automated.",
-      "category": "Developer tools",
       "language": "Python",
       "stars": 0,
       "forks": 0,
-      "created": "2026-10-01T16:01:39Z",
-      "updated": "2026-10-02T19:21:12Z",
+      "created": "2026-09-28T17:10:56Z",
+      "updated": "2026-10-11T07:44:52Z",
       "license": "MIT",
       "branch": "main",
       "homepage": null,
       "topics": [],
-      "demo": "https://shipside-app.vercel.app/",
-      "color": "#323057",
-      "ink": "#d6caff",
-      "lastCheckedAt": "2026-10-11T20:33:26.433Z",
-      "lastAvailableAt": "2026-10-11T20:33:26.433Z",
-      "lastAttemptAt": "2026-10-11T20:33:26.433Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "rorshopping/shipside",
-        "postUrl": "https://x.com/i/web/status/2105703756222374382",
-        "url": "https://shipside-app.vercel.app/"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105703756222374382",
-          "postId": "2105703756222374382",
-          "postedAt": "2026-10-01T16:57:52.000Z"
-        }
-      ],
-      "subjects": [
-        "Apple",
-        "Mobile"
-      ],
-      "platforms": [
-        "iOS & iPadOS"
-      ],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [
-          "Apple",
-          "Mobile"
-        ],
-        "evidence": [
-          {
-            "subject": "Apple",
-            "source": "metadata",
-            "match": "iOS"
-          },
-          {
-            "subject": "Mobile",
-            "source": "metadata",
-            "match": "iOS"
-          }
-        ],
-        "platformEvidence": [
-          {
-            "platform": "iOS & iPadOS",
-            "source": "metadata",
-            "match": "iOS"
-          }
-        ],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://shipside-app.vercel.app/",
-        "attemptedAt": "2026-10-11T20:33:29.736Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-11T20:33:29.736Z",
-        "lastWorkingAt": "2026-10-11T20:33:29.736Z",
-        "target": "https://shipside-app.vercel.app/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-18T20:33:29.736Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/d7bd4529d1860e628a61c9a1.jpg",
-          "kind": "demo",
-          "url": "https://shipside-app.vercel.app/",
-          "capturedAt": "2026-10-11T20:33:29.736Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-11T20:33:29.736Z",
-      "previewCheck": {
-        "url": "https://shipside-app.vercel.app/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-11T20:33:29.736Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-18T20:33:29.736Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "SHKsushant/Butler",
-      "name": "Butler",
-      "description": "Explore this public GitHub project.",
-      "category": "Other",
-      "language": "Python",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-09-29T15:09:04Z",
-      "updated": "2026-09-30T04:28:49Z",
-      "branch": "main",
-      "homepage": "https://butler-rosy.vercel.app",
-      "topics": [],
-      "demo": "https://butler-rosy.vercel.app/",
-      "color": "#63362a",
-      "ink": "#f8c7a8",
-      "lastCheckedAt": "2026-10-11T20:33:14.044Z",
-      "lastAvailableAt": "2026-10-11T20:33:14.044Z",
-      "lastAttemptAt": "2026-10-11T20:33:14.044Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105690596732178776",
-          "postId": "2105690596732178776",
-          "postedAt": "2026-10-01T16:05:34.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://butler-rosy.vercel.app/",
-        "attemptedAt": "2026-10-11T20:33:20.523Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-11T20:33:20.523Z",
-        "lastWorkingAt": "2026-10-11T20:33:20.523Z",
-        "target": "https://butler-rosy.vercel.app/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-18T20:33:20.523Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/f527cad9a99d25a032e1689e.jpg",
-          "kind": "demo",
-          "url": "https://butler-rosy.vercel.app/",
-          "capturedAt": "2026-10-11T20:33:20.523Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-11T20:33:20.523Z",
-      "previewCheck": {
-        "url": "https://butler-rosy.vercel.app/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-11T20:33:20.523Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-18T20:33:20.524Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "eightman999/OISINT-nextgen",
-      "name": "OISINT-nextgen",
-      "description": "Explore this public GitHub project.",
-      "category": "Other",
-      "language": "TypeScript",
-      "stars": 1,
-      "forks": 0,
-      "created": "2026-10-01T09:08:42Z",
-      "updated": "2026-10-01T15:37:56Z",
-      "license": "AGPL-3.0",
-      "branch": "master",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://oisint.com/DEMO",
-      "color": "#63362a",
-      "ink": "#f8c7a8",
-      "lastCheckedAt": "2026-10-11T20:32:53.280Z",
-      "lastAvailableAt": "2026-10-11T20:32:53.280Z",
-      "lastAttemptAt": "2026-10-11T20:32:53.280Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105687842752225522",
-          "postId": "2105687842752225522",
-          "postedAt": "2026-10-01T15:54:38.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://oisint.com/DEMO",
-        "attemptedAt": "2026-10-11T20:32:56.824Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-11T20:32:56.824Z",
-        "lastWorkingAt": "2026-10-11T20:32:56.824Z",
-        "target": "https://oisint.com/DEMO",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-18T20:32:56.824Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/6a3a6150c4eb3e9e0fe752b3.jpg",
-          "kind": "demo",
-          "url": "https://oisint.com/DEMO",
-          "capturedAt": "2026-10-11T20:32:56.824Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-11T20:32:56.824Z",
-      "previewCheck": {
-        "url": "https://oisint.com/DEMO",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-11T20:32:56.824Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-18T20:32:56.825Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "Jagadeeshftw/memokit",
-      "name": "memokit",
-      "description": "XRPL-originated calls on assets a Flare account already holds. No FAssets mint in the path, no Flare-assigned destination tag or wallet registration.",
-      "category": "Other",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-09-22T08:56:11Z",
-      "updated": "2026-10-01T11:49:50Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://memokit.0xo.in/docs/introduction",
+      "demo": "https://crashlens-demo.rohitc-n474269.chatgpt.site/",
       "color": "#25392f",
       "ink": "#d1e5c5",
-      "lastCheckedAt": "2026-10-11T20:32:57.519Z",
-      "lastAvailableAt": "2026-10-11T20:32:57.519Z",
-      "lastAttemptAt": "2026-10-11T20:32:57.519Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "Jagadeeshftw/memokit",
-        "postUrl": "https://x.com/i/web/status/2105682213295776252",
-        "url": "https://memokit.0xo.in/docs/introduction"
-      },
+      "lastCheckedAt": "2026-10-14T11:53:15.106Z",
+      "lastAvailableAt": "2026-10-14T11:53:15.106Z",
+      "lastAttemptAt": "2026-10-14T11:53:15.106Z",
       "discoveredVia": [
         {
           "kind": "x",
           "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105682213295776252",
-          "postId": "2105682213295776252",
-          "postedAt": "2026-10-01T15:32:15.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://memokit.0xo.in/docs/introduction",
-        "attemptedAt": "2026-10-11T20:33:01.039Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-11T20:33:01.039Z",
-        "lastWorkingAt": "2026-10-11T20:33:01.039Z",
-        "target": "https://memokit.0xo.in/docs/introduction",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-18T20:33:01.039Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/046aa91b8a77e8ab5a00db0d.jpg",
-          "kind": "demo",
-          "url": "https://memokit.0xo.in/docs/introduction",
-          "capturedAt": "2026-10-11T20:33:01.039Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-11T20:33:01.039Z",
-      "previewCheck": {
-        "url": "https://memokit.0xo.in/docs/introduction",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-11T20:33:01.039Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-18T20:33:01.040Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "standardagents/jevpilot",
-      "name": "jevpilot",
-      "description": "A playable Three.js driving simulator with Jev-powered autopilot",
-      "category": "Other",
-      "language": "JavaScript",
-      "stars": 220,
-      "forks": 41,
-      "created": "2026-09-17T15:47:59Z",
-      "updated": "2026-09-17T21:22:33Z",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://jevpilot.standardagents.ai/login",
-      "color": "#63362a",
-      "ink": "#f8c7a8",
-      "lastCheckedAt": "2026-10-11T20:32:45.230Z",
-      "lastAvailableAt": "2026-10-11T20:32:45.230Z",
-      "lastAttemptAt": "2026-10-11T20:32:45.230Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "standardagents/jevpilot",
-        "postUrl": "https://x.com/i/web/status/2100698502531514761",
-        "url": "https://jevpilot.standardagents.ai/login"
-      },
-      "discoveredVia": [
+          "url": "https://x.com/i/web/status/2105690149460054073",
+          "postId": "2105690149460054073",
+          "postedAt": "2026-10-01T16:03:48.000Z"
+        },
         {
           "kind": "x",
           "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2100698502531514761",
-          "postId": "2100698502531514761",
-          "postedAt": "2026-09-17T21:28:46.000Z"
-        }
-      ],
-      "subjects": [
-        "Simulation & physics",
-        "Automotive"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [
-          "Simulation & physics",
-          "Automotive"
-        ],
-        "evidence": [
-          {
-            "subject": "Simulation & physics",
-            "source": "metadata",
-            "match": "simulator"
-          },
-          {
-            "subject": "Automotive",
-            "source": "metadata",
-            "match": "driving"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://jevpilot.standardagents.ai/login",
-        "attemptedAt": "2026-10-11T20:32:48.879Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-11T20:32:48.879Z",
-        "lastWorkingAt": "2026-10-11T20:32:48.879Z",
-        "target": "https://jevpilot.standardagents.ai/login",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-18T20:32:48.879Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/1f2f397900bb68c51550b360.jpg",
-          "kind": "demo",
-          "url": "https://jevpilot.standardagents.ai/login",
-          "capturedAt": "2026-10-11T20:32:48.879Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-11T20:32:48.879Z",
-      "previewCheck": {
-        "url": "https://jevpilot.standardagents.ai/login",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-11T20:32:48.879Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-18T20:32:48.880Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "jarrodwatts/jev-trader",
-      "name": "jev-trader",
-      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-      "category": "AI & machine learning",
-      "language": "TypeScript",
-      "stars": 2945,
-      "forks": 560,
-      "created": "2026-09-16T21:36:20Z",
-      "updated": "2026-09-17T02:48:22Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://jev-trader.vercel.app/",
-      "color": "#25392f",
-      "ink": "#d1e5c5",
-      "lastCheckedAt": "2026-10-11T20:32:49.416Z",
-      "lastAvailableAt": "2026-10-11T20:32:49.416Z",
-      "lastAttemptAt": "2026-10-11T20:32:49.416Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "jarrodwatts/jev-trader",
-        "postUrl": "https://x.com/i/web/status/2100484936679764250",
-        "url": "https://jev-trader.vercel.app/"
-      },
-      "discoveredVia": [
+          "url": "https://x.com/i/web/status/2105650849347502222",
+          "postId": "2105650849347502222",
+          "postedAt": "2026-10-01T13:27:38.000Z"
+        },
         {
           "kind": "x",
           "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2100484936679764250",
-          "postId": "2100484936679764250",
-          "postedAt": "2026-09-17T07:20:08.000Z"
+          "url": "https://x.com/i/web/status/2105650266985156775",
+          "postId": "2105650266985156775",
+          "postedAt": "2026-10-01T13:25:19.000Z"
         }
       ],
       "subjects": [],
@@ -949,108 +168,33 @@
         "reviewRequired": false
       },
       "demoHealth": {
-        "url": "https://jev-trader.vercel.app/",
-        "attemptedAt": "2026-10-11T20:32:52.656Z",
+        "url": "https://crashlens-demo.rohitc-n474269.chatgpt.site/",
+        "attemptedAt": "2026-10-14T11:53:20.245Z",
         "probeVersion": 3,
         "status": "working",
-        "checkedAt": "2026-10-11T20:32:52.656Z",
-        "lastWorkingAt": "2026-10-11T20:32:52.656Z",
-        "target": "https://jev-trader.vercel.app/",
+        "checkedAt": "2026-10-14T11:53:20.245Z",
+        "lastWorkingAt": "2026-10-14T11:53:20.245Z",
+        "target": "https://crashlens-demo.rohitc-n474269.chatgpt.site/",
         "failureCount": 0,
         "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-18T20:32:52.656Z"
+        "nextCheckAt": "2026-10-21T11:53:20.245Z"
       },
       "screenshots": [
         {
-          "src": "previews/9a522ef16afe7510c28cdd64.jpg",
+          "src": "previews/e0c5f098110a25463d108740.jpg",
           "kind": "demo",
-          "url": "https://jev-trader.vercel.app/",
-          "capturedAt": "2026-10-11T20:32:52.656Z"
+          "url": "https://crashlens-demo.rohitc-n474269.chatgpt.site/",
+          "capturedAt": "2026-10-14T11:53:20.245Z"
         }
       ],
-      "previewAttemptAt": "2026-10-11T20:32:52.656Z",
+      "previewAttemptAt": "2026-10-14T11:53:20.245Z",
       "previewCheck": {
-        "url": "https://jev-trader.vercel.app/",
+        "url": "https://crashlens-demo.rohitc-n474269.chatgpt.site/",
         "status": "captured",
         "reason": null,
-        "attemptedAt": "2026-10-11T20:32:52.656Z",
+        "attemptedAt": "2026-10-14T11:53:20.245Z",
         "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-18T20:32:52.656Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "mrchaosdev/proofpulse",
-      "name": "proofpulse",
-      "description": "Explainable onchain signal investigator built for the Nansen Meridian Buildathon",
-      "category": "Other",
-      "language": "TypeScript",
-      "stars": 1,
-      "forks": 1,
-      "created": "2026-09-14T16:26:17Z",
-      "updated": "2026-09-23T15:15:58Z",
-      "branch": "main",
-      "homepage": "https://proofpulse-eta.vercel.app",
-      "topics": [],
-      "demo": "https://proofpulse-eta.vercel.app/",
-      "color": "#25392f",
-      "ink": "#d1e5c5",
-      "lastCheckedAt": "2026-10-11T20:33:30.441Z",
-      "lastAvailableAt": "2026-10-11T20:33:30.441Z",
-      "lastAttemptAt": "2026-10-11T20:33:30.441Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2100278284298961156",
-          "postId": "2100278284298961156",
-          "postedAt": "2026-09-16T17:38:58.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://proofpulse-eta.vercel.app/",
-        "attemptedAt": "2026-10-11T20:33:34.670Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-11T20:33:34.670Z",
-        "lastWorkingAt": "2026-10-11T20:33:34.670Z",
-        "target": "https://proofpulse-eta.vercel.app/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-18T20:33:34.670Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/51ef703d9369968f35a023b1.jpg",
-          "kind": "demo",
-          "url": "https://proofpulse-eta.vercel.app/",
-          "capturedAt": "2026-10-11T20:33:34.670Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-11T20:33:34.670Z",
-      "previewCheck": {
-        "url": "https://proofpulse-eta.vercel.app/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-11T20:33:34.670Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-18T20:33:34.671Z"
+        "nextCheckAt": "2026-10-21T11:53:20.246Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
@@ -1320,6 +464,106 @@
         "attemptedAt": "2026-10-12T19:03:43.222Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-19T19:03:43.223Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "latent-spaces/brag",
+      "name": "brag",
+      "description": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
+      "category": "Developer tools",
+      "language": "Python",
+      "stars": 15831,
+      "forks": 1160,
+      "created": "2026-06-16T19:36:36Z",
+      "updated": "2026-10-13T11:08:09Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://latent-spaces.github.io/brag/",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "claude-skills",
+        "hyperframes",
+        "launch-video",
+        "video-generation"
+      ],
+      "demo": "https://latent-spaces.github.io/brag/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-14T11:53:06.674Z",
+      "lastAvailableAt": "2026-10-14T11:53:06.674Z",
+      "lastAttemptAt": "2026-10-14T11:53:06.674Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105639188322189606",
+          "postId": "2105639188322189606",
+          "postedAt": "2026-10-01T12:41:18.000Z"
+        }
+      ],
+      "subjects": [
+        "MCP servers & agents",
+        "Image, audio & video AI"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "MCP servers & agents",
+          "Image, audio & video AI"
+        ],
+        "evidence": [
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "agent"
+          },
+          {
+            "subject": "Image, audio & video AI",
+            "source": "metadata",
+            "match": "video generation"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://latent-spaces.github.io/brag/",
+        "attemptedAt": "2026-10-14T11:53:09.868Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-14T11:53:09.868Z",
+        "lastWorkingAt": "2026-10-14T11:53:09.868Z",
+        "target": "https://latent-spaces.github.io/brag/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-21T11:53:09.868Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/266c6fabfe3497d42b3533dc.jpg",
+          "kind": "demo",
+          "url": "https://latent-spaces.github.io/brag/",
+          "capturedAt": "2026-10-14T11:53:09.868Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-14T11:53:09.868Z",
+      "previewCheck": {
+        "url": "https://latent-spaces.github.io/brag/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-14T11:53:09.868Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-21T11:53:09.869Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
@@ -2518,6 +1762,338 @@
         "attemptedAt": "2026-10-13T14:11:57.653Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-20T14:11:57.653Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "SamG-Coder/grain-cuda-sand",
+      "name": "grain-cuda-sand",
+      "description": "CUDA-authored WebGPU granular laboratory: 131,072 grains, three experiments, GPU-resident Three.js rendering.",
+      "category": "Design",
+      "language": "WGSL",
+      "stars": 1,
+      "forks": 0,
+      "created": "2026-09-14T06:52:30Z",
+      "updated": "2026-09-14T06:59:46Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://samg-coder.github.io/grain-cuda-sand/",
+      "topics": [],
+      "demo": "https://samg-coder.github.io/grain-cuda-sand/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-14T11:52:09.458Z",
+      "lastAvailableAt": "2026-10-14T11:52:09.458Z",
+      "lastAttemptAt": "2026-10-14T11:52:09.458Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2099394564868210819",
+          "postId": "2099394564868210819",
+          "postedAt": "2026-09-14T07:07:23.000Z"
+        }
+      ],
+      "subjects": [
+        "Science",
+        "3D & graphics"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "Science",
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "Science",
+            "source": "metadata",
+            "match": "laboratory"
+          },
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "WebGPU"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://samg-coder.github.io/grain-cuda-sand/",
+        "attemptedAt": "2026-10-14T11:52:13.060Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-14T11:52:13.060Z",
+        "lastWorkingAt": "2026-10-14T11:52:13.060Z",
+        "target": "https://samg-coder.github.io/grain-cuda-sand/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-21T11:52:13.060Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/59f19894bd66205b7b34e5ea.jpg",
+          "kind": "demo",
+          "url": "https://samg-coder.github.io/grain-cuda-sand/",
+          "capturedAt": "2026-10-14T11:52:13.060Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-14T11:52:13.060Z",
+      "previewCheck": {
+        "url": "https://samg-coder.github.io/grain-cuda-sand/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-14T11:52:13.060Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-21T11:52:13.061Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "ashemag/fly-brain-atlas",
+      "name": "fly-brain-atlas",
+      "description": "Interactive MaleCNS fly brain atlas with native regional and neuron reconstructions",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 15,
+      "forks": 9,
+      "created": "2026-09-13T12:16:15Z",
+      "updated": "2026-09-13T13:22:52Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://fly-brain-atlas.vercel.app",
+      "topics": [],
+      "demo": "https://fly-brain-atlas.vercel.app/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-14T11:52:21.181Z",
+      "lastAvailableAt": "2026-10-14T11:52:21.181Z",
+      "lastAttemptAt": "2026-10-14T11:52:21.181Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2099128503543181495",
+          "postId": "2099128503543181495",
+          "postedAt": "2026-09-13T13:30:09.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://fly-brain-atlas.vercel.app/",
+        "attemptedAt": "2026-10-14T11:52:33.910Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-14T11:52:33.910Z",
+        "lastWorkingAt": "2026-10-14T11:52:33.910Z",
+        "target": "https://fly-brain-atlas.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-21T11:52:33.910Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/40d57ee460ce0ee1ead929c3.jpg",
+          "kind": "demo",
+          "url": "https://fly-brain-atlas.vercel.app/",
+          "capturedAt": "2026-10-14T11:52:33.910Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-14T11:52:33.910Z",
+      "previewCheck": {
+        "url": "https://fly-brain-atlas.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-14T11:52:33.910Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-21T11:52:33.911Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "ChijiokeDivine/remitcredit",
+      "name": "remitcredit",
+      "description": "On-chain credit built from remittances, not loans. Verified through Creditcoin's Attestcoin Protocol",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 8,
+      "forks": 0,
+      "created": "2026-08-20T09:59:06Z",
+      "updated": "2026-09-14T19:41:07Z",
+      "branch": "main",
+      "homepage": "https://remitcredit.vercel.app",
+      "topics": [],
+      "demo": "https://remitcredit.vercel.app/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-14T11:52:34.799Z",
+      "lastAvailableAt": "2026-10-14T11:52:34.799Z",
+      "lastAttemptAt": "2026-10-14T11:52:34.799Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2098939852121079826",
+          "postId": "2098939852121079826",
+          "postedAt": "2026-09-13T01:00:31.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://remitcredit.vercel.app/",
+        "attemptedAt": "2026-10-14T11:52:38.167Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-14T11:52:38.167Z",
+        "lastWorkingAt": "2026-10-14T11:52:38.167Z",
+        "target": "https://remitcredit.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-21T11:52:38.167Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/3cd94b4503646d5dfb67a9f7.jpg",
+          "kind": "demo",
+          "url": "https://remitcredit.vercel.app/",
+          "capturedAt": "2026-10-14T11:52:38.167Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-14T11:52:38.167Z",
+      "previewCheck": {
+        "url": "https://remitcredit.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-14T11:52:38.167Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-21T11:52:38.168Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "SafaElmali/interactive-3d-lab",
+      "name": "interactive-3d-lab",
+      "description": "Object Lab: Fifteen interactive Three.js experiments, each in its own folder, with a shared 3D gallery.",
+      "category": "Design",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 1,
+      "created": "2026-09-10T22:06:35Z",
+      "updated": "2026-09-15T05:33:10Z",
+      "branch": "main",
+      "homepage": "https://object-lab-3d.netlify.app/",
+      "topics": [
+        "gpt-6-astra",
+        "threejs"
+      ],
+      "demo": "https://object-lab-3d.netlify.app/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-14T11:52:13.727Z",
+      "lastAvailableAt": "2026-10-14T11:52:13.727Z",
+      "lastAttemptAt": "2026-10-14T11:52:13.727Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2098818394187301224",
+          "postId": "2098818394187301224",
+          "postedAt": "2026-09-12T16:57:53.000Z"
+        }
+      ],
+      "subjects": [
+        "3D & graphics"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "3d"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://object-lab-3d.netlify.app/",
+        "attemptedAt": "2026-10-14T11:52:20.412Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-14T11:52:20.412Z",
+        "lastWorkingAt": "2026-10-14T11:52:20.412Z",
+        "target": "https://object-lab-3d.netlify.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-21T11:52:20.412Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/0416ce4b5d349608fe2cbfd5.jpg",
+          "kind": "demo",
+          "url": "https://object-lab-3d.netlify.app/",
+          "capturedAt": "2026-10-14T11:52:20.412Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-14T11:52:20.412Z",
+      "previewCheck": {
+        "url": "https://object-lab-3d.netlify.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-14T11:52:20.412Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-21T11:52:20.413Z"
       },
       "sourceCategories": [
         "As Seen On X.com"

@@ -17327,7 +17327,7 @@
     "ivorpad/workdone": {
       "full": "ivorpad/workdone",
       "firstSeenAt": "2026-10-09T17:42:06.433Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -17346,7 +17346,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-09T17:42:06.433Z"
+      "lastSeenAt": "2026-10-09T17:42:06.433Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-21T11:53:22.633Z"
     },
     "rishimohan/colorshot": {
       "full": "rishimohan/colorshot",
@@ -44179,7 +44181,7 @@
     "rohitcn-hub/thermacompute-crashlens": {
       "full": "rohitcn-hub/thermacompute-crashlens",
       "firstSeenAt": "2026-10-11T20:31:52.999Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -44212,7 +44214,98 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T19:02:28.748Z"
+      "lastSeenAt": "2026-10-12T19:02:28.748Z",
+      "entry": {
+        "availability": "available",
+        "full": "rohitcn-hub/thermacompute-crashlens",
+        "name": "thermacompute-crashlens",
+        "description": "Fast, local log triage for LLM inference and PyTorch training.",
+        "category": "AI & machine learning",
+        "language": "Python",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-28T17:10:56Z",
+        "updated": "2026-10-11T07:44:52Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://crashlens-demo.rohitc-n474269.chatgpt.site/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-14T11:53:15.106Z",
+        "lastAvailableAt": "2026-10-14T11:53:15.106Z",
+        "lastAttemptAt": "2026-10-14T11:53:15.106Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105690149460054073",
+            "postId": "2105690149460054073",
+            "postedAt": "2026-10-01T16:03:48.000Z"
+          },
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105650849347502222",
+            "postId": "2105650849347502222",
+            "postedAt": "2026-10-01T13:27:38.000Z"
+          },
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105650266985156775",
+            "postId": "2105650266985156775",
+            "postedAt": "2026-10-01T13:25:19.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://crashlens-demo.rohitc-n474269.chatgpt.site/",
+          "attemptedAt": "2026-10-14T11:53:20.245Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-14T11:53:20.245Z",
+          "lastWorkingAt": "2026-10-14T11:53:20.245Z",
+          "target": "https://crashlens-demo.rohitc-n474269.chatgpt.site/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-21T11:53:20.245Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/e0c5f098110a25463d108740.jpg",
+            "kind": "demo",
+            "url": "https://crashlens-demo.rohitc-n474269.chatgpt.site/",
+            "capturedAt": "2026-10-14T11:53:20.245Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-14T11:53:20.245Z",
+        "previewCheck": {
+          "url": "https://crashlens-demo.rohitc-n474269.chatgpt.site/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-14T11:53:20.245Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-21T11:53:20.246Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-15T23:53:20.247Z",
+      "checkedAt": "2026-10-14T11:53:20.247Z",
+      "firstAcceptedAt": "2026-10-14T11:53:20.247Z"
     },
     "eightman999/oisint-nextgen": {
       "full": "eightman999/OISINT-nextgen",
@@ -45053,7 +45146,7 @@
     "biclab/spikingbrain-7b": {
       "full": "BICLab/SpikingBrain-7B",
       "firstSeenAt": "2026-10-12T19:02:28.748Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45072,7 +45165,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T19:02:28.748Z"
+      "lastSeenAt": "2026-10-12T19:02:28.748Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-21T11:53:12.909Z"
     },
     "thatswiftguy/perch": {
       "full": "thatswiftguy/Perch",
@@ -45103,7 +45198,7 @@
     "igoakulov/scenie": {
       "full": "igoakulov/scenie",
       "firstSeenAt": "2026-10-12T19:02:28.748Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45122,7 +45217,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T19:02:28.748Z"
+      "lastSeenAt": "2026-10-12T19:02:28.748Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-21T11:53:13.658Z"
     },
     "vcfgdev/skills": {
       "full": "vcfgdev/skills",
@@ -45519,7 +45616,7 @@
     "getopenscreen/openscreen": {
       "full": "getopenscreen/openscreen",
       "firstSeenAt": "2026-10-12T19:02:28.748Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -45538,7 +45635,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T19:02:28.748Z"
+      "lastSeenAt": "2026-10-12T19:02:28.748Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-21T11:53:14.323Z"
     },
     "praanaavvv/bebop-leverage-engine": {
       "full": "praanaavvv/bebop-leverage-engine",
@@ -45569,7 +45668,7 @@
     "latent-spaces/brag": {
       "full": "latent-spaces/brag",
       "firstSeenAt": "2026-10-12T19:02:28.748Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -45588,7 +45687,108 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-12T19:02:28.748Z"
+      "lastSeenAt": "2026-10-12T19:02:28.748Z",
+      "entry": {
+        "availability": "available",
+        "full": "latent-spaces/brag",
+        "name": "brag",
+        "description": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
+        "category": "Developer tools",
+        "language": "Python",
+        "stars": 15831,
+        "forks": 1160,
+        "created": "2026-06-16T19:36:36Z",
+        "updated": "2026-10-13T11:08:09Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://latent-spaces.github.io/brag/",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "claude-skills",
+          "hyperframes",
+          "launch-video",
+          "video-generation"
+        ],
+        "demo": "https://latent-spaces.github.io/brag/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-14T11:53:06.674Z",
+        "lastAvailableAt": "2026-10-14T11:53:06.674Z",
+        "lastAttemptAt": "2026-10-14T11:53:06.674Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105639188322189606",
+            "postId": "2105639188322189606",
+            "postedAt": "2026-10-01T12:41:18.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents",
+          "Image, audio & video AI"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "MCP servers & agents",
+            "Image, audio & video AI"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "agent"
+            },
+            {
+              "subject": "Image, audio & video AI",
+              "source": "metadata",
+              "match": "video generation"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://latent-spaces.github.io/brag/",
+          "attemptedAt": "2026-10-14T11:53:09.868Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-14T11:53:09.868Z",
+          "lastWorkingAt": "2026-10-14T11:53:09.868Z",
+          "target": "https://latent-spaces.github.io/brag/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-21T11:53:09.868Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/266c6fabfe3497d42b3533dc.jpg",
+            "kind": "demo",
+            "url": "https://latent-spaces.github.io/brag/",
+            "capturedAt": "2026-10-14T11:53:09.868Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-14T11:53:09.868Z",
+        "previewCheck": {
+          "url": "https://latent-spaces.github.io/brag/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-14T11:53:09.868Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-21T11:53:09.869Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-15T23:53:09.870Z",
+      "checkedAt": "2026-10-14T11:53:09.870Z",
+      "firstAcceptedAt": "2026-10-14T11:53:09.870Z"
     },
     "zee-palm-llc/zeepalmlabs-automation-tools": {
       "full": "Zee-Palm-LLC/ZeepalmLabs-Automation-Tools",
@@ -48326,7 +48526,7 @@
     "nudgen-marketing/mermail-skills": {
       "full": "Nudgen-Marketing/mermail-skills",
       "firstSeenAt": "2026-10-13T14:10:54.092Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -48345,7 +48545,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-13T14:10:54.092Z"
+      "lastSeenAt": "2026-10-13T14:10:54.092Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-21T11:53:21.931Z"
     },
     "divyanshudhruv/oev": {
       "full": "divyanshudhruv/oev",
@@ -48586,7 +48788,7 @@
     "jiyajain23/lifeline-index-offload": {
       "full": "jiyajain23/lifeline-index-offload",
       "firstSeenAt": "2026-10-13T14:10:54.092Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -48605,7 +48807,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-13T14:10:54.092Z"
+      "lastSeenAt": "2026-10-13T14:10:54.092Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-21T11:53:10.619Z"
     },
     "mertkayacs/jevalt": {
       "full": "mertkayacs/jevalt",
@@ -48743,7 +48947,7 @@
     "garcfd/ellis-wormhole": {
       "full": "garcfd/ellis-wormhole",
       "firstSeenAt": "2026-10-13T14:10:54.092Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -48762,12 +48966,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-13T14:10:54.092Z"
+      "lastSeenAt": "2026-10-13T14:10:54.092Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-21T11:53:12.349Z"
     },
     "saur0w/reel-flux": {
       "full": "Saur0w/Reel-Flux",
       "firstSeenAt": "2026-10-14T11:51:25.584Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -48800,12 +49006,78 @@
           "repository": "Saur0w/Reel-Flux"
         }
       ],
-      "lastSeenAt": "2026-10-14T11:51:25.584Z"
+      "lastSeenAt": "2026-10-14T11:51:25.584Z",
+      "entry": {
+        "availability": "available",
+        "full": "Saur0w/Reel-Flux",
+        "name": "Reel-Flux",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-13T08:43:29Z",
+        "updated": "2026-09-14T07:07:49Z",
+        "branch": "main",
+        "homepage": "https://saurowreel.vercel.app",
+        "topics": [],
+        "demo": "https://saurowreel.vercel.app/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-14T11:52:38.941Z",
+        "lastAvailableAt": "2026-10-14T11:52:38.941Z",
+        "lastAttemptAt": "2026-10-14T11:52:38.941Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099398409916662176",
+            "postId": "2099398409916662176",
+            "postedAt": "2026-09-14T07:22:40.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://saurowreel.vercel.app/",
+          "attemptedAt": "2026-10-14T11:52:39.392Z",
+          "probeVersion": 3,
+          "status": "review",
+          "checkedAt": "2026-10-14T11:52:39.392Z",
+          "consecutiveTemporaryFailures": 0,
+          "failureCount": 1,
+          "reason": "http_404",
+          "nextCheckAt": "2026-10-14T17:52:39.392Z"
+        },
+        "previewAttemptAt": "2026-10-14T11:52:39.392Z",
+        "previewCheck": {
+          "url": "https://saurowreel.vercel.app/",
+          "status": "retry",
+          "reason": "http_404",
+          "attemptedAt": "2026-10-14T11:52:39.392Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-14T17:52:39.392Z"
+        }
+      },
+      "reason": "http_404",
+      "nextAttemptAt": "2026-10-14T17:52:39.392Z",
+      "checkedAt": "2026-10-14T11:52:39.392Z"
     },
     "samg-coder/grain-cuda-sand": {
       "full": "SamG-Coder/grain-cuda-sand",
       "firstSeenAt": "2026-10-14T11:51:25.584Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -48838,12 +49110,106 @@
           "repository": "SamG-Coder/grain-cuda-sand"
         }
       ],
-      "lastSeenAt": "2026-10-14T11:51:25.584Z"
+      "lastSeenAt": "2026-10-14T11:51:25.584Z",
+      "entry": {
+        "availability": "available",
+        "full": "SamG-Coder/grain-cuda-sand",
+        "name": "grain-cuda-sand",
+        "description": "CUDA-authored WebGPU granular laboratory: 131,072 grains, three experiments, GPU-resident Three.js rendering.",
+        "category": "Design",
+        "language": "WGSL",
+        "stars": 1,
+        "forks": 0,
+        "created": "2026-09-14T06:52:30Z",
+        "updated": "2026-09-14T06:59:46Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://samg-coder.github.io/grain-cuda-sand/",
+        "topics": [],
+        "demo": "https://samg-coder.github.io/grain-cuda-sand/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-14T11:52:09.458Z",
+        "lastAvailableAt": "2026-10-14T11:52:09.458Z",
+        "lastAttemptAt": "2026-10-14T11:52:09.458Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099394564868210819",
+            "postId": "2099394564868210819",
+            "postedAt": "2026-09-14T07:07:23.000Z"
+          }
+        ],
+        "subjects": [
+          "Science",
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "Science",
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "Science",
+              "source": "metadata",
+              "match": "laboratory"
+            },
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "WebGPU"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://samg-coder.github.io/grain-cuda-sand/",
+          "attemptedAt": "2026-10-14T11:52:13.060Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-14T11:52:13.060Z",
+          "lastWorkingAt": "2026-10-14T11:52:13.060Z",
+          "target": "https://samg-coder.github.io/grain-cuda-sand/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-21T11:52:13.060Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/59f19894bd66205b7b34e5ea.jpg",
+            "kind": "demo",
+            "url": "https://samg-coder.github.io/grain-cuda-sand/",
+            "capturedAt": "2026-10-14T11:52:13.060Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-14T11:52:13.060Z",
+        "previewCheck": {
+          "url": "https://samg-coder.github.io/grain-cuda-sand/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-14T11:52:13.060Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-21T11:52:13.061Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-15T23:52:13.062Z",
+      "checkedAt": "2026-10-14T11:52:13.062Z",
+      "firstAcceptedAt": "2026-10-14T11:52:13.062Z"
     },
     "darkrouterh/payment-uri": {
       "full": "darkrouteRH/payment-uri",
       "firstSeenAt": "2026-10-14T11:51:25.584Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -48862,12 +49228,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-14T11:51:25.584Z"
+      "lastSeenAt": "2026-10-14T11:51:25.584Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-21T11:53:05.492Z"
     },
     "0xreisearch/fly-captcha-adapt1": {
       "full": "0xReisearch/fly-captcha-adapt1",
       "firstSeenAt": "2026-10-14T11:51:25.584Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -48894,12 +49262,91 @@
           "repository": "0xReisearch/fly-captcha-adapt1"
         }
       ],
-      "lastSeenAt": "2026-10-14T11:51:25.584Z"
+      "lastSeenAt": "2026-10-14T11:51:25.584Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "0xReisearch/fly-captcha-adapt1",
+        "postUrl": "https://x.com/i/web/status/2099167279669735747",
+        "url": "https://fly.reilabs.org/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "0xReisearch/fly-captcha-adapt1",
+        "name": "fly-captcha-adapt1",
+        "description": "A simulated fruit fly learns a banana CAPTCHA, with Adapt-1 managing visual inspections. Interactive demo, methods and reproduction instructions.",
+        "category": "Education",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-13T10:19:43Z",
+        "updated": "2026-09-13T15:23:24Z",
+        "branch": "main",
+        "homepage": "https://fly.reilabs.org",
+        "topics": [],
+        "demo": "https://fly.reilabs.org/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-14T11:52:40.051Z",
+        "lastAvailableAt": "2026-10-14T11:52:40.051Z",
+        "lastAttemptAt": "2026-10-14T11:52:40.051Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "0xReisearch/fly-captcha-adapt1",
+          "postUrl": "https://x.com/i/web/status/2099167279669735747",
+          "url": "https://fly.reilabs.org/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099167279669735747",
+            "postId": "2099167279669735747",
+            "postedAt": "2026-09-13T16:04:14.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Education",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://fly.reilabs.org/",
+          "attemptedAt": "2026-10-14T11:52:59.777Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "http_522",
+            "at": "2026-10-14T11:52:59.777Z"
+          },
+          "nextCheckAt": "2026-10-14T13:52:59.777Z"
+        },
+        "previewAttemptAt": "2026-10-14T11:52:59.777Z",
+        "previewCheck": {
+          "url": "https://fly.reilabs.org/",
+          "status": "retry",
+          "reason": "http_522",
+          "attemptedAt": "2026-10-14T11:52:59.777Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-14T13:52:59.777Z"
+        }
+      },
+      "reason": "http_522",
+      "nextAttemptAt": "2026-10-14T13:52:59.777Z",
+      "checkedAt": "2026-10-14T11:52:59.777Z"
     },
     "ashemag/fly-brain-atlas": {
       "full": "ashemag/fly-brain-atlas",
       "firstSeenAt": "2026-10-14T11:51:25.584Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -48926,12 +49373,89 @@
           "repository": "ashemag/fly-brain-atlas"
         }
       ],
-      "lastSeenAt": "2026-10-14T11:51:25.584Z"
+      "lastSeenAt": "2026-10-14T11:51:25.584Z",
+      "entry": {
+        "availability": "available",
+        "full": "ashemag/fly-brain-atlas",
+        "name": "fly-brain-atlas",
+        "description": "Interactive MaleCNS fly brain atlas with native regional and neuron reconstructions",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 15,
+        "forks": 9,
+        "created": "2026-09-13T12:16:15Z",
+        "updated": "2026-09-13T13:22:52Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://fly-brain-atlas.vercel.app",
+        "topics": [],
+        "demo": "https://fly-brain-atlas.vercel.app/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-14T11:52:21.181Z",
+        "lastAvailableAt": "2026-10-14T11:52:21.181Z",
+        "lastAttemptAt": "2026-10-14T11:52:21.181Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2099128503543181495",
+            "postId": "2099128503543181495",
+            "postedAt": "2026-09-13T13:30:09.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://fly-brain-atlas.vercel.app/",
+          "attemptedAt": "2026-10-14T11:52:33.910Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-14T11:52:33.910Z",
+          "lastWorkingAt": "2026-10-14T11:52:33.910Z",
+          "target": "https://fly-brain-atlas.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-21T11:52:33.910Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/40d57ee460ce0ee1ead929c3.jpg",
+            "kind": "demo",
+            "url": "https://fly-brain-atlas.vercel.app/",
+            "capturedAt": "2026-10-14T11:52:33.910Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-14T11:52:33.910Z",
+        "previewCheck": {
+          "url": "https://fly-brain-atlas.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-14T11:52:33.910Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-21T11:52:33.911Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-15T23:52:33.912Z",
+      "checkedAt": "2026-10-14T11:52:33.912Z",
+      "firstAcceptedAt": "2026-10-14T11:52:33.912Z"
     },
     "renatus-xxxx/y8960-tech-demo": {
       "full": "renatus-xxxx/y8960-tech-demo",
       "firstSeenAt": "2026-10-14T11:51:25.584Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -48950,12 +49474,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-14T11:51:25.584Z"
+      "lastSeenAt": "2026-10-14T11:51:25.584Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-21T11:53:02.174Z"
     },
     "chijiokedivine/remitcredit": {
       "full": "ChijiokeDivine/remitcredit",
       "firstSeenAt": "2026-10-14T11:51:25.584Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -48988,12 +49514,88 @@
           "repository": "ChijiokeDivine/remitcredit"
         }
       ],
-      "lastSeenAt": "2026-10-14T11:51:25.584Z"
+      "lastSeenAt": "2026-10-14T11:51:25.584Z",
+      "entry": {
+        "availability": "available",
+        "full": "ChijiokeDivine/remitcredit",
+        "name": "remitcredit",
+        "description": "On-chain credit built from remittances, not loans. Verified through Creditcoin's Attestcoin Protocol",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 8,
+        "forks": 0,
+        "created": "2026-08-20T09:59:06Z",
+        "updated": "2026-09-14T19:41:07Z",
+        "branch": "main",
+        "homepage": "https://remitcredit.vercel.app",
+        "topics": [],
+        "demo": "https://remitcredit.vercel.app/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-14T11:52:34.799Z",
+        "lastAvailableAt": "2026-10-14T11:52:34.799Z",
+        "lastAttemptAt": "2026-10-14T11:52:34.799Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2098939852121079826",
+            "postId": "2098939852121079826",
+            "postedAt": "2026-09-13T01:00:31.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://remitcredit.vercel.app/",
+          "attemptedAt": "2026-10-14T11:52:38.167Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-14T11:52:38.167Z",
+          "lastWorkingAt": "2026-10-14T11:52:38.167Z",
+          "target": "https://remitcredit.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-21T11:52:38.167Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/3cd94b4503646d5dfb67a9f7.jpg",
+            "kind": "demo",
+            "url": "https://remitcredit.vercel.app/",
+            "capturedAt": "2026-10-14T11:52:38.167Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-14T11:52:38.167Z",
+        "previewCheck": {
+          "url": "https://remitcredit.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-14T11:52:38.167Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-21T11:52:38.168Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-15T23:52:38.169Z",
+      "checkedAt": "2026-10-14T11:52:38.169Z",
+      "firstAcceptedAt": "2026-10-14T11:52:38.169Z"
     },
     "safaelmali/interactive-3d-lab": {
       "full": "SafaElmali/interactive-3d-lab",
       "firstSeenAt": "2026-10-14T11:51:25.584Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -49020,12 +49622,101 @@
           "repository": "SafaElmali/interactive-3d-lab"
         }
       ],
-      "lastSeenAt": "2026-10-14T11:51:25.584Z"
+      "lastSeenAt": "2026-10-14T11:51:25.584Z",
+      "entry": {
+        "availability": "available",
+        "full": "SafaElmali/interactive-3d-lab",
+        "name": "interactive-3d-lab",
+        "description": "Object Lab: Fifteen interactive Three.js experiments, each in its own folder, with a shared 3D gallery.",
+        "category": "Design",
+        "language": "JavaScript",
+        "stars": 1,
+        "forks": 1,
+        "created": "2026-09-10T22:06:35Z",
+        "updated": "2026-09-15T05:33:10Z",
+        "branch": "main",
+        "homepage": "https://object-lab-3d.netlify.app/",
+        "topics": [
+          "gpt-6-astra",
+          "threejs"
+        ],
+        "demo": "https://object-lab-3d.netlify.app/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-14T11:52:13.727Z",
+        "lastAvailableAt": "2026-10-14T11:52:13.727Z",
+        "lastAttemptAt": "2026-10-14T11:52:13.727Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2098818394187301224",
+            "postId": "2098818394187301224",
+            "postedAt": "2026-09-12T16:57:53.000Z"
+          }
+        ],
+        "subjects": [
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "3d"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://object-lab-3d.netlify.app/",
+          "attemptedAt": "2026-10-14T11:52:20.412Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-14T11:52:20.412Z",
+          "lastWorkingAt": "2026-10-14T11:52:20.412Z",
+          "target": "https://object-lab-3d.netlify.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-21T11:52:20.412Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/0416ce4b5d349608fe2cbfd5.jpg",
+            "kind": "demo",
+            "url": "https://object-lab-3d.netlify.app/",
+            "capturedAt": "2026-10-14T11:52:20.412Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-14T11:52:20.412Z",
+        "previewCheck": {
+          "url": "https://object-lab-3d.netlify.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-14T11:52:20.412Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-21T11:52:20.413Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-15T23:52:20.413Z",
+      "checkedAt": "2026-10-14T11:52:20.413Z",
+      "firstAcceptedAt": "2026-10-14T11:52:20.413Z"
     },
     "skynet-inisghts/gemhog": {
       "full": "Skynet-inisghts/GEMHOG",
       "firstSeenAt": "2026-10-14T11:51:25.584Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -49044,12 +49735,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-14T11:51:25.584Z"
+      "lastSeenAt": "2026-10-14T11:51:25.584Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-21T11:53:03.976Z"
     },
     "pedronav1310/prproof": {
       "full": "pedronav1310/prproof",
       "firstSeenAt": "2026-10-14T11:51:25.584Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -49068,12 +49761,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-14T11:51:25.584Z"
+      "lastSeenAt": "2026-10-14T11:51:25.584Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-21T11:53:03.253Z"
     },
     "mahdijnt/liveavatar-gemini-live-demo": {
       "full": "mahdijnt/liveavatar-gemini-live-demo",
       "firstSeenAt": "2026-10-14T11:51:25.584Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -49092,7 +49787,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-14T11:51:25.584Z"
+      "lastSeenAt": "2026-10-14T11:51:25.584Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-21T11:53:00.675Z"
     }
   },
   "lastRun": {
@@ -49837,8 +50534,8 @@
       "posts": 161,
       "uniquePosts": 158,
       "newCandidates": 180,
-      "validationAttempts": 169,
-      "accepted": 68
+      "validationAttempts": 180,
+      "accepted": 72
     },
     "ac3eb65e96558e14": {
       "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
@@ -49861,8 +50558,8 @@
       "posts": 245,
       "uniquePosts": 125,
       "newCandidates": 125,
-      "validationAttempts": 101,
-      "accepted": 49
+      "validationAttempts": 110,
+      "accepted": 51
     }
   },
   "demoSeeds": {
@@ -50316,7 +51013,7 @@
         "replies": 1,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-13T15:24:26.767Z",
+      "nextAttemptAt": "2026-10-15T11:52:08.377Z",
       "reason": "temporary_error"
     },
     "https://elon-musk12.github.io/Elon-X-capital/": {
@@ -50433,6 +51130,6 @@
   "lastDemoDiscovery": {
     "checked": 1,
     "resolved": 0,
-    "at": "2026-10-12T15:24:26.812Z"
+    "at": "2026-10-14T11:52:08.415Z"
   }
 }
