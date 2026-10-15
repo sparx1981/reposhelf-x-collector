@@ -89,7 +89,7 @@
         "start": "2026-07-11T17:41:57.699Z",
         "end": "2026-10-02T17:41:57.699Z",
         "done": false,
-        "nextToken": "b26v89c19zqg8o3juzixw6csjj175ekch4nz1aw9ztf25"
+        "nextToken": "b26v89c19zqg8o3juzixw48db4tnmkrgolsi0mk247yil"
       },
       "recent": {
         "start": "2026-10-08T22:12:30.321Z",
@@ -10277,6 +10277,13 @@
           "url": "https://x.com/i/web/status/2105716697118437470",
           "postId": "2105716697118437470",
           "postedAt": "2026-10-01T17:49:17.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105388950034788418",
+          "postId": "2105388950034788418",
+          "postedAt": "2026-09-30T20:06:56.000Z"
         }
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
@@ -10288,7 +10295,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T20:31:52.999Z",
+      "lastSeenAt": "2026-10-15T22:11:41.784Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:30:06.231Z"
     },
@@ -10423,7 +10430,7 @@
         "replies": 22,
         "quotes": 4
       },
-      "lastSeenAt": "2026-10-09T09:20:41.438Z",
+      "lastSeenAt": "2026-10-15T22:11:41.784Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:24:39.247Z"
     },
@@ -10447,7 +10454,7 @@
         "replies": 22,
         "quotes": 4
       },
-      "lastSeenAt": "2026-10-09T09:20:41.438Z",
+      "lastSeenAt": "2026-10-15T22:11:41.784Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:24:39.878Z"
     },
@@ -10471,7 +10478,7 @@
         "replies": 22,
         "quotes": 4
       },
-      "lastSeenAt": "2026-10-09T09:20:41.438Z",
+      "lastSeenAt": "2026-10-15T22:11:41.784Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:24:40.550Z"
     },
@@ -10495,7 +10502,7 @@
         "replies": 22,
         "quotes": 4
       },
-      "lastSeenAt": "2026-10-09T09:20:41.438Z",
+      "lastSeenAt": "2026-10-15T22:11:41.784Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:24:41.141Z"
     },
@@ -24222,7 +24229,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T12:55:44.234Z",
+      "lastSeenAt": "2026-10-15T22:11:41.784Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-17T21:02:04.839Z"
     },
@@ -43232,7 +43239,7 @@
           "repository": "iamzimozic/busiRAG"
         }
       ],
-      "lastSeenAt": "2026-10-11T12:55:44.234Z",
+      "lastSeenAt": "2026-10-15T22:11:41.784Z",
       "entry": {
         "availability": "available",
         "full": "iamzimozic/busiRAG",
@@ -50345,6 +50352,13 @@
           "url": "https://x.com/i/web/status/2105561345651614119",
           "postId": "2105561345651614119",
           "postedAt": "2026-10-01T07:31:58.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105395319408328924",
+          "postId": "2105395319408328924",
+          "postedAt": "2026-09-30T20:32:15.000Z"
         }
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
@@ -50356,7 +50370,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-15T11:28:22.523Z",
+      "lastSeenAt": "2026-10-15T22:11:41.784Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-22T11:29:39.888Z"
     },
@@ -50948,6 +50962,238 @@
       "reason": "http_404",
       "nextAttemptAt": "2026-10-15T17:29:33.417Z",
       "checkedAt": "2026-10-15T11:29:33.417Z"
+    },
+    "ujesh2k/sih2026": {
+      "full": "UJESH2K/sih2026",
+      "firstSeenAt": "2026-10-15T22:11:41.784Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105443489005912157",
+          "postId": "2105443489005912157",
+          "postedAt": "2026-09-30T23:43:39.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://nwis.ujesh.in/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://nwis.ujesh.in/",
+          "postUrl": "https://x.com/i/web/status/2105443489005912157",
+          "repository": "UJESH2K/sih2026"
+        }
+      ],
+      "lastSeenAt": "2026-10-15T22:11:41.784Z"
+    },
+    "warthog-network/fair-batch-matching": {
+      "full": "warthog-network/fair-batch-matching",
+      "firstSeenAt": "2026-10-15T22:11:41.784Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105436020695031917",
+          "postId": "2105436020695031917",
+          "postedAt": "2026-09-30T23:13:59.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 6,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-15T22:11:41.784Z"
+    },
+    "locdex/locdex": {
+      "full": "Locdex/Locdex",
+      "firstSeenAt": "2026-10-15T22:11:41.784Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105424534551540119",
+          "postId": "2105424534551540119",
+          "postedAt": "2026-09-30T22:28:20.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 1,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-15T22:11:41.784Z"
+    },
+    "onospeter/forgemind": {
+      "full": "ONOSPETER/Forgemind",
+      "firstSeenAt": "2026-10-15T22:11:41.784Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105414387901084141",
+          "postId": "2105414387901084141",
+          "postedAt": "2026-09-30T21:48:01.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://forge-mind-memory-dev-partner--patrickobiegba.replit.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://forge-mind-memory-dev-partner--patrickobiegba.replit.app/",
+          "postUrl": "https://x.com/i/web/status/2105414387901084141",
+          "repository": "ONOSPETER/Forgemind"
+        }
+      ],
+      "lastSeenAt": "2026-10-15T22:11:41.784Z"
+    },
+    "transitive-bullshit/multipart-http-get-requests": {
+      "full": "transitive-bullshit/multipart-http-get-requests",
+      "firstSeenAt": "2026-10-15T22:11:41.784Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105392745988980962",
+          "postId": "2105392745988980962",
+          "postedAt": "2026-09-30T20:22:01.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://burning-tokens.transitivebullsh.it/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://burning-tokens.transitivebullsh.it/",
+          "postUrl": "https://x.com/i/web/status/2105392745988980962",
+          "repository": "transitive-bullshit/multipart-http-get-requests"
+        }
+      ],
+      "lastSeenAt": "2026-10-15T22:11:41.784Z"
+    },
+    "hackindiaxyz/pixels-to-products-cloudinary-ai-hackathon-2026-pixelyaad": {
+      "full": "HackIndiaXYZ/pixels-to-products-cloudinary-ai-hackathon-2026-pixelyaad",
+      "firstSeenAt": "2026-10-15T22:11:41.784Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105378958892241015",
+          "postId": "2105378958892241015",
+          "postedAt": "2026-09-30T19:27:14.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://pixelyaad.onrender.com/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://pixelyaad.onrender.com/",
+          "postUrl": "https://x.com/i/web/status/2105378958892241015",
+          "repository": "HackIndiaXYZ/pixels-to-products-cloudinary-ai-hackathon-2026-pixelyaad"
+        }
+      ],
+      "lastSeenAt": "2026-10-15T22:11:41.784Z"
+    },
+    "amir-abushanab/wave3d": {
+      "full": "amir-abushanab/wave3d",
+      "firstSeenAt": "2026-10-15T22:11:41.784Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105369251024687275",
+          "postId": "2105369251024687275",
+          "postedAt": "2026-09-30T18:48:39.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://wave-studio.pages.dev/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://wave-studio.pages.dev/",
+          "postUrl": "https://x.com/i/web/status/2105369251024687275",
+          "repository": "amir-abushanab/wave3d"
+        }
+      ],
+      "lastSeenAt": "2026-10-15T22:11:41.784Z"
+    },
+    "knadh/listmonk": {
+      "full": "knadh/listmonk",
+      "firstSeenAt": "2026-10-15T22:11:41.784Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105367075262775432",
+          "postId": "2105367075262775432",
+          "postedAt": "2026-09-30T18:40:01.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-15T22:11:41.784Z"
     }
   },
   "lastRun": {
@@ -51177,7 +51423,6 @@
     "2105822681476350005",
     "2105822440207327365",
     "2105822344015204625",
-    "2105413835637350486",
     "2105323520897024256",
     "2105303678785888760",
     "2105300383514103863",
@@ -51494,13 +51739,11 @@
     "2100799960619135313",
     "2100796979949514855",
     "2100766752594690064",
-    "2105401411366474233",
     "2105395534941053003",
     "2105390211702337986",
     "2105366822266528151",
     "2105363589427294645",
     "2105357508202131730",
-    "2105357264655884707",
     "2105354784148791344",
     "2105353976095105429",
     "2105352639995162682",
@@ -51702,7 +51945,20 @@
     "2108553118216777916",
     "2108543386550784058",
     "2108540428563931303",
-    "2108540200129564901"
+    "2108540200129564901",
+    "2105443489005912157",
+    "2105436020695031917",
+    "2105424534551540119",
+    "2105414387901084141",
+    "2105413835637350486",
+    "2105401411366474233",
+    "2105395319408328924",
+    "2105392745988980962",
+    "2105388950034788418",
+    "2105378958892241015",
+    "2105369251024687275",
+    "2105367075262775432",
+    "2105357264655884707"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -51739,9 +51995,9 @@
     },
     "a0153cbebcc5cf46": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
-      "posts": 294,
-      "uniquePosts": 136,
-      "newCandidates": 137,
+      "posts": 307,
+      "uniquePosts": 146,
+      "newCandidates": 145,
       "validationAttempts": 125,
       "accepted": 57
     }
