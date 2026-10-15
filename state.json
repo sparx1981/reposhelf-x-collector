@@ -50987,7 +50987,7 @@
     "ujesh2k/sih2026": {
       "full": "UJESH2K/sih2026",
       "firstSeenAt": "2026-10-15T22:11:41.784Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -51014,12 +51014,88 @@
           "repository": "UJESH2K/sih2026"
         }
       ],
-      "lastSeenAt": "2026-10-15T22:11:41.784Z"
+      "lastSeenAt": "2026-10-15T22:11:41.784Z",
+      "entry": {
+        "availability": "available",
+        "full": "UJESH2K/sih2026",
+        "name": "sih2026",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-28T04:19:48Z",
+        "updated": "2026-09-29T04:50:08Z",
+        "branch": "main",
+        "homepage": "https://sih2026-lemon.vercel.app",
+        "topics": [],
+        "demo": "https://sih2026-lemon.vercel.app/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-15T22:13:09.616Z",
+        "lastAvailableAt": "2026-10-15T22:13:09.616Z",
+        "lastAttemptAt": "2026-10-15T22:13:09.616Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105443489005912157",
+            "postId": "2105443489005912157",
+            "postedAt": "2026-09-30T23:43:39.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://sih2026-lemon.vercel.app/",
+          "attemptedAt": "2026-10-15T22:13:13.227Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-15T22:13:13.227Z",
+          "lastWorkingAt": "2026-10-15T22:13:13.227Z",
+          "target": "https://sih2026-lemon.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-22T22:13:13.227Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/6a45a9e2f00c2d4d9541b890.jpg",
+            "kind": "demo",
+            "url": "https://sih2026-lemon.vercel.app/",
+            "capturedAt": "2026-10-15T22:13:13.227Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-15T22:13:13.227Z",
+        "previewCheck": {
+          "url": "https://sih2026-lemon.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-15T22:13:13.227Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-22T22:13:13.228Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-17T10:13:13.229Z",
+      "checkedAt": "2026-10-15T22:13:13.229Z",
+      "firstAcceptedAt": "2026-10-15T22:13:13.229Z"
     },
     "warthog-network/fair-batch-matching": {
       "full": "warthog-network/fair-batch-matching",
       "firstSeenAt": "2026-10-15T22:11:41.784Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -51038,7 +51114,94 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-15T22:11:41.784Z"
+      "lastSeenAt": "2026-10-15T22:11:41.784Z",
+      "entry": {
+        "availability": "available",
+        "full": "warthog-network/fair-batch-matching",
+        "name": "fair-batch-matching",
+        "description": "CoinFu MasterShifu's Fair Batch Matching (FBM) engine included in Warthog Network for MEV-proof DeFi. Price is determined by supply and demand AND also pool liquidity.",
+        "category": "Finance",
+        "language": "C++",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-29T19:09:40Z",
+        "updated": "2026-10-10T06:57:55Z",
+        "license": "MIT",
+        "branch": "master",
+        "homepage": "https://www.npmjs.com/package/warthog-fbm",
+        "topics": [],
+        "demo": "https://warthog.network/defi-demo",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-15T22:13:38.060Z",
+        "lastAvailableAt": "2026-10-15T22:13:38.060Z",
+        "lastAttemptAt": "2026-10-15T22:13:38.060Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105436020695031917",
+            "postId": "2105436020695031917",
+            "postedAt": "2026-09-30T23:13:59.000Z"
+          }
+        ],
+        "subjects": [
+          "Crypto & blockchain"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Finance",
+          "subjects": [
+            "Crypto & blockchain"
+          ],
+          "evidence": [
+            {
+              "subject": "Crypto & blockchain",
+              "source": "metadata",
+              "match": "DeFi"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://warthog.network/defi-demo",
+          "attemptedAt": "2026-10-15T22:13:42.179Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-15T22:13:42.179Z",
+          "lastWorkingAt": "2026-10-15T22:13:42.179Z",
+          "target": "https://warthog.network/defi-demo",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-22T22:13:42.179Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/f760124f2d25ba0b396e2e2d.jpg",
+            "kind": "demo",
+            "url": "https://warthog.network/defi-demo",
+            "capturedAt": "2026-10-15T22:13:42.179Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-15T22:13:42.179Z",
+        "previewCheck": {
+          "url": "https://warthog.network/defi-demo",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-15T22:13:42.179Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-22T22:13:42.180Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-17T10:13:42.181Z",
+      "checkedAt": "2026-10-15T22:13:42.181Z",
+      "firstAcceptedAt": "2026-10-15T22:13:42.181Z"
     },
     "locdex/locdex": {
       "full": "Locdex/Locdex",
@@ -51067,7 +51230,7 @@
     "onospeter/forgemind": {
       "full": "ONOSPETER/Forgemind",
       "firstSeenAt": "2026-10-15T22:11:41.784Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -51094,12 +51257,88 @@
           "repository": "ONOSPETER/Forgemind"
         }
       ],
-      "lastSeenAt": "2026-10-15T22:11:41.784Z"
+      "lastSeenAt": "2026-10-15T22:11:41.784Z",
+      "entry": {
+        "availability": "available",
+        "full": "ONOSPETER/Forgemind",
+        "name": "Forgemind",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-30T07:23:49Z",
+        "updated": "2026-09-30T10:08:15Z",
+        "branch": "main",
+        "homepage": "https://replit.com/@patrickobiegba/ForgeMind-memory-dev-partner",
+        "topics": [],
+        "demo": "https://forge-mind-memory-dev-partner--patrickobiegba.replit.app/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-15T22:13:14.248Z",
+        "lastAvailableAt": "2026-10-15T22:13:14.248Z",
+        "lastAttemptAt": "2026-10-15T22:13:14.248Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105414387901084141",
+            "postId": "2105414387901084141",
+            "postedAt": "2026-09-30T21:48:01.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://forge-mind-memory-dev-partner--patrickobiegba.replit.app/",
+          "attemptedAt": "2026-10-15T22:13:19.842Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-15T22:13:19.842Z",
+          "lastWorkingAt": "2026-10-15T22:13:19.842Z",
+          "target": "https://forge-mind-memory-dev-partner--patrickobiegba.replit.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-22T22:13:19.842Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/a14ecc56cd669a954a9b7ef6.jpg",
+            "kind": "demo",
+            "url": "https://forge-mind-memory-dev-partner--patrickobiegba.replit.app/",
+            "capturedAt": "2026-10-15T22:13:19.842Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-15T22:13:19.842Z",
+        "previewCheck": {
+          "url": "https://forge-mind-memory-dev-partner--patrickobiegba.replit.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-15T22:13:19.842Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-22T22:13:19.843Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-17T10:13:19.843Z",
+      "checkedAt": "2026-10-15T22:13:19.843Z",
+      "firstAcceptedAt": "2026-10-15T22:13:19.843Z"
     },
     "transitive-bullshit/multipart-http-get-requests": {
       "full": "transitive-bullshit/multipart-http-get-requests",
       "firstSeenAt": "2026-10-15T22:11:41.784Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -51126,12 +51365,107 @@
           "repository": "transitive-bullshit/multipart-http-get-requests"
         }
       ],
-      "lastSeenAt": "2026-10-15T22:11:41.784Z"
+      "lastSeenAt": "2026-10-15T22:11:41.784Z",
+      "entry": {
+        "availability": "available",
+        "full": "transitive-bullshit/multipart-http-get-requests",
+        "name": "multipart-http-get-requests",
+        "description": "Allow agents to upload files using only HTTP GET requests – reliably and safely.",
+        "category": "AI & machine learning",
+        "language": "Python",
+        "stars": 1,
+        "forks": 0,
+        "created": "2026-09-30T12:54:50Z",
+        "updated": "2026-09-30T14:51:14Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "",
+        "topics": [
+          "ai-agents",
+          "http",
+          "http-get",
+          "image-uploads",
+          "media-uploads",
+          "multipart-upload",
+          "multipart-uploads"
+        ],
+        "demo": "https://burning-tokens.transitivebullsh.it/send",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-15T22:12:43.172Z",
+        "lastAvailableAt": "2026-10-15T22:12:43.172Z",
+        "lastAttemptAt": "2026-10-15T22:12:43.172Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105392745988980962",
+            "postId": "2105392745988980962",
+            "postedAt": "2026-09-30T20:22:01.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "agents"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://burning-tokens.transitivebullsh.it/send",
+          "attemptedAt": "2026-10-15T22:12:46.925Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-15T22:12:46.925Z",
+          "lastWorkingAt": "2026-10-15T22:12:46.925Z",
+          "target": "https://burning-tokens.transitivebullsh.it/send",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-22T22:12:46.925Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/91f12443c00f3d1c25a1f673.jpg",
+            "kind": "demo",
+            "url": "https://burning-tokens.transitivebullsh.it/send",
+            "capturedAt": "2026-10-15T22:12:46.925Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-15T22:12:46.925Z",
+        "previewCheck": {
+          "url": "https://burning-tokens.transitivebullsh.it/send",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-15T22:12:46.925Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-22T22:12:46.926Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-17T10:12:46.927Z",
+      "checkedAt": "2026-10-15T22:12:46.927Z",
+      "firstAcceptedAt": "2026-10-15T22:12:46.927Z"
     },
     "hackindiaxyz/pixels-to-products-cloudinary-ai-hackathon-2026-pixelyaad": {
       "full": "HackIndiaXYZ/pixels-to-products-cloudinary-ai-hackathon-2026-pixelyaad",
       "firstSeenAt": "2026-10-15T22:11:41.784Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -51158,12 +51492,83 @@
           "repository": "HackIndiaXYZ/pixels-to-products-cloudinary-ai-hackathon-2026-pixelyaad"
         }
       ],
-      "lastSeenAt": "2026-10-15T22:11:41.784Z"
+      "lastSeenAt": "2026-10-15T22:11:41.784Z",
+      "entry": {
+        "availability": "available",
+        "full": "HackIndiaXYZ/pixels-to-products-cloudinary-ai-hackathon-2026-pixelyaad",
+        "name": "pixels-to-products-cloudinary-ai-hackathon-2026-pixelyaad",
+        "description": "Hackathon team repository for Pixelyaad - [hackindia-team:pixels-to-products-cloudinary-ai-hackathon-2026:pixelyaad]",
+        "category": "AI & machine learning",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 1,
+        "created": "2026-09-26T20:24:09Z",
+        "updated": "2026-09-29T07:21:56Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [
+          "ai",
+          "cloudinary"
+        ],
+        "demo": "https://pixelyaad.onrender.com/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-15T22:13:20.830Z",
+        "lastAvailableAt": "2026-10-15T22:13:20.830Z",
+        "lastAttemptAt": "2026-10-15T22:13:20.830Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105378958892241015",
+            "postId": "2105378958892241015",
+            "postedAt": "2026-09-30T19:27:14.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://pixelyaad.onrender.com/",
+          "attemptedAt": "2026-10-15T22:13:21.525Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "http_503",
+            "at": "2026-10-15T22:13:21.525Z"
+          },
+          "nextCheckAt": "2026-10-16T00:13:21.525Z"
+        },
+        "previewAttemptAt": "2026-10-15T22:13:21.525Z",
+        "previewCheck": {
+          "url": "https://pixelyaad.onrender.com/",
+          "status": "retry",
+          "reason": "http_503",
+          "attemptedAt": "2026-10-15T22:13:21.525Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-16T00:13:21.525Z"
+        }
+      },
+      "reason": "http_503",
+      "nextAttemptAt": "2026-10-16T00:13:21.525Z",
+      "checkedAt": "2026-10-15T22:13:21.527Z"
     },
     "amir-abushanab/wave3d": {
-      "full": "amir-abushanab/wave3d",
+      "full": "Amir-Abushanab/wave3d",
       "firstSeenAt": "2026-10-15T22:11:41.784Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -51190,7 +51595,124 @@
           "repository": "amir-abushanab/wave3d"
         }
       ],
-      "lastSeenAt": "2026-10-15T22:11:41.784Z"
+      "lastSeenAt": "2026-10-15T22:11:41.784Z",
+      "entry": {
+        "availability": "available",
+        "full": "Amir-Abushanab/wave3d",
+        "name": "wave3d",
+        "description": "Open-source, browser-based studio for authoring and implementing 3D gradient waves  🌊",
+        "category": "Design",
+        "language": "TypeScript",
+        "stars": 2,
+        "forks": 0,
+        "created": "2026-07-08T11:28:21Z",
+        "updated": "2026-09-24T11:30:27Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://wave-studio.pages.dev",
+        "topics": [
+          "3d",
+          "animation",
+          "creative-coding",
+          "design-tools",
+          "generative-art",
+          "gradient",
+          "react",
+          "shaders",
+          "threejs",
+          "typescript",
+          "ui-components",
+          "ui-design",
+          "web-components",
+          "webgl",
+          "webgpu"
+        ],
+        "demo": "https://wave-studio.pages.dev/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-15T22:12:47.836Z",
+        "lastAvailableAt": "2026-10-15T22:12:47.836Z",
+        "lastAttemptAt": "2026-10-15T22:12:47.836Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105369251024687275",
+            "postId": "2105369251024687275",
+            "postedAt": "2026-09-30T18:48:39.000Z"
+          }
+        ],
+        "subjects": [
+          "Animation & motion",
+          "Templates & UI components",
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "Animation & motion",
+            "Templates & UI components",
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "Animation & motion",
+              "source": "metadata",
+              "match": "animation"
+            },
+            {
+              "subject": "Templates & UI components",
+              "source": "metadata",
+              "match": "ui components"
+            },
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "3D"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://wave-studio.pages.dev/",
+          "attemptedAt": "2026-10-15T22:13:08.573Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-15T22:13:08.573Z",
+          "lastWorkingAt": "2026-10-15T22:13:08.573Z",
+          "target": "https://wave-studio.pages.dev/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-22T22:13:08.573Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/db513231c7038cc3b46c0513.jpg",
+            "kind": "demo",
+            "url": "https://wave-studio.pages.dev/",
+            "capturedAt": "2026-10-15T22:13:08.573Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-15T22:13:08.573Z",
+        "previewCheck": {
+          "url": "https://wave-studio.pages.dev/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-15T22:13:08.573Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-22T22:13:08.574Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-17T10:13:08.575Z",
+      "checkedAt": "2026-10-15T22:13:08.575Z",
+      "firstAcceptedAt": "2026-10-15T22:13:08.575Z"
     },
     "knadh/listmonk": {
       "full": "knadh/listmonk",
@@ -51219,7 +51741,7 @@
     "jesterkeri/wrasse": {
       "full": "jesterkeri/wrasse",
       "firstSeenAt": "2026-10-15T22:11:48.566Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -51238,12 +51760,80 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-15T22:11:48.566Z"
+      "lastSeenAt": "2026-10-15T22:11:48.566Z",
+      "entry": {
+        "availability": "available",
+        "full": "jesterkeri/wrasse",
+        "name": "wrasse",
+        "description": "Two agents negotiate the same job on Base Sepolia. Their terms change because each remembers what the other did last time, verified on chain and held in Sibyl Memory.",
+        "category": "Other",
+        "language": "Python",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-06T13:37:42Z",
+        "updated": "2026-10-06T19:59:20Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://wrasse.vercel.app",
+        "topics": [],
+        "demo": "https://wrasse.vercel.app**/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-15T22:13:36.602Z",
+        "lastAvailableAt": "2026-10-15T22:13:36.602Z",
+        "lastAttemptAt": "2026-10-15T22:13:36.602Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2098562083604590900",
+            "postId": "2098562083604590900",
+            "postedAt": "2026-09-11T23:59:24.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://wrasse.vercel.app**/",
+          "attemptedAt": "2026-10-15T22:13:36.639Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "dns_unresolved",
+            "at": "2026-10-15T22:13:36.639Z"
+          },
+          "nextCheckAt": "2026-10-16T00:13:36.639Z"
+        },
+        "previewAttemptAt": "2026-10-15T22:13:36.639Z",
+        "previewCheck": {
+          "url": "https://wrasse.vercel.app**/",
+          "status": "retry",
+          "reason": "dns_unresolved",
+          "attemptedAt": "2026-10-15T22:13:36.639Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-16T00:13:36.639Z"
+        }
+      },
+      "reason": "dns_unresolved",
+      "nextAttemptAt": "2026-10-16T00:13:36.639Z",
+      "checkedAt": "2026-10-15T22:13:36.640Z"
     },
     "safzanpirani/gpu-query": {
       "full": "safzanpirani/gpu-query",
       "firstSeenAt": "2026-10-15T22:11:48.566Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -51270,12 +51860,89 @@
           "repository": "safzanpirani/gpu-query"
         }
       ],
-      "lastSeenAt": "2026-10-15T22:11:48.566Z"
+      "lastSeenAt": "2026-10-15T22:11:48.566Z",
+      "entry": {
+        "availability": "available",
+        "full": "safzanpirani/gpu-query",
+        "name": "gpu-query",
+        "description": "An experimental neural parser for app search bars. Turns a typed phrase into a structured filter without ever learning your field names.",
+        "category": "Education",
+        "language": "Python",
+        "stars": 11,
+        "forks": 0,
+        "created": "2026-09-11T21:43:44Z",
+        "updated": "2026-09-12T06:26:58Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://gpu-query.vercel.app",
+        "topics": [],
+        "demo": "https://gpu-query.vercel.app/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-15T22:12:34.551Z",
+        "lastAvailableAt": "2026-10-15T22:12:34.551Z",
+        "lastAttemptAt": "2026-10-15T22:12:34.551Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2098539349025652806",
+            "postId": "2098539349025652806",
+            "postedAt": "2026-09-11T22:29:04.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Education",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://gpu-query.vercel.app/",
+          "attemptedAt": "2026-10-15T22:12:38.061Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-15T22:12:38.061Z",
+          "lastWorkingAt": "2026-10-15T22:12:38.061Z",
+          "target": "https://gpu-query.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-22T22:12:38.061Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/e524300a3ccd584141d684fe.jpg",
+            "kind": "demo",
+            "url": "https://gpu-query.vercel.app/",
+            "capturedAt": "2026-10-15T22:12:38.061Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-15T22:12:38.061Z",
+        "previewCheck": {
+          "url": "https://gpu-query.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-15T22:12:38.061Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-22T22:12:38.061Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-17T10:12:38.062Z",
+      "checkedAt": "2026-10-15T22:12:38.062Z",
+      "firstAcceptedAt": "2026-10-15T22:12:38.062Z"
     },
     "latheon-network/latheon": {
-      "full": "latheon-network/latheon",
+      "full": "latheon-network/Latheon",
       "firstSeenAt": "2026-10-15T22:11:48.566Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -51294,12 +51961,89 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-15T22:11:48.566Z"
+      "lastSeenAt": "2026-10-15T22:11:48.566Z",
+      "entry": {
+        "availability": "available",
+        "full": "latheon-network/Latheon",
+        "name": "Latheon",
+        "description": "Private by default. Verifiable on demand.",
+        "category": "Other",
+        "language": "HTML",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-08-10T19:11:00Z",
+        "updated": "2026-10-15T18:01:52Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://latheon.xyz/demo",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-15T22:13:26.071Z",
+        "lastAvailableAt": "2026-10-15T22:13:26.071Z",
+        "lastAttemptAt": "2026-10-15T22:13:26.071Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2098499066112152053",
+            "postId": "2098499066112152053",
+            "postedAt": "2026-09-11T19:49:00.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://latheon.xyz/demo",
+          "attemptedAt": "2026-10-15T22:13:31.464Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-15T22:13:31.464Z",
+          "lastWorkingAt": "2026-10-15T22:13:31.464Z",
+          "target": "https://latheon.xyz/demo/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-22T22:13:31.464Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/3ef6aedfe922b21bfbb227bb.jpg",
+            "kind": "demo",
+            "url": "https://latheon.xyz/demo",
+            "capturedAt": "2026-10-15T22:13:31.464Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-15T22:13:31.464Z",
+        "previewCheck": {
+          "url": "https://latheon.xyz/demo",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-15T22:13:31.464Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-22T22:13:31.465Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-17T10:13:31.466Z",
+      "checkedAt": "2026-10-15T22:13:31.466Z",
+      "firstAcceptedAt": "2026-10-15T22:13:31.466Z"
     },
     "remix-run/remix": {
       "full": "remix-run/remix",
       "firstSeenAt": "2026-10-15T22:11:48.566Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -51318,12 +52062,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-15T22:11:48.566Z"
+      "lastSeenAt": "2026-10-15T22:11:48.566Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T22:13:43.088Z"
     },
     "skyeshark/eanpa-sky": {
       "full": "SkyeShark/Eanpa-Sky",
       "firstSeenAt": "2026-10-15T22:11:48.566Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -51350,12 +52096,99 @@
           "repository": "SkyeShark/Eanpa-Sky"
         }
       ],
-      "lastSeenAt": "2026-10-15T22:11:48.566Z"
+      "lastSeenAt": "2026-10-15T22:11:48.566Z",
+      "entry": {
+        "availability": "available",
+        "full": "SkyeShark/Eanpa-Sky",
+        "name": "Eanpa-Sky",
+        "description": "A *completely free* robust volumetric cloud sky, day cycle and weather system for threejs. Comes complete with three skybox options, standard earth and two sci-fi versions as well as a full weather system!",
+        "category": "Design",
+        "language": "JavaScript",
+        "stars": 55,
+        "forks": 6,
+        "created": "2026-08-03T22:39:40Z",
+        "updated": "2026-09-13T05:49:41Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "",
+        "topics": [],
+        "demo": "https://skyeshark.github.io/Eanpa-Sky/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-15T22:12:30.570Z",
+        "lastAvailableAt": "2026-10-15T22:12:30.570Z",
+        "lastAttemptAt": "2026-10-15T22:12:30.570Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2098425404591841298",
+            "postId": "2098425404591841298",
+            "postedAt": "2026-09-11T14:56:17.000Z"
+          }
+        ],
+        "subjects": [
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "threejs"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://skyeshark.github.io/Eanpa-Sky/",
+          "attemptedAt": "2026-10-15T22:12:33.679Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-15T22:12:33.679Z",
+          "lastWorkingAt": "2026-10-15T22:12:33.679Z",
+          "target": "https://skyeshark.github.io/Eanpa-Sky/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-22T22:12:33.679Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/833c874b2bc7ba530c261bd6.jpg",
+            "kind": "demo",
+            "url": "https://skyeshark.github.io/Eanpa-Sky/",
+            "capturedAt": "2026-10-15T22:12:33.679Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-15T22:12:33.679Z",
+        "previewCheck": {
+          "url": "https://skyeshark.github.io/Eanpa-Sky/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-15T22:12:33.679Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-22T22:12:33.680Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-17T10:12:33.681Z",
+      "checkedAt": "2026-10-15T22:12:33.681Z",
+      "firstAcceptedAt": "2026-10-15T22:12:33.681Z"
     },
     "tsotchke/moonlab": {
       "full": "tsotchke/moonlab",
       "firstSeenAt": "2026-10-15T22:11:48.566Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -51374,12 +52207,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-15T22:11:48.566Z"
+      "lastSeenAt": "2026-10-15T22:11:48.566Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T22:13:23.472Z"
     },
     "defileoo/yoink": {
       "full": "DefiLeoo/YOINK",
       "firstSeenAt": "2026-10-15T22:11:48.566Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -51398,12 +52233,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-15T22:11:48.566Z"
+      "lastSeenAt": "2026-10-15T22:11:48.566Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T22:13:22.143Z"
     },
     "dedoc/scramble": {
       "full": "dedoc/scramble",
       "firstSeenAt": "2026-10-15T22:11:48.566Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -51422,7 +52259,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-15T22:11:48.566Z"
+      "lastSeenAt": "2026-10-15T22:11:48.566Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T22:13:25.177Z"
     },
     "atomicx7/duo-animation": {
       "full": "Atomicx7/Duo-animation",
@@ -51451,7 +52290,7 @@
     "rice-robotpi-lab/robotok-code": {
       "full": "Rice-RobotPI-Lab/RoboTok-Code",
       "firstSeenAt": "2026-10-15T22:11:48.566Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -51484,12 +52323,89 @@
           "repository": "Rice-RobotPI-Lab/RoboTok-Code"
         }
       ],
-      "lastSeenAt": "2026-10-15T22:11:48.566Z"
+      "lastSeenAt": "2026-10-15T22:11:48.566Z",
+      "entry": {
+        "availability": "available",
+        "full": "Rice-RobotPI-Lab/RoboTok-Code",
+        "name": "RoboTok-Code",
+        "description": "Explore this public GitHub project.",
+        "category": "Developer tools",
+        "language": "Python",
+        "stars": 55,
+        "forks": 4,
+        "created": "2026-08-31T14:50:11Z",
+        "updated": "2026-09-25T16:16:41Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://rice-robotpi-lab.github.io/RoboTok/",
+        "topics": [],
+        "demo": "https://rice-robotpi-lab.github.io/RoboTok/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-15T22:12:38.809Z",
+        "lastAvailableAt": "2026-10-15T22:12:38.809Z",
+        "lastAttemptAt": "2026-10-15T22:12:38.809Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2098118188277866865",
+            "postId": "2098118188277866865",
+            "postedAt": "2026-09-10T18:35:31.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://rice-robotpi-lab.github.io/RoboTok/",
+          "attemptedAt": "2026-10-15T22:12:42.246Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-15T22:12:42.246Z",
+          "lastWorkingAt": "2026-10-15T22:12:42.246Z",
+          "target": "https://rice-robotpi-lab.github.io/RoboTok/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-22T22:12:42.246Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/b7ad0cae0e4dbb73378c386d.jpg",
+            "kind": "demo",
+            "url": "https://rice-robotpi-lab.github.io/RoboTok/",
+            "capturedAt": "2026-10-15T22:12:42.246Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-15T22:12:42.246Z",
+        "previewCheck": {
+          "url": "https://rice-robotpi-lab.github.io/RoboTok/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-15T22:12:42.246Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-22T22:12:42.247Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-17T10:12:42.247Z",
+      "checkedAt": "2026-10-15T22:12:42.247Z",
+      "firstAcceptedAt": "2026-10-15T22:12:42.247Z"
     },
     "t8y2/dbx": {
       "full": "t8y2/dbx",
       "firstSeenAt": "2026-10-15T22:11:48.566Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -51506,12 +52422,14 @@
         "replies": 1,
         "quotes": 1
       },
-      "lastSeenAt": "2026-10-15T22:11:48.566Z"
+      "lastSeenAt": "2026-10-15T22:11:48.566Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T22:13:45.101Z"
     },
     "dmtrkovalenko/fff": {
       "full": "dmtrKovalenko/fff",
       "firstSeenAt": "2026-10-15T22:11:48.566Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -51528,12 +52446,14 @@
         "replies": 1,
         "quotes": 1
       },
-      "lastSeenAt": "2026-10-15T22:11:48.566Z"
+      "lastSeenAt": "2026-10-15T22:11:48.566Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T22:13:46.095Z"
     },
     "vercel-labs/agent-browser": {
       "full": "vercel-labs/agent-browser",
       "firstSeenAt": "2026-10-15T22:11:48.566Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -51550,7 +52470,9 @@
         "replies": 1,
         "quotes": 1
       },
-      "lastSeenAt": "2026-10-15T22:11:48.566Z"
+      "lastSeenAt": "2026-10-15T22:11:48.566Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T22:13:47.290Z"
     },
     "supermemoryai/supermemory": {
       "full": "supermemoryai/supermemory",
@@ -51599,7 +52521,7 @@
     "rudi-cilibrasi/leanos": {
       "full": "rudi-cilibrasi/leanos",
       "firstSeenAt": "2026-10-15T22:11:48.566Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -51618,12 +52540,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-15T22:11:48.566Z"
+      "lastSeenAt": "2026-10-15T22:11:48.566Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T22:13:44.484Z"
     },
     "dimuuu/sticker": {
       "full": "dimuuu/sticker",
       "firstSeenAt": "2026-10-15T22:11:48.566Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -51642,7 +52566,99 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-15T22:11:48.566Z"
+      "lastSeenAt": "2026-10-15T22:11:48.566Z",
+      "entry": {
+        "availability": "available",
+        "full": "dimuuu/sticker",
+        "name": "sticker",
+        "description": "Die-cut stickers that lift and tear the HTML beneath them. A small WebGL paper experiment.",
+        "category": "Design",
+        "language": "JavaScript",
+        "stars": 2,
+        "forks": 0,
+        "created": "2026-09-09T19:09:39Z",
+        "updated": "2026-09-09T20:48:31Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://dimuuu.github.io/sticker/",
+        "topics": [
+          "creative-coding",
+          "html2canvas",
+          "javascript",
+          "webgl"
+        ],
+        "demo": "https://dimuuu.github.io/sticker/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-15T22:13:32.397Z",
+        "lastAvailableAt": "2026-10-15T22:13:32.397Z",
+        "lastAttemptAt": "2026-10-15T22:13:32.397Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2097790464908726651",
+            "postId": "2097790464908726651",
+            "postedAt": "2026-09-09T20:53:16.000Z"
+          }
+        ],
+        "subjects": [
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "WebGL"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://dimuuu.github.io/sticker/",
+          "attemptedAt": "2026-10-15T22:13:35.695Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-15T22:13:35.695Z",
+          "lastWorkingAt": "2026-10-15T22:13:35.695Z",
+          "target": "https://dimuuu.github.io/sticker/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-22T22:13:35.695Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/ed8aa3673b6e34faf93cad14.jpg",
+            "kind": "demo",
+            "url": "https://dimuuu.github.io/sticker/",
+            "capturedAt": "2026-10-15T22:13:35.695Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-15T22:13:35.695Z",
+        "previewCheck": {
+          "url": "https://dimuuu.github.io/sticker/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-15T22:13:35.695Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-22T22:13:35.696Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-17T10:13:35.697Z",
+      "checkedAt": "2026-10-15T22:13:35.697Z",
+      "firstAcceptedAt": "2026-10-15T22:13:35.697Z"
     }
   },
   "lastRun": {
@@ -52438,8 +53454,8 @@
       "posts": 176,
       "uniquePosts": 173,
       "newCandidates": 197,
-      "validationAttempts": 180,
-      "accepted": 72
+      "validationAttempts": 194,
+      "accepted": 77
     },
     "ac3eb65e96558e14": {
       "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
@@ -52462,8 +53478,8 @@
       "posts": 307,
       "uniquePosts": 146,
       "newCandidates": 145,
-      "validationAttempts": 125,
-      "accepted": 57
+      "validationAttempts": 131,
+      "accepted": 62
     }
   },
   "demoSeeds": {
@@ -52917,7 +53933,7 @@
         "replies": 1,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-15T11:52:08.377Z",
+      "nextAttemptAt": "2026-10-16T22:12:29.476Z",
       "reason": "temporary_error"
     },
     "https://elon-musk12.github.io/Elon-X-capital/": {
@@ -53034,6 +54050,6 @@
   "lastDemoDiscovery": {
     "checked": 1,
     "resolved": 0,
-    "at": "2026-10-14T11:52:08.415Z"
+    "at": "2026-10-15T22:12:29.519Z"
   }
 }

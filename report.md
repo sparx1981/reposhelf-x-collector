@@ -1,18 +1,18 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-15T11:29:58.887Z
+Checked: 2026-10-15T22:13:47.306Z
 
-Quality-ready repositories: **21**
+Quality-ready repositories: **22**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 384 | 220 | 145 | 46 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 161 | 158 | 180 | 72 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 176 | 173 | 197 | 77 |
 | (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 20 |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 150 | 16 | 10 | 3 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 276 | 136 | 137 | 57 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 307 | 146 | 145 | 62 |
 
 Acceptance totals are attributed to the first discovery query; these are not controlled experiments.
 
@@ -21,15 +21,6 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [laoxin99/cognitive-bridge-v0-public](https://github.com/laoxin99/cognitive-bridge-v0-public) | [Try demo](https://laoxin99.github.io/index.html) | [Screenshot](previews/5fa1166dee131b8b9e8e1660.jpg) | [Source](https://x.com/i/web/status/2105890744401793118) |
 | [rohitcn-hub/thermacompute-crashlens](https://github.com/rohitcn-hub/thermacompute-crashlens) | [Try demo](https://crashlens-demo.rohitc-n474269.chatgpt.site/) | [Screenshot](previews/e0c5f098110a25463d108740.jpg) | [Source](https://x.com/i/web/status/2105690149460054073) |
 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [Try demo](https://latent-spaces.github.io/brag/) | [Screenshot](previews/266c6fabfe3497d42b3533dc.jpg) | [Source](https://x.com/i/web/status/2105639188322189606) |
-| [isaac-mason/scifi-fetch-quest](https://github.com/isaac-mason/scifi-fetch-quest) | [Try demo](https://isaac-mason.github.io/scifi-fetch-quest/) | [Screenshot](previews/9289b75ef3c1d3697738b581.jpg) | [Source](https://x.com/i/web/status/2100050524842475874) |
-| [SamG-Coder/vapor-cuda-boiling-lab](https://github.com/SamG-Coder/vapor-cuda-boiling-lab) | [Try demo](https://samg-coder.github.io/vapor-cuda-boiling-lab/) | [Screenshot](previews/28375cb2833263edbb5a90f9.jpg) | [Source](https://x.com/i/web/status/2099785823059312799) |
-| [SamG-Coder/cuda-webshader](https://github.com/SamG-Coder/cuda-webshader) | [Try demo](https://samg-coder.github.io/cuda-webshader/) | [Screenshot](previews/2ea73efc450526e98f66671e.jpg) | [Source](https://x.com/i/web/status/2099785823059312799) |
-| [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | [Try demo](https://vincentwei1021.github.io/video-shotcraft/) | [Screenshot](previews/8edb6666c4aa5e4c11966d3d.jpg) | [Source](https://x.com/i/web/status/2099770249373729128) |
-| [SamG-Coder/xylem-cuda](https://github.com/SamG-Coder/xylem-cuda) | [Try demo](https://samg-coder.github.io/xylem-cuda/) | [Screenshot](previews/2a90ceeed3c751bae42b031d.jpg) | [Source](https://x.com/i/web/status/2099668340579164637) |
-| [Jack-Of-Aces/dev-ledgr](https://github.com/Jack-Of-Aces/dev-ledgr) | [Try demo](https://dev-ledgr-ten.vercel.app/) | [Screenshot](previews/e9bfc4e12a071bd7d7435185.jpg) | [Source](https://x.com/i/web/status/2105613022764904618) |
-| [edankwan/The-Spirit](https://github.com/edankwan/The-Spirit) | [Try demo](http://www.edankwan.com/experiments/the-spirit/) | [Screenshot](previews/ba2806bbb6fdd23d5f428525.jpg) | [Source](https://x.com/i/web/status/2105604716168384862) |
-| [divyanshudhruv/oev](https://github.com/divyanshudhruv/oev) | [Try demo](https://huggingface.co/spaces/divyanshudhruv/oev-demo) | [Screenshot](previews/c97e8dc399a124f4bd6c1ca2.jpg) | [Source](https://x.com/i/web/status/2105602004316016812) |
-| [Dare0x/ScopePay](https://github.com/Dare0x/ScopePay) | [Try demo](https://scopepay-arbitrum.vercel.app/) | [Screenshot](previews/1750dba6959a06a53bdb6426.jpg) | [Source](https://x.com/i/web/status/2105601557337419821) |
 | [SamG-Coder/grain-cuda-sand](https://github.com/SamG-Coder/grain-cuda-sand) | [Try demo](https://samg-coder.github.io/grain-cuda-sand/) | [Screenshot](previews/59f19894bd66205b7b34e5ea.jpg) | [Source](https://x.com/i/web/status/2099394564868210819) |
 | [ashemag/fly-brain-atlas](https://github.com/ashemag/fly-brain-atlas) | [Try demo](https://fly-brain-atlas.vercel.app/) | [Screenshot](previews/40d57ee460ce0ee1ead929c3.jpg) | [Source](https://x.com/i/web/status/2099128503543181495) |
 | [ChijiokeDivine/remitcredit](https://github.com/ChijiokeDivine/remitcredit) | [Try demo](https://remitcredit.vercel.app/) | [Screenshot](previews/3cd94b4503646d5dfb67a9f7.jpg) | [Source](https://x.com/i/web/status/2098939852121079826) |
@@ -39,5 +30,15 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [alkas79/reliable-agent](https://github.com/alkas79/reliable-agent) | [Try demo](https://buttondown.com/alkasbuilds?tag=x) | [Screenshot](previews/93fcb6487ef711841e22cf66.jpg) | [Source](https://x.com/i/web/status/2105559348965527660) |
 | [maixuancanh/market-royale-nansen](https://github.com/maixuancanh/market-royale-nansen) | [Try demo](https://market-royale-nansen-web.market-royal.workers.dev/arena) | [Screenshot](previews/3807d49717b33d8c212c4f11.jpg) | [Source](https://x.com/i/web/status/2105492495140589575) |
 | [pmndrs/math](https://github.com/pmndrs/math) | [Try demo](https://pmndrs.github.io/math/) | [Screenshot](previews/fb9323b387e90b87f129ed8f.jpg) | [Source](https://x.com/i/web/status/2105481476443709820) |
+| [UJESH2K/sih2026](https://github.com/UJESH2K/sih2026) | [Try demo](https://sih2026-lemon.vercel.app/) | [Screenshot](previews/6a45a9e2f00c2d4d9541b890.jpg) | [Source](https://x.com/i/web/status/2105443489005912157) |
+| [warthog-network/fair-batch-matching](https://github.com/warthog-network/fair-batch-matching) | [Try demo](https://warthog.network/defi-demo) | [Screenshot](previews/f760124f2d25ba0b396e2e2d.jpg) | [Source](https://x.com/i/web/status/2105436020695031917) |
+| [ONOSPETER/Forgemind](https://github.com/ONOSPETER/Forgemind) | [Try demo](https://forge-mind-memory-dev-partner--patrickobiegba.replit.app/) | [Screenshot](previews/a14ecc56cd669a954a9b7ef6.jpg) | [Source](https://x.com/i/web/status/2105414387901084141) |
+| [transitive-bullshit/multipart-http-get-requests](https://github.com/transitive-bullshit/multipart-http-get-requests) | [Try demo](https://burning-tokens.transitivebullsh.it/send) | [Screenshot](previews/91f12443c00f3d1c25a1f673.jpg) | [Source](https://x.com/i/web/status/2105392745988980962) |
+| [Amir-Abushanab/wave3d](https://github.com/Amir-Abushanab/wave3d) | [Try demo](https://wave-studio.pages.dev/) | [Screenshot](previews/db513231c7038cc3b46c0513.jpg) | [Source](https://x.com/i/web/status/2105369251024687275) |
+| [safzanpirani/gpu-query](https://github.com/safzanpirani/gpu-query) | [Try demo](https://gpu-query.vercel.app/) | [Screenshot](previews/e524300a3ccd584141d684fe.jpg) | [Source](https://x.com/i/web/status/2098539349025652806) |
+| [latheon-network/Latheon](https://github.com/latheon-network/Latheon) | [Try demo](https://latheon.xyz/demo) | [Screenshot](previews/3ef6aedfe922b21bfbb227bb.jpg) | [Source](https://x.com/i/web/status/2098499066112152053) |
+| [SkyeShark/Eanpa-Sky](https://github.com/SkyeShark/Eanpa-Sky) | [Try demo](https://skyeshark.github.io/Eanpa-Sky/) | [Screenshot](previews/833c874b2bc7ba530c261bd6.jpg) | [Source](https://x.com/i/web/status/2098425404591841298) |
+| [Rice-RobotPI-Lab/RoboTok-Code](https://github.com/Rice-RobotPI-Lab/RoboTok-Code) | [Try demo](https://rice-robotpi-lab.github.io/RoboTok/) | [Screenshot](previews/b7ad0cae0e4dbb73378c386d.jpg) | [Source](https://x.com/i/web/status/2098118188277866865) |
+| [dimuuu/sticker](https://github.com/dimuuu/sticker) | [Try demo](https://dimuuu.github.io/sticker/) | [Screenshot](previews/ed8aa3673b6e34faf93cad14.jpg) | [Source](https://x.com/i/web/status/2097790464908726651) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.

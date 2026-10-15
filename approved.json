@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-15T11:29:58.887Z",
+  "updatedAt": "2026-10-15T22:13:47.306Z",
   "runtimeRevision": "ed71211be3a262dd1b928f3740f110b041b3708e",
   "checked": 20,
   "repositories": [
@@ -277,823 +277,6 @@
         "attemptedAt": "2026-10-14T11:53:09.868Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-21T11:53:09.869Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "isaac-mason/scifi-fetch-quest",
-      "name": "scifi-fetch-quest",
-      "description": "Explore this public GitHub project.",
-      "category": "Other",
-      "language": "TypeScript",
-      "stars": 13,
-      "forks": 0,
-      "created": "2026-07-24T04:45:50Z",
-      "updated": "2026-09-16T02:32:10Z",
-      "branch": "main",
-      "homepage": "https://isaac-mason.github.io/scifi-fetch-quest/",
-      "topics": [],
-      "demo": "https://isaac-mason.github.io/scifi-fetch-quest/",
-      "color": "#193546",
-      "ink": "#a6d6e8",
-      "lastCheckedAt": "2026-10-13T14:12:07.601Z",
-      "lastAvailableAt": "2026-10-13T14:12:07.601Z",
-      "lastAttemptAt": "2026-10-13T14:12:07.601Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2100050524842475874",
-          "postId": "2100050524842475874",
-          "postedAt": "2026-09-16T02:33:56.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://isaac-mason.github.io/scifi-fetch-quest/",
-        "attemptedAt": "2026-10-13T14:12:14.372Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-13T14:12:14.372Z",
-        "lastWorkingAt": "2026-10-13T14:12:14.372Z",
-        "target": "https://isaac-mason.github.io/scifi-fetch-quest/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-20T14:12:14.372Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/9289b75ef3c1d3697738b581.jpg",
-          "kind": "demo",
-          "url": "https://isaac-mason.github.io/scifi-fetch-quest/",
-          "capturedAt": "2026-10-13T14:12:14.372Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-13T14:12:14.372Z",
-      "previewCheck": {
-        "url": "https://isaac-mason.github.io/scifi-fetch-quest/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-13T14:12:14.372Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-20T14:12:14.372Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "SamG-Coder/vapor-cuda-boiling-lab",
-      "name": "vapor-cuda-boiling-lab",
-      "description": "CUDA-authored boiling water, liquid markers and volumetric mist in Three.js WebGPU.",
-      "category": "Design",
-      "language": "WGSL",
-      "stars": 1,
-      "forks": 0,
-      "created": "2026-09-15T08:55:10Z",
-      "updated": "2026-09-15T09:00:27Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "https://samg-coder.github.io/vapor-cuda-boiling-lab/",
-      "topics": [
-        "cuda",
-        "fluid-simulation",
-        "threejs",
-        "webgpu"
-      ],
-      "demo": "https://samg-coder.github.io/vapor-cuda-boiling-lab/",
-      "color": "#193546",
-      "ink": "#a6d6e8",
-      "lastCheckedAt": "2026-10-13T14:12:31.433Z",
-      "lastAvailableAt": "2026-10-13T14:12:31.433Z",
-      "lastAttemptAt": "2026-10-13T14:12:31.433Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2099785823059312799",
-          "postId": "2099785823059312799",
-          "postedAt": "2026-09-15T09:02:07.000Z"
-        }
-      ],
-      "subjects": [
-        "Simulation & physics",
-        "3D & graphics"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Design",
-        "subjects": [
-          "Simulation & physics",
-          "3D & graphics"
-        ],
-        "evidence": [
-          {
-            "subject": "Simulation & physics",
-            "source": "metadata",
-            "match": "simulation"
-          },
-          {
-            "subject": "3D & graphics",
-            "source": "metadata",
-            "match": "WebGPU"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://samg-coder.github.io/vapor-cuda-boiling-lab/",
-        "attemptedAt": "2026-10-13T14:12:35.684Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-13T14:12:35.684Z",
-        "lastWorkingAt": "2026-10-13T14:12:35.684Z",
-        "target": "https://samg-coder.github.io/vapor-cuda-boiling-lab/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-20T14:12:35.684Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/28375cb2833263edbb5a90f9.jpg",
-          "kind": "demo",
-          "url": "https://samg-coder.github.io/vapor-cuda-boiling-lab/",
-          "capturedAt": "2026-10-13T14:12:35.684Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-13T14:12:35.684Z",
-      "previewCheck": {
-        "url": "https://samg-coder.github.io/vapor-cuda-boiling-lab/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-13T14:12:35.684Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-20T14:12:35.685Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "SamG-Coder/cuda-webshader",
-      "name": "cuda-webshader",
-      "description": "CUDA → WebGPU showcase explorer. Run NVIDIA sine-wave and particle demos in your browser; compare verified native CUDA benchmarks. MIT project.",
-      "category": "Design",
-      "language": "Cuda",
-      "stars": 11,
-      "forks": 0,
-      "created": "2026-09-11T21:46:44Z",
-      "updated": "2026-10-04T22:40:12Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "https://samg-coder.github.io/cuda-webshader/",
-      "topics": [],
-      "demo": "https://samg-coder.github.io/cuda-webshader/",
-      "color": "#193546",
-      "ink": "#a6d6e8",
-      "lastCheckedAt": "2026-10-13T14:12:21.557Z",
-      "lastAvailableAt": "2026-10-13T14:12:21.557Z",
-      "lastAttemptAt": "2026-10-13T14:12:21.557Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2099785823059312799",
-          "postId": "2099785823059312799",
-          "postedAt": "2026-09-15T09:02:07.000Z"
-        },
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2099668340579164637",
-          "postId": "2099668340579164637",
-          "postedAt": "2026-09-15T01:15:17.000Z"
-        },
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2099658065973002384",
-          "postId": "2099658065973002384",
-          "postedAt": "2026-09-15T00:34:27.000Z"
-        }
-      ],
-      "subjects": [
-        "3D & graphics"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Design",
-        "subjects": [
-          "3D & graphics"
-        ],
-        "evidence": [
-          {
-            "subject": "3D & graphics",
-            "source": "metadata",
-            "match": "WebGPU"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://samg-coder.github.io/cuda-webshader/",
-        "attemptedAt": "2026-10-13T14:12:24.853Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-13T14:12:24.853Z",
-        "lastWorkingAt": "2026-10-13T14:12:24.853Z",
-        "target": "https://samg-coder.github.io/cuda-webshader/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-20T14:12:24.853Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/2ea73efc450526e98f66671e.jpg",
-          "kind": "demo",
-          "url": "https://samg-coder.github.io/cuda-webshader/",
-          "capturedAt": "2026-10-13T14:12:24.853Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-13T14:12:24.853Z",
-      "previewCheck": {
-        "url": "https://samg-coder.github.io/cuda-webshader/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-13T14:12:24.853Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-20T14:12:24.854Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "Vincentwei1021/video-shotcraft",
-      "name": "video-shotcraft",
-      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
-      "category": "Design",
-      "language": "TypeScript",
-      "stars": 11675,
-      "forks": 1040,
-      "created": "2026-07-19T11:44:41Z",
-      "updated": "2026-10-13T07:09:41Z",
-      "license": "Apache-2.0",
-      "branch": "main",
-      "homepage": "https://vincentwei1021.github.io/video-shotcraft/",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "ai-video",
-        "claude-code",
-        "claude-code-skills",
-        "claude-skills",
-        "codex",
-        "motion-design",
-        "motion-graphics",
-        "product-video",
-        "promo-video",
-        "remotion",
-        "video-generation",
-        "video-production"
-      ],
-      "demo": "https://vincentwei1021.github.io/video-shotcraft/",
-      "color": "#302e55",
-      "ink": "#dbd2ff",
-      "lastCheckedAt": "2026-10-13T14:12:15.725Z",
-      "lastAvailableAt": "2026-10-13T14:12:15.725Z",
-      "lastAttemptAt": "2026-10-13T14:12:15.725Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2099770249373729128",
-          "postId": "2099770249373729128",
-          "postedAt": "2026-09-15T08:00:13.000Z"
-        }
-      ],
-      "subjects": [
-        "Animation & motion",
-        "MCP servers & agents",
-        "Image, audio & video AI"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Design",
-        "subjects": [
-          "Animation & motion",
-          "MCP servers & agents",
-          "Image, audio & video AI"
-        ],
-        "evidence": [
-          {
-            "subject": "Animation & motion",
-            "source": "metadata",
-            "match": "motion graphics"
-          },
-          {
-            "subject": "MCP servers & agents",
-            "source": "metadata",
-            "match": "agent"
-          },
-          {
-            "subject": "Image, audio & video AI",
-            "source": "metadata",
-            "match": "AI video"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://vincentwei1021.github.io/video-shotcraft/",
-        "attemptedAt": "2026-10-13T14:12:18.812Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-13T14:12:18.812Z",
-        "lastWorkingAt": "2026-10-13T14:12:18.812Z",
-        "target": "https://vincentwei1021.github.io/video-shotcraft/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-20T14:12:18.812Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/8edb6666c4aa5e4c11966d3d.jpg",
-          "kind": "demo",
-          "url": "https://vincentwei1021.github.io/video-shotcraft/",
-          "capturedAt": "2026-10-13T14:12:18.812Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-13T14:12:18.812Z",
-      "previewCheck": {
-        "url": "https://vincentwei1021.github.io/video-shotcraft/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-13T14:12:18.812Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-20T14:12:18.813Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "SamG-Coder/xylem-cuda",
-      "name": "xylem-cuda",
-      "description": "Procedural trees, roots, leaves and materials authored in CUDA, running in the browser via WebGPU.",
-      "category": "Design",
-      "language": "WGSL",
-      "stars": 2,
-      "forks": 0,
-      "created": "2026-09-15T00:28:03Z",
-      "updated": "2026-09-15T00:30:42Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "https://samg-coder.github.io/xylem-cuda/",
-      "topics": [
-        "cuda",
-        "procedural-generation",
-        "threejs",
-        "webgpu"
-      ],
-      "demo": "https://samg-coder.github.io/xylem-cuda/",
-      "color": "#193546",
-      "ink": "#a6d6e8",
-      "lastCheckedAt": "2026-10-13T14:12:25.927Z",
-      "lastAvailableAt": "2026-10-13T14:12:25.927Z",
-      "lastAttemptAt": "2026-10-13T14:12:25.927Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2099668340579164637",
-          "postId": "2099668340579164637",
-          "postedAt": "2026-09-15T01:15:17.000Z"
-        },
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2099658065973002384",
-          "postId": "2099658065973002384",
-          "postedAt": "2026-09-15T00:34:27.000Z"
-        }
-      ],
-      "subjects": [
-        "3D & graphics"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Design",
-        "subjects": [
-          "3D & graphics"
-        ],
-        "evidence": [
-          {
-            "subject": "3D & graphics",
-            "source": "metadata",
-            "match": "WebGPU"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://samg-coder.github.io/xylem-cuda/",
-        "attemptedAt": "2026-10-13T14:12:30.437Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-13T14:12:30.437Z",
-        "lastWorkingAt": "2026-10-13T14:12:30.437Z",
-        "target": "https://samg-coder.github.io/xylem-cuda/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-20T14:12:30.437Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/2a90ceeed3c751bae42b031d.jpg",
-          "kind": "demo",
-          "url": "https://samg-coder.github.io/xylem-cuda/",
-          "capturedAt": "2026-10-13T14:12:30.437Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-13T14:12:30.437Z",
-      "previewCheck": {
-        "url": "https://samg-coder.github.io/xylem-cuda/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-13T14:12:30.437Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-20T14:12:30.438Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "Jack-Of-Aces/dev-ledgr",
-      "name": "dev-ledgr",
-      "description": "The official repository for the DevLegdr project.",
-      "category": "Other",
-      "language": "TypeScript",
-      "stars": 1,
-      "forks": 0,
-      "created": "2026-09-24T13:27:47Z",
-      "updated": "2026-10-01T23:32:30Z",
-      "branch": "master",
-      "homepage": "https://dev-ledgr-ten.vercel.app",
-      "topics": [],
-      "demo": "https://dev-ledgr-ten.vercel.app/",
-      "color": "#63362a",
-      "ink": "#f8c7a8",
-      "lastCheckedAt": "2026-10-13T14:11:50.384Z",
-      "lastAvailableAt": "2026-10-13T14:11:50.384Z",
-      "lastAttemptAt": "2026-10-13T14:11:50.384Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105613022764904618",
-          "postId": "2105613022764904618",
-          "postedAt": "2026-10-01T10:57:19.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://dev-ledgr-ten.vercel.app/",
-        "attemptedAt": "2026-10-13T14:11:53.554Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-13T14:11:53.554Z",
-        "lastWorkingAt": "2026-10-13T14:11:53.554Z",
-        "target": "https://dev-ledgr-ten.vercel.app/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-20T14:11:53.554Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/e9bfc4e12a071bd7d7435185.jpg",
-          "kind": "demo",
-          "url": "https://dev-ledgr-ten.vercel.app/",
-          "capturedAt": "2026-10-13T14:11:53.554Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-13T14:11:53.554Z",
-      "previewCheck": {
-        "url": "https://dev-ledgr-ten.vercel.app/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-13T14:11:53.554Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-20T14:11:53.554Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "edankwan/The-Spirit",
-      "name": "The-Spirit",
-      "description": "WebGL Experiment",
-      "category": "Design",
-      "language": "JavaScript",
-      "stars": 1285,
-      "forks": 204,
-      "created": "2016-01-18T18:09:15Z",
-      "updated": "2016-07-12T16:27:49Z",
-      "license": "MIT",
-      "branch": "master",
-      "homepage": null,
-      "topics": [],
-      "demo": "http://www.edankwan.com/experiments/the-spirit/",
-      "color": "#302e55",
-      "ink": "#dbd2ff",
-      "lastCheckedAt": "2026-10-13T14:12:38.815Z",
-      "lastAvailableAt": "2026-10-13T14:12:38.815Z",
-      "lastAttemptAt": "2026-10-13T14:12:38.815Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105604716168384862",
-          "postId": "2105604716168384862",
-          "postedAt": "2026-10-01T10:24:19.000Z"
-        }
-      ],
-      "subjects": [
-        "3D & graphics"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Design",
-        "subjects": [
-          "3D & graphics"
-        ],
-        "evidence": [
-          {
-            "subject": "3D & graphics",
-            "source": "metadata",
-            "match": "WebGL"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "http://www.edankwan.com/experiments/the-spirit/",
-        "attemptedAt": "2026-10-13T14:12:50.196Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-13T14:12:50.196Z",
-        "lastWorkingAt": "2026-10-13T14:12:50.196Z",
-        "target": "https://edankwan.com/experiments/the-spirit/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-20T14:12:50.196Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/ba2806bbb6fdd23d5f428525.jpg",
-          "kind": "demo",
-          "url": "http://www.edankwan.com/experiments/the-spirit/",
-          "capturedAt": "2026-10-13T14:12:50.196Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-13T14:12:50.196Z",
-      "previewCheck": {
-        "url": "http://www.edankwan.com/experiments/the-spirit/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-13T14:12:50.196Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-20T14:12:50.197Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "divyanshudhruv/oev",
-      "name": "oev",
-      "description": "An 184M-parameter decision engine delivering calibrated distributions from one 22ms forward pass while matching models 2.3x its size.",
-      "category": "Education",
-      "language": "Python",
-      "stars": 3,
-      "forks": 0,
-      "created": "2026-09-23T17:36:41Z",
-      "updated": "2026-10-04T13:54:13Z",
-      "license": "Apache-2.0",
-      "branch": "main",
-      "homepage": "https://huggingface.co/spaces/divyanshudhruv/oev-demo",
-      "topics": [
-        "calibration",
-        "callibration",
-        "colab-notebook",
-        "deberta",
-        "decision-engine",
-        "decision-model",
-        "distillation",
-        "fine-tuning",
-        "jev",
-        "jev-model",
-        "jupyter-notebook",
-        "kaggle",
-        "machine-learning",
-        "ml",
-        "oev",
-        "onnx",
-        "pythorch",
-        "tiny-model"
-      ],
-      "demo": "https://huggingface.co/spaces/divyanshudhruv/oev-demo",
-      "color": "#25392f",
-      "ink": "#d1e5c5",
-      "lastCheckedAt": "2026-10-13T14:11:58.562Z",
-      "lastAvailableAt": "2026-10-13T14:11:58.562Z",
-      "lastAttemptAt": "2026-10-13T14:11:58.562Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105602004316016812",
-          "postId": "2105602004316016812",
-          "postedAt": "2026-10-01T10:13:32.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Education",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://huggingface.co/spaces/divyanshudhruv/oev-demo",
-        "attemptedAt": "2026-10-13T14:12:01.896Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-13T14:12:01.896Z",
-        "lastWorkingAt": "2026-10-13T14:12:01.896Z",
-        "target": "https://huggingface.co/spaces/divyanshudhruv/oev-demo",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-20T14:12:01.896Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/c97e8dc399a124f4bd6c1ca2.jpg",
-          "kind": "demo",
-          "url": "https://huggingface.co/spaces/divyanshudhruv/oev-demo",
-          "capturedAt": "2026-10-13T14:12:01.896Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-13T14:12:01.896Z",
-      "previewCheck": {
-        "url": "https://huggingface.co/spaces/divyanshudhruv/oev-demo",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-13T14:12:01.896Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-20T14:12:01.897Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "Dare0x/ScopePay",
-      "name": "ScopePay",
-      "description": "Milestone escrow on Arbitrum where nobody can sit on the money: the client locks the whole budget in USDC or USDG up front, each milestone pays on approval, and deadlines agreed at signing settle it if anyone goes quiet.",
-      "category": "Finance",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-09-13T01:05:36Z",
-      "updated": "2026-10-01T09:08:33Z",
-      "branch": "main",
-      "homepage": "https://scopepay-arbitrum.vercel.app",
-      "topics": [],
-      "demo": "https://scopepay-arbitrum.vercel.app/",
-      "color": "#302e55",
-      "ink": "#dbd2ff",
-      "lastCheckedAt": "2026-10-13T14:11:54.375Z",
-      "lastAvailableAt": "2026-10-13T14:11:54.375Z",
-      "lastAttemptAt": "2026-10-13T14:11:54.375Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105601557337419821",
-          "postId": "2105601557337419821",
-          "postedAt": "2026-10-01T10:11:46.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Finance",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://scopepay-arbitrum.vercel.app/",
-        "attemptedAt": "2026-10-13T14:11:57.653Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-13T14:11:57.653Z",
-        "lastWorkingAt": "2026-10-13T14:11:57.653Z",
-        "target": "https://scopepay-arbitrum.vercel.app/?deal=6",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-20T14:11:57.653Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/1750dba6959a06a53bdb6426.jpg",
-          "kind": "demo",
-          "url": "https://scopepay-arbitrum.vercel.app/",
-          "capturedAt": "2026-10-13T14:11:57.653Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-13T14:11:57.653Z",
-      "previewCheck": {
-        "url": "https://scopepay-arbitrum.vercel.app/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-13T14:11:57.653Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-20T14:11:57.653Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
@@ -1867,6 +1050,857 @@
         "attemptedAt": "2026-10-15T11:29:39.085Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-22T11:29:39.086Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "UJESH2K/sih2026",
+      "name": "sih2026",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-28T04:19:48Z",
+      "updated": "2026-09-29T04:50:08Z",
+      "branch": "main",
+      "homepage": "https://sih2026-lemon.vercel.app",
+      "topics": [],
+      "demo": "https://sih2026-lemon.vercel.app/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-15T22:13:09.616Z",
+      "lastAvailableAt": "2026-10-15T22:13:09.616Z",
+      "lastAttemptAt": "2026-10-15T22:13:09.616Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105443489005912157",
+          "postId": "2105443489005912157",
+          "postedAt": "2026-09-30T23:43:39.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://sih2026-lemon.vercel.app/",
+        "attemptedAt": "2026-10-15T22:13:13.227Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-15T22:13:13.227Z",
+        "lastWorkingAt": "2026-10-15T22:13:13.227Z",
+        "target": "https://sih2026-lemon.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-22T22:13:13.227Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/6a45a9e2f00c2d4d9541b890.jpg",
+          "kind": "demo",
+          "url": "https://sih2026-lemon.vercel.app/",
+          "capturedAt": "2026-10-15T22:13:13.227Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-15T22:13:13.227Z",
+      "previewCheck": {
+        "url": "https://sih2026-lemon.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-15T22:13:13.227Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-22T22:13:13.228Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "warthog-network/fair-batch-matching",
+      "name": "fair-batch-matching",
+      "description": "CoinFu MasterShifu's Fair Batch Matching (FBM) engine included in Warthog Network for MEV-proof DeFi. Price is determined by supply and demand AND also pool liquidity.",
+      "category": "Finance",
+      "language": "C++",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-29T19:09:40Z",
+      "updated": "2026-10-10T06:57:55Z",
+      "license": "MIT",
+      "branch": "master",
+      "homepage": "https://www.npmjs.com/package/warthog-fbm",
+      "topics": [],
+      "demo": "https://warthog.network/defi-demo",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-15T22:13:38.060Z",
+      "lastAvailableAt": "2026-10-15T22:13:38.060Z",
+      "lastAttemptAt": "2026-10-15T22:13:38.060Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105436020695031917",
+          "postId": "2105436020695031917",
+          "postedAt": "2026-09-30T23:13:59.000Z"
+        }
+      ],
+      "subjects": [
+        "Crypto & blockchain"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Finance",
+        "subjects": [
+          "Crypto & blockchain"
+        ],
+        "evidence": [
+          {
+            "subject": "Crypto & blockchain",
+            "source": "metadata",
+            "match": "DeFi"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://warthog.network/defi-demo",
+        "attemptedAt": "2026-10-15T22:13:42.179Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-15T22:13:42.179Z",
+        "lastWorkingAt": "2026-10-15T22:13:42.179Z",
+        "target": "https://warthog.network/defi-demo",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-22T22:13:42.179Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/f760124f2d25ba0b396e2e2d.jpg",
+          "kind": "demo",
+          "url": "https://warthog.network/defi-demo",
+          "capturedAt": "2026-10-15T22:13:42.179Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-15T22:13:42.179Z",
+      "previewCheck": {
+        "url": "https://warthog.network/defi-demo",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-15T22:13:42.179Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-22T22:13:42.180Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "ONOSPETER/Forgemind",
+      "name": "Forgemind",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-30T07:23:49Z",
+      "updated": "2026-09-30T10:08:15Z",
+      "branch": "main",
+      "homepage": "https://replit.com/@patrickobiegba/ForgeMind-memory-dev-partner",
+      "topics": [],
+      "demo": "https://forge-mind-memory-dev-partner--patrickobiegba.replit.app/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-15T22:13:14.248Z",
+      "lastAvailableAt": "2026-10-15T22:13:14.248Z",
+      "lastAttemptAt": "2026-10-15T22:13:14.248Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105414387901084141",
+          "postId": "2105414387901084141",
+          "postedAt": "2026-09-30T21:48:01.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://forge-mind-memory-dev-partner--patrickobiegba.replit.app/",
+        "attemptedAt": "2026-10-15T22:13:19.842Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-15T22:13:19.842Z",
+        "lastWorkingAt": "2026-10-15T22:13:19.842Z",
+        "target": "https://forge-mind-memory-dev-partner--patrickobiegba.replit.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-22T22:13:19.842Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/a14ecc56cd669a954a9b7ef6.jpg",
+          "kind": "demo",
+          "url": "https://forge-mind-memory-dev-partner--patrickobiegba.replit.app/",
+          "capturedAt": "2026-10-15T22:13:19.842Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-15T22:13:19.842Z",
+      "previewCheck": {
+        "url": "https://forge-mind-memory-dev-partner--patrickobiegba.replit.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-15T22:13:19.842Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-22T22:13:19.843Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "transitive-bullshit/multipart-http-get-requests",
+      "name": "multipart-http-get-requests",
+      "description": "Allow agents to upload files using only HTTP GET requests – reliably and safely.",
+      "category": "AI & machine learning",
+      "language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "created": "2026-09-30T12:54:50Z",
+      "updated": "2026-09-30T14:51:14Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "",
+      "topics": [
+        "ai-agents",
+        "http",
+        "http-get",
+        "image-uploads",
+        "media-uploads",
+        "multipart-upload",
+        "multipart-uploads"
+      ],
+      "demo": "https://burning-tokens.transitivebullsh.it/send",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-15T22:12:43.172Z",
+      "lastAvailableAt": "2026-10-15T22:12:43.172Z",
+      "lastAttemptAt": "2026-10-15T22:12:43.172Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105392745988980962",
+          "postId": "2105392745988980962",
+          "postedAt": "2026-09-30T20:22:01.000Z"
+        }
+      ],
+      "subjects": [
+        "MCP servers & agents"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "AI & machine learning",
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "evidence": [
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "agents"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://burning-tokens.transitivebullsh.it/send",
+        "attemptedAt": "2026-10-15T22:12:46.925Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-15T22:12:46.925Z",
+        "lastWorkingAt": "2026-10-15T22:12:46.925Z",
+        "target": "https://burning-tokens.transitivebullsh.it/send",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-22T22:12:46.925Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/91f12443c00f3d1c25a1f673.jpg",
+          "kind": "demo",
+          "url": "https://burning-tokens.transitivebullsh.it/send",
+          "capturedAt": "2026-10-15T22:12:46.925Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-15T22:12:46.925Z",
+      "previewCheck": {
+        "url": "https://burning-tokens.transitivebullsh.it/send",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-15T22:12:46.925Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-22T22:12:46.926Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Amir-Abushanab/wave3d",
+      "name": "wave3d",
+      "description": "Open-source, browser-based studio for authoring and implementing 3D gradient waves  🌊",
+      "category": "Design",
+      "language": "TypeScript",
+      "stars": 2,
+      "forks": 0,
+      "created": "2026-07-08T11:28:21Z",
+      "updated": "2026-09-24T11:30:27Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://wave-studio.pages.dev",
+      "topics": [
+        "3d",
+        "animation",
+        "creative-coding",
+        "design-tools",
+        "generative-art",
+        "gradient",
+        "react",
+        "shaders",
+        "threejs",
+        "typescript",
+        "ui-components",
+        "ui-design",
+        "web-components",
+        "webgl",
+        "webgpu"
+      ],
+      "demo": "https://wave-studio.pages.dev/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-15T22:12:47.836Z",
+      "lastAvailableAt": "2026-10-15T22:12:47.836Z",
+      "lastAttemptAt": "2026-10-15T22:12:47.836Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105369251024687275",
+          "postId": "2105369251024687275",
+          "postedAt": "2026-09-30T18:48:39.000Z"
+        }
+      ],
+      "subjects": [
+        "Animation & motion",
+        "Templates & UI components",
+        "3D & graphics"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "Animation & motion",
+          "Templates & UI components",
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "Animation & motion",
+            "source": "metadata",
+            "match": "animation"
+          },
+          {
+            "subject": "Templates & UI components",
+            "source": "metadata",
+            "match": "ui components"
+          },
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "3D"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://wave-studio.pages.dev/",
+        "attemptedAt": "2026-10-15T22:13:08.573Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-15T22:13:08.573Z",
+        "lastWorkingAt": "2026-10-15T22:13:08.573Z",
+        "target": "https://wave-studio.pages.dev/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-22T22:13:08.573Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/db513231c7038cc3b46c0513.jpg",
+          "kind": "demo",
+          "url": "https://wave-studio.pages.dev/",
+          "capturedAt": "2026-10-15T22:13:08.573Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-15T22:13:08.573Z",
+      "previewCheck": {
+        "url": "https://wave-studio.pages.dev/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-15T22:13:08.573Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-22T22:13:08.574Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "safzanpirani/gpu-query",
+      "name": "gpu-query",
+      "description": "An experimental neural parser for app search bars. Turns a typed phrase into a structured filter without ever learning your field names.",
+      "category": "Education",
+      "language": "Python",
+      "stars": 11,
+      "forks": 0,
+      "created": "2026-09-11T21:43:44Z",
+      "updated": "2026-09-12T06:26:58Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://gpu-query.vercel.app",
+      "topics": [],
+      "demo": "https://gpu-query.vercel.app/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-15T22:12:34.551Z",
+      "lastAvailableAt": "2026-10-15T22:12:34.551Z",
+      "lastAttemptAt": "2026-10-15T22:12:34.551Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2098539349025652806",
+          "postId": "2098539349025652806",
+          "postedAt": "2026-09-11T22:29:04.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Education",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://gpu-query.vercel.app/",
+        "attemptedAt": "2026-10-15T22:12:38.061Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-15T22:12:38.061Z",
+        "lastWorkingAt": "2026-10-15T22:12:38.061Z",
+        "target": "https://gpu-query.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-22T22:12:38.061Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/e524300a3ccd584141d684fe.jpg",
+          "kind": "demo",
+          "url": "https://gpu-query.vercel.app/",
+          "capturedAt": "2026-10-15T22:12:38.061Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-15T22:12:38.061Z",
+      "previewCheck": {
+        "url": "https://gpu-query.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-15T22:12:38.061Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-22T22:12:38.061Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "latheon-network/Latheon",
+      "name": "Latheon",
+      "description": "Private by default. Verifiable on demand.",
+      "category": "Other",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-08-10T19:11:00Z",
+      "updated": "2026-10-15T18:01:52Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://latheon.xyz/demo",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-15T22:13:26.071Z",
+      "lastAvailableAt": "2026-10-15T22:13:26.071Z",
+      "lastAttemptAt": "2026-10-15T22:13:26.071Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2098499066112152053",
+          "postId": "2098499066112152053",
+          "postedAt": "2026-09-11T19:49:00.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://latheon.xyz/demo",
+        "attemptedAt": "2026-10-15T22:13:31.464Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-15T22:13:31.464Z",
+        "lastWorkingAt": "2026-10-15T22:13:31.464Z",
+        "target": "https://latheon.xyz/demo/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-22T22:13:31.464Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/3ef6aedfe922b21bfbb227bb.jpg",
+          "kind": "demo",
+          "url": "https://latheon.xyz/demo",
+          "capturedAt": "2026-10-15T22:13:31.464Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-15T22:13:31.464Z",
+      "previewCheck": {
+        "url": "https://latheon.xyz/demo",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-15T22:13:31.464Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-22T22:13:31.465Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "SkyeShark/Eanpa-Sky",
+      "name": "Eanpa-Sky",
+      "description": "A *completely free* robust volumetric cloud sky, day cycle and weather system for threejs. Comes complete with three skybox options, standard earth and two sci-fi versions as well as a full weather system!",
+      "category": "Design",
+      "language": "JavaScript",
+      "stars": 55,
+      "forks": 6,
+      "created": "2026-08-03T22:39:40Z",
+      "updated": "2026-09-13T05:49:41Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "",
+      "topics": [],
+      "demo": "https://skyeshark.github.io/Eanpa-Sky/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-15T22:12:30.570Z",
+      "lastAvailableAt": "2026-10-15T22:12:30.570Z",
+      "lastAttemptAt": "2026-10-15T22:12:30.570Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2098425404591841298",
+          "postId": "2098425404591841298",
+          "postedAt": "2026-09-11T14:56:17.000Z"
+        }
+      ],
+      "subjects": [
+        "3D & graphics"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "threejs"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://skyeshark.github.io/Eanpa-Sky/",
+        "attemptedAt": "2026-10-15T22:12:33.679Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-15T22:12:33.679Z",
+        "lastWorkingAt": "2026-10-15T22:12:33.679Z",
+        "target": "https://skyeshark.github.io/Eanpa-Sky/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-22T22:12:33.679Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/833c874b2bc7ba530c261bd6.jpg",
+          "kind": "demo",
+          "url": "https://skyeshark.github.io/Eanpa-Sky/",
+          "capturedAt": "2026-10-15T22:12:33.679Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-15T22:12:33.679Z",
+      "previewCheck": {
+        "url": "https://skyeshark.github.io/Eanpa-Sky/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-15T22:12:33.679Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-22T22:12:33.680Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Rice-RobotPI-Lab/RoboTok-Code",
+      "name": "RoboTok-Code",
+      "description": "Explore this public GitHub project.",
+      "category": "Developer tools",
+      "language": "Python",
+      "stars": 55,
+      "forks": 4,
+      "created": "2026-08-31T14:50:11Z",
+      "updated": "2026-09-25T16:16:41Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://rice-robotpi-lab.github.io/RoboTok/",
+      "topics": [],
+      "demo": "https://rice-robotpi-lab.github.io/RoboTok/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-15T22:12:38.809Z",
+      "lastAvailableAt": "2026-10-15T22:12:38.809Z",
+      "lastAttemptAt": "2026-10-15T22:12:38.809Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2098118188277866865",
+          "postId": "2098118188277866865",
+          "postedAt": "2026-09-10T18:35:31.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://rice-robotpi-lab.github.io/RoboTok/",
+        "attemptedAt": "2026-10-15T22:12:42.246Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-15T22:12:42.246Z",
+        "lastWorkingAt": "2026-10-15T22:12:42.246Z",
+        "target": "https://rice-robotpi-lab.github.io/RoboTok/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-22T22:12:42.246Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/b7ad0cae0e4dbb73378c386d.jpg",
+          "kind": "demo",
+          "url": "https://rice-robotpi-lab.github.io/RoboTok/",
+          "capturedAt": "2026-10-15T22:12:42.246Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-15T22:12:42.246Z",
+      "previewCheck": {
+        "url": "https://rice-robotpi-lab.github.io/RoboTok/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-15T22:12:42.246Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-22T22:12:42.247Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "dimuuu/sticker",
+      "name": "sticker",
+      "description": "Die-cut stickers that lift and tear the HTML beneath them. A small WebGL paper experiment.",
+      "category": "Design",
+      "language": "JavaScript",
+      "stars": 2,
+      "forks": 0,
+      "created": "2026-09-09T19:09:39Z",
+      "updated": "2026-09-09T20:48:31Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://dimuuu.github.io/sticker/",
+      "topics": [
+        "creative-coding",
+        "html2canvas",
+        "javascript",
+        "webgl"
+      ],
+      "demo": "https://dimuuu.github.io/sticker/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-15T22:13:32.397Z",
+      "lastAvailableAt": "2026-10-15T22:13:32.397Z",
+      "lastAttemptAt": "2026-10-15T22:13:32.397Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2097790464908726651",
+          "postId": "2097790464908726651",
+          "postedAt": "2026-09-09T20:53:16.000Z"
+        }
+      ],
+      "subjects": [
+        "3D & graphics"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "WebGL"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://dimuuu.github.io/sticker/",
+        "attemptedAt": "2026-10-15T22:13:35.695Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-15T22:13:35.695Z",
+        "lastWorkingAt": "2026-10-15T22:13:35.695Z",
+        "target": "https://dimuuu.github.io/sticker/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-22T22:13:35.695Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/ed8aa3673b6e34faf93cad14.jpg",
+          "kind": "demo",
+          "url": "https://dimuuu.github.io/sticker/",
+          "capturedAt": "2026-10-15T22:13:35.695Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-15T22:13:35.695Z",
+      "previewCheck": {
+        "url": "https://dimuuu.github.io/sticker/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-15T22:13:35.695Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-22T22:13:35.696Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
