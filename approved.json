@@ -1,110 +1,92 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-14T11:53:22.650Z",
+  "updatedAt": "2026-10-15T11:29:58.887Z",
   "runtimeRevision": "ed71211be3a262dd1b928f3740f110b041b3708e",
   "checked": 20,
   "repositories": [
     {
       "availability": "available",
-      "full": "Avinash-jetwani/jevmem",
-      "name": "jevmem",
-      "description": "jevmem saves the decisions, rules and failed approaches from your Claude Code chats to JEVMEM.md in your repo, and brings the relevant ones back next session.",
-      "category": "Developer tools",
-      "language": "TypeScript",
-      "stars": 121,
-      "forks": 9,
-      "created": "2026-09-22T11:47:24Z",
-      "updated": "2026-10-09T22:05:51Z",
-      "license": "MIT",
+      "full": "laoxin99/cognitive-bridge-v0-public",
+      "name": "cognitive-bridge-v0-public",
+      "description": "YuanAI / CognitiveBridge-v0: reviewed offline mechanism demo for path revision and controlled candidate flow.",
+      "category": "AI & machine learning",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-08-15T07:47:51Z",
+      "updated": "2026-09-26T02:36:10Z",
       "branch": "main",
-      "homepage": "https://avinash-jetwani.github.io/jevmem/",
+      "homepage": "https://laoxin99.github.io/index.html",
       "topics": [
-        "agent-memory",
-        "ai-memory",
-        "claude",
-        "claude-code",
-        "claude-code-hooks",
-        "claude-code-plugin",
-        "claude-code-plugins",
-        "claude-code-plugins-marketplace",
-        "claude-plugin",
-        "codex",
-        "coding-agents",
-        "cursor",
-        "developer-tools",
-        "guardrails",
-        "jev",
-        "mcp",
-        "mcp-server",
-        "project-memory",
-        "typesafe"
+        "artificial-intelligence",
+        "cognitive-architecture",
+        "controlled-candidate-flow",
+        "offline-demo",
+        "path-revision"
       ],
-      "demo": "https://avinash-jetwani.github.io/jevmem/",
-      "color": "#25392f",
-      "ink": "#d1e5c5",
-      "lastCheckedAt": "2026-10-12T15:24:53.725Z",
-      "lastAvailableAt": "2026-10-12T15:24:53.725Z",
-      "lastAttemptAt": "2026-10-12T15:24:53.725Z",
+      "demo": "https://laoxin99.github.io/index.html",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-15T11:29:41.124Z",
+      "lastAvailableAt": "2026-10-15T11:29:41.124Z",
+      "lastAttemptAt": "2026-10-15T11:29:41.124Z",
       "discoveredVia": [
         {
           "kind": "x",
           "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105662575920714150",
-          "postId": "2105662575920714150",
-          "postedAt": "2026-10-01T14:14:14.000Z"
+          "url": "https://x.com/i/web/status/2105890744401793118",
+          "postId": "2105890744401793118",
+          "postedAt": "2026-10-02T05:20:53.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105477013607944526",
+          "postId": "2105477013607944526",
+          "postedAt": "2026-10-01T01:56:52.000Z"
         }
       ],
-      "subjects": [
-        "MCP servers & agents"
-      ],
+      "subjects": [],
       "platforms": [],
       "classification": {
         "version": 4,
         "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [
-          "MCP servers & agents"
-        ],
-        "evidence": [
-          {
-            "subject": "MCP servers & agents",
-            "source": "metadata",
-            "match": "agent"
-          }
-        ],
+        "category": "AI & machine learning",
+        "subjects": [],
+        "evidence": [],
         "platformEvidence": [],
         "platformSupport": "author_metadata_not_runtime_tested",
         "suggestedSubjects": [],
         "reviewRequired": false
       },
       "demoHealth": {
-        "url": "https://avinash-jetwani.github.io/jevmem/",
-        "attemptedAt": "2026-10-12T15:24:56.984Z",
+        "url": "https://laoxin99.github.io/index.html",
+        "attemptedAt": "2026-10-15T11:29:44.118Z",
         "probeVersion": 3,
         "status": "working",
-        "checkedAt": "2026-10-12T15:24:56.984Z",
-        "lastWorkingAt": "2026-10-12T15:24:56.984Z",
-        "target": "https://avinash-jetwani.github.io/jevmem/",
+        "checkedAt": "2026-10-15T11:29:44.118Z",
+        "lastWorkingAt": "2026-10-15T11:29:44.118Z",
+        "target": "https://laoxin99.github.io/index.html",
         "failureCount": 0,
         "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-19T15:24:56.984Z"
+        "nextCheckAt": "2026-10-22T11:29:44.118Z"
       },
       "screenshots": [
         {
-          "src": "previews/fbd55ca17877ec320a7f4579.jpg",
+          "src": "previews/5fa1166dee131b8b9e8e1660.jpg",
           "kind": "demo",
-          "url": "https://avinash-jetwani.github.io/jevmem/",
-          "capturedAt": "2026-10-12T15:24:56.984Z"
+          "url": "https://laoxin99.github.io/index.html",
+          "capturedAt": "2026-10-15T11:29:44.118Z"
         }
       ],
-      "previewAttemptAt": "2026-10-12T15:24:56.984Z",
+      "previewAttemptAt": "2026-10-15T11:29:44.118Z",
       "previewCheck": {
-        "url": "https://avinash-jetwani.github.io/jevmem/",
+        "url": "https://laoxin99.github.io/index.html",
         "status": "captured",
         "reason": null,
-        "attemptedAt": "2026-10-12T15:24:56.984Z",
+        "attemptedAt": "2026-10-15T11:29:44.118Z",
         "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-19T15:24:56.985Z"
+        "nextCheckAt": "2026-10-22T11:29:44.119Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
@@ -195,275 +177,6 @@
         "attemptedAt": "2026-10-14T11:53:20.245Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-21T11:53:20.246Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "vcfgdev/skills",
-      "name": "skills",
-      "description": "Explore this public GitHub project.",
-      "category": "Other",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-09-11T16:40:44Z",
-      "updated": "2026-10-01T16:20:06Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://vcfgdev.github.io/skills/thermal-svg/",
-      "color": "#25392f",
-      "ink": "#d1e5c5",
-      "lastCheckedAt": "2026-10-12T19:03:34.487Z",
-      "lastAvailableAt": "2026-10-12T19:03:34.487Z",
-      "lastAttemptAt": "2026-10-12T19:03:34.487Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "vcfgdev/skills",
-        "postUrl": "https://x.com/i/web/status/2105660850552127666",
-        "url": "https://vcfgdev.github.io/skills/thermal-svg/"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105660850552127666",
-          "postId": "2105660850552127666",
-          "postedAt": "2026-10-01T14:07:22.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://vcfgdev.github.io/skills/thermal-svg/",
-        "attemptedAt": "2026-10-12T19:03:37.929Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-12T19:03:37.929Z",
-        "lastWorkingAt": "2026-10-12T19:03:37.929Z",
-        "target": "https://vcfgdev.github.io/skills/thermal-svg/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-19T19:03:37.929Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/6ecf3d582179186b6dd5c65b.jpg",
-          "kind": "demo",
-          "url": "https://vcfgdev.github.io/skills/thermal-svg/",
-          "capturedAt": "2026-10-12T19:03:37.929Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-12T19:03:37.929Z",
-      "previewCheck": {
-        "url": "https://vcfgdev.github.io/skills/thermal-svg/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-12T19:03:37.929Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-19T19:03:37.930Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "AshrafMMahdy/conmgmt-bench",
-      "name": "conmgmt-bench",
-      "description": "An open evaluation set for AI agents in construction project management. 20 chained scenarios from one synthetic design-and-build project: programme, contract, bids, subcontracts, progress, claims. Prompts, documents, answer keys and a baseline",
-      "category": "Design",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-10-01T12:08:08Z",
-      "updated": "2026-10-11T13:29:29Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://huggingface.co/datasets/AshrafMMahdy/conmgmt-bench",
-      "color": "#323057",
-      "ink": "#d6caff",
-      "lastCheckedAt": "2026-10-12T19:03:43.949Z",
-      "lastAvailableAt": "2026-10-12T19:03:43.949Z",
-      "lastAttemptAt": "2026-10-12T19:03:43.949Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "AshrafMMahdy/conmgmt-bench",
-        "postUrl": "https://x.com/i/web/status/2105656611582750904",
-        "url": "https://huggingface.co/datasets/AshrafMMahdy/conmgmt-bench"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105656611582750904",
-          "postId": "2105656611582750904",
-          "postedAt": "2026-10-01T13:50:32.000Z"
-        }
-      ],
-      "subjects": [
-        "MCP servers & agents"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Design",
-        "subjects": [
-          "MCP servers & agents"
-        ],
-        "evidence": [
-          {
-            "subject": "MCP servers & agents",
-            "source": "metadata",
-            "match": "AI agents"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://huggingface.co/datasets/AshrafMMahdy/conmgmt-bench",
-        "attemptedAt": "2026-10-12T19:03:47.565Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-12T19:03:47.565Z",
-        "lastWorkingAt": "2026-10-12T19:03:47.565Z",
-        "target": "https://huggingface.co/datasets/AshrafMMahdy/conmgmt-bench",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-19T19:03:47.565Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/e381aecb559d2e6a9584e30a.jpg",
-          "kind": "demo",
-          "url": "https://huggingface.co/datasets/AshrafMMahdy/conmgmt-bench",
-          "capturedAt": "2026-10-12T19:03:47.565Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-12T19:03:47.565Z",
-      "previewCheck": {
-        "url": "https://huggingface.co/datasets/AshrafMMahdy/conmgmt-bench",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-12T19:03:47.565Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-19T19:03:47.566Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "vanirvan/kadle",
-      "name": "kadle",
-      "description": "Kadle (Kana + Doodle) is an interactive, privacy-first Japanese handwriting practice web application powered by client-side AI handwriting recognition.",
-      "category": "AI & machine learning",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-10-01T06:19:29Z",
-      "updated": "2026-10-01T09:48:12Z",
-      "branch": "main",
-      "homepage": "https://kadle.vanirvan.my.id/",
-      "topics": [
-        "hiragana",
-        "japanese-study",
-        "katakana"
-      ],
-      "demo": "https://kadle.vanirvan.my.id/",
-      "color": "#323057",
-      "ink": "#d6caff",
-      "lastCheckedAt": "2026-10-12T19:03:38.592Z",
-      "lastAvailableAt": "2026-10-12T19:03:38.592Z",
-      "lastAttemptAt": "2026-10-12T19:03:38.592Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "vanirvan/kadle",
-        "postUrl": "https://x.com/i/web/status/2105653735896846458",
-        "url": "https://kadle.vanirvan.my.id/"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105653735896846458",
-          "postId": "2105653735896846458",
-          "postedAt": "2026-10-01T13:39:06.000Z"
-        }
-      ],
-      "subjects": [
-        "Privacy & security"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "AI & machine learning",
-        "subjects": [
-          "Privacy & security"
-        ],
-        "evidence": [
-          {
-            "subject": "Privacy & security",
-            "source": "metadata",
-            "match": "privacy first"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://kadle.vanirvan.my.id/",
-        "attemptedAt": "2026-10-12T19:03:43.222Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-12T19:03:43.222Z",
-        "lastWorkingAt": "2026-10-12T19:03:43.222Z",
-        "target": "https://kadle.vanirvan.my.id/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-19T19:03:43.222Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/65094e8a5bbf843229f16a71.jpg",
-          "kind": "demo",
-          "url": "https://kadle.vanirvan.my.id/",
-          "capturedAt": "2026-10-12T19:03:43.222Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-12T19:03:43.222Z",
-      "previewCheck": {
-        "url": "https://kadle.vanirvan.my.id/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-12T19:03:43.222Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-19T19:03:43.223Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
@@ -571,179 +284,6 @@
     },
     {
       "availability": "available",
-      "full": "Zee-Palm-LLC/ZeepalmLabs-Automation-Tools",
-      "name": "ZeepalmLabs-Automation-Tools",
-      "description": "Explore this public GitHub project.",
-      "category": "Developer tools",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-09-29T10:12:43Z",
-      "updated": "2026-10-06T12:07:52Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://gym-churn-radar.vercel.app/",
-      "color": "#193546",
-      "ink": "#a6d6e8",
-      "lastCheckedAt": "2026-10-12T19:03:48.406Z",
-      "lastAvailableAt": "2026-10-12T19:03:48.406Z",
-      "lastAttemptAt": "2026-10-12T19:03:48.406Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "Zee-Palm-LLC/ZeepalmLabs-Automation-Tools",
-        "postUrl": "https://x.com/i/web/status/2105626184088494398",
-        "url": "https://gym-churn-radar.vercel.app/"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105626184088494398",
-          "postId": "2105626184088494398",
-          "postedAt": "2026-10-01T11:49:37.000Z"
-        }
-      ],
-      "subjects": [
-        "Automation & workflows"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [
-          "Automation & workflows"
-        ],
-        "evidence": [
-          {
-            "subject": "Automation & workflows",
-            "source": "metadata",
-            "match": "Automation"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://gym-churn-radar.vercel.app/",
-        "attemptedAt": "2026-10-12T19:03:52.002Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-12T19:03:52.002Z",
-        "lastWorkingAt": "2026-10-12T19:03:52.002Z",
-        "target": "https://gym-churn-radar.vercel.app/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-19T19:03:52.002Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/a834645fda16a3f8a5f50ecc.jpg",
-          "kind": "demo",
-          "url": "https://gym-churn-radar.vercel.app/",
-          "capturedAt": "2026-10-12T19:03:52.002Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-12T19:03:52.002Z",
-      "previewCheck": {
-        "url": "https://gym-churn-radar.vercel.app/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-12T19:03:52.002Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-19T19:03:52.003Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "leekt/FrameTx-toolkit",
-      "name": "FrameTx-toolkit",
-      "description": "Explore this public GitHub project.",
-      "category": "Developer tools",
-      "language": "Solidity",
-      "stars": 4,
-      "forks": 0,
-      "created": "2026-08-12T10:48:32Z",
-      "updated": "2026-09-16T13:51:29Z",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://vframes.taek.tech/",
-      "color": "#323057",
-      "ink": "#d6caff",
-      "lastCheckedAt": "2026-10-12T19:03:30.118Z",
-      "lastAvailableAt": "2026-10-12T19:03:30.118Z",
-      "lastAttemptAt": "2026-10-12T19:03:30.118Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "leekt/FrameTx-toolkit",
-        "postUrl": "https://x.com/i/web/status/2100220072300360121",
-        "url": "https://vframes.taek.tech/"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2100220072300360121",
-          "postId": "2100220072300360121",
-          "postedAt": "2026-09-16T13:47:40.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://vframes.taek.tech/",
-        "attemptedAt": "2026-10-12T19:03:33.807Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-12T19:03:33.807Z",
-        "lastWorkingAt": "2026-10-12T19:03:33.807Z",
-        "target": "https://vframes.taek.tech/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-19T19:03:33.807Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/ffcd4ecb0e27cd37219e9f13.jpg",
-          "kind": "demo",
-          "url": "https://vframes.taek.tech/",
-          "capturedAt": "2026-10-12T19:03:33.807Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-12T19:03:33.807Z",
-      "previewCheck": {
-        "url": "https://vframes.taek.tech/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-12T19:03:33.807Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-19T19:03:33.808Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
       "full": "isaac-mason/scifi-fetch-quest",
       "name": "scifi-fetch-quest",
       "description": "Explore this public GitHub project.",
@@ -812,214 +352,6 @@
         "attemptedAt": "2026-10-13T14:12:14.372Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-20T14:12:14.372Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "KytraScript/ComfyUI-FS_Audio_Suite",
-      "name": "ComfyUI-FS_Audio_Suite",
-      "description": "FS_Audio Suite: modular YuE2 audio generation nodes for ComfyUI, by Make the Robot Do It",
-      "category": "Other",
-      "language": "Python",
-      "stars": 39,
-      "forks": 6,
-      "created": "2026-09-15T21:51:34Z",
-      "updated": "2026-09-17T00:02:53Z",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://huggingface.co/Mothersuperior/YuE2-hum-to-song",
-      "color": "#25392f",
-      "ink": "#d1e5c5",
-      "lastCheckedAt": "2026-10-12T19:03:24.454Z",
-      "lastAvailableAt": "2026-10-12T19:03:24.454Z",
-      "lastAttemptAt": "2026-10-12T19:03:24.454Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "KytraScript/ComfyUI-FS_Audio_Suite",
-        "postUrl": "https://x.com/i/web/status/2099982375140630744",
-        "url": "https://huggingface.co/Mothersuperior/YuE2-hum-to-song"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2099982375140630744",
-          "postId": "2099982375140630744",
-          "postedAt": "2026-09-15T22:03:08.000Z"
-        }
-      ],
-      "subjects": [
-        "Image, audio & video AI",
-        "Music & audio"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [
-          "Image, audio & video AI",
-          "Music & audio"
-        ],
-        "evidence": [
-          {
-            "subject": "Image, audio & video AI",
-            "source": "metadata",
-            "match": "audio generation"
-          },
-          {
-            "subject": "Music & audio",
-            "source": "metadata",
-            "match": "audio generation"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://huggingface.co/Mothersuperior/YuE2-hum-to-song",
-        "attemptedAt": "2026-10-12T19:03:28.150Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-12T19:03:28.150Z",
-        "lastWorkingAt": "2026-10-12T19:03:28.150Z",
-        "target": "https://huggingface.co/Mothersuperior/YuE2-hum-to-song",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-19T19:03:28.150Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/d028673865a4478e9e5338e4.jpg",
-          "kind": "demo",
-          "url": "https://huggingface.co/Mothersuperior/YuE2-hum-to-song",
-          "capturedAt": "2026-10-12T19:03:28.149Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-12T19:03:28.149Z",
-      "previewCheck": {
-        "url": "https://huggingface.co/Mothersuperior/YuE2-hum-to-song",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-12T19:03:28.149Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-19T19:03:28.151Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "webadderallorg/Recordly",
-      "name": "Recordly",
-      "description": "Create polished demo videos without editing skills. Mac/Windows/Linux",
-      "category": "Other",
-      "language": "TypeScript",
-      "stars": 33484,
-      "forks": 2709,
-      "created": "2026-03-12T23:38:32Z",
-      "updated": "2026-10-10T03:21:27Z",
-      "license": null,
-      "branch": "main",
-      "homepage": "https://recordly.dev",
-      "topics": [
-        "electron",
-        "free",
-        "linux",
-        "macos",
-        "open-source",
-        "screen-recorder",
-        "screen-studio",
-        "windows"
-      ],
-      "demo": "https://www.recordly.dev/",
-      "color": "#302e55",
-      "ink": "#dbd2ff",
-      "lastCheckedAt": "2026-10-12T19:03:52.633Z",
-      "lastAvailableAt": "2026-10-12T19:03:52.633Z",
-      "lastAttemptAt": "2026-10-12T19:03:52.633Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2099868940759384552",
-          "postId": "2099868940759384552",
-          "postedAt": "2026-09-15T14:32:23.000Z"
-        },
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2099593754659459507",
-          "postId": "2099593754659459507",
-          "postedAt": "2026-09-14T20:18:54.000Z"
-        }
-      ],
-      "subjects": [
-        "Apple"
-      ],
-      "platforms": [
-        "macOS"
-      ],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [
-          "Apple"
-        ],
-        "evidence": [
-          {
-            "subject": "Apple",
-            "source": "metadata",
-            "match": "macos"
-          }
-        ],
-        "platformEvidence": [
-          {
-            "platform": "macOS",
-            "source": "metadata",
-            "match": "macos"
-          }
-        ],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://www.recordly.dev/",
-        "attemptedAt": "2026-10-12T19:03:56.226Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-12T19:03:56.226Z",
-        "lastWorkingAt": "2026-10-12T19:03:56.226Z",
-        "target": "https://recordly.dev/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-19T19:03:56.226Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/487164a196ef592e5ce94cd3.jpg",
-          "kind": "demo",
-          "url": "https://www.recordly.dev/",
-          "capturedAt": "2026-10-12T19:03:56.226Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-12T19:03:56.226Z",
-      "previewCheck": {
-        "url": "https://www.recordly.dev/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-12T19:03:56.226Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-19T19:03:56.227Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
@@ -2094,6 +1426,447 @@
         "attemptedAt": "2026-10-14T11:52:20.412Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-21T11:52:20.413Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "mrHeinrichh/sweldo",
+      "name": "sweldo",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "Python",
+      "stars": 0,
+      "forks": 1,
+      "created": "2026-07-11T03:24:35Z",
+      "updated": "2026-10-14T12:36:45Z",
+      "branch": "master",
+      "homepage": "https://stellar-hackathon-eosin.vercel.app",
+      "topics": [],
+      "demo": "https://stellar-hackathon-eosin.vercel.app/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-15T11:29:13.642Z",
+      "lastAvailableAt": "2026-10-15T11:29:13.642Z",
+      "lastAttemptAt": "2026-10-15T11:29:13.642Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105575222955188443",
+          "postId": "2105575222955188443",
+          "postedAt": "2026-10-01T08:27:07.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://stellar-hackathon-eosin.vercel.app/",
+        "attemptedAt": "2026-10-15T11:29:16.976Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-15T11:29:16.976Z",
+        "lastWorkingAt": "2026-10-15T11:29:16.976Z",
+        "target": "https://stellar-hackathon-eosin.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-22T11:29:16.976Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/86b8369365579fbfeb4d88be.jpg",
+          "kind": "demo",
+          "url": "https://stellar-hackathon-eosin.vercel.app/",
+          "capturedAt": "2026-10-15T11:29:16.976Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-15T11:29:16.976Z",
+      "previewCheck": {
+        "url": "https://stellar-hackathon-eosin.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-15T11:29:16.976Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-22T11:29:16.977Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "ankitkumar910/Shortly",
+      "name": "Shortly",
+      "description": "Shortly is a URL shortening service and a link management platform.",
+      "category": "Other",
+      "language": "Java",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-22T12:08:22Z",
+      "updated": "2026-09-26T10:35:44Z",
+      "branch": "main",
+      "homepage": "https://shortly100.vercel.app",
+      "topics": [
+        "docker",
+        "java",
+        "javascript",
+        "lombok",
+        "maven",
+        "mysql",
+        "react",
+        "redis",
+        "redis-client",
+        "spring-boot",
+        "spring-data-jpa",
+        "vitejs"
+      ],
+      "demo": "https://shortly100.vercel.app/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-15T11:29:17.836Z",
+      "lastAvailableAt": "2026-10-15T11:29:17.836Z",
+      "lastAttemptAt": "2026-10-15T11:29:17.836Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105566718051631284",
+          "postId": "2105566718051631284",
+          "postedAt": "2026-10-01T07:53:19.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://shortly100.vercel.app/",
+        "attemptedAt": "2026-10-15T11:29:21.106Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-15T11:29:21.106Z",
+        "lastWorkingAt": "2026-10-15T11:29:21.106Z",
+        "target": "https://shortly100.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-22T11:29:21.106Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/77b3f7da73267ebe5effd392.jpg",
+          "kind": "demo",
+          "url": "https://shortly100.vercel.app/",
+          "capturedAt": "2026-10-15T11:29:21.106Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-15T11:29:21.106Z",
+      "previewCheck": {
+        "url": "https://shortly100.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-15T11:29:21.106Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-22T11:29:21.107Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "alkas79/reliable-agent",
+      "name": "reliable-agent",
+      "description": "Reliability patterns for autonomous AI agents — the runnable companion to the 100-Second Reliability series.",
+      "category": "AI & machine learning",
+      "language": "Python",
+      "stars": 0,
+      "forks": 1,
+      "created": "2026-06-27T19:12:48Z",
+      "updated": "2026-08-16T01:40:12Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://youtube.com/@alkasbuilds",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "autonomous-agents",
+        "llm",
+        "python",
+        "reliability"
+      ],
+      "demo": "https://buttondown.com/alkasbuilds?tag=x",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-15T11:29:21.832Z",
+      "lastAvailableAt": "2026-10-15T11:29:21.832Z",
+      "lastAttemptAt": "2026-10-15T11:29:21.832Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "alkas79/reliable-agent",
+        "postUrl": "https://x.com/i/web/status/2105559348965527660",
+        "url": "https://buttondown.com/alkasbuilds?tag=x"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105559348965527660",
+          "postId": "2105559348965527660",
+          "postedAt": "2026-10-01T07:24:02.000Z"
+        }
+      ],
+      "subjects": [
+        "MCP servers & agents"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "AI & machine learning",
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "evidence": [
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "agent"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://buttondown.com/alkasbuilds?tag=x",
+        "attemptedAt": "2026-10-15T11:29:26.023Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-15T11:29:26.023Z",
+        "lastWorkingAt": "2026-10-15T11:29:26.023Z",
+        "target": "https://buttondown.com/alkasbuilds?tag=x",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-22T11:29:26.023Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/93fcb6487ef711841e22cf66.jpg",
+          "kind": "demo",
+          "url": "https://buttondown.com/alkasbuilds?tag=x",
+          "capturedAt": "2026-10-15T11:29:26.023Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-15T11:29:26.023Z",
+      "previewCheck": {
+        "url": "https://buttondown.com/alkasbuilds?tag=x",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-15T11:29:26.023Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-22T11:29:26.024Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "maixuancanh/market-royale-nansen",
+      "name": "market-royale-nansen",
+      "description": "Polymarket paper-trading survival game with Nansen market intelligence",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-10-01T02:40:37Z",
+      "updated": "2026-10-01T02:40:45Z",
+      "license": null,
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://market-royale-nansen-web.market-royal.workers.dev/arena",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-15T11:29:27.769Z",
+      "lastAvailableAt": "2026-10-15T11:29:27.769Z",
+      "lastAttemptAt": "2026-10-15T11:29:27.769Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "maixuancanh/market-royale-nansen",
+        "postUrl": "https://x.com/i/web/status/2105492495140589575",
+        "url": "https://market-royale-nansen-web.market-royal.workers.dev/arena"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105492495140589575",
+          "postId": "2105492495140589575",
+          "postedAt": "2026-10-01T02:58:23.000Z"
+        }
+      ],
+      "subjects": [
+        "Games & game development"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [
+          "Games & game development"
+        ],
+        "evidence": [
+          {
+            "subject": "Games & game development",
+            "source": "metadata",
+            "match": "game"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://market-royale-nansen-web.market-royal.workers.dev/arena",
+        "attemptedAt": "2026-10-15T11:29:31.791Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-15T11:29:31.791Z",
+        "lastWorkingAt": "2026-10-15T11:29:31.791Z",
+        "target": "https://market-royale-nansen-web.market-royal.workers.dev/arena",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-22T11:29:31.791Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/3807d49717b33d8c212c4f11.jpg",
+          "kind": "demo",
+          "url": "https://market-royale-nansen-web.market-royal.workers.dev/arena",
+          "capturedAt": "2026-10-15T11:29:31.791Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-15T11:29:31.791Z",
+      "previewCheck": {
+        "url": "https://market-royale-nansen-web.market-royal.workers.dev/arena",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-15T11:29:31.791Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-22T11:29:31.792Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "pmndrs/math",
+      "name": "math",
+      "description": "🧮 The playful web's math engine",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 1323,
+      "forks": 46,
+      "created": "2021-10-29T20:28:17Z",
+      "updated": "2026-10-12T14:11:45Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://pmndrs.github.io/math/",
+      "topics": [],
+      "demo": "https://pmndrs.github.io/math/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-15T11:29:36.092Z",
+      "lastAvailableAt": "2026-10-15T11:29:36.092Z",
+      "lastAttemptAt": "2026-10-15T11:29:36.092Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105481476443709820",
+          "postId": "2105481476443709820",
+          "postedAt": "2026-10-01T02:14:36.000Z"
+        }
+      ],
+      "subjects": [
+        "Maths & algorithms"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [
+          "Maths & algorithms"
+        ],
+        "evidence": [
+          {
+            "subject": "Maths & algorithms",
+            "source": "metadata",
+            "match": "math"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://pmndrs.github.io/math/",
+        "attemptedAt": "2026-10-15T11:29:39.085Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-15T11:29:39.085Z",
+        "lastWorkingAt": "2026-10-15T11:29:39.085Z",
+        "target": "https://pmndrs.github.io/math/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-22T11:29:39.085Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/fb9323b387e90b87f129ed8f.jpg",
+          "kind": "demo",
+          "url": "https://pmndrs.github.io/math/",
+          "capturedAt": "2026-10-15T11:29:39.085Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-15T11:29:39.085Z",
+      "previewCheck": {
+        "url": "https://pmndrs.github.io/math/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-15T11:29:39.085Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-22T11:29:39.086Z"
       },
       "sourceCategories": [
         "As Seen On X.com"

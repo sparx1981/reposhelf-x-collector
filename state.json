@@ -17717,7 +17717,7 @@
     "rajaditya7777/freight-mcp": {
       "full": "RajAditya7777/freight-mcp",
       "firstSeenAt": "2026-10-09T17:42:06.433Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -17736,7 +17736,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-09T17:42:06.433Z"
+      "lastSeenAt": "2026-10-09T17:42:06.433Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T11:29:45.087Z"
     },
     "vahidyousefzadeh/pretext-harfbuzz": {
       "full": "VahidYousefzadeh/pretext-harfbuzz",
@@ -18059,7 +18061,7 @@
     "ohyoseok92/python-csv-repair-demo": {
       "full": "ohyoseok92/python-csv-repair-demo",
       "firstSeenAt": "2026-10-09T17:42:06.433Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -18078,7 +18080,75 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-09T17:42:06.433Z"
+      "lastSeenAt": "2026-10-09T17:42:06.433Z",
+      "entry": {
+        "availability": "available",
+        "full": "ohyoseok92/python-csv-repair-demo",
+        "name": "python-csv-repair-demo",
+        "description": "Minimal Python regression-test demo for repairing blank-row CSV parsing failures.",
+        "category": "Developer tools",
+        "language": "Python",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-11T06:32:10Z",
+        "updated": "2026-10-07T10:43:47Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://payhip.com/b/yUF4Q",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-15T11:29:45.920Z",
+        "lastAvailableAt": "2026-10-15T11:29:45.920Z",
+        "lastAttemptAt": "2026-10-15T11:29:45.920Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2106014841853145340",
+            "postId": "2106014841853145340",
+            "postedAt": "2026-10-02T13:34:00.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://payhip.com/b/yUF4Q",
+          "attemptedAt": "2026-10-15T11:29:46.453Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "access_restricted",
+            "at": "2026-10-15T11:29:46.453Z"
+          },
+          "nextCheckAt": "2026-10-15T13:29:46.453Z"
+        },
+        "previewAttemptAt": "2026-10-15T11:29:46.453Z",
+        "previewCheck": {
+          "url": "https://payhip.com/b/yUF4Q",
+          "status": "retry",
+          "reason": "access_restricted",
+          "attemptedAt": "2026-10-15T11:29:46.453Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-15T13:29:46.453Z"
+        }
+      },
+      "reason": "access_restricted",
+      "nextAttemptAt": "2026-10-15T13:29:46.453Z",
+      "checkedAt": "2026-10-15T11:29:46.453Z"
     },
     "dgreenheck/threejs-particle-fluids": {
       "full": "dgreenheck/threejs-particle-fluids",
@@ -19780,7 +19850,7 @@
     "nicolaslasch/tidy": {
       "full": "NicolasLasch/Tidy",
       "firstSeenAt": "2026-10-10T05:38:55.212Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -19841,7 +19911,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T05:38:55.212Z"
+      "lastSeenAt": "2026-10-10T05:38:55.212Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T11:29:47.141Z"
     },
     "zhivex/zhivex-harness": {
       "full": "Zhivex/zhivex-harness",
@@ -20057,7 +20129,7 @@
     "miaai-lab/glm-5.3-flash-exl3-2x-dgx-sparks-tensorfold": {
       "full": "MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold",
       "firstSeenAt": "2026-10-10T05:38:55.212Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -20076,7 +20148,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T05:38:55.212Z"
+      "lastSeenAt": "2026-10-10T05:38:55.212Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T11:29:48.247Z"
     },
     "jordandalton/clef-playground": {
       "full": "JordanDalton/clef-playground",
@@ -24155,7 +24229,7 @@
     "wan593315006/white-box-state-transition-governance-reference-demo": {
       "full": "wan593315006/white-box-state-transition-governance-reference-demo",
       "firstSeenAt": "2026-10-10T12:31:01.111Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -24174,7 +24248,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T12:31:01.111Z"
+      "lastSeenAt": "2026-10-10T12:31:01.111Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T11:29:49.393Z"
     },
     "martinvibes/vouch-studio": {
       "full": "martinvibes/vouch-studio",
@@ -24444,7 +24520,7 @@
     "nakulmahale/ai-server-monitor": {
       "full": "nakulmahale/AI-Server-monitor",
       "firstSeenAt": "2026-10-10T12:31:01.111Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -24463,7 +24539,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T12:31:01.111Z"
+      "lastSeenAt": "2026-10-10T12:31:01.111Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T11:29:50.547Z"
     },
     "anirbit-ai/expositions-with-pytorch": {
       "full": "Anirbit-AI/Expositions-With-PyTorch",
@@ -24727,7 +24805,7 @@
     "vercel/vercel-plugin": {
       "full": "vercel/vercel-plugin",
       "firstSeenAt": "2026-10-10T12:31:01.111Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -24746,7 +24824,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T12:31:01.111Z"
+      "lastSeenAt": "2026-10-10T12:31:01.111Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T11:29:51.565Z"
     },
     "salva1973/agent-usage": {
       "full": "salva1973/agent-usage",
@@ -24898,7 +24978,7 @@
     "mhrsdev/zero-use-computer": {
       "full": "mhrsdev/zero-use-computer",
       "firstSeenAt": "2026-10-10T13:52:51.831Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -24917,7 +24997,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T13:52:51.831Z"
+      "lastSeenAt": "2026-10-10T13:52:51.831Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T11:29:52.718Z"
     },
     "apiservicesac/s1grep": {
       "full": "apiservicesac/s1grep",
@@ -26593,7 +26675,7 @@
     "looted/kibi": {
       "full": "Looted/kibi",
       "firstSeenAt": "2026-10-10T13:52:51.831Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -26612,12 +26694,116 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T13:52:51.831Z"
+      "lastSeenAt": "2026-10-10T13:52:51.831Z",
+      "entry": {
+        "availability": "available",
+        "full": "Looted/kibi",
+        "name": "kibi",
+        "description": "Kibi is a requirement-conformance layer for AI coding agents that keeps product intent connected to code and tests, and catches when implementations drift from it.",
+        "category": "Developer tools",
+        "language": "TypeScript",
+        "stars": 10,
+        "forks": 2,
+        "created": "2026-02-18T14:00:48Z",
+        "updated": "2026-10-15T08:05:59Z",
+        "license": "AGPL-3.0",
+        "branch": "develop",
+        "homepage": "https://looted.github.io/kibi/",
+        "topics": [
+          "agentic-ai",
+          "bdd",
+          "codex-plugin",
+          "cursor-plugin",
+          "development-tools",
+          "guardrails",
+          "knowledge-base",
+          "knowledge-management",
+          "mcp",
+          "mcp-server",
+          "opencode",
+          "opencode-plugin",
+          "requirement-traceability",
+          "requirements-engineering",
+          "requirements-engineering-tool",
+          "spec-driven",
+          "spec-driven-development",
+          "traceability"
+        ],
+        "demo": "https://looted.github.io/kibi/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-15T11:29:53.942Z",
+        "lastAvailableAt": "2026-10-15T11:29:53.942Z",
+        "lastAttemptAt": "2026-10-15T11:29:53.942Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105721982650105983",
+            "postId": "2105721982650105983",
+            "postedAt": "2026-10-01T18:10:17.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents",
+          "Writing & documents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "MCP servers & agents",
+            "Writing & documents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "coding agents"
+            },
+            {
+              "subject": "Writing & documents",
+              "source": "metadata",
+              "match": "knowledge base"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://looted.github.io/kibi/",
+          "attemptedAt": "2026-10-15T11:29:57.980Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "dns_timeout",
+            "at": "2026-10-15T11:29:57.980Z"
+          },
+          "nextCheckAt": "2026-10-15T13:29:57.980Z"
+        },
+        "previewAttemptAt": "2026-10-15T11:29:57.980Z",
+        "previewCheck": {
+          "url": "https://looted.github.io/kibi/",
+          "status": "retry",
+          "reason": "dns_timeout",
+          "attemptedAt": "2026-10-15T11:29:57.980Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-15T13:29:57.980Z"
+        }
+      },
+      "reason": "dns_timeout",
+      "nextAttemptAt": "2026-10-15T13:29:57.980Z",
+      "checkedAt": "2026-10-15T11:29:57.981Z"
     },
     "jadezhouu/sticky-tab-view": {
       "full": "jadezhouu/sticky-tab-view",
       "firstSeenAt": "2026-10-10T13:52:51.831Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -26636,7 +26822,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T13:52:51.831Z"
+      "lastSeenAt": "2026-10-10T13:52:51.831Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T11:29:58.877Z"
     },
     "samanpandey-in/jevrail": {
       "full": "SamanPandey-in/jevrail",
@@ -28468,7 +28656,7 @@
     "laoxin99/cognitive-bridge-v0-public": {
       "full": "laoxin99/cognitive-bridge-v0-public",
       "firstSeenAt": "2026-10-10T19:33:57.220Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -28494,7 +28682,96 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-15T11:28:22.523Z"
+      "lastSeenAt": "2026-10-15T11:28:22.523Z",
+      "entry": {
+        "availability": "available",
+        "full": "laoxin99/cognitive-bridge-v0-public",
+        "name": "cognitive-bridge-v0-public",
+        "description": "YuanAI / CognitiveBridge-v0: reviewed offline mechanism demo for path revision and controlled candidate flow.",
+        "category": "AI & machine learning",
+        "language": "Python",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-08-15T07:47:51Z",
+        "updated": "2026-09-26T02:36:10Z",
+        "branch": "main",
+        "homepage": "https://laoxin99.github.io/index.html",
+        "topics": [
+          "artificial-intelligence",
+          "cognitive-architecture",
+          "controlled-candidate-flow",
+          "offline-demo",
+          "path-revision"
+        ],
+        "demo": "https://laoxin99.github.io/index.html",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-15T11:29:41.124Z",
+        "lastAvailableAt": "2026-10-15T11:29:41.124Z",
+        "lastAttemptAt": "2026-10-15T11:29:41.124Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105890744401793118",
+            "postId": "2105890744401793118",
+            "postedAt": "2026-10-02T05:20:53.000Z"
+          },
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105477013607944526",
+            "postId": "2105477013607944526",
+            "postedAt": "2026-10-01T01:56:52.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://laoxin99.github.io/index.html",
+          "attemptedAt": "2026-10-15T11:29:44.118Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-15T11:29:44.118Z",
+          "lastWorkingAt": "2026-10-15T11:29:44.118Z",
+          "target": "https://laoxin99.github.io/index.html",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-22T11:29:44.118Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/5fa1166dee131b8b9e8e1660.jpg",
+            "kind": "demo",
+            "url": "https://laoxin99.github.io/index.html",
+            "capturedAt": "2026-10-15T11:29:44.118Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-15T11:29:44.118Z",
+        "previewCheck": {
+          "url": "https://laoxin99.github.io/index.html",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-15T11:29:44.118Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-22T11:29:44.119Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-16T23:29:44.119Z",
+      "checkedAt": "2026-10-15T11:29:44.119Z",
+      "firstAcceptedAt": "2026-10-15T11:29:44.119Z"
     },
     "amirfish1/watchtower": {
       "full": "amirfish1/watchtower",
@@ -49825,7 +50102,7 @@
     "mrheinrichh/sweldo": {
       "full": "mrHeinrichh/sweldo",
       "firstSeenAt": "2026-10-15T11:28:22.523Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -49858,12 +50135,88 @@
           "repository": "mrHeinrichh/sweldo"
         }
       ],
-      "lastSeenAt": "2026-10-15T11:28:22.523Z"
+      "lastSeenAt": "2026-10-15T11:28:22.523Z",
+      "entry": {
+        "availability": "available",
+        "full": "mrHeinrichh/sweldo",
+        "name": "sweldo",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "Python",
+        "stars": 0,
+        "forks": 1,
+        "created": "2026-07-11T03:24:35Z",
+        "updated": "2026-10-14T12:36:45Z",
+        "branch": "master",
+        "homepage": "https://stellar-hackathon-eosin.vercel.app",
+        "topics": [],
+        "demo": "https://stellar-hackathon-eosin.vercel.app/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-15T11:29:13.642Z",
+        "lastAvailableAt": "2026-10-15T11:29:13.642Z",
+        "lastAttemptAt": "2026-10-15T11:29:13.642Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105575222955188443",
+            "postId": "2105575222955188443",
+            "postedAt": "2026-10-01T08:27:07.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://stellar-hackathon-eosin.vercel.app/",
+          "attemptedAt": "2026-10-15T11:29:16.976Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-15T11:29:16.976Z",
+          "lastWorkingAt": "2026-10-15T11:29:16.976Z",
+          "target": "https://stellar-hackathon-eosin.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-22T11:29:16.976Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/86b8369365579fbfeb4d88be.jpg",
+            "kind": "demo",
+            "url": "https://stellar-hackathon-eosin.vercel.app/",
+            "capturedAt": "2026-10-15T11:29:16.976Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-15T11:29:16.976Z",
+        "previewCheck": {
+          "url": "https://stellar-hackathon-eosin.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-15T11:29:16.976Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-22T11:29:16.977Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-16T23:29:16.978Z",
+      "checkedAt": "2026-10-15T11:29:16.978Z",
+      "firstAcceptedAt": "2026-10-15T11:29:16.978Z"
     },
     "ankitkumar910/shortly": {
       "full": "ankitkumar910/Shortly",
       "firstSeenAt": "2026-10-15T11:28:22.523Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -49890,12 +50243,101 @@
           "repository": "ankitkumar910/Shortly"
         }
       ],
-      "lastSeenAt": "2026-10-15T11:28:22.523Z"
+      "lastSeenAt": "2026-10-15T11:28:22.523Z",
+      "entry": {
+        "availability": "available",
+        "full": "ankitkumar910/Shortly",
+        "name": "Shortly",
+        "description": "Shortly is a URL shortening service and a link management platform.",
+        "category": "Other",
+        "language": "Java",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-22T12:08:22Z",
+        "updated": "2026-09-26T10:35:44Z",
+        "branch": "main",
+        "homepage": "https://shortly100.vercel.app",
+        "topics": [
+          "docker",
+          "java",
+          "javascript",
+          "lombok",
+          "maven",
+          "mysql",
+          "react",
+          "redis",
+          "redis-client",
+          "spring-boot",
+          "spring-data-jpa",
+          "vitejs"
+        ],
+        "demo": "https://shortly100.vercel.app/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-15T11:29:17.836Z",
+        "lastAvailableAt": "2026-10-15T11:29:17.836Z",
+        "lastAttemptAt": "2026-10-15T11:29:17.836Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105566718051631284",
+            "postId": "2105566718051631284",
+            "postedAt": "2026-10-01T07:53:19.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://shortly100.vercel.app/",
+          "attemptedAt": "2026-10-15T11:29:21.106Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-15T11:29:21.106Z",
+          "lastWorkingAt": "2026-10-15T11:29:21.106Z",
+          "target": "https://shortly100.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-22T11:29:21.106Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/77b3f7da73267ebe5effd392.jpg",
+            "kind": "demo",
+            "url": "https://shortly100.vercel.app/",
+            "capturedAt": "2026-10-15T11:29:21.106Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-15T11:29:21.106Z",
+        "previewCheck": {
+          "url": "https://shortly100.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-15T11:29:21.106Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-22T11:29:21.107Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-16T23:29:21.107Z",
+      "checkedAt": "2026-10-15T11:29:21.107Z",
+      "firstAcceptedAt": "2026-10-15T11:29:21.107Z"
     },
     "anaserose/mypass": {
       "full": "Anaserose/mypass",
       "firstSeenAt": "2026-10-15T11:28:22.523Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -49914,12 +50356,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-15T11:28:22.523Z"
+      "lastSeenAt": "2026-10-15T11:28:22.523Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T11:29:39.888Z"
     },
     "alkas79/reliable-agent": {
       "full": "alkas79/reliable-agent",
       "firstSeenAt": "2026-10-15T11:28:22.523Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -49946,7 +50390,114 @@
           "repository": "alkas79/reliable-agent"
         }
       ],
-      "lastSeenAt": "2026-10-15T11:28:22.523Z"
+      "lastSeenAt": "2026-10-15T11:28:22.523Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "alkas79/reliable-agent",
+        "postUrl": "https://x.com/i/web/status/2105559348965527660",
+        "url": "https://buttondown.com/alkasbuilds?tag=x"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "alkas79/reliable-agent",
+        "name": "reliable-agent",
+        "description": "Reliability patterns for autonomous AI agents — the runnable companion to the 100-Second Reliability series.",
+        "category": "AI & machine learning",
+        "language": "Python",
+        "stars": 0,
+        "forks": 1,
+        "created": "2026-06-27T19:12:48Z",
+        "updated": "2026-08-16T01:40:12Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://youtube.com/@alkasbuilds",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-engineering",
+          "autonomous-agents",
+          "llm",
+          "python",
+          "reliability"
+        ],
+        "demo": "https://buttondown.com/alkasbuilds?tag=x",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-15T11:29:21.832Z",
+        "lastAvailableAt": "2026-10-15T11:29:21.832Z",
+        "lastAttemptAt": "2026-10-15T11:29:21.832Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "alkas79/reliable-agent",
+          "postUrl": "https://x.com/i/web/status/2105559348965527660",
+          "url": "https://buttondown.com/alkasbuilds?tag=x"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105559348965527660",
+            "postId": "2105559348965527660",
+            "postedAt": "2026-10-01T07:24:02.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "agent"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://buttondown.com/alkasbuilds?tag=x",
+          "attemptedAt": "2026-10-15T11:29:26.023Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-15T11:29:26.023Z",
+          "lastWorkingAt": "2026-10-15T11:29:26.023Z",
+          "target": "https://buttondown.com/alkasbuilds?tag=x",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-22T11:29:26.023Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/93fcb6487ef711841e22cf66.jpg",
+            "kind": "demo",
+            "url": "https://buttondown.com/alkasbuilds?tag=x",
+            "capturedAt": "2026-10-15T11:29:26.023Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-15T11:29:26.023Z",
+        "previewCheck": {
+          "url": "https://buttondown.com/alkasbuilds?tag=x",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-15T11:29:26.023Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-22T11:29:26.024Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-16T23:29:26.024Z",
+      "checkedAt": "2026-10-15T11:29:26.024Z",
+      "firstAcceptedAt": "2026-10-15T11:29:26.024Z"
     },
     "xuzhen-li/grapeancestry": {
       "full": "Xuzhen-Li/grapeancestry",
@@ -49995,7 +50546,7 @@
     "maixuancanh/market-royale-nansen": {
       "full": "maixuancanh/market-royale-nansen",
       "firstSeenAt": "2026-10-15T11:28:22.523Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -50022,12 +50573,111 @@
           "repository": "maixuancanh/market-royale-nansen"
         }
       ],
-      "lastSeenAt": "2026-10-15T11:28:22.523Z"
+      "lastSeenAt": "2026-10-15T11:28:22.523Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "maixuancanh/market-royale-nansen",
+        "postUrl": "https://x.com/i/web/status/2105492495140589575",
+        "url": "https://market-royale-nansen-web.market-royal.workers.dev/arena"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "maixuancanh/market-royale-nansen",
+        "name": "market-royale-nansen",
+        "description": "Polymarket paper-trading survival game with Nansen market intelligence",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-10-01T02:40:37Z",
+        "updated": "2026-10-01T02:40:45Z",
+        "license": null,
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://market-royale-nansen-web.market-royal.workers.dev/arena",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-15T11:29:27.769Z",
+        "lastAvailableAt": "2026-10-15T11:29:27.769Z",
+        "lastAttemptAt": "2026-10-15T11:29:27.769Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "maixuancanh/market-royale-nansen",
+          "postUrl": "https://x.com/i/web/status/2105492495140589575",
+          "url": "https://market-royale-nansen-web.market-royal.workers.dev/arena"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105492495140589575",
+            "postId": "2105492495140589575",
+            "postedAt": "2026-10-01T02:58:23.000Z"
+          }
+        ],
+        "subjects": [
+          "Games & game development"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "Games & game development"
+          ],
+          "evidence": [
+            {
+              "subject": "Games & game development",
+              "source": "metadata",
+              "match": "game"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://market-royale-nansen-web.market-royal.workers.dev/arena",
+          "attemptedAt": "2026-10-15T11:29:31.791Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-15T11:29:31.791Z",
+          "lastWorkingAt": "2026-10-15T11:29:31.791Z",
+          "target": "https://market-royale-nansen-web.market-royal.workers.dev/arena",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-22T11:29:31.791Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/3807d49717b33d8c212c4f11.jpg",
+            "kind": "demo",
+            "url": "https://market-royale-nansen-web.market-royal.workers.dev/arena",
+            "capturedAt": "2026-10-15T11:29:31.791Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-15T11:29:31.791Z",
+        "previewCheck": {
+          "url": "https://market-royale-nansen-web.market-royal.workers.dev/arena",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-15T11:29:31.791Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-22T11:29:31.792Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-16T23:29:31.793Z",
+      "checkedAt": "2026-10-15T11:29:31.793Z",
+      "firstAcceptedAt": "2026-10-15T11:29:31.793Z"
     },
     "andrewthecodertx/tinyllm": {
       "full": "andrewthecodertx/tinyllm",
       "firstSeenAt": "2026-10-15T11:28:22.523Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -50046,12 +50696,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-15T11:28:22.523Z"
+      "lastSeenAt": "2026-10-15T11:28:22.523Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T11:29:34.178Z"
     },
     "juanbermudez/perception-and-attention": {
       "full": "juanbermudez/perception-and-attention",
       "firstSeenAt": "2026-10-15T11:28:22.523Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -50068,12 +50720,14 @@
         "replies": 2,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-15T11:28:22.523Z"
+      "lastSeenAt": "2026-10-15T11:28:22.523Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-22T11:29:35.527Z"
     },
     "pmndrs/math": {
       "full": "pmndrs/math",
       "firstSeenAt": "2026-10-15T11:28:22.523Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -50090,12 +50744,99 @@
         "replies": 2,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-15T11:28:22.523Z"
+      "lastSeenAt": "2026-10-15T11:28:22.523Z",
+      "entry": {
+        "availability": "available",
+        "full": "pmndrs/math",
+        "name": "math",
+        "description": "🧮 The playful web's math engine",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 1323,
+        "forks": 46,
+        "created": "2021-10-29T20:28:17Z",
+        "updated": "2026-10-12T14:11:45Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://pmndrs.github.io/math/",
+        "topics": [],
+        "demo": "https://pmndrs.github.io/math/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-15T11:29:36.092Z",
+        "lastAvailableAt": "2026-10-15T11:29:36.092Z",
+        "lastAttemptAt": "2026-10-15T11:29:36.092Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105481476443709820",
+            "postId": "2105481476443709820",
+            "postedAt": "2026-10-01T02:14:36.000Z"
+          }
+        ],
+        "subjects": [
+          "Maths & algorithms"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "Maths & algorithms"
+          ],
+          "evidence": [
+            {
+              "subject": "Maths & algorithms",
+              "source": "metadata",
+              "match": "math"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://pmndrs.github.io/math/",
+          "attemptedAt": "2026-10-15T11:29:39.085Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-15T11:29:39.085Z",
+          "lastWorkingAt": "2026-10-15T11:29:39.085Z",
+          "target": "https://pmndrs.github.io/math/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-22T11:29:39.085Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/fb9323b387e90b87f129ed8f.jpg",
+            "kind": "demo",
+            "url": "https://pmndrs.github.io/math/",
+            "capturedAt": "2026-10-15T11:29:39.085Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-15T11:29:39.085Z",
+        "previewCheck": {
+          "url": "https://pmndrs.github.io/math/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-15T11:29:39.085Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-22T11:29:39.086Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-16T23:29:39.086Z",
+      "checkedAt": "2026-10-15T11:29:39.086Z",
+      "firstAcceptedAt": "2026-10-15T11:29:39.086Z"
     },
     "whynot63/launchpad-for-launchpads": {
       "full": "Whynot63/launchpad-for-launchpads",
       "firstSeenAt": "2026-10-15T11:28:22.523Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -50128,7 +50869,85 @@
           "repository": "Whynot63/launchpad-for-launchpads"
         }
       ],
-      "lastSeenAt": "2026-10-15T11:28:22.523Z"
+      "lastSeenAt": "2026-10-15T11:28:22.523Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "Whynot63/launchpad-for-launchpads",
+        "postUrl": "https://x.com/i/web/status/2105444937655263639",
+        "url": "https://launchp.bid/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "Whynot63/launchpad-for-launchpads",
+        "name": "launchpad-for-launchpads",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-19T19:42:30Z",
+        "updated": "2026-09-30T22:44:23Z",
+        "branch": "master",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://launchp.bid/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-15T11:29:32.680Z",
+        "lastAvailableAt": "2026-10-15T11:29:32.680Z",
+        "lastAttemptAt": "2026-10-15T11:29:32.680Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "Whynot63/launchpad-for-launchpads",
+          "postUrl": "https://x.com/i/web/status/2105444937655263639",
+          "url": "https://launchp.bid/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105444937655263639",
+            "postId": "2105444937655263639",
+            "postedAt": "2026-09-30T23:49:25.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://launchp.bid/",
+          "attemptedAt": "2026-10-15T11:29:33.417Z",
+          "probeVersion": 3,
+          "status": "review",
+          "checkedAt": "2026-10-15T11:29:33.417Z",
+          "consecutiveTemporaryFailures": 0,
+          "failureCount": 1,
+          "reason": "http_404",
+          "nextCheckAt": "2026-10-15T17:29:33.417Z"
+        },
+        "previewAttemptAt": "2026-10-15T11:29:33.417Z",
+        "previewCheck": {
+          "url": "https://launchp.bid/",
+          "status": "retry",
+          "reason": "http_404",
+          "attemptedAt": "2026-10-15T11:29:33.417Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-15T17:29:33.417Z"
+        }
+      },
+      "reason": "http_404",
+      "nextAttemptAt": "2026-10-15T17:29:33.417Z",
+      "checkedAt": "2026-10-15T11:29:33.417Z"
     }
   },
   "lastRun": {
@@ -50886,7 +51705,7 @@
       "posts": 384,
       "uniquePosts": 220,
       "newCandidates": 145,
-      "validationAttempts": 128,
+      "validationAttempts": 133,
       "accepted": 46
     },
     "2c0438e5283099cf": {
@@ -50918,8 +51737,8 @@
       "posts": 276,
       "uniquePosts": 136,
       "newCandidates": 137,
-      "validationAttempts": 110,
-      "accepted": 51
+      "validationAttempts": 125,
+      "accepted": 57
     }
   },
   "demoSeeds": {
