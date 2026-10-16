@@ -1,24 +1,27 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-15T22:13:47.306Z
+Checked: 2026-10-16T11:24:31.151Z
 
-Quality-ready repositories: **22**
+Quality-ready repositories: **25**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 384 | 220 | 145 | 46 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 384 | 220 | 145 | 47 |
 | url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 176 | 173 | 197 | 77 |
 | (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 20 |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 150 | 16 | 10 | 3 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 307 | 146 | 145 | 62 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 307 | 146 | 145 | 64 |
 
 Acceptance totals are attributed to the first discovery query; these are not controlled experiments.
 
 | Repository | Demo | Screenshot | Source post |
 | --- | --- | --- | --- |
 | [laoxin99/cognitive-bridge-v0-public](https://github.com/laoxin99/cognitive-bridge-v0-public) | [Try demo](https://laoxin99.github.io/index.html) | [Screenshot](previews/5fa1166dee131b8b9e8e1660.jpg) | [Source](https://x.com/i/web/status/2105890744401793118) |
+| [shpeedle/demo-jev](https://github.com/shpeedle/demo-jev) | [Try demo](https://docs.typesafe.ai/) | [Screenshot](previews/d85074da31269bb99c126fcd.jpg) | [Source](https://x.com/i/web/status/2105831134475264204) |
+| [quoid/userscripts](https://github.com/quoid/userscripts) | [Try demo](https://quoid.github.io/userscripts/) | [Screenshot](previews/d1216ec1a3e7b3bd8c5e6cc0.jpg) | [Source](https://x.com/i/web/status/2105555930158911751) |
+| [webdriverio/native-demo-app](https://github.com/webdriverio/native-demo-app) | [Try demo](https://expo.dev/) | [Screenshot](previews/576f316e1cb0e6aaf0ea551d.jpg) | [Source](https://x.com/i/web/status/2105714110205710832) |
 | [rohitcn-hub/thermacompute-crashlens](https://github.com/rohitcn-hub/thermacompute-crashlens) | [Try demo](https://crashlens-demo.rohitc-n474269.chatgpt.site/) | [Screenshot](previews/e0c5f098110a25463d108740.jpg) | [Source](https://x.com/i/web/status/2105690149460054073) |
 | [latent-spaces/brag](https://github.com/latent-spaces/brag) | [Try demo](https://latent-spaces.github.io/brag/) | [Screenshot](previews/266c6fabfe3497d42b3533dc.jpg) | [Source](https://x.com/i/web/status/2105639188322189606) |
 | [SamG-Coder/grain-cuda-sand](https://github.com/SamG-Coder/grain-cuda-sand) | [Try demo](https://samg-coder.github.io/grain-cuda-sand/) | [Screenshot](previews/59f19894bd66205b7b34e5ea.jpg) | [Source](https://x.com/i/web/status/2099394564868210819) |

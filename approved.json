@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-15T22:13:47.306Z",
+  "updatedAt": "2026-10-16T11:24:31.151Z",
   "runtimeRevision": "ed71211be3a262dd1b928f3740f110b041b3708e",
   "checked": 20,
   "repositories": [
@@ -87,6 +87,261 @@
         "attemptedAt": "2026-10-15T11:29:44.118Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-22T11:29:44.119Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "shpeedle/demo-jev",
+      "name": "demo-jev",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-10-02T00:32:40Z",
+      "updated": "2026-10-02T00:32:45Z",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://docs.typesafe.ai/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-16T11:24:00.709Z",
+      "lastAvailableAt": "2026-10-16T11:24:00.709Z",
+      "lastAttemptAt": "2026-10-16T11:24:00.709Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105831134475264204",
+          "postId": "2105831134475264204",
+          "postedAt": "2026-10-02T01:24:01.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://docs.typesafe.ai/",
+        "attemptedAt": "2026-10-16T11:24:04.311Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-16T11:24:04.311Z",
+        "lastWorkingAt": "2026-10-16T11:24:04.311Z",
+        "target": "https://docs.typesafe.ai/introduction",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-23T11:24:04.311Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/d85074da31269bb99c126fcd.jpg",
+          "kind": "demo",
+          "url": "https://docs.typesafe.ai/",
+          "capturedAt": "2026-10-16T11:24:04.311Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-16T11:24:04.311Z",
+      "previewCheck": {
+        "url": "https://docs.typesafe.ai/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-16T11:24:04.311Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-23T11:24:04.312Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "quoid/userscripts",
+      "name": "userscripts",
+      "description": "An open-source userscript manager for Safari",
+      "category": "Developer tools",
+      "language": "Swift",
+      "stars": 4840,
+      "forks": 461,
+      "created": "2018-12-01T21:27:43Z",
+      "updated": "2026-10-16T03:55:52Z",
+      "license": "GPL-3.0",
+      "branch": "main",
+      "homepage": "https://quoid.github.io/userscripts/",
+      "topics": [
+        "safari",
+        "safari-app-extension",
+        "safari-extension",
+        "swift",
+        "userscript",
+        "userscript-editor",
+        "web-extension"
+      ],
+      "demo": "https://quoid.github.io/userscripts/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-16T11:24:18.588Z",
+      "lastAvailableAt": "2026-10-16T11:24:18.588Z",
+      "lastAttemptAt": "2026-10-16T11:24:18.588Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105555930158911751",
+          "postId": "2105555930158911751",
+          "postedAt": "2026-10-01T07:10:27.000Z"
+        }
+      ],
+      "subjects": [
+        "Browser extensions & PWAs"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "Browser extensions & PWAs"
+        ],
+        "evidence": [
+          {
+            "subject": "Browser extensions & PWAs",
+            "source": "metadata",
+            "match": "userscripts"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://quoid.github.io/userscripts/",
+        "attemptedAt": "2026-10-16T11:24:21.841Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-16T11:24:21.841Z",
+        "lastWorkingAt": "2026-10-16T11:24:21.841Z",
+        "target": "https://quoid.github.io/userscripts/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-23T11:24:21.841Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/d1216ec1a3e7b3bd8c5e6cc0.jpg",
+          "kind": "demo",
+          "url": "https://quoid.github.io/userscripts/",
+          "capturedAt": "2026-10-16T11:24:21.841Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-16T11:24:21.841Z",
+      "previewCheck": {
+        "url": "https://quoid.github.io/userscripts/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-16T11:24:21.841Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-23T11:24:21.843Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "webdriverio/native-demo-app",
+      "name": "native-demo-app",
+      "description": "Guinea pig app for showcasing test automation with WebdriverIO and Appium",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 115,
+      "forks": 36,
+      "created": "2018-09-07T11:57:12Z",
+      "updated": "2026-09-24T22:05:55Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://expo.dev/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-16T11:24:27.607Z",
+      "lastAvailableAt": "2026-10-16T11:24:27.607Z",
+      "lastAttemptAt": "2026-10-16T11:24:27.607Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105714110205710832",
+          "postId": "2105714110205710832",
+          "postedAt": "2026-10-01T17:39:00.000Z"
+        }
+      ],
+      "subjects": [
+        "Automation & workflows"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [
+          "Automation & workflows"
+        ],
+        "evidence": [
+          {
+            "subject": "Automation & workflows",
+            "source": "metadata",
+            "match": "automation"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://expo.dev/",
+        "attemptedAt": "2026-10-16T11:24:31.104Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-16T11:24:31.104Z",
+        "lastWorkingAt": "2026-10-16T11:24:31.104Z",
+        "target": "https://expo.dev/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-23T11:24:31.104Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/576f316e1cb0e6aaf0ea551d.jpg",
+          "kind": "demo",
+          "url": "https://expo.dev/",
+          "capturedAt": "2026-10-16T11:24:31.104Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-16T11:24:31.104Z",
+      "previewCheck": {
+        "url": "https://expo.dev/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-16T11:24:31.104Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-23T11:24:31.105Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
