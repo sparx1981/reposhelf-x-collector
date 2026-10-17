@@ -4098,7 +4098,7 @@
     "ponsdotdev/pons-labs": {
       "full": "ponsdotdev/pons-labs",
       "firstSeenAt": "2026-10-09T09:20:24.777Z",
-      "status": "retry",
+      "status": "rejected",
       "sources": [
         {
           "kind": "x",
@@ -4216,8 +4216,8 @@
           "nextCheckAt": "2026-10-09T11:21:28.924Z"
         }
       },
-      "reason": "access_restricted",
-      "nextAttemptAt": "2026-10-09T11:21:28.924Z",
+      "reason": "repository_unavailable",
+      "nextAttemptAt": "2026-10-17T16:44:10.250Z",
       "checkedAt": "2026-10-09T09:21:28.925Z"
     },
     "mohitagw15856/notugly": {
@@ -15265,9 +15265,9 @@
         "demo": "https://solscan.io/tx/2g9SQbVZbkPu3JJbXWSYmSwRKkTBmdcVN1sga8D4SUwK1Mk1QpuwUDZ7LHJ3wLATSsftL8XyhkNcVN2kiwC59YKq",
         "color": "#63362a",
         "ink": "#f8c7a8",
-        "lastCheckedAt": "2026-10-09T13:17:02.552Z",
-        "lastAvailableAt": "2026-10-09T13:17:02.552Z",
-        "lastAttemptAt": "2026-10-09T13:17:02.552Z",
+        "lastCheckedAt": "2026-10-17T10:44:10.943Z",
+        "lastAvailableAt": "2026-10-17T10:44:10.943Z",
+        "lastAttemptAt": "2026-10-17T10:44:10.943Z",
         "demoEvidence": {
           "kind": "x_link",
           "repository": "pump-fun/transfer-hook-authority",
@@ -15298,29 +15298,29 @@
         },
         "demoHealth": {
           "url": "https://solscan.io/tx/2g9SQbVZbkPu3JJbXWSYmSwRKkTBmdcVN1sga8D4SUwK1Mk1QpuwUDZ7LHJ3wLATSsftL8XyhkNcVN2kiwC59YKq",
-          "attemptedAt": "2026-10-09T13:17:03.261Z",
+          "attemptedAt": "2026-10-17T10:44:11.447Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "challenge",
-            "at": "2026-10-09T13:17:03.261Z"
+            "at": "2026-10-17T10:44:11.447Z"
           },
-          "nextCheckAt": "2026-10-09T15:17:03.261Z"
+          "nextCheckAt": "2026-11-16T10:44:11.447Z"
         },
-        "previewAttemptAt": "2026-10-09T13:17:03.261Z",
+        "previewAttemptAt": "2026-10-17T10:44:11.447Z",
         "previewCheck": {
           "url": "https://solscan.io/tx/2g9SQbVZbkPu3JJbXWSYmSwRKkTBmdcVN1sga8D4SUwK1Mk1QpuwUDZ7LHJ3wLATSsftL8XyhkNcVN2kiwC59YKq",
           "status": "retry",
           "reason": "challenge",
-          "attemptedAt": "2026-10-09T13:17:03.261Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-09T15:17:03.261Z"
+          "attemptedAt": "2026-10-17T10:44:11.447Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-11-16T10:44:11.447Z"
         }
       },
       "reason": "challenge",
-      "nextAttemptAt": "2026-10-09T15:17:03.261Z",
-      "checkedAt": "2026-10-09T13:17:03.261Z"
+      "nextAttemptAt": "2026-11-16T10:44:11.447Z",
+      "checkedAt": "2026-10-17T10:44:11.447Z"
     },
     "dmoka/quicke2e": {
       "full": "dmoka/quicke2e",
@@ -20409,10 +20409,10 @@
         "description": "Open-source personal AI assistant that lives in your WhatsApp: email, calendar, group plans, reminders and errands. Self-hosted, and it asks before it sends anything as you.",
         "category": "Productivity",
         "language": "TypeScript",
-        "stars": 11,
-        "forks": 4,
+        "stars": 14,
+        "forks": 6,
         "created": "2026-10-08T03:13:43Z",
-        "updated": "2026-10-09T09:50:22Z",
+        "updated": "2026-10-10T13:02:52Z",
         "license": "MIT",
         "branch": "master",
         "homepage": "https://inkling.free",
@@ -20439,9 +20439,9 @@
         "demo": "https://www.producthunt.com/products/inkling-4",
         "color": "#63362a",
         "ink": "#f8c7a8",
-        "lastCheckedAt": "2026-10-10T05:39:43.551Z",
-        "lastAvailableAt": "2026-10-10T05:39:43.551Z",
-        "lastAttemptAt": "2026-10-10T05:39:43.551Z",
+        "lastCheckedAt": "2026-10-17T10:44:12.391Z",
+        "lastAvailableAt": "2026-10-17T10:44:12.391Z",
+        "lastAttemptAt": "2026-10-17T10:44:12.391Z",
         "demoEvidence": {
           "kind": "x_link",
           "repository": "inklingfree/inkling",
@@ -20496,29 +20496,29 @@
         },
         "demoHealth": {
           "url": "https://www.producthunt.com/products/inkling-4",
-          "attemptedAt": "2026-10-10T05:39:44.068Z",
+          "attemptedAt": "2026-10-17T10:44:12.890Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "challenge",
-            "at": "2026-10-10T05:39:44.068Z"
+            "at": "2026-10-17T10:44:12.890Z"
           },
-          "nextCheckAt": "2026-10-10T07:39:44.068Z"
+          "nextCheckAt": "2026-11-16T10:44:12.890Z"
         },
-        "previewAttemptAt": "2026-10-10T05:39:44.068Z",
+        "previewAttemptAt": "2026-10-17T10:44:12.890Z",
         "previewCheck": {
           "url": "https://www.producthunt.com/products/inkling-4",
           "status": "retry",
           "reason": "challenge",
-          "attemptedAt": "2026-10-10T05:39:44.068Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-10T07:39:44.068Z"
+          "attemptedAt": "2026-10-17T10:44:12.890Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-11-16T10:44:12.890Z"
         }
       },
       "reason": "challenge",
-      "nextAttemptAt": "2026-10-10T07:39:44.068Z",
-      "checkedAt": "2026-10-10T05:39:44.068Z"
+      "nextAttemptAt": "2026-11-16T10:44:12.890Z",
+      "checkedAt": "2026-10-17T10:44:12.890Z"
     },
     "antseed/antseed": {
       "full": "AntSeed/antseed",
@@ -22657,9 +22657,9 @@
         "demo": "https://didahsdr.guenael.ca/",
         "color": "#323057",
         "ink": "#d6caff",
-        "lastCheckedAt": "2026-10-10T07:20:50.310Z",
-        "lastAvailableAt": "2026-10-10T07:20:50.310Z",
-        "lastAttemptAt": "2026-10-10T07:20:50.310Z",
+        "lastCheckedAt": "2026-10-17T10:45:20.145Z",
+        "lastAvailableAt": "2026-10-17T10:45:20.145Z",
+        "lastAttemptAt": "2026-10-17T10:45:20.145Z",
         "demoEvidence": {
           "kind": "x_link",
           "repository": "Guenael/didahSDR",
@@ -22690,29 +22690,29 @@
         },
         "demoHealth": {
           "url": "https://didahsdr.guenael.ca/",
-          "attemptedAt": "2026-10-10T07:20:51.016Z",
+          "attemptedAt": "2026-10-17T10:45:20.904Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "http_502",
-            "at": "2026-10-10T07:20:51.016Z"
+            "at": "2026-10-17T10:45:20.904Z"
           },
-          "nextCheckAt": "2026-10-10T09:20:51.016Z"
+          "nextCheckAt": "2026-10-17T12:45:20.904Z"
         },
-        "previewAttemptAt": "2026-10-10T07:20:51.016Z",
+        "previewAttemptAt": "2026-10-17T10:45:20.904Z",
         "previewCheck": {
           "url": "https://didahsdr.guenael.ca/",
           "status": "retry",
           "reason": "http_502",
-          "attemptedAt": "2026-10-10T07:20:51.016Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-10T09:20:51.016Z"
+          "attemptedAt": "2026-10-17T10:45:20.904Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-17T12:45:20.904Z"
         }
       },
       "reason": "http_502",
-      "nextAttemptAt": "2026-10-10T09:20:51.016Z",
-      "checkedAt": "2026-10-10T07:20:51.016Z"
+      "nextAttemptAt": "2026-10-17T12:45:20.904Z",
+      "checkedAt": "2026-10-17T10:45:20.904Z"
     },
     "jubayer910/admin-panel": {
       "full": "jubayer910/Admin-panel",
@@ -23364,7 +23364,7 @@
     "ashfakcodes/alphaind-trading-desk": {
       "full": "ashfakcodes/alphaind-trading-desk",
       "firstSeenAt": "2026-10-10T07:19:44.316Z",
-      "status": "retry",
+      "status": "rejected",
       "sources": [
         {
           "kind": "x",
@@ -23410,9 +23410,9 @@
         "demo": "https://alphaind-trading-desk-pi.vercel.app/",
         "color": "#193546",
         "ink": "#a6d6e8",
-        "lastCheckedAt": "2026-10-10T07:20:45.232Z",
-        "lastAvailableAt": "2026-10-10T07:20:45.232Z",
-        "lastAttemptAt": "2026-10-10T07:20:45.232Z",
+        "lastCheckedAt": "2026-10-17T10:45:05.157Z",
+        "lastAvailableAt": "2026-10-17T10:45:05.157Z",
+        "lastAttemptAt": "2026-10-17T10:45:05.157Z",
         "discoveredVia": [
           {
             "kind": "x",
@@ -23437,28 +23437,28 @@
         },
         "demoHealth": {
           "url": "https://alphaind-trading-desk-pi.vercel.app/",
-          "attemptedAt": "2026-10-10T07:20:45.633Z",
+          "attemptedAt": "2026-10-17T10:45:05.649Z",
           "probeVersion": 3,
-          "status": "review",
-          "checkedAt": "2026-10-10T07:20:45.633Z",
+          "status": "unavailable",
+          "checkedAt": "2026-10-17T10:45:05.649Z",
           "consecutiveTemporaryFailures": 0,
-          "failureCount": 1,
+          "failureCount": 2,
           "reason": "http_404",
-          "nextCheckAt": "2026-10-10T13:20:45.633Z"
+          "nextCheckAt": "2026-10-18T10:45:05.649Z"
         },
-        "previewAttemptAt": "2026-10-10T07:20:45.633Z",
+        "previewAttemptAt": "2026-10-17T10:45:05.649Z",
         "previewCheck": {
           "url": "https://alphaind-trading-desk-pi.vercel.app/",
           "status": "retry",
           "reason": "http_404",
-          "attemptedAt": "2026-10-10T07:20:45.633Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-10T13:20:45.633Z"
+          "attemptedAt": "2026-10-17T10:45:05.649Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-18T10:45:05.649Z"
         }
       },
       "reason": "http_404",
-      "nextAttemptAt": "2026-10-10T13:20:45.633Z",
-      "checkedAt": "2026-10-10T07:20:45.633Z"
+      "nextAttemptAt": "2026-10-18T10:45:05.649Z",
+      "checkedAt": "2026-10-17T10:45:05.649Z"
     },
     "agibottech/sonic_for_a3": {
       "full": "AgibotTech/sonic_for_a3",
@@ -26102,9 +26102,9 @@
         "demo": "https://tampal.vercel.app/",
         "color": "#323057",
         "ink": "#d6caff",
-        "lastCheckedAt": "2026-10-10T13:54:28.433Z",
-        "lastAvailableAt": "2026-10-10T13:54:28.433Z",
-        "lastAttemptAt": "2026-10-10T13:54:28.433Z",
+        "lastCheckedAt": "2026-10-17T10:45:06.402Z",
+        "lastAvailableAt": "2026-10-17T10:45:06.402Z",
+        "lastAttemptAt": "2026-10-17T10:45:06.402Z",
         "discoveredVia": [
           {
             "kind": "x",
@@ -26129,29 +26129,29 @@
         },
         "demoHealth": {
           "url": "https://tampal.vercel.app/",
-          "attemptedAt": "2026-10-10T13:54:39.690Z",
+          "attemptedAt": "2026-10-17T10:45:17.712Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "empty_page",
-            "at": "2026-10-10T13:54:39.690Z"
+            "at": "2026-10-17T10:45:17.712Z"
           },
-          "nextCheckAt": "2026-10-10T15:54:39.690Z"
+          "nextCheckAt": "2026-10-17T12:45:17.712Z"
         },
-        "previewAttemptAt": "2026-10-10T13:54:39.690Z",
+        "previewAttemptAt": "2026-10-17T10:45:17.712Z",
         "previewCheck": {
           "url": "https://tampal.vercel.app/",
           "status": "retry",
           "reason": "empty_page",
-          "attemptedAt": "2026-10-10T13:54:39.690Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-10T15:54:39.690Z"
+          "attemptedAt": "2026-10-17T10:45:17.712Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-17T12:45:17.712Z"
         }
       },
       "reason": "empty_page",
-      "nextAttemptAt": "2026-10-10T15:54:39.690Z",
-      "checkedAt": "2026-10-10T13:54:39.690Z"
+      "nextAttemptAt": "2026-10-17T12:45:17.712Z",
+      "checkedAt": "2026-10-17T10:45:17.712Z"
     },
     "hakopod/hakopod": {
       "full": "hakopod/hakopod",
@@ -27386,9 +27386,9 @@
         "demo": "https://iamtechartist.github.io/Conceptual-X-16/",
         "color": "#63362a",
         "ink": "#f8c7a8",
-        "lastCheckedAt": "2026-10-10T13:54:00.212Z",
-        "lastAvailableAt": "2026-10-10T13:54:00.212Z",
-        "lastAttemptAt": "2026-10-10T13:54:00.212Z",
+        "lastCheckedAt": "2026-10-17T10:44:47.749Z",
+        "lastAvailableAt": "2026-10-17T10:44:47.749Z",
+        "lastAttemptAt": "2026-10-17T10:44:47.749Z",
         "discoveredVia": [
           {
             "kind": "x",
@@ -27423,29 +27423,29 @@
         },
         "demoHealth": {
           "url": "https://iamtechartist.github.io/Conceptual-X-16/",
-          "attemptedAt": "2026-10-10T13:54:23.871Z",
+          "attemptedAt": "2026-10-17T10:45:04.268Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "network_or_timeout",
-            "at": "2026-10-10T13:54:23.871Z"
+            "at": "2026-10-17T10:45:04.268Z"
           },
-          "nextCheckAt": "2026-10-10T15:54:23.871Z"
+          "nextCheckAt": "2026-10-17T12:45:04.268Z"
         },
-        "previewAttemptAt": "2026-10-10T13:54:23.871Z",
+        "previewAttemptAt": "2026-10-17T10:45:04.268Z",
         "previewCheck": {
           "url": "https://iamtechartist.github.io/Conceptual-X-16/",
           "status": "retry",
           "reason": "network_or_timeout",
-          "attemptedAt": "2026-10-10T13:54:23.871Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-10T15:54:23.871Z"
+          "attemptedAt": "2026-10-17T10:45:04.268Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-17T12:45:04.268Z"
         }
       },
       "reason": "network_or_timeout",
-      "nextAttemptAt": "2026-10-10T15:54:23.871Z",
-      "checkedAt": "2026-10-10T13:54:23.871Z"
+      "nextAttemptAt": "2026-10-17T12:45:04.268Z",
+      "checkedAt": "2026-10-17T10:45:04.272Z"
     },
     "pmndrs/examples": {
       "full": "pmndrs/examples",
@@ -27919,7 +27919,7 @@
         "full": "mehrdadmms/livepeer-agent-recipes",
         "name": "livepeer-agent-recipes",
         "description": "AI media pieces made with the Livepeer agent (Livepeer MCP), each packaged so anyone can reproduce it exactly.",
-        "category": "AI & machine learning",
+        "category": "Other",
         "language": "Python",
         "stars": 0,
         "forks": 0,
@@ -27931,9 +27931,9 @@
         "demo": "https://earlyaccess.livepeer.org/login",
         "color": "#193546",
         "ink": "#a6d6e8",
-        "lastCheckedAt": "2026-10-10T16:19:36.150Z",
-        "lastAvailableAt": "2026-10-10T16:19:36.150Z",
-        "lastAttemptAt": "2026-10-10T16:19:36.150Z",
+        "lastCheckedAt": "2026-10-17T10:44:42.643Z",
+        "lastAvailableAt": "2026-10-17T10:44:42.643Z",
+        "lastAttemptAt": "2026-10-17T10:44:42.643Z",
         "demoEvidence": {
           "kind": "x_link",
           "repository": "mehrdadmms/livepeer-agent-recipes",
@@ -27974,29 +27974,29 @@
         },
         "demoHealth": {
           "url": "https://earlyaccess.livepeer.org/login",
-          "attemptedAt": "2026-10-10T16:19:40.550Z",
+          "attemptedAt": "2026-10-17T10:44:46.634Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "login_wall",
-            "at": "2026-10-10T16:19:40.550Z"
+            "at": "2026-10-17T10:44:46.634Z"
           },
-          "nextCheckAt": "2026-10-10T18:19:40.550Z"
+          "nextCheckAt": "2026-10-17T12:44:46.634Z"
         },
-        "previewAttemptAt": "2026-10-10T16:19:40.550Z",
+        "previewAttemptAt": "2026-10-17T10:44:46.634Z",
         "previewCheck": {
           "url": "https://earlyaccess.livepeer.org/login",
           "status": "retry",
           "reason": "login_wall",
-          "attemptedAt": "2026-10-10T16:19:40.550Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-10T18:19:40.550Z"
+          "attemptedAt": "2026-10-17T10:44:46.634Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-17T12:44:46.634Z"
         }
       },
       "reason": "login_wall",
-      "nextAttemptAt": "2026-10-10T18:19:40.550Z",
-      "checkedAt": "2026-10-10T16:19:40.551Z"
+      "nextAttemptAt": "2026-10-17T12:44:46.634Z",
+      "checkedAt": "2026-10-17T10:44:46.634Z"
     },
     "robertpiosik/codewebchat": {
       "full": "robertpiosik/CodeWebChat",
@@ -29800,7 +29800,7 @@
         "description": "Real-time, photoreal shallow water in a single HTML file. WebGL2, no libraries, no build step.",
         "category": "Other",
         "language": "HTML",
-        "stars": 510,
+        "stars": 513,
         "forks": 95,
         "created": "2026-09-23T13:20:08Z",
         "updated": "2026-09-23T13:20:28Z",
@@ -29819,9 +29819,9 @@
         "demo": "https://aureliengmz.github.io/clearwater/",
         "color": "#25392f",
         "ink": "#d1e5c5",
-        "lastCheckedAt": "2026-10-10T19:34:54.128Z",
-        "lastAvailableAt": "2026-10-10T19:34:54.128Z",
-        "lastAttemptAt": "2026-10-10T19:34:54.128Z",
+        "lastCheckedAt": "2026-10-17T10:43:53.866Z",
+        "lastAvailableAt": "2026-10-17T10:43:53.866Z",
+        "lastAttemptAt": "2026-10-17T10:43:53.866Z",
         "discoveredVia": [
           {
             "kind": "x",
@@ -29856,29 +29856,29 @@
         },
         "demoHealth": {
           "url": "https://aureliengmz.github.io/clearwater/",
-          "attemptedAt": "2026-10-10T19:35:13.795Z",
+          "attemptedAt": "2026-10-17T10:44:09.707Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "network_or_timeout",
-            "at": "2026-10-10T19:35:13.795Z"
+            "at": "2026-10-17T10:44:09.707Z"
           },
-          "nextCheckAt": "2026-10-10T21:35:13.795Z"
+          "nextCheckAt": "2026-10-17T12:44:09.707Z"
         },
-        "previewAttemptAt": "2026-10-10T19:35:13.795Z",
+        "previewAttemptAt": "2026-10-17T10:44:09.707Z",
         "previewCheck": {
           "url": "https://aureliengmz.github.io/clearwater/",
           "status": "retry",
           "reason": "network_or_timeout",
-          "attemptedAt": "2026-10-10T19:35:13.795Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-10T21:35:13.795Z"
+          "attemptedAt": "2026-10-17T10:44:09.707Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-17T12:44:09.707Z"
         }
       },
       "reason": "network_or_timeout",
-      "nextAttemptAt": "2026-10-10T21:35:13.795Z",
-      "checkedAt": "2026-10-10T19:35:13.796Z"
+      "nextAttemptAt": "2026-10-17T12:44:09.707Z",
+      "checkedAt": "2026-10-17T10:44:09.707Z"
     },
     "healthybuilder/owys": {
       "full": "HealthyBuilder/owys",
@@ -34952,7 +34952,7 @@
         "full": "erkamyaman/hinge-guess-angular-native",
         "name": "hinge-guess-angular-native",
         "description": "Guess the hinge angle on iPhone Duo and Android foldables, in Angular with real native views (Angular Native)",
-        "category": "Developer tools",
+        "category": "Other",
         "language": "TypeScript",
         "stars": 1,
         "forks": 0,
@@ -34965,9 +34965,9 @@
         "demo": "https://ng-native.com/",
         "color": "#25392f",
         "ink": "#d1e5c5",
-        "lastCheckedAt": "2026-10-11T04:05:28.257Z",
-        "lastAvailableAt": "2026-10-11T04:05:28.257Z",
-        "lastAttemptAt": "2026-10-11T04:05:28.257Z",
+        "lastCheckedAt": "2026-10-17T10:45:18.736Z",
+        "lastAvailableAt": "2026-10-17T10:45:18.736Z",
+        "lastAttemptAt": "2026-10-17T10:45:18.736Z",
         "demoEvidence": {
           "kind": "x_link",
           "repository": "erkamyaman/hinge-guess-angular-native",
@@ -35036,29 +35036,29 @@
         },
         "demoHealth": {
           "url": "https://ng-native.com/",
-          "attemptedAt": "2026-10-11T04:05:28.784Z",
+          "attemptedAt": "2026-10-17T10:45:19.267Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "challenge",
-            "at": "2026-10-11T04:05:28.784Z"
+            "at": "2026-10-17T10:45:19.267Z"
           },
-          "nextCheckAt": "2026-10-11T06:05:28.784Z"
+          "nextCheckAt": "2026-11-16T10:45:19.267Z"
         },
-        "previewAttemptAt": "2026-10-11T04:05:28.784Z",
+        "previewAttemptAt": "2026-10-17T10:45:19.267Z",
         "previewCheck": {
           "url": "https://ng-native.com/",
           "status": "retry",
           "reason": "challenge",
-          "attemptedAt": "2026-10-11T04:05:28.784Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-11T06:05:28.784Z"
+          "attemptedAt": "2026-10-17T10:45:19.267Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-11-16T10:45:19.267Z"
         }
       },
       "reason": "challenge",
-      "nextAttemptAt": "2026-10-11T06:05:28.784Z",
-      "checkedAt": "2026-10-11T04:05:28.784Z"
+      "nextAttemptAt": "2026-11-16T10:45:19.267Z",
+      "checkedAt": "2026-10-17T10:45:19.267Z"
     },
     "anyrouterh/anyroute": {
       "full": "AnyRouteRH/AnyRoute",
@@ -41693,8 +41693,8 @@
         "description": "Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents",
         "category": "Design",
         "language": "HTML",
-        "stars": 6711,
-        "forks": 788,
+        "stars": 6806,
+        "forks": 797,
         "created": "2026-02-03T10:10:55Z",
         "updated": "2026-10-06T14:20:26Z",
         "license": "MIT",
@@ -41704,9 +41704,9 @@
         "demo": "https://threeui.com/dark-souls-holo-card",
         "color": "#302e55",
         "ink": "#dbd2ff",
-        "lastCheckedAt": "2026-10-11T12:49:52.410Z",
-        "lastAvailableAt": "2026-10-11T12:49:52.410Z",
-        "lastAttemptAt": "2026-10-11T12:49:52.410Z",
+        "lastCheckedAt": "2026-10-17T10:44:13.579Z",
+        "lastAvailableAt": "2026-10-17T10:44:13.579Z",
+        "lastAttemptAt": "2026-10-17T10:44:13.579Z",
         "demoEvidence": {
           "kind": "x_link",
           "repository": "MengTo/Skills",
@@ -41754,29 +41754,29 @@
         },
         "demoHealth": {
           "url": "https://threeui.com/dark-souls-holo-card",
-          "attemptedAt": "2026-10-11T12:50:27.417Z",
+          "attemptedAt": "2026-10-17T10:44:41.650Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "empty_page",
-            "at": "2026-10-11T12:50:27.417Z"
+            "at": "2026-10-17T10:44:41.650Z"
           },
-          "nextCheckAt": "2026-10-11T14:50:27.417Z"
+          "nextCheckAt": "2026-10-17T12:44:41.650Z"
         },
-        "previewAttemptAt": "2026-10-11T12:50:27.417Z",
+        "previewAttemptAt": "2026-10-17T10:44:41.650Z",
         "previewCheck": {
           "url": "https://threeui.com/dark-souls-holo-card",
           "status": "retry",
           "reason": "empty_page",
-          "attemptedAt": "2026-10-11T12:50:27.417Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-11T14:50:27.417Z"
+          "attemptedAt": "2026-10-17T10:44:41.650Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-17T12:44:41.650Z"
         }
       },
       "reason": "empty_page",
-      "nextAttemptAt": "2026-10-11T14:50:27.417Z",
-      "checkedAt": "2026-10-11T12:50:27.418Z"
+      "nextAttemptAt": "2026-10-17T12:44:41.650Z",
+      "checkedAt": "2026-10-17T10:44:41.650Z"
     },
     "openclaw/openclaw-enterprise": {
       "full": "openclaw/openclaw-enterprise",
@@ -44515,7 +44515,7 @@
     "reacherwu/giant-fiber": {
       "full": "reacherwu/giant-fiber",
       "firstSeenAt": "2026-10-11T20:31:52.999Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -44534,7 +44534,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T20:31:52.999Z"
+      "lastSeenAt": "2026-10-11T20:31:52.999Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-24T10:43:30.325Z"
     },
     "rorshopping/shipside": {
       "full": "rorshopping/shipside",
@@ -44711,7 +44713,7 @@
     "knownothing20/dots-panel": {
       "full": "knownothing20/dots-panel",
       "firstSeenAt": "2026-10-11T20:31:52.999Z",
-      "status": "queued",
+      "status": "rejected",
       "sources": [
         {
           "kind": "x",
@@ -44730,7 +44732,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-11T20:31:52.999Z"
+      "lastSeenAt": "2026-10-11T20:31:52.999Z",
+      "reason": "repository_unavailable",
+      "nextAttemptAt": "2026-10-17T16:43:30.782Z"
     },
     "shksushant/butler": {
       "full": "SHKsushant/Butler",
@@ -48799,7 +48803,7 @@
     "leularia/aria-icons": {
       "full": "LeulAria/Aria-Icons",
       "firstSeenAt": "2026-10-13T14:10:54.092Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -48818,7 +48822,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-13T14:10:54.092Z"
+      "lastSeenAt": "2026-10-13T14:10:54.092Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-24T10:43:31.506Z"
     },
     "vibeaman/tradereplay": {
       "full": "Vibeaman/TradeReplay",
@@ -49036,7 +49042,7 @@
     "atsushiyago/shipready": {
       "full": "atsushiyago/shipready",
       "firstSeenAt": "2026-10-13T14:10:54.092Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -49055,12 +49061,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-13T14:10:54.092Z"
+      "lastSeenAt": "2026-10-13T14:10:54.092Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-24T10:43:32.310Z"
     },
     "nvidia/openshell": {
       "full": "NVIDIA/OpenShell",
       "firstSeenAt": "2026-10-13T14:10:54.092Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -49079,7 +49087,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-13T14:10:54.092Z"
+      "lastSeenAt": "2026-10-13T14:10:54.092Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-24T10:43:32.950Z"
     },
     "edankwan/the-spirit": {
       "full": "edankwan/The-Spirit",
@@ -50463,7 +50473,7 @@
     "waterblower/opencut": {
       "full": "waterblower/opencut",
       "firstSeenAt": "2026-10-15T11:28:22.523Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -50482,7 +50492,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-15T11:28:22.523Z"
+      "lastSeenAt": "2026-10-15T11:28:22.523Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-24T10:43:33.603Z"
     },
     "mrheinrichh/sweldo": {
       "full": "mrHeinrichh/sweldo",
@@ -50894,7 +50906,7 @@
     "xuzhen-li/grapeancestry": {
       "full": "Xuzhen-Li/grapeancestry",
       "firstSeenAt": "2026-10-15T11:28:22.523Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -50911,12 +50923,94 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-15T11:28:22.523Z"
+      "lastSeenAt": "2026-10-15T11:28:22.523Z",
+      "entry": {
+        "availability": "available",
+        "full": "Xuzhen-Li/grapeancestry",
+        "name": "grapeancestry",
+        "description": "167K grapevine capture panel companion: ancestry, identity, PCA, colour GS",
+        "category": "Other",
+        "language": "Python",
+        "stars": 3,
+        "forks": 0,
+        "created": "2026-08-20T05:33:34Z",
+        "updated": "2026-10-12T07:10:17Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
+        "topics": [
+          "capture-panel",
+          "genomics",
+          "grapevine",
+          "population-genetics"
+        ],
+        "demo": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-17T10:43:34.383Z",
+        "lastAvailableAt": "2026-10-17T10:43:34.383Z",
+        "lastAttemptAt": "2026-10-17T10:43:34.383Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105495541664944445",
+            "postId": "2105495541664944445",
+            "postedAt": "2026-10-01T03:10:30.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
+          "attemptedAt": "2026-10-17T10:43:50.989Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-17T10:43:50.989Z",
+          "lastWorkingAt": "2026-10-17T10:43:50.989Z",
+          "target": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-24T10:43:50.989Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/8ef4eaeb2ada14b6debf5140.jpg",
+            "kind": "demo",
+            "url": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
+            "capturedAt": "2026-10-17T10:43:50.989Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-17T10:43:50.989Z",
+        "previewCheck": {
+          "url": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-17T10:43:50.989Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-24T10:43:50.990Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-18T22:43:50.992Z",
+      "checkedAt": "2026-10-17T10:43:50.992Z",
+      "firstAcceptedAt": "2026-10-17T10:43:50.992Z"
     },
     "xuzhen-li/paper-reading": {
       "full": "Xuzhen-Li/paper-reading",
       "firstSeenAt": "2026-10-15T11:28:22.523Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -50933,7 +51027,9 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-15T11:28:22.523Z"
+      "lastSeenAt": "2026-10-15T11:28:22.523Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-24T10:43:52.060Z"
     },
     "maixuancanh/market-royale-nansen": {
       "full": "maixuancanh/market-royale-nansen",
@@ -52076,7 +52172,7 @@
     "knadh/listmonk": {
       "full": "knadh/listmonk",
       "firstSeenAt": "2026-10-15T22:11:41.784Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -52095,7 +52191,246 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-15T22:11:41.784Z"
+      "lastSeenAt": "2026-10-15T22:11:41.784Z",
+      "reusedEvidence": true,
+      "entry": {
+        "availability": "available",
+        "full": "knadh/listmonk",
+        "name": "listmonk",
+        "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+        "category": "Developer tools",
+        "language": "Go",
+        "stars": 23814,
+        "forks": 2685,
+        "created": "2019-06-26T05:08:39Z",
+        "updated": "2026-10-16T17:47:19Z",
+        "license": "AGPL-3.0",
+        "branch": "master",
+        "homepage": "https://listmonk.app",
+        "topics": [
+          "campaign",
+          "campaign-management",
+          "email-marketing",
+          "email-subscription",
+          "listmonk",
+          "mailing-list",
+          "newsletter",
+          "newsletter-management",
+          "newsletter-software",
+          "self-hosted",
+          "sms-gateway",
+          "smtp",
+          "transactional-emails"
+        ],
+        "demo": "https://demo.listmonk.app/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-16T17:56:44.950Z",
+        "lastAttemptAt": "2026-10-16T17:56:44.950Z",
+        "lastAvailableAt": "2026-10-16T17:56:44.950Z",
+        "metrics": [
+          {
+            "at": "2026-10-03T14:33:04.469Z",
+            "stars": 23676,
+            "forks": 2643
+          },
+          {
+            "at": "2026-10-04T05:13:52.445Z",
+            "stars": 23686,
+            "forks": 2645
+          },
+          {
+            "at": "2026-10-05T19:23:31.677Z",
+            "stars": 23698,
+            "forks": 2654
+          },
+          {
+            "at": "2026-10-07T20:14:18.457Z",
+            "stars": 23712,
+            "forks": 2652
+          },
+          {
+            "at": "2026-10-08T16:05:39.205Z",
+            "stars": 23719,
+            "forks": 2656
+          },
+          {
+            "at": "2026-10-11T00:24:47.509Z",
+            "stars": 23739,
+            "forks": 2663
+          },
+          {
+            "at": "2026-10-16T17:56:44.950Z",
+            "stars": 23814,
+            "forks": 2685
+          }
+        ],
+        "technologies": [
+          "Go"
+        ],
+        "overview": {
+          "kind": "readme",
+          "version": 1,
+          "paragraphs": [
+            "listmonk is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary. It uses a PostgreSQL database as its data store."
+          ],
+          "features": [],
+          "sourceUrl": "https://github.com/knadh/listmonk/blob/master/README.md",
+          "fingerprint": "e3592dcea72705901f2cfba4f674de81e96dc7aaded2343246cca9312a092cee",
+          "extractedAt": "2026-10-03T06:26:30.321Z"
+        },
+        "overviewCheckedAt": "2026-10-16T17:56:44.950Z",
+        "overviewRepoUpdated": "2026-10-16T17:47:19Z",
+        "lastDemoCheckedAt": "2026-10-16T17:56:44.950Z",
+        "enrichmentAttemptAt": "2026-10-05T16:57:46.920Z",
+        "latestRelease": {
+          "name": "v6.2.0",
+          "tag": "v6.2.0",
+          "publishedAt": "2026-06-26T10:24:34Z",
+          "url": "https://github.com/knadh/listmonk/releases/tag/v6.2.0"
+        },
+        "releaseCheckedAt": "2026-10-05T16:57:46.920Z",
+        "screenshots": [
+          {
+            "src": "previews/a306b62e64f502adae537da8.jpg",
+            "kind": "demo",
+            "capturedAt": "2026-10-16T18:22:30.027Z",
+            "url": "https://demo.listmonk.app/",
+            "variants": [
+              {
+                "src": "previews/variants/a306b62e64f502adae537da8-320.webp",
+                "width": 320,
+                "height": 200
+              },
+              {
+                "src": "previews/variants/a306b62e64f502adae537da8-640.webp",
+                "width": 640,
+                "height": 400
+              },
+              {
+                "src": "previews/variants/a306b62e64f502adae537da8-960.webp",
+                "width": 960,
+                "height": 600
+              }
+            ]
+          }
+        ],
+        "demoHealth": {
+          "url": "https://demo.listmonk.app/",
+          "attemptedAt": "2026-10-16T18:22:30.026Z",
+          "status": "working",
+          "checkedAt": "2026-10-16T18:22:30.026Z",
+          "lastWorkingAt": "2026-10-16T18:22:30.026Z",
+          "target": "https://demo.listmonk.app/",
+          "failureCount": 0,
+          "nextCheckAt": "2026-10-23T18:22:30.026Z",
+          "consecutiveTemporaryFailures": 0,
+          "probeVersion": 3
+        },
+        "previewAttemptAt": "2026-10-16T18:22:30.027Z",
+        "projectInsights": {
+          "version": 1,
+          "whatItDoes": {
+            "text": "listmonk is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary. It uses a PostgreSQL database as its data store.",
+            "sourceUrl": "https://github.com/knadh/listmonk/blob/master/README.md"
+          },
+          "audience": [],
+          "requirements": [],
+          "fingerprint": "e3592dcea72705901f2cfba4f674de81e96dc7aaded2343246cca9312a092cee",
+          "sourceUrl": "https://github.com/knadh/listmonk/blob/master/README.md",
+          "checkedAt": "2026-10-16T17:56:44.950Z"
+        },
+        "readmeSnapshot": {
+          "version": 1,
+          "status": "saved",
+          "sourceUrl": "https://github.com/knadh/listmonk/blob/master/README.md",
+          "checkedAt": "2026-10-16T17:56:44.950Z",
+          "hash": "e3592dcea72705901f2cfba4f674de81e96dc7aaded2343246cca9312a092cee",
+          "originalBytes": 2138,
+          "storedBytes": 2138,
+          "truncated": false
+        },
+        "agentContextAttemptAt": "2026-10-03T21:20:20.665Z",
+        "agentContext": {
+          "version": 1,
+          "checkedAt": "2026-10-03T21:20:22.908Z",
+          "documents": [
+            {
+              "name": "go.mod",
+              "sourceUrl": "https://github.com/knadh/listmonk/blob/master/go.mod",
+              "hash": "f99e88768b881a7849dca2a55d3c322ed58d6dd7da4fc12a173ecb6b9a140015",
+              "originalBytes": 2713,
+              "truncated": false
+            },
+            {
+              "name": "LICENSE",
+              "sourceUrl": "https://github.com/knadh/listmonk/blob/master/LICENSE",
+              "hash": "76a97c878c9c7a8321bb395c2b44d3fe2f8d81314d219b20138ed0e2dddd5182",
+              "originalBytes": 34520,
+              "truncated": false
+            }
+          ]
+        },
+        "agentContextRepoUpdated": "2026-10-03T10:12:30Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105367075262775432",
+            "postId": "2105367075262775432",
+            "postedAt": "2026-09-30T18:40:01.000Z"
+          }
+        ],
+        "qualityPriority": false,
+        "overviewAttemptAt": "2026-10-07T23:33:23.287Z",
+        "previewCheck": {
+          "url": "https://demo.listmonk.app/",
+          "attemptedAt": "2026-10-16T18:22:30.027Z",
+          "consecutiveFailures": 0,
+          "status": "captured",
+          "reason": null,
+          "nextCheckAt": "2026-10-23T18:22:30.027Z"
+        },
+        "subjects": [
+          "Data & dashboards",
+          "Self-hosted apps"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Data & dashboards",
+            "Self-hosted apps"
+          ],
+          "evidence": [
+            {
+              "subject": "Data & dashboards",
+              "source": "metadata",
+              "match": "dashboard"
+            },
+            {
+              "subject": "Self-hosted apps",
+              "source": "metadata",
+              "match": "self hosted"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "platforms": [],
+        "repositoryEtag": "W/\"142973a77127aa078effc488e07d66a7469d2da111eae435e0141f3e8a6ec385\"",
+        "repositoryEtagFor": "knadh/listmonk",
+        "repositoryId": 193833307,
+        "spaces": [],
+        "communityPosts": []
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-18T22:43:52.488Z",
+      "checkedAt": "2026-10-17T10:43:52.488Z",
+      "firstAcceptedAt": "2026-10-17T10:43:52.488Z"
     },
     "jesterkeri/wrasse": {
       "full": "jesterkeri/wrasse",
@@ -53821,7 +54156,7 @@
       "posts": 384,
       "uniquePosts": 220,
       "newCandidates": 145,
-      "validationAttempts": 145,
+      "validationAttempts": 150,
       "accepted": 47
     },
     "2c0438e5283099cf": {
@@ -53829,7 +54164,7 @@
       "posts": 176,
       "uniquePosts": 173,
       "newCandidates": 197,
-      "validationAttempts": 197,
+      "validationAttempts": 201,
       "accepted": 77
     },
     "ac3eb65e96558e14": {
@@ -53845,7 +54180,7 @@
       "posts": 150,
       "uniquePosts": 16,
       "newCandidates": 10,
-      "validationAttempts": 10,
+      "validationAttempts": 12,
       "accepted": 3
     },
     "a0153cbebcc5cf46": {
@@ -53853,8 +54188,8 @@
       "posts": 307,
       "uniquePosts": 146,
       "newCandidates": 145,
-      "validationAttempts": 136,
-      "accepted": 64
+      "validationAttempts": 145,
+      "accepted": 66
     }
   },
   "demoSeeds": {
@@ -53921,7 +54256,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-16T13:16:45.665Z",
+      "nextAttemptAt": "2026-10-24T10:43:26.335Z",
       "reason": "no_repository_link"
     },
     "https://ai-tools-rank-2.vercel.app/": {
@@ -53950,7 +54285,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-16T13:16:45.892Z",
+      "nextAttemptAt": "2026-10-24T10:43:26.758Z",
       "reason": "no_repository_link"
     },
     "https://mrarun005.github.io/pagewright-demo": {
@@ -53972,7 +54307,7 @@
         "replies": 1,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-16T13:16:46.280Z"
+      "nextAttemptAt": "2026-10-24T10:43:27.334Z"
     },
     "https://zubair-dev786.github.io/Restaurant-Website/": {
       "url": "https://zubair-dev786.github.io/Restaurant-Website/",
@@ -53993,7 +54328,7 @@
         "replies": 1,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-16T13:16:46.382Z",
+      "nextAttemptAt": "2026-10-24T10:43:27.499Z",
       "reason": "no_repository_link"
     },
     "https://q-link-v3-0.vercel.app/?demo=ai": {
@@ -54015,7 +54350,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-16T17:42:52.766Z",
+      "nextAttemptAt": "2026-10-24T10:43:27.716Z",
       "reason": "no_repository_link"
     },
     "https://aryannotfound404.github.io/purplechat4u/": {
@@ -54423,8 +54758,8 @@
     }
   },
   "lastDemoDiscovery": {
-    "checked": 1,
+    "checked": 5,
     "resolved": 0,
-    "at": "2026-10-16T11:23:51.305Z"
+    "at": "2026-10-17T10:43:29.216Z"
   }
 }

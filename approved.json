@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-16T11:24:31.151Z",
+  "updatedAt": "2026-10-17T10:45:20.935Z",
   "runtimeRevision": "ed71211be3a262dd1b928f3740f110b041b3708e",
   "checked": 20,
   "repositories": [
@@ -349,528 +349,6 @@
     },
     {
       "availability": "available",
-      "full": "rohitcn-hub/thermacompute-crashlens",
-      "name": "thermacompute-crashlens",
-      "description": "Fast, local log triage for LLM inference and PyTorch training.",
-      "category": "AI & machine learning",
-      "language": "Python",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-09-28T17:10:56Z",
-      "updated": "2026-10-11T07:44:52Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://crashlens-demo.rohitc-n474269.chatgpt.site/",
-      "color": "#25392f",
-      "ink": "#d1e5c5",
-      "lastCheckedAt": "2026-10-14T11:53:15.106Z",
-      "lastAvailableAt": "2026-10-14T11:53:15.106Z",
-      "lastAttemptAt": "2026-10-14T11:53:15.106Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105690149460054073",
-          "postId": "2105690149460054073",
-          "postedAt": "2026-10-01T16:03:48.000Z"
-        },
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105650849347502222",
-          "postId": "2105650849347502222",
-          "postedAt": "2026-10-01T13:27:38.000Z"
-        },
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105650266985156775",
-          "postId": "2105650266985156775",
-          "postedAt": "2026-10-01T13:25:19.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "AI & machine learning",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://crashlens-demo.rohitc-n474269.chatgpt.site/",
-        "attemptedAt": "2026-10-14T11:53:20.245Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-14T11:53:20.245Z",
-        "lastWorkingAt": "2026-10-14T11:53:20.245Z",
-        "target": "https://crashlens-demo.rohitc-n474269.chatgpt.site/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-21T11:53:20.245Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/e0c5f098110a25463d108740.jpg",
-          "kind": "demo",
-          "url": "https://crashlens-demo.rohitc-n474269.chatgpt.site/",
-          "capturedAt": "2026-10-14T11:53:20.245Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-14T11:53:20.245Z",
-      "previewCheck": {
-        "url": "https://crashlens-demo.rohitc-n474269.chatgpt.site/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-14T11:53:20.245Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-21T11:53:20.246Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "latent-spaces/brag",
-      "name": "brag",
-      "description": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
-      "category": "Developer tools",
-      "language": "Python",
-      "stars": 15831,
-      "forks": 1160,
-      "created": "2026-06-16T19:36:36Z",
-      "updated": "2026-10-13T11:08:09Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "https://latent-spaces.github.io/brag/",
-      "topics": [
-        "agent-skills",
-        "claude-code",
-        "claude-skills",
-        "hyperframes",
-        "launch-video",
-        "video-generation"
-      ],
-      "demo": "https://latent-spaces.github.io/brag/",
-      "color": "#302e55",
-      "ink": "#dbd2ff",
-      "lastCheckedAt": "2026-10-14T11:53:06.674Z",
-      "lastAvailableAt": "2026-10-14T11:53:06.674Z",
-      "lastAttemptAt": "2026-10-14T11:53:06.674Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105639188322189606",
-          "postId": "2105639188322189606",
-          "postedAt": "2026-10-01T12:41:18.000Z"
-        }
-      ],
-      "subjects": [
-        "MCP servers & agents",
-        "Image, audio & video AI"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [
-          "MCP servers & agents",
-          "Image, audio & video AI"
-        ],
-        "evidence": [
-          {
-            "subject": "MCP servers & agents",
-            "source": "metadata",
-            "match": "agent"
-          },
-          {
-            "subject": "Image, audio & video AI",
-            "source": "metadata",
-            "match": "video generation"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://latent-spaces.github.io/brag/",
-        "attemptedAt": "2026-10-14T11:53:09.868Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-14T11:53:09.868Z",
-        "lastWorkingAt": "2026-10-14T11:53:09.868Z",
-        "target": "https://latent-spaces.github.io/brag/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-21T11:53:09.868Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/266c6fabfe3497d42b3533dc.jpg",
-          "kind": "demo",
-          "url": "https://latent-spaces.github.io/brag/",
-          "capturedAt": "2026-10-14T11:53:09.868Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-14T11:53:09.868Z",
-      "previewCheck": {
-        "url": "https://latent-spaces.github.io/brag/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-14T11:53:09.868Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-21T11:53:09.869Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "SamG-Coder/grain-cuda-sand",
-      "name": "grain-cuda-sand",
-      "description": "CUDA-authored WebGPU granular laboratory: 131,072 grains, three experiments, GPU-resident Three.js rendering.",
-      "category": "Design",
-      "language": "WGSL",
-      "stars": 1,
-      "forks": 0,
-      "created": "2026-09-14T06:52:30Z",
-      "updated": "2026-09-14T06:59:46Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "https://samg-coder.github.io/grain-cuda-sand/",
-      "topics": [],
-      "demo": "https://samg-coder.github.io/grain-cuda-sand/",
-      "color": "#193546",
-      "ink": "#a6d6e8",
-      "lastCheckedAt": "2026-10-14T11:52:09.458Z",
-      "lastAvailableAt": "2026-10-14T11:52:09.458Z",
-      "lastAttemptAt": "2026-10-14T11:52:09.458Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2099394564868210819",
-          "postId": "2099394564868210819",
-          "postedAt": "2026-09-14T07:07:23.000Z"
-        }
-      ],
-      "subjects": [
-        "Science",
-        "3D & graphics"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Design",
-        "subjects": [
-          "Science",
-          "3D & graphics"
-        ],
-        "evidence": [
-          {
-            "subject": "Science",
-            "source": "metadata",
-            "match": "laboratory"
-          },
-          {
-            "subject": "3D & graphics",
-            "source": "metadata",
-            "match": "WebGPU"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://samg-coder.github.io/grain-cuda-sand/",
-        "attemptedAt": "2026-10-14T11:52:13.060Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-14T11:52:13.060Z",
-        "lastWorkingAt": "2026-10-14T11:52:13.060Z",
-        "target": "https://samg-coder.github.io/grain-cuda-sand/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-21T11:52:13.060Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/59f19894bd66205b7b34e5ea.jpg",
-          "kind": "demo",
-          "url": "https://samg-coder.github.io/grain-cuda-sand/",
-          "capturedAt": "2026-10-14T11:52:13.060Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-14T11:52:13.060Z",
-      "previewCheck": {
-        "url": "https://samg-coder.github.io/grain-cuda-sand/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-14T11:52:13.060Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-21T11:52:13.061Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "ashemag/fly-brain-atlas",
-      "name": "fly-brain-atlas",
-      "description": "Interactive MaleCNS fly brain atlas with native regional and neuron reconstructions",
-      "category": "Other",
-      "language": "TypeScript",
-      "stars": 15,
-      "forks": 9,
-      "created": "2026-09-13T12:16:15Z",
-      "updated": "2026-09-13T13:22:52Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "https://fly-brain-atlas.vercel.app",
-      "topics": [],
-      "demo": "https://fly-brain-atlas.vercel.app/",
-      "color": "#323057",
-      "ink": "#d6caff",
-      "lastCheckedAt": "2026-10-14T11:52:21.181Z",
-      "lastAvailableAt": "2026-10-14T11:52:21.181Z",
-      "lastAttemptAt": "2026-10-14T11:52:21.181Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2099128503543181495",
-          "postId": "2099128503543181495",
-          "postedAt": "2026-09-13T13:30:09.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://fly-brain-atlas.vercel.app/",
-        "attemptedAt": "2026-10-14T11:52:33.910Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-14T11:52:33.910Z",
-        "lastWorkingAt": "2026-10-14T11:52:33.910Z",
-        "target": "https://fly-brain-atlas.vercel.app/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-21T11:52:33.910Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/40d57ee460ce0ee1ead929c3.jpg",
-          "kind": "demo",
-          "url": "https://fly-brain-atlas.vercel.app/",
-          "capturedAt": "2026-10-14T11:52:33.910Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-14T11:52:33.910Z",
-      "previewCheck": {
-        "url": "https://fly-brain-atlas.vercel.app/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-14T11:52:33.910Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-21T11:52:33.911Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "ChijiokeDivine/remitcredit",
-      "name": "remitcredit",
-      "description": "On-chain credit built from remittances, not loans. Verified through Creditcoin's Attestcoin Protocol",
-      "category": "Other",
-      "language": "TypeScript",
-      "stars": 8,
-      "forks": 0,
-      "created": "2026-08-20T09:59:06Z",
-      "updated": "2026-09-14T19:41:07Z",
-      "branch": "main",
-      "homepage": "https://remitcredit.vercel.app",
-      "topics": [],
-      "demo": "https://remitcredit.vercel.app/",
-      "color": "#302e55",
-      "ink": "#dbd2ff",
-      "lastCheckedAt": "2026-10-14T11:52:34.799Z",
-      "lastAvailableAt": "2026-10-14T11:52:34.799Z",
-      "lastAttemptAt": "2026-10-14T11:52:34.799Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2098939852121079826",
-          "postId": "2098939852121079826",
-          "postedAt": "2026-09-13T01:00:31.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://remitcredit.vercel.app/",
-        "attemptedAt": "2026-10-14T11:52:38.167Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-14T11:52:38.167Z",
-        "lastWorkingAt": "2026-10-14T11:52:38.167Z",
-        "target": "https://remitcredit.vercel.app/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-21T11:52:38.167Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/3cd94b4503646d5dfb67a9f7.jpg",
-          "kind": "demo",
-          "url": "https://remitcredit.vercel.app/",
-          "capturedAt": "2026-10-14T11:52:38.167Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-14T11:52:38.167Z",
-      "previewCheck": {
-        "url": "https://remitcredit.vercel.app/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-14T11:52:38.167Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-21T11:52:38.168Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "SafaElmali/interactive-3d-lab",
-      "name": "interactive-3d-lab",
-      "description": "Object Lab: Fifteen interactive Three.js experiments, each in its own folder, with a shared 3D gallery.",
-      "category": "Design",
-      "language": "JavaScript",
-      "stars": 1,
-      "forks": 1,
-      "created": "2026-09-10T22:06:35Z",
-      "updated": "2026-09-15T05:33:10Z",
-      "branch": "main",
-      "homepage": "https://object-lab-3d.netlify.app/",
-      "topics": [
-        "gpt-6-astra",
-        "threejs"
-      ],
-      "demo": "https://object-lab-3d.netlify.app/",
-      "color": "#323057",
-      "ink": "#d6caff",
-      "lastCheckedAt": "2026-10-14T11:52:13.727Z",
-      "lastAvailableAt": "2026-10-14T11:52:13.727Z",
-      "lastAttemptAt": "2026-10-14T11:52:13.727Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2098818394187301224",
-          "postId": "2098818394187301224",
-          "postedAt": "2026-09-12T16:57:53.000Z"
-        }
-      ],
-      "subjects": [
-        "3D & graphics"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Design",
-        "subjects": [
-          "3D & graphics"
-        ],
-        "evidence": [
-          {
-            "subject": "3D & graphics",
-            "source": "metadata",
-            "match": "3d"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://object-lab-3d.netlify.app/",
-        "attemptedAt": "2026-10-14T11:52:20.412Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-14T11:52:20.412Z",
-        "lastWorkingAt": "2026-10-14T11:52:20.412Z",
-        "target": "https://object-lab-3d.netlify.app/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-21T11:52:20.412Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/0416ce4b5d349608fe2cbfd5.jpg",
-          "kind": "demo",
-          "url": "https://object-lab-3d.netlify.app/",
-          "capturedAt": "2026-10-14T11:52:20.412Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-14T11:52:20.412Z",
-      "previewCheck": {
-        "url": "https://object-lab-3d.netlify.app/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-14T11:52:20.412Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-21T11:52:20.413Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
       "full": "mrHeinrichh/sweldo",
       "name": "sweldo",
       "description": "Explore this public GitHub project.",
@@ -1127,6 +605,87 @@
         "attemptedAt": "2026-10-15T11:29:26.023Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-22T11:29:26.024Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Xuzhen-Li/grapeancestry",
+      "name": "grapeancestry",
+      "description": "167K grapevine capture panel companion: ancestry, identity, PCA, colour GS",
+      "category": "Other",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "created": "2026-08-20T05:33:34Z",
+      "updated": "2026-10-12T07:10:17Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
+      "topics": [
+        "capture-panel",
+        "genomics",
+        "grapevine",
+        "population-genetics"
+      ],
+      "demo": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-17T10:43:34.383Z",
+      "lastAvailableAt": "2026-10-17T10:43:34.383Z",
+      "lastAttemptAt": "2026-10-17T10:43:34.383Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105495541664944445",
+          "postId": "2105495541664944445",
+          "postedAt": "2026-10-01T03:10:30.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
+        "attemptedAt": "2026-10-17T10:43:50.989Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-17T10:43:50.989Z",
+        "lastWorkingAt": "2026-10-17T10:43:50.989Z",
+        "target": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-24T10:43:50.989Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/8ef4eaeb2ada14b6debf5140.jpg",
+          "kind": "demo",
+          "url": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
+          "capturedAt": "2026-10-17T10:43:50.989Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-17T10:43:50.989Z",
+      "previewCheck": {
+        "url": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-17T10:43:50.989Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-24T10:43:50.990Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
@@ -1752,6 +1311,243 @@
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-22T22:13:08.574Z"
       },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "knadh/listmonk",
+      "name": "listmonk",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "category": "Developer tools",
+      "language": "Go",
+      "stars": 23814,
+      "forks": 2685,
+      "created": "2019-06-26T05:08:39Z",
+      "updated": "2026-10-16T17:47:19Z",
+      "license": "AGPL-3.0",
+      "branch": "master",
+      "homepage": "https://listmonk.app",
+      "topics": [
+        "campaign",
+        "campaign-management",
+        "email-marketing",
+        "email-subscription",
+        "listmonk",
+        "mailing-list",
+        "newsletter",
+        "newsletter-management",
+        "newsletter-software",
+        "self-hosted",
+        "sms-gateway",
+        "smtp",
+        "transactional-emails"
+      ],
+      "demo": "https://demo.listmonk.app/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-16T17:56:44.950Z",
+      "lastAttemptAt": "2026-10-16T17:56:44.950Z",
+      "lastAvailableAt": "2026-10-16T17:56:44.950Z",
+      "metrics": [
+        {
+          "at": "2026-10-03T14:33:04.469Z",
+          "stars": 23676,
+          "forks": 2643
+        },
+        {
+          "at": "2026-10-04T05:13:52.445Z",
+          "stars": 23686,
+          "forks": 2645
+        },
+        {
+          "at": "2026-10-05T19:23:31.677Z",
+          "stars": 23698,
+          "forks": 2654
+        },
+        {
+          "at": "2026-10-07T20:14:18.457Z",
+          "stars": 23712,
+          "forks": 2652
+        },
+        {
+          "at": "2026-10-08T16:05:39.205Z",
+          "stars": 23719,
+          "forks": 2656
+        },
+        {
+          "at": "2026-10-11T00:24:47.509Z",
+          "stars": 23739,
+          "forks": 2663
+        },
+        {
+          "at": "2026-10-16T17:56:44.950Z",
+          "stars": 23814,
+          "forks": 2685
+        }
+      ],
+      "technologies": [
+        "Go"
+      ],
+      "overview": {
+        "kind": "readme",
+        "version": 1,
+        "paragraphs": [
+          "listmonk is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary. It uses a PostgreSQL database as its data store."
+        ],
+        "features": [],
+        "sourceUrl": "https://github.com/knadh/listmonk/blob/master/README.md",
+        "fingerprint": "e3592dcea72705901f2cfba4f674de81e96dc7aaded2343246cca9312a092cee",
+        "extractedAt": "2026-10-03T06:26:30.321Z"
+      },
+      "overviewCheckedAt": "2026-10-16T17:56:44.950Z",
+      "overviewRepoUpdated": "2026-10-16T17:47:19Z",
+      "lastDemoCheckedAt": "2026-10-16T17:56:44.950Z",
+      "enrichmentAttemptAt": "2026-10-05T16:57:46.920Z",
+      "latestRelease": {
+        "name": "v6.2.0",
+        "tag": "v6.2.0",
+        "publishedAt": "2026-06-26T10:24:34Z",
+        "url": "https://github.com/knadh/listmonk/releases/tag/v6.2.0"
+      },
+      "releaseCheckedAt": "2026-10-05T16:57:46.920Z",
+      "screenshots": [
+        {
+          "src": "previews/a306b62e64f502adae537da8.jpg",
+          "kind": "demo",
+          "capturedAt": "2026-10-16T18:22:30.027Z",
+          "url": "https://demo.listmonk.app/",
+          "variants": [
+            {
+              "src": "previews/variants/a306b62e64f502adae537da8-320.webp",
+              "width": 320,
+              "height": 200
+            },
+            {
+              "src": "previews/variants/a306b62e64f502adae537da8-640.webp",
+              "width": 640,
+              "height": 400
+            },
+            {
+              "src": "previews/variants/a306b62e64f502adae537da8-960.webp",
+              "width": 960,
+              "height": 600
+            }
+          ]
+        }
+      ],
+      "demoHealth": {
+        "url": "https://demo.listmonk.app/",
+        "attemptedAt": "2026-10-16T18:22:30.026Z",
+        "status": "working",
+        "checkedAt": "2026-10-16T18:22:30.026Z",
+        "lastWorkingAt": "2026-10-16T18:22:30.026Z",
+        "target": "https://demo.listmonk.app/",
+        "failureCount": 0,
+        "nextCheckAt": "2026-10-23T18:22:30.026Z",
+        "consecutiveTemporaryFailures": 0,
+        "probeVersion": 3
+      },
+      "previewAttemptAt": "2026-10-16T18:22:30.027Z",
+      "projectInsights": {
+        "version": 1,
+        "whatItDoes": {
+          "text": "listmonk is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary. It uses a PostgreSQL database as its data store.",
+          "sourceUrl": "https://github.com/knadh/listmonk/blob/master/README.md"
+        },
+        "audience": [],
+        "requirements": [],
+        "fingerprint": "e3592dcea72705901f2cfba4f674de81e96dc7aaded2343246cca9312a092cee",
+        "sourceUrl": "https://github.com/knadh/listmonk/blob/master/README.md",
+        "checkedAt": "2026-10-16T17:56:44.950Z"
+      },
+      "readmeSnapshot": {
+        "version": 1,
+        "status": "saved",
+        "sourceUrl": "https://github.com/knadh/listmonk/blob/master/README.md",
+        "checkedAt": "2026-10-16T17:56:44.950Z",
+        "hash": "e3592dcea72705901f2cfba4f674de81e96dc7aaded2343246cca9312a092cee",
+        "originalBytes": 2138,
+        "storedBytes": 2138,
+        "truncated": false
+      },
+      "agentContextAttemptAt": "2026-10-03T21:20:20.665Z",
+      "agentContext": {
+        "version": 1,
+        "checkedAt": "2026-10-03T21:20:22.908Z",
+        "documents": [
+          {
+            "name": "go.mod",
+            "sourceUrl": "https://github.com/knadh/listmonk/blob/master/go.mod",
+            "hash": "f99e88768b881a7849dca2a55d3c322ed58d6dd7da4fc12a173ecb6b9a140015",
+            "originalBytes": 2713,
+            "truncated": false
+          },
+          {
+            "name": "LICENSE",
+            "sourceUrl": "https://github.com/knadh/listmonk/blob/master/LICENSE",
+            "hash": "76a97c878c9c7a8321bb395c2b44d3fe2f8d81314d219b20138ed0e2dddd5182",
+            "originalBytes": 34520,
+            "truncated": false
+          }
+        ]
+      },
+      "agentContextRepoUpdated": "2026-10-03T10:12:30Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105367075262775432",
+          "postId": "2105367075262775432",
+          "postedAt": "2026-09-30T18:40:01.000Z"
+        }
+      ],
+      "qualityPriority": false,
+      "overviewAttemptAt": "2026-10-07T23:33:23.287Z",
+      "previewCheck": {
+        "url": "https://demo.listmonk.app/",
+        "attemptedAt": "2026-10-16T18:22:30.027Z",
+        "consecutiveFailures": 0,
+        "status": "captured",
+        "reason": null,
+        "nextCheckAt": "2026-10-23T18:22:30.027Z"
+      },
+      "subjects": [
+        "Data & dashboards",
+        "Self-hosted apps"
+      ],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "Data & dashboards",
+          "Self-hosted apps"
+        ],
+        "evidence": [
+          {
+            "subject": "Data & dashboards",
+            "source": "metadata",
+            "match": "dashboard"
+          },
+          {
+            "subject": "Self-hosted apps",
+            "source": "metadata",
+            "match": "self hosted"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "platforms": [],
+      "repositoryEtag": "W/\"142973a77127aa078effc488e07d66a7469d2da111eae435e0141f3e8a6ec385\"",
+      "repositoryEtagFor": "knadh/listmonk",
+      "repositoryId": 193833307,
+      "spaces": [],
+      "communityPosts": [],
       "sourceCategories": [
         "As Seen On X.com"
       ]
