@@ -79,7 +79,8 @@
       },
       "recent": {
         "start": "2026-10-11T08:30:57.839Z",
-        "end": "2026-10-18T08:29:27.839Z"
+        "end": "2026-10-18T08:29:27.839Z",
+        "nextToken": "b26v89c19zqg8o3juzlvz9jfzou9biigvpr6o0m0t6fel"
       }
     },
     "a0153cbebcc5cf46": {
@@ -28035,18 +28036,25 @@
           "url": "https://x.com/i/web/status/2105707339525546167",
           "postId": "2105707339525546167",
           "postedAt": "2026-10-01T17:12:06.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111488268894396766",
+          "postId": "2111488268894396766",
+          "postedAt": "2026-10-17T16:03:27.000Z"
         }
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 54,
-        "reposts": 2,
+        "likes": 76,
+        "reposts": 5,
         "replies": 7,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T16:18:51.704Z",
+      "lastSeenAt": "2026-10-18T08:30:02.161Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-17T16:19:47.551Z"
     },
@@ -53706,7 +53714,7 @@
           "repository": "felixtrz/roadster"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:29:46.247Z"
+      "lastSeenAt": "2026-10-18T08:30:02.161Z"
     },
     "iam-rohid/openaso": {
       "full": "iam-rohid/openaso",
@@ -53969,6 +53977,372 @@
       "demoHints": [],
       "demoLinks": [],
       "lastSeenAt": "2026-10-18T08:29:54.122Z"
+    },
+    "leonxlnx/cinetic": {
+      "full": "Leonxlnx/cinetic",
+      "firstSeenAt": "2026-10-18T08:30:02.161Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111618616256848227",
+          "postId": "2111618616256848227",
+          "postedAt": "2026-10-18T00:41:24.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 18,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+    },
+    "khalid-000-me/xemo": {
+      "full": "Khalid-000-ME/xemo",
+      "firstSeenAt": "2026-10-18T08:30:02.161Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111610304572666357",
+          "postId": "2111610304572666357",
+          "postedAt": "2026-10-18T00:08:23.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 11,
+        "reposts": 0,
+        "replies": 4,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://xemo-ship.vercel.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://xemo-ship.vercel.app/",
+          "postUrl": "https://x.com/i/web/status/2111610304572666357",
+          "repository": "Khalid-000-ME/xemo"
+        }
+      ],
+      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+    },
+    "shyvortex/dlss-unlocked": {
+      "full": "ShyVortex/dlss-unlocked",
+      "firstSeenAt": "2026-10-18T08:30:02.161Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111568320667541613",
+          "postId": "2111568320667541613",
+          "postedAt": "2026-10-17T21:21:33.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 84,
+        "reposts": 7,
+        "replies": 5,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+    },
+    "felixtrz/chinese-garden": {
+      "full": "felixtrz/chinese-garden",
+      "firstSeenAt": "2026-10-18T08:30:02.161Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111528908080517570",
+          "postId": "2111528908080517570",
+          "postedAt": "2026-10-17T18:44:56.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 11,
+        "reposts": 0,
+        "replies": 2,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://felixtrz.github.io/chinese-garden/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://felixtrz.github.io/chinese-garden/",
+          "postUrl": "https://x.com/i/web/status/2111528908080517570",
+          "repository": "felixtrz/chinese-garden"
+        }
+      ],
+      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+    },
+    "qkaiser/broadcom-wps": {
+      "full": "qkaiser/broadcom-wps",
+      "firstSeenAt": "2026-10-18T08:30:02.161Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111514875851669952",
+          "postId": "2111514875851669952",
+          "postedAt": "2026-10-17T17:49:11.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 22,
+        "reposts": 9,
+        "replies": 1,
+        "quotes": 1
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+    },
+    "mttmcknn/sea-glass": {
+      "full": "mttmcknn/sea-glass",
+      "firstSeenAt": "2026-10-18T08:30:02.161Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111491947361931360",
+          "postId": "2111491947361931360",
+          "postedAt": "2026-10-17T16:18:04.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 13,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+    },
+    "battlejoose/soltoshidice-programs": {
+      "full": "battlejoose/soltoshidice-programs",
+      "firstSeenAt": "2026-10-18T08:30:02.161Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111471362598736271",
+          "postId": "2111471362598736271",
+          "postedAt": "2026-10-17T14:56:16.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 20,
+        "reposts": 1,
+        "replies": 6,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://solscan.io/account/CuTLp7pDmNGkFgi4aoh8Ef1YSjc2BzECQRLzYqaoVWBR#programVerification"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://solscan.io/account/CuTLp7pDmNGkFgi4aoh8Ef1YSjc2BzECQRLzYqaoVWBR#programVerification",
+          "postUrl": "https://x.com/i/web/status/2111471362598736271",
+          "repository": "battlejoose/soltoshidice-programs"
+        }
+      ],
+      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+    },
+    "shihabal3amri/tekken-tag-tournament-2-pc": {
+      "full": "shihabal3amri/tekken-tag-tournament-2-pc",
+      "firstSeenAt": "2026-10-18T08:30:02.161Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111430362689597935",
+          "postId": "2111430362689597935",
+          "postedAt": "2026-10-17T12:13:21.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 28,
+        "reposts": 2,
+        "replies": 2,
+        "quotes": 1
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+    },
+    "melcodes99/paybot": {
+      "full": "MELcodes99/paybot",
+      "firstSeenAt": "2026-10-18T08:30:02.161Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111349027069419770",
+          "postId": "2111349027069419770",
+          "postedAt": "2026-10-17T06:50:09.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 34,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://t.me/PayBotNaira_Bot",
+        "https://paybot-562g.onrender.com/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://t.me/PayBotNaira_Bot",
+          "postUrl": "https://x.com/i/web/status/2111349027069419770",
+          "repository": "MELcodes99/paybot"
+        },
+        {
+          "url": "https://paybot-562g.onrender.com/",
+          "postUrl": "https://x.com/i/web/status/2111349027069419770",
+          "repository": "MELcodes99/paybot"
+        }
+      ],
+      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+    },
+    "sebaskitten/grand-v": {
+      "full": "SebasKitten/Grand-V",
+      "firstSeenAt": "2026-10-18T08:30:02.161Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111265468073845220",
+          "postId": "2111265468073845220",
+          "postedAt": "2026-10-17T01:18:07.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 706,
+        "reposts": 54,
+        "replies": 16,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://v2.fiveplay.lol/launcher.html"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://v2.fiveplay.lol/launcher.html",
+          "postUrl": "https://x.com/i/web/status/2111265468073845220",
+          "repository": "SebasKitten/Grand-V"
+        }
+      ],
+      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+    },
+    "yeabsiram290/omarchy-piassa-nostalgia-theme": {
+      "full": "YeabsiraM290/omarchy-piassa-nostalgia-theme",
+      "firstSeenAt": "2026-10-18T08:30:02.161Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111177745350722029",
+          "postId": "2111177745350722029",
+          "postedAt": "2026-10-16T19:29:32.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 10,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+    },
+    "irfanfaraaz/mailrust": {
+      "full": "irfanfaraaz/mailrust",
+      "firstSeenAt": "2026-10-18T08:30:02.161Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111154523058352568",
+          "postId": "2111154523058352568",
+          "postedAt": "2026-10-16T17:57:16.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 14,
+        "reposts": 2,
+        "replies": 7,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://mailrust.irfanfaraaz.in/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://mailrust.irfanfaraaz.in/",
+          "postUrl": "https://x.com/i/web/status/2111154523058352568",
+          "repository": "irfanfaraaz/mailrust"
+        }
+      ],
+      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+    },
+    "dotmorten/githubtodo": {
+      "full": "dotMorten/GitHubToDo",
+      "firstSeenAt": "2026-10-18T08:30:02.161Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111126610254696671",
+          "postId": "2111126610254696671",
+          "postedAt": "2026-10-16T16:06:21.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 34,
+        "reposts": 4,
+        "replies": 3,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-18T08:30:02.161Z"
     }
   },
   "lastRun": {
@@ -54786,7 +55160,6 @@
     "2111678738488553829",
     "2111677772729115129",
     "2111676414890000857",
-    "2111675529372086706",
     "2111672364132143125",
     "2111659870273650692",
     "2111659525417705477",
@@ -54808,7 +55181,22 @@
     "2105316794974040535",
     "2105307120371654963",
     "2105303117042770160",
-    "2105302696458699092"
+    "2105302696458699092",
+    "2111675529372086706",
+    "2111618616256848227",
+    "2111610304572666357",
+    "2111568320667541613",
+    "2111528908080517570",
+    "2111514875851669952",
+    "2111491947361931360",
+    "2111488268894396766",
+    "2111471362598736271",
+    "2111430362689597935",
+    "2111349027069419770",
+    "2111265468073845220",
+    "2111177745350722029",
+    "2111154523058352568",
+    "2111126610254696671"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -54837,9 +55225,9 @@
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 150,
-      "uniquePosts": 16,
-      "newCandidates": 10,
+      "posts": 165,
+      "uniquePosts": 30,
+      "newCandidates": 23,
       "validationAttempts": 12,
       "accepted": 3
     },
