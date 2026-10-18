@@ -8,7 +8,9 @@ export async function collect({config,state,request,save,enabled=async()=>false,
  for(const task of searchPlan(config,state)){
   const progress=queryState(state,task.query,config,now()),cursor=progress[task.endpoint==='all'?'history':'recent'];
   if(task.endpoint==='all'&&cursor.done)continue;
-  if(task.endpoint==='recent'){const lower=now()-7*86400000+60000;if(Date.parse(cursor.start)<lower){(state.coverageGaps||=[]).push({query:task.query,start:cursor.start,end:iso(lower)});cursor.start=iso(lower);delete cursor.nextToken;}if(!cursor.end)cursor.end=iso(now()-30000);}
+  if(task.endpoint==='recent'){const lower=now()-7*86400000+60000;if(Date.parse(cursor.start)<lower){(state.coverageGaps||=[]).push({query:task.query,start:cursor.start,end:iso(lower)});cursor.start=iso(lower);delete cursor.nextToken;}// The window must run forward. A saved end older than the (clamped) start gave X a backwards window, which it answers with HTTP 400,
+  // and as the failed search never finished, the same task failed again on every later run.
+  if(!cursor.end||Date.parse(cursor.end)<=Date.parse(cursor.start)){cursor.end=iso(now()-30000);delete cursor.nextToken;}}
   let requested=0;const initial=Object.keys(state.candidates).length;const result={query:task.query,endpoint:task.endpoint,postsRead:0,newCandidates:0};
   while(requested<task.limit&&read<config.maxPostsPerRun){
    if(!await enabled()){stopped='admin_disabled';break;}
@@ -21,7 +23,11 @@ export async function collect({config,state,request,save,enabled=async()=>false,
    const usd=Math.round(max*config.conservativePostCostUsd*1e6)/1e6;state.reservedUsd=Math.round((state.reservedUsd+usd)*1e6)/1e6;state.requests++;reserved+=usd;requested+=max;
    await save(state,true);if(!await enabled()){stopped='admin_disabled';break;}
    const params=new URLSearchParams({query:task.query,max_results:String(max),start_time:cursor.start,end_time:cursor.end,'tweet.fields':'created_at,entities,note_tweet,public_metrics'});if(cursor.nextToken)params.set('next_token',cursor.nextToken);
-   let response;try{response=await request('/2/tweets/search/'+task.endpoint+'?'+params)}catch(e){if([402,403,429].includes(e.status)){stopped='x_api_http_'+e.status;break;}throw e;}
+   let response;try{response=await request('/2/tweets/search/'+task.endpoint+'?'+params)}catch(e){if([402,403,429].includes(e.status)){stopped='x_api_http_'+e.status;break;}
+    // A rejected search window or page token is dropped so the next run starts that query fresh; one bad query must not stop the others
+    // (the reservation for this request stays counted).
+    if(e.status===400){result.error='x_api_http_400';if(task.endpoint==='recent'){cursor.start=iso(now()-7*86400000+60000);delete cursor.end;}delete cursor.nextToken;await save(state,true);break;}
+    throw e;}
    const posts=response.data||[];if(!Array.isArray(posts)||posts.length>max||response.errors?.length)throw Error('Search response is incomplete or invalid; cursor retained for retry');
    addPosts(state,posts,task.query,now());read+=posts.length;result.postsRead+=posts.length;
    if(response.meta?.next_token)cursor.nextToken=response.meta.next_token;else{delete cursor.nextToken;if(task.endpoint==='all')cursor.done=true;else{cursor.start=iso(Date.parse(cursor.end)-60000);delete cursor.end;}}
@@ -58,5 +64,6 @@ async function main() {
   };
   const report = await collect({config, state, request, save, enabled});
   console.log(JSON.stringify(report));
+  for (const q of report.queries) if (q.error) console.log('::warning::X rejected a ' + q.endpoint + ' search (' + q.error + '); its window was reset for the next run: ' + q.query);
 }
 if (process.argv[1] && import.meta.url === pathToFileURL(resolve(process.argv[1])).href) main().catch(e => { console.error(e.message); process.exitCode = 1; });

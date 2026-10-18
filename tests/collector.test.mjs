@@ -1,7 +1,8 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
-import {initialState, creditAllowance, repoFromUrl, addPosts, safeSource} from '../src/core.mjs';
+import {initialState, creditAllowance, repoFromUrl, addPosts, safeSource, queryState} from '../src/core.mjs';
+import {searchPlan} from '../src/search-plan.mjs';
 import {collect} from '../src/collect.mjs';
 import {validateCandidates} from '../src/validate.mjs';
 const config = JSON.parse(await readFile(new URL('../config.json', import.meta.url)));
@@ -88,4 +89,23 @@ test('validation only exports accepted fresh entries and merges canonical aliase
   assert.deepEqual(output.repositories[0].sourceCategories, ['As Seen On X.com']);
   const stale = await validateCandidates({state, config, now: () => time, save: async () => {}, importEntry: async () => { throw Error('unexpected refresh'); }, qualify: async () => {}, eligible: () => false});
   assert.equal(stale.repositories.length, 0);
+});
+
+test('a saved search window that ends before it starts is repaired instead of sent to X (the HTTP 400 that stopped every run)', async () => {
+  // The seven-day limit moved the start of a "recent" window forward past its saved end; X answers a backwards window with HTTP 400.
+  const state=initialState(time),task=searchPlan(config,state)[0],progress=queryState(state,task.query,config,time);
+  progress.recent={start:'2026-10-02T09:21:39.114Z',end:'2026-10-01T09:15:36.184Z',nextToken:'stale'};
+  const seen=[];
+  await collect({config,state,request:async path=>{if(path.includes('credits'))return balance(20);seen.push(new URL('https://x.test'+path).searchParams);return {data:[],meta:{}};},enabled:async()=>true,save:async()=>{},now:()=>time});
+  const recent=seen.find(p=>p.get('start_time')&&Date.parse(p.get('end_time'))>Date.parse(p.get('start_time')));
+  assert(recent,'the recent search went out with a forward window');
+  assert(seen.every(p=>Date.parse(p.get('end_time'))>Date.parse(p.get('start_time'))),'no search had its end before its start');
+  assert(!seen.some(p=>p.get('next_token')==='stale'),'the stale page token was dropped');
+});
+
+test('an HTTP 400 on one search resets that query and the run carries on with the others', async () => {
+  const state=initialState(time);let searches=0;
+  const result=await collect({config,state,request:async path=>{if(path.includes('credits'))return balance(20);searches++;if(searches===1)throw Object.assign(Error('X API returned HTTP 400'),{status:400});return {data:[],meta:{}};},enabled:async()=>true,save:async()=>{},now:()=>time});
+  assert(searches>=2,'later searches still ran');assert.equal(result.queries[0].error,'x_api_http_400');assert.equal(result.stopped,null);
+  assert.equal(state.queryTurn,1,'the query rotation moved on instead of repeating the failing query');
 });
