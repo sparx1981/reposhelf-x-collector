@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-18T05:58:33.929Z",
+  "updatedAt": "2026-10-18T08:32:37.248Z",
   "runtimeRevision": "ed71211be3a262dd1b928f3740f110b041b3708e",
   "checked": 20,
   "repositories": [
@@ -673,6 +673,838 @@
       "repositoryId": 193833307,
       "spaces": [],
       "communityPosts": [],
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Aidoku/Aidoku",
+      "name": "Aidoku",
+      "description": "Manga reading app for iOS, iPadOS, and macOS",
+      "category": "Other",
+      "language": "Swift",
+      "stars": 4637,
+      "forks": 309,
+      "created": "2022-01-02T16:44:46Z",
+      "updated": "2026-10-16T22:25:46Z",
+      "license": "GPL-3.0",
+      "branch": "main",
+      "homepage": "https://aidoku.app",
+      "topics": [
+        "ios",
+        "manga",
+        "reading",
+        "swift"
+      ],
+      "demo": "https://aidoku.app/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-18T08:32:08.482Z",
+      "lastAvailableAt": "2026-10-18T08:32:08.482Z",
+      "lastAttemptAt": "2026-10-18T08:32:08.482Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "Aidoku/Aidoku",
+        "postUrl": "https://x.com/i/web/status/2111695204096856253",
+        "url": "https://aidoku.app/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111695204096856253",
+          "postId": "2111695204096856253",
+          "postedAt": "2026-10-18T05:45:44.000Z"
+        }
+      ],
+      "subjects": [
+        "Apple",
+        "Mobile"
+      ],
+      "platforms": [
+        "iOS & iPadOS",
+        "macOS"
+      ],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [
+          "Apple",
+          "Mobile"
+        ],
+        "evidence": [
+          {
+            "subject": "Apple",
+            "source": "metadata",
+            "match": "iOS"
+          },
+          {
+            "subject": "Mobile",
+            "source": "metadata",
+            "match": "iOS"
+          }
+        ],
+        "platformEvidence": [
+          {
+            "platform": "iOS & iPadOS",
+            "source": "metadata",
+            "match": "iOS"
+          },
+          {
+            "platform": "macOS",
+            "source": "metadata",
+            "match": "macOS"
+          }
+        ],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://aidoku.app/",
+        "attemptedAt": "2026-10-18T08:32:11.685Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-18T08:32:11.685Z",
+        "lastWorkingAt": "2026-10-18T08:32:11.685Z",
+        "target": "https://aidoku.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-25T08:32:11.685Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/ede7a48e96467dd74fc5b04d.jpg",
+          "kind": "demo",
+          "url": "https://aidoku.app/",
+          "capturedAt": "2026-10-18T08:32:11.685Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-18T08:32:11.685Z",
+      "previewCheck": {
+        "url": "https://aidoku.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-18T08:32:11.685Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-25T08:32:11.686Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "neromtoobad/syncly",
+      "name": "syncly",
+      "description": "Syncly: AI agents do the work, an AI CFO runs the money. A real business on Arc: jobs paid into escrow in USDC, agents paying their own tools by x402, every CFO decision signed.",
+      "category": "Finance",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-28T07:46:46Z",
+      "updated": "2026-10-17T08:15:03Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://hiresyncly.site",
+      "topics": [
+        "ai-agents",
+        "arc",
+        "circle",
+        "usdc",
+        "x402"
+      ],
+      "demo": "https://hiresyncly.site/#money",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-18T08:32:30.669Z",
+      "lastAvailableAt": "2026-10-18T08:32:30.669Z",
+      "lastAttemptAt": "2026-10-18T08:32:30.669Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111678738488553829",
+          "postId": "2111678738488553829",
+          "postedAt": "2026-10-18T04:40:19.000Z"
+        }
+      ],
+      "subjects": [
+        "MCP servers & agents"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Finance",
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "evidence": [
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "AI agents"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://hiresyncly.site/#money",
+        "attemptedAt": "2026-10-18T08:32:33.941Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-18T08:32:33.941Z",
+        "lastWorkingAt": "2026-10-18T08:32:33.941Z",
+        "target": "https://hiresyncly.site/#money",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-25T08:32:33.941Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/c5967acfff55b7b301503e3d.jpg",
+          "kind": "demo",
+          "url": "https://hiresyncly.site/#money",
+          "capturedAt": "2026-10-18T08:32:33.941Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-18T08:32:33.941Z",
+      "previewCheck": {
+        "url": "https://hiresyncly.site/#money",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-18T08:32:33.941Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-25T08:32:33.942Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "markusbug/bluechip",
+      "name": "bluechip",
+      "description": "Onchain index fund of tokenized US stocks on Base. $BLUE + $CHIP.",
+      "category": "Other",
+      "language": "Solidity",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-30T12:23:55Z",
+      "updated": "2026-10-02T11:51:23Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://bluechip.markushaas.com/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-18T08:31:57.955Z",
+      "lastAvailableAt": "2026-10-18T08:31:57.955Z",
+      "lastAttemptAt": "2026-10-18T08:31:57.955Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "markusbug/bluechip",
+        "postUrl": "https://x.com/i/web/status/2105316794974040535",
+        "url": "https://bluechip.markushaas.com/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105316794974040535",
+          "postId": "2105316794974040535",
+          "postedAt": "2026-09-30T15:20:13.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://bluechip.markushaas.com/",
+        "attemptedAt": "2026-10-18T08:32:03.236Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-18T08:32:03.236Z",
+        "lastWorkingAt": "2026-10-18T08:32:03.236Z",
+        "target": "https://bluechip.markushaas.com/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-25T08:32:03.236Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/110ddf5c2fde0bbba150834d.jpg",
+          "kind": "demo",
+          "url": "https://bluechip.markushaas.com/",
+          "capturedAt": "2026-10-18T08:32:03.236Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-18T08:32:03.236Z",
+      "previewCheck": {
+        "url": "https://bluechip.markushaas.com/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-18T08:32:03.236Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-25T08:32:03.236Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "spatie/bloom",
+      "name": "bloom",
+      "description": "A native macOS app for running coding agents in git worktrees",
+      "category": "Developer tools",
+      "language": "Swift",
+      "stars": 30,
+      "forks": 6,
+      "created": "2026-09-28T09:34:01Z",
+      "updated": "2026-10-15T20:43:13Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://runbloom.app",
+      "topics": [],
+      "demo": "https://runbloom.app/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-18T08:32:03.947Z",
+      "lastAvailableAt": "2026-10-18T08:32:03.947Z",
+      "lastAttemptAt": "2026-10-18T08:32:03.947Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "spatie/bloom",
+        "postUrl": "https://x.com/i/web/status/2105303117042770160",
+        "url": "https://runbloom.app/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105303117042770160",
+          "postId": "2105303117042770160",
+          "postedAt": "2026-09-30T14:25:52.000Z"
+        }
+      ],
+      "subjects": [
+        "Apple"
+      ],
+      "platforms": [
+        "macOS"
+      ],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "Apple"
+        ],
+        "evidence": [
+          {
+            "subject": "Apple",
+            "source": "metadata",
+            "match": "macOS"
+          }
+        ],
+        "platformEvidence": [
+          {
+            "platform": "macOS",
+            "source": "metadata",
+            "match": "macOS"
+          }
+        ],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://runbloom.app/",
+        "attemptedAt": "2026-10-18T08:32:07.932Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-18T08:32:07.932Z",
+        "lastWorkingAt": "2026-10-18T08:32:07.932Z",
+        "target": "https://runbloom.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-25T08:32:07.932Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/de1c326d062adb3c8d13c146.jpg",
+          "kind": "demo",
+          "url": "https://runbloom.app/",
+          "capturedAt": "2026-10-18T08:32:07.932Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-18T08:32:07.932Z",
+      "previewCheck": {
+        "url": "https://runbloom.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-18T08:32:07.932Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-25T08:32:07.933Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Khalid-000-ME/xemo",
+      "name": "xemo",
+      "description": "Describe a stablecoin, tokenization or prediction-market tool and the agent builds it, tests it in a sandbox, deploys it, and opens two payment rails: Stripe for people, x402 for agent",
+      "category": "Developer tools",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-10-16T23:12:35Z",
+      "updated": "2026-10-18T00:16:40Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://xemo-ship.vercel.app",
+      "topics": [],
+      "demo": "https://xemo-ship.vercel.app/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-18T08:31:14.587Z",
+      "lastAvailableAt": "2026-10-18T08:31:14.587Z",
+      "lastAttemptAt": "2026-10-18T08:31:14.587Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111610304572666357",
+          "postId": "2111610304572666357",
+          "postedAt": "2026-10-18T00:08:23.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://xemo-ship.vercel.app/",
+        "attemptedAt": "2026-10-18T08:31:18.999Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-18T08:31:18.999Z",
+        "lastWorkingAt": "2026-10-18T08:31:18.999Z",
+        "target": "https://xemo-ship.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-25T08:31:18.999Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/aaf54757a8dfb8c8edb5d35d.jpg",
+          "kind": "demo",
+          "url": "https://xemo-ship.vercel.app/",
+          "capturedAt": "2026-10-18T08:31:18.999Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-18T08:31:18.999Z",
+      "previewCheck": {
+        "url": "https://xemo-ship.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-18T08:31:18.999Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-25T08:31:19.000Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "felixtrz/chinese-garden",
+      "name": "chinese-garden",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 1,
+      "created": "2026-10-17T04:09:52Z",
+      "updated": "2026-10-17T16:47:54Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://felixtrz.github.io/chinese-garden/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-18T08:31:20.794Z",
+      "lastAvailableAt": "2026-10-18T08:31:20.794Z",
+      "lastAttemptAt": "2026-10-18T08:31:20.794Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "felixtrz/chinese-garden",
+        "postUrl": "https://x.com/i/web/status/2111528908080517570",
+        "url": "https://felixtrz.github.io/chinese-garden/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111528908080517570",
+          "postId": "2111528908080517570",
+          "postedAt": "2026-10-17T18:44:56.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://felixtrz.github.io/chinese-garden/",
+        "attemptedAt": "2026-10-18T08:31:46.759Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-18T08:31:46.759Z",
+        "lastWorkingAt": "2026-10-18T08:31:46.759Z",
+        "target": "https://felixtrz.github.io/chinese-garden/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-25T08:31:46.759Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/e961bda80b4fd1afc2dee950.jpg",
+          "kind": "demo",
+          "url": "https://felixtrz.github.io/chinese-garden/",
+          "capturedAt": "2026-10-18T08:31:46.759Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-18T08:31:46.759Z",
+      "previewCheck": {
+        "url": "https://felixtrz.github.io/chinese-garden/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-18T08:31:46.759Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-25T08:31:46.759Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "MELcodes99/paybot",
+      "name": "paybot",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 1,
+      "forks": 0,
+      "created": "2026-10-15T13:56:58Z",
+      "updated": "2026-10-18T00:51:41Z",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://t.me/PayBotNaira_Bot",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-18T08:31:47.276Z",
+      "lastAvailableAt": "2026-10-18T08:31:47.276Z",
+      "lastAttemptAt": "2026-10-18T08:31:47.276Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "MELcodes99/paybot",
+        "postUrl": "https://x.com/i/web/status/2111349027069419770",
+        "url": "https://t.me/PayBotNaira_Bot"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111349027069419770",
+          "postId": "2111349027069419770",
+          "postedAt": "2026-10-17T06:50:09.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://t.me/PayBotNaira_Bot",
+        "attemptedAt": "2026-10-18T08:31:51.254Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-18T08:31:51.254Z",
+        "lastWorkingAt": "2026-10-18T08:31:51.254Z",
+        "target": "https://t.me/PayBotNaira_Bot",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-25T08:31:51.254Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/b4bec31bde3a6e143ec6b4d4.jpg",
+          "kind": "demo",
+          "url": "https://t.me/PayBotNaira_Bot",
+          "capturedAt": "2026-10-18T08:31:51.254Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-18T08:31:51.254Z",
+      "previewCheck": {
+        "url": "https://t.me/PayBotNaira_Bot",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-18T08:31:51.254Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-25T08:31:51.254Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "SebasKitten/Grand-V",
+      "name": "Grand-V",
+      "description": "GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU,",
+      "category": "Design",
+      "language": "Rust",
+      "stars": 275,
+      "forks": 58,
+      "created": "2026-10-12T13:24:03Z",
+      "updated": "2026-10-16T22:12:58Z",
+      "branch": "main",
+      "homepage": "",
+      "topics": [
+        "gaming"
+      ],
+      "demo": "https://v2.fiveplay.lol/launcher.html",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-18T08:31:10.446Z",
+      "lastAvailableAt": "2026-10-18T08:31:10.446Z",
+      "lastAttemptAt": "2026-10-18T08:31:10.446Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "SebasKitten/Grand-V",
+        "postUrl": "https://x.com/i/web/status/2111265468073845220",
+        "url": "https://v2.fiveplay.lol/launcher.html"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111265468073845220",
+          "postId": "2111265468073845220",
+          "postedAt": "2026-10-17T01:18:07.000Z"
+        }
+      ],
+      "subjects": [
+        "3D & graphics"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "WebGPU"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://v2.fiveplay.lol/launcher.html",
+        "attemptedAt": "2026-10-18T08:31:13.955Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-18T08:31:13.955Z",
+        "lastWorkingAt": "2026-10-18T08:31:13.955Z",
+        "target": "https://v2.fiveplay.lol/launcher.html",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-25T08:31:13.955Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/c99469cbe49e9821da3fdb33.jpg",
+          "kind": "demo",
+          "url": "https://v2.fiveplay.lol/launcher.html",
+          "capturedAt": "2026-10-18T08:31:13.955Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-18T08:31:13.955Z",
+      "previewCheck": {
+        "url": "https://v2.fiveplay.lol/launcher.html",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-18T08:31:13.955Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-25T08:31:13.957Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "irfanfaraaz/mailrust",
+      "name": "mailrust",
+      "description": "Self-hosted email platform: a sending API (like Resend) and a newsletter app (like beehiiv), on one Rust engine that sends through your own Amazon SES. Guards your SES reputation, and your AI can run it over MCP.",
+      "category": "Developer tools",
+      "language": "Rust",
+      "stars": 1,
+      "forks": 0,
+      "created": "2026-10-12T04:29:36Z",
+      "updated": "2026-10-16T08:36:48Z",
+      "license": "AGPL-3.0",
+      "branch": "main",
+      "homepage": "https://mailrust.irfanfaraaz.in",
+      "topics": [
+        "aws-ses",
+        "email",
+        "mcp",
+        "newsletter",
+        "resend-alternative",
+        "rust",
+        "self-hosted",
+        "transactional-email"
+      ],
+      "demo": "https://mailrust.irfanfaraaz.in/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-18T08:31:51.998Z",
+      "lastAvailableAt": "2026-10-18T08:31:51.998Z",
+      "lastAttemptAt": "2026-10-18T08:31:51.998Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "irfanfaraaz/mailrust",
+        "postUrl": "https://x.com/i/web/status/2111154523058352568",
+        "url": "https://mailrust.irfanfaraaz.in/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111154523058352568",
+          "postId": "2111154523058352568",
+          "postedAt": "2026-10-16T17:57:16.000Z"
+        }
+      ],
+      "subjects": [
+        "MCP servers & agents",
+        "Self-hosted apps"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "MCP servers & agents",
+          "Self-hosted apps"
+        ],
+        "evidence": [
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "MCP"
+          },
+          {
+            "subject": "Self-hosted apps",
+            "source": "metadata",
+            "match": "Self hosted"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://mailrust.irfanfaraaz.in/",
+        "attemptedAt": "2026-10-18T08:31:57.132Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-18T08:31:57.132Z",
+        "lastWorkingAt": "2026-10-18T08:31:57.132Z",
+        "target": "https://mailrust.irfanfaraaz.in/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-25T08:31:57.132Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/7fbf0364a195a5c4904b97a1.jpg",
+          "kind": "demo",
+          "url": "https://mailrust.irfanfaraaz.in/",
+          "capturedAt": "2026-10-18T08:31:57.132Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-18T08:31:57.132Z",
+      "previewCheck": {
+        "url": "https://mailrust.irfanfaraaz.in/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-18T08:31:57.132Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-25T08:31:57.133Z"
+      },
       "sourceCategories": [
         "As Seen On X.com"
       ]

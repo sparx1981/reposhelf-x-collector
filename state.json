@@ -53407,7 +53407,7 @@
     "higress-group/hiroute": {
       "full": "higress-group/HiRoute",
       "firstSeenAt": "2026-10-18T08:29:46.247Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -53440,7 +53440,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:29:46.247Z"
+      "lastSeenAt": "2026-10-18T08:29:46.247Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-25T08:32:35.473Z"
     },
     "naklitechie/ntkit": {
       "full": "NakliTechie/ntkit",
@@ -53565,7 +53567,7 @@
     "aidoku/aidoku": {
       "full": "Aidoku/Aidoku",
       "firstSeenAt": "2026-10-18T08:29:46.247Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -53592,12 +53594,137 @@
           "repository": "Aidoku/Aidoku"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:29:46.247Z"
+      "lastSeenAt": "2026-10-18T08:29:46.247Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "Aidoku/Aidoku",
+        "postUrl": "https://x.com/i/web/status/2111695204096856253",
+        "url": "https://aidoku.app/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "Aidoku/Aidoku",
+        "name": "Aidoku",
+        "description": "Manga reading app for iOS, iPadOS, and macOS",
+        "category": "Other",
+        "language": "Swift",
+        "stars": 4637,
+        "forks": 309,
+        "created": "2022-01-02T16:44:46Z",
+        "updated": "2026-10-16T22:25:46Z",
+        "license": "GPL-3.0",
+        "branch": "main",
+        "homepage": "https://aidoku.app",
+        "topics": [
+          "ios",
+          "manga",
+          "reading",
+          "swift"
+        ],
+        "demo": "https://aidoku.app/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-18T08:32:08.482Z",
+        "lastAvailableAt": "2026-10-18T08:32:08.482Z",
+        "lastAttemptAt": "2026-10-18T08:32:08.482Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "Aidoku/Aidoku",
+          "postUrl": "https://x.com/i/web/status/2111695204096856253",
+          "url": "https://aidoku.app/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2111695204096856253",
+            "postId": "2111695204096856253",
+            "postedAt": "2026-10-18T05:45:44.000Z"
+          }
+        ],
+        "subjects": [
+          "Apple",
+          "Mobile"
+        ],
+        "platforms": [
+          "iOS & iPadOS",
+          "macOS"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "Apple",
+            "Mobile"
+          ],
+          "evidence": [
+            {
+              "subject": "Apple",
+              "source": "metadata",
+              "match": "iOS"
+            },
+            {
+              "subject": "Mobile",
+              "source": "metadata",
+              "match": "iOS"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "iOS & iPadOS",
+              "source": "metadata",
+              "match": "iOS"
+            },
+            {
+              "platform": "macOS",
+              "source": "metadata",
+              "match": "macOS"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://aidoku.app/",
+          "attemptedAt": "2026-10-18T08:32:11.685Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-18T08:32:11.685Z",
+          "lastWorkingAt": "2026-10-18T08:32:11.685Z",
+          "target": "https://aidoku.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-25T08:32:11.685Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/ede7a48e96467dd74fc5b04d.jpg",
+            "kind": "demo",
+            "url": "https://aidoku.app/",
+            "capturedAt": "2026-10-18T08:32:11.685Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-18T08:32:11.685Z",
+        "previewCheck": {
+          "url": "https://aidoku.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-18T08:32:11.685Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-25T08:32:11.686Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-19T20:32:11.687Z",
+      "checkedAt": "2026-10-18T08:32:11.687Z",
+      "firstAcceptedAt": "2026-10-18T08:32:11.687Z"
     },
     "naman-sharma12345/kimo": {
       "full": "naman-sharma12345/kimo",
       "firstSeenAt": "2026-10-18T08:29:46.247Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -53638,12 +53765,147 @@
           "repository": "naman-sharma12345/kimo"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:29:46.247Z"
+      "lastSeenAt": "2026-10-18T08:29:46.247Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "naman-sharma12345/kimo",
+        "postUrl": "https://x.com/i/web/status/2111676414890000857",
+        "url": "https://getkimo.tech/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "naman-sharma12345/kimo",
+        "name": "kimo",
+        "description": "MCP-first AI video editor in Rust/C++. Every operation is an AI-callable tool.",
+        "category": "Developer tools",
+        "language": "Rust",
+        "stars": 10,
+        "forks": 3,
+        "created": "2026-10-10T07:19:25Z",
+        "updated": "2026-10-18T07:39:04Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://getkimo.tech",
+        "topics": [
+          "ai-agents",
+          "ai-tools",
+          "claude",
+          "cli",
+          "codex",
+          "color-grading",
+          "cursor",
+          "ffmpeg",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "motion-graphics",
+          "rust",
+          "vfx",
+          "video-editing",
+          "video-editor"
+        ],
+        "demo": "https://getkimo.tech/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-18T08:32:12.202Z",
+        "lastAvailableAt": "2026-10-18T08:32:12.202Z",
+        "lastAttemptAt": "2026-10-18T08:32:12.202Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "naman-sharma12345/kimo",
+          "postUrl": "https://x.com/i/web/status/2111676414890000857",
+          "url": "https://getkimo.tech/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2111679005082411160",
+            "postId": "2111679005082411160",
+            "postedAt": "2026-10-18T04:41:22.000Z"
+          },
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2111677772729115129",
+            "postId": "2111677772729115129",
+            "postedAt": "2026-10-18T04:36:28.000Z"
+          },
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2111676414890000857",
+            "postId": "2111676414890000857",
+            "postedAt": "2026-10-18T04:31:05.000Z"
+          }
+        ],
+        "subjects": [
+          "Animation & motion",
+          "MCP servers & agents",
+          "Image, audio & video AI"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Animation & motion",
+            "MCP servers & agents",
+            "Image, audio & video AI"
+          ],
+          "evidence": [
+            {
+              "subject": "Animation & motion",
+              "source": "metadata",
+              "match": "motion graphics"
+            },
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "MCP"
+            },
+            {
+              "subject": "Image, audio & video AI",
+              "source": "metadata",
+              "match": "AI video"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://getkimo.tech/",
+          "attemptedAt": "2026-10-18T08:32:28.091Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "network_or_timeout",
+            "at": "2026-10-18T08:32:28.091Z"
+          },
+          "nextCheckAt": "2026-10-18T10:32:28.091Z"
+        },
+        "previewAttemptAt": "2026-10-18T08:32:28.091Z",
+        "previewCheck": {
+          "url": "https://getkimo.tech/",
+          "status": "retry",
+          "reason": "network_or_timeout",
+          "attemptedAt": "2026-10-18T08:32:28.091Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-18T10:32:28.091Z"
+        }
+      },
+      "reason": "network_or_timeout",
+      "nextAttemptAt": "2026-10-18T10:32:28.091Z",
+      "checkedAt": "2026-10-18T08:32:28.092Z"
     },
     "neromtoobad/syncly": {
       "full": "neromtoobad/syncly",
       "firstSeenAt": "2026-10-18T08:29:46.247Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -53660,12 +53922,105 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-18T08:29:46.247Z"
+      "lastSeenAt": "2026-10-18T08:29:46.247Z",
+      "entry": {
+        "availability": "available",
+        "full": "neromtoobad/syncly",
+        "name": "syncly",
+        "description": "Syncly: AI agents do the work, an AI CFO runs the money. A real business on Arc: jobs paid into escrow in USDC, agents paying their own tools by x402, every CFO decision signed.",
+        "category": "Finance",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-28T07:46:46Z",
+        "updated": "2026-10-17T08:15:03Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://hiresyncly.site",
+        "topics": [
+          "ai-agents",
+          "arc",
+          "circle",
+          "usdc",
+          "x402"
+        ],
+        "demo": "https://hiresyncly.site/#money",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-18T08:32:30.669Z",
+        "lastAvailableAt": "2026-10-18T08:32:30.669Z",
+        "lastAttemptAt": "2026-10-18T08:32:30.669Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2111678738488553829",
+            "postId": "2111678738488553829",
+            "postedAt": "2026-10-18T04:40:19.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Finance",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "AI agents"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://hiresyncly.site/#money",
+          "attemptedAt": "2026-10-18T08:32:33.941Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-18T08:32:33.941Z",
+          "lastWorkingAt": "2026-10-18T08:32:33.941Z",
+          "target": "https://hiresyncly.site/#money",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-25T08:32:33.941Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/c5967acfff55b7b301503e3d.jpg",
+            "kind": "demo",
+            "url": "https://hiresyncly.site/#money",
+            "capturedAt": "2026-10-18T08:32:33.941Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-18T08:32:33.941Z",
+        "previewCheck": {
+          "url": "https://hiresyncly.site/#money",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-18T08:32:33.941Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-25T08:32:33.942Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-19T20:32:33.943Z",
+      "checkedAt": "2026-10-18T08:32:33.943Z",
+      "firstAcceptedAt": "2026-10-18T08:32:33.943Z"
     },
     "neromtoobad/arc-agent-commerce": {
       "full": "neromtoobad/arc-agent-commerce",
       "firstSeenAt": "2026-10-18T08:29:46.247Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -53682,12 +54037,14 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-18T08:29:46.247Z"
+      "lastSeenAt": "2026-10-18T08:29:46.247Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-25T08:32:34.483Z"
     },
     "felixtrz/roadster": {
       "full": "felixtrz/roadster",
       "firstSeenAt": "2026-10-18T08:29:46.247Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -53714,12 +54071,92 @@
           "repository": "felixtrz/roadster"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "felixtrz/roadster",
+        "postUrl": "https://x.com/i/web/status/2111675529372086706",
+        "url": "https://roadster.elixr.games/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "felixtrz/roadster",
+        "name": "roadster",
+        "description": "WebXR recreation of the 2026 Tesla Roadster ramp stunt, built with IWSDK and Three.js",
+        "category": "Other",
+        "language": "Python",
+        "stars": 0,
+        "forks": 1,
+        "created": "2026-10-18T02:57:49Z",
+        "updated": "2026-10-18T04:39:33Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://roadster.elixr.games/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-18T08:30:49.009Z",
+        "lastAvailableAt": "2026-10-18T08:30:49.009Z",
+        "lastAttemptAt": "2026-10-18T08:30:49.009Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "felixtrz/roadster",
+          "postUrl": "https://x.com/i/web/status/2111675529372086706",
+          "url": "https://roadster.elixr.games/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2111675529372086706",
+            "postId": "2111675529372086706",
+            "postedAt": "2026-10-18T04:27:33.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://roadster.elixr.games/",
+          "attemptedAt": "2026-10-18T08:31:09.832Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "network_or_timeout",
+            "at": "2026-10-18T08:31:09.832Z"
+          },
+          "nextCheckAt": "2026-10-18T10:31:09.832Z"
+        },
+        "previewAttemptAt": "2026-10-18T08:31:09.832Z",
+        "previewCheck": {
+          "url": "https://roadster.elixr.games/",
+          "status": "retry",
+          "reason": "network_or_timeout",
+          "attemptedAt": "2026-10-18T08:31:09.832Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-18T10:31:09.832Z"
+        }
+      },
+      "reason": "network_or_timeout",
+      "nextAttemptAt": "2026-10-18T10:31:09.832Z",
+      "checkedAt": "2026-10-18T08:31:09.833Z"
     },
     "iam-rohid/openaso": {
       "full": "iam-rohid/openaso",
       "firstSeenAt": "2026-10-18T08:29:46.247Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -53738,7 +54175,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:29:46.247Z"
+      "lastSeenAt": "2026-10-18T08:29:46.247Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-25T08:32:34.912Z"
     },
     "abhishek085/microlog": {
       "full": "abhishek085/microlog",
@@ -53863,7 +54302,7 @@
     "markusbug/bluechip": {
       "full": "markusbug/bluechip",
       "firstSeenAt": "2026-10-18T08:29:54.122Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -53890,7 +54329,96 @@
           "repository": "markusbug/bluechip"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:29:54.122Z"
+      "lastSeenAt": "2026-10-18T08:29:54.122Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "markusbug/bluechip",
+        "postUrl": "https://x.com/i/web/status/2105316794974040535",
+        "url": "https://bluechip.markushaas.com/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "markusbug/bluechip",
+        "name": "bluechip",
+        "description": "Onchain index fund of tokenized US stocks on Base. $BLUE + $CHIP.",
+        "category": "Other",
+        "language": "Solidity",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-30T12:23:55Z",
+        "updated": "2026-10-02T11:51:23Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://bluechip.markushaas.com/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-18T08:31:57.955Z",
+        "lastAvailableAt": "2026-10-18T08:31:57.955Z",
+        "lastAttemptAt": "2026-10-18T08:31:57.955Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "markusbug/bluechip",
+          "postUrl": "https://x.com/i/web/status/2105316794974040535",
+          "url": "https://bluechip.markushaas.com/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105316794974040535",
+            "postId": "2105316794974040535",
+            "postedAt": "2026-09-30T15:20:13.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://bluechip.markushaas.com/",
+          "attemptedAt": "2026-10-18T08:32:03.236Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-18T08:32:03.236Z",
+          "lastWorkingAt": "2026-10-18T08:32:03.236Z",
+          "target": "https://bluechip.markushaas.com/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-25T08:32:03.236Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/110ddf5c2fde0bbba150834d.jpg",
+            "kind": "demo",
+            "url": "https://bluechip.markushaas.com/",
+            "capturedAt": "2026-10-18T08:32:03.236Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-18T08:32:03.236Z",
+        "previewCheck": {
+          "url": "https://bluechip.markushaas.com/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-18T08:32:03.236Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-25T08:32:03.236Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-19T20:32:03.238Z",
+      "checkedAt": "2026-10-18T08:32:03.238Z",
+      "firstAcceptedAt": "2026-10-18T08:32:03.238Z"
     },
     "openhands/openhands": {
       "full": "OpenHands/OpenHands",
@@ -53919,7 +54447,7 @@
     "spatie/bloom": {
       "full": "spatie/bloom",
       "firstSeenAt": "2026-10-18T08:29:54.122Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -53952,7 +54480,114 @@
           "repository": "spatie/bloom"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:29:54.122Z"
+      "lastSeenAt": "2026-10-18T08:29:54.122Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "spatie/bloom",
+        "postUrl": "https://x.com/i/web/status/2105303117042770160",
+        "url": "https://runbloom.app/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "spatie/bloom",
+        "name": "bloom",
+        "description": "A native macOS app for running coding agents in git worktrees",
+        "category": "Developer tools",
+        "language": "Swift",
+        "stars": 30,
+        "forks": 6,
+        "created": "2026-09-28T09:34:01Z",
+        "updated": "2026-10-15T20:43:13Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://runbloom.app",
+        "topics": [],
+        "demo": "https://runbloom.app/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-18T08:32:03.947Z",
+        "lastAvailableAt": "2026-10-18T08:32:03.947Z",
+        "lastAttemptAt": "2026-10-18T08:32:03.947Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "spatie/bloom",
+          "postUrl": "https://x.com/i/web/status/2105303117042770160",
+          "url": "https://runbloom.app/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105303117042770160",
+            "postId": "2105303117042770160",
+            "postedAt": "2026-09-30T14:25:52.000Z"
+          }
+        ],
+        "subjects": [
+          "Apple"
+        ],
+        "platforms": [
+          "macOS"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Apple"
+          ],
+          "evidence": [
+            {
+              "subject": "Apple",
+              "source": "metadata",
+              "match": "macOS"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "macOS",
+              "source": "metadata",
+              "match": "macOS"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://runbloom.app/",
+          "attemptedAt": "2026-10-18T08:32:07.932Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-18T08:32:07.932Z",
+          "lastWorkingAt": "2026-10-18T08:32:07.932Z",
+          "target": "https://runbloom.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-25T08:32:07.932Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/de1c326d062adb3c8d13c146.jpg",
+            "kind": "demo",
+            "url": "https://runbloom.app/",
+            "capturedAt": "2026-10-18T08:32:07.932Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-18T08:32:07.932Z",
+        "previewCheck": {
+          "url": "https://runbloom.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-18T08:32:07.932Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-25T08:32:07.933Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-19T20:32:07.934Z",
+      "checkedAt": "2026-10-18T08:32:07.934Z",
+      "firstAcceptedAt": "2026-10-18T08:32:07.934Z"
     },
     "race45race/solo45": {
       "full": "race45race/solo45",
@@ -53981,7 +54616,7 @@
     "leonxlnx/cinetic": {
       "full": "Leonxlnx/cinetic",
       "firstSeenAt": "2026-10-18T08:30:02.161Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -54000,12 +54635,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-25T08:32:29.172Z"
     },
     "khalid-000-me/xemo": {
       "full": "Khalid-000-ME/xemo",
       "firstSeenAt": "2026-10-18T08:30:02.161Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -54032,12 +54669,89 @@
           "repository": "Khalid-000-ME/xemo"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "entry": {
+        "availability": "available",
+        "full": "Khalid-000-ME/xemo",
+        "name": "xemo",
+        "description": "Describe a stablecoin, tokenization or prediction-market tool and the agent builds it, tests it in a sandbox, deploys it, and opens two payment rails: Stripe for people, x402 for agent",
+        "category": "Developer tools",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-10-16T23:12:35Z",
+        "updated": "2026-10-18T00:16:40Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://xemo-ship.vercel.app",
+        "topics": [],
+        "demo": "https://xemo-ship.vercel.app/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-18T08:31:14.587Z",
+        "lastAvailableAt": "2026-10-18T08:31:14.587Z",
+        "lastAttemptAt": "2026-10-18T08:31:14.587Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2111610304572666357",
+            "postId": "2111610304572666357",
+            "postedAt": "2026-10-18T00:08:23.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://xemo-ship.vercel.app/",
+          "attemptedAt": "2026-10-18T08:31:18.999Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-18T08:31:18.999Z",
+          "lastWorkingAt": "2026-10-18T08:31:18.999Z",
+          "target": "https://xemo-ship.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-25T08:31:18.999Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/aaf54757a8dfb8c8edb5d35d.jpg",
+            "kind": "demo",
+            "url": "https://xemo-ship.vercel.app/",
+            "capturedAt": "2026-10-18T08:31:18.999Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-18T08:31:18.999Z",
+        "previewCheck": {
+          "url": "https://xemo-ship.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-18T08:31:18.999Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-25T08:31:19.000Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-19T20:31:19.001Z",
+      "checkedAt": "2026-10-18T08:31:19.001Z",
+      "firstAcceptedAt": "2026-10-18T08:31:19.001Z"
     },
     "shyvortex/dlss-unlocked": {
       "full": "ShyVortex/dlss-unlocked",
       "firstSeenAt": "2026-10-18T08:30:02.161Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -54056,12 +54770,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-25T08:32:28.704Z"
     },
     "felixtrz/chinese-garden": {
       "full": "felixtrz/chinese-garden",
       "firstSeenAt": "2026-10-18T08:30:02.161Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -54088,12 +54804,101 @@
           "repository": "felixtrz/chinese-garden"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "felixtrz/chinese-garden",
+        "postUrl": "https://x.com/i/web/status/2111528908080517570",
+        "url": "https://felixtrz.github.io/chinese-garden/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "felixtrz/chinese-garden",
+        "name": "chinese-garden",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 1,
+        "created": "2026-10-17T04:09:52Z",
+        "updated": "2026-10-17T16:47:54Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://felixtrz.github.io/chinese-garden/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-18T08:31:20.794Z",
+        "lastAvailableAt": "2026-10-18T08:31:20.794Z",
+        "lastAttemptAt": "2026-10-18T08:31:20.794Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "felixtrz/chinese-garden",
+          "postUrl": "https://x.com/i/web/status/2111528908080517570",
+          "url": "https://felixtrz.github.io/chinese-garden/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2111528908080517570",
+            "postId": "2111528908080517570",
+            "postedAt": "2026-10-17T18:44:56.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://felixtrz.github.io/chinese-garden/",
+          "attemptedAt": "2026-10-18T08:31:46.759Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-18T08:31:46.759Z",
+          "lastWorkingAt": "2026-10-18T08:31:46.759Z",
+          "target": "https://felixtrz.github.io/chinese-garden/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-25T08:31:46.759Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/e961bda80b4fd1afc2dee950.jpg",
+            "kind": "demo",
+            "url": "https://felixtrz.github.io/chinese-garden/",
+            "capturedAt": "2026-10-18T08:31:46.759Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-18T08:31:46.759Z",
+        "previewCheck": {
+          "url": "https://felixtrz.github.io/chinese-garden/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-18T08:31:46.759Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-25T08:31:46.759Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-19T20:31:46.760Z",
+      "checkedAt": "2026-10-18T08:31:46.760Z",
+      "firstAcceptedAt": "2026-10-18T08:31:46.760Z"
     },
     "qkaiser/broadcom-wps": {
       "full": "qkaiser/broadcom-wps",
       "firstSeenAt": "2026-10-18T08:30:02.161Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -54112,12 +54917,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-25T08:32:29.636Z"
     },
     "mttmcknn/sea-glass": {
       "full": "mttmcknn/sea-glass",
       "firstSeenAt": "2026-10-18T08:30:02.161Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -54136,12 +54943,80 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "entry": {
+        "availability": "available",
+        "full": "mttmcknn/sea-glass",
+        "name": "sea-glass",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "Kotlin",
+        "stars": 29,
+        "forks": 1,
+        "created": "2026-10-13T17:44:02Z",
+        "updated": "2026-10-15T21:13:06Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://sea-glass-playground.mttmcknn.chatgpt.site/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-18T08:32:35.973Z",
+        "lastAvailableAt": "2026-10-18T08:32:35.973Z",
+        "lastAttemptAt": "2026-10-18T08:32:35.973Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2111491947361931360",
+            "postId": "2111491947361931360",
+            "postedAt": "2026-10-17T16:18:04.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://sea-glass-playground.mttmcknn.chatgpt.site/",
+          "attemptedAt": "2026-10-18T08:32:37.207Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "http_401",
+            "at": "2026-10-18T08:32:37.207Z"
+          },
+          "nextCheckAt": "2026-10-18T10:32:37.207Z"
+        },
+        "previewAttemptAt": "2026-10-18T08:32:37.207Z",
+        "previewCheck": {
+          "url": "https://sea-glass-playground.mttmcknn.chatgpt.site/",
+          "status": "retry",
+          "reason": "http_401",
+          "attemptedAt": "2026-10-18T08:32:37.207Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-18T10:32:37.207Z"
+        }
+      },
+      "reason": "http_401",
+      "nextAttemptAt": "2026-10-18T10:32:37.207Z",
+      "checkedAt": "2026-10-18T08:32:37.207Z"
     },
     "battlejoose/soltoshidice-programs": {
       "full": "battlejoose/soltoshidice-programs",
       "firstSeenAt": "2026-10-18T08:30:02.161Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -54168,12 +55043,91 @@
           "repository": "battlejoose/soltoshidice-programs"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "battlejoose/soltoshidice-programs",
+        "postUrl": "https://x.com/i/web/status/2111471362598736271",
+        "url": "https://solscan.io/account/CuTLp7pDmNGkFgi4aoh8Ef1YSjc2BzECQRLzYqaoVWBR#programVerification"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "battlejoose/soltoshidice-programs",
+        "name": "soltoshidice-programs",
+        "description": "SoltoshiDICE mainnet contract source and reproducible build verification",
+        "category": "Other",
+        "language": "Rust",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-10-17T14:07:15Z",
+        "updated": "2026-10-17T14:31:51Z",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://solscan.io/account/CuTLp7pDmNGkFgi4aoh8Ef1YSjc2BzECQRLzYqaoVWBR#programVerification",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-18T08:31:19.665Z",
+        "lastAvailableAt": "2026-10-18T08:31:19.665Z",
+        "lastAttemptAt": "2026-10-18T08:31:19.665Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "battlejoose/soltoshidice-programs",
+          "postUrl": "https://x.com/i/web/status/2111471362598736271",
+          "url": "https://solscan.io/account/CuTLp7pDmNGkFgi4aoh8Ef1YSjc2BzECQRLzYqaoVWBR#programVerification"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2111471362598736271",
+            "postId": "2111471362598736271",
+            "postedAt": "2026-10-17T14:56:16.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://solscan.io/account/CuTLp7pDmNGkFgi4aoh8Ef1YSjc2BzECQRLzYqaoVWBR#programVerification",
+          "attemptedAt": "2026-10-18T08:31:20.210Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "challenge",
+            "at": "2026-10-18T08:31:20.210Z"
+          },
+          "nextCheckAt": "2026-10-18T10:31:20.210Z"
+        },
+        "previewAttemptAt": "2026-10-18T08:31:20.210Z",
+        "previewCheck": {
+          "url": "https://solscan.io/account/CuTLp7pDmNGkFgi4aoh8Ef1YSjc2BzECQRLzYqaoVWBR#programVerification",
+          "status": "retry",
+          "reason": "challenge",
+          "attemptedAt": "2026-10-18T08:31:20.210Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-18T10:31:20.210Z"
+        }
+      },
+      "reason": "challenge",
+      "nextAttemptAt": "2026-10-18T10:31:20.210Z",
+      "checkedAt": "2026-10-18T08:31:20.210Z"
     },
     "shihabal3amri/tekken-tag-tournament-2-pc": {
       "full": "shihabal3amri/tekken-tag-tournament-2-pc",
       "firstSeenAt": "2026-10-18T08:30:02.161Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -54192,12 +55146,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-25T08:32:30.103Z"
     },
     "melcodes99/paybot": {
       "full": "MELcodes99/paybot",
       "firstSeenAt": "2026-10-18T08:30:02.161Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -54230,12 +55186,100 @@
           "repository": "MELcodes99/paybot"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "MELcodes99/paybot",
+        "postUrl": "https://x.com/i/web/status/2111349027069419770",
+        "url": "https://t.me/PayBotNaira_Bot"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "MELcodes99/paybot",
+        "name": "paybot",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 1,
+        "forks": 0,
+        "created": "2026-10-15T13:56:58Z",
+        "updated": "2026-10-18T00:51:41Z",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://t.me/PayBotNaira_Bot",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-18T08:31:47.276Z",
+        "lastAvailableAt": "2026-10-18T08:31:47.276Z",
+        "lastAttemptAt": "2026-10-18T08:31:47.276Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "MELcodes99/paybot",
+          "postUrl": "https://x.com/i/web/status/2111349027069419770",
+          "url": "https://t.me/PayBotNaira_Bot"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2111349027069419770",
+            "postId": "2111349027069419770",
+            "postedAt": "2026-10-17T06:50:09.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://t.me/PayBotNaira_Bot",
+          "attemptedAt": "2026-10-18T08:31:51.254Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-18T08:31:51.254Z",
+          "lastWorkingAt": "2026-10-18T08:31:51.254Z",
+          "target": "https://t.me/PayBotNaira_Bot",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-25T08:31:51.254Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/b4bec31bde3a6e143ec6b4d4.jpg",
+            "kind": "demo",
+            "url": "https://t.me/PayBotNaira_Bot",
+            "capturedAt": "2026-10-18T08:31:51.254Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-18T08:31:51.254Z",
+        "previewCheck": {
+          "url": "https://t.me/PayBotNaira_Bot",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-18T08:31:51.254Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-25T08:31:51.254Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-19T20:31:51.255Z",
+      "checkedAt": "2026-10-18T08:31:51.255Z",
+      "firstAcceptedAt": "2026-10-18T08:31:51.255Z"
     },
     "sebaskitten/grand-v": {
       "full": "SebasKitten/Grand-V",
       "firstSeenAt": "2026-10-18T08:30:02.161Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -54262,7 +55306,107 @@
           "repository": "SebasKitten/Grand-V"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "SebasKitten/Grand-V",
+        "postUrl": "https://x.com/i/web/status/2111265468073845220",
+        "url": "https://v2.fiveplay.lol/launcher.html"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "SebasKitten/Grand-V",
+        "name": "Grand-V",
+        "description": "GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU,",
+        "category": "Design",
+        "language": "Rust",
+        "stars": 275,
+        "forks": 58,
+        "created": "2026-10-12T13:24:03Z",
+        "updated": "2026-10-16T22:12:58Z",
+        "branch": "main",
+        "homepage": "",
+        "topics": [
+          "gaming"
+        ],
+        "demo": "https://v2.fiveplay.lol/launcher.html",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-18T08:31:10.446Z",
+        "lastAvailableAt": "2026-10-18T08:31:10.446Z",
+        "lastAttemptAt": "2026-10-18T08:31:10.446Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "SebasKitten/Grand-V",
+          "postUrl": "https://x.com/i/web/status/2111265468073845220",
+          "url": "https://v2.fiveplay.lol/launcher.html"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2111265468073845220",
+            "postId": "2111265468073845220",
+            "postedAt": "2026-10-17T01:18:07.000Z"
+          }
+        ],
+        "subjects": [
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "WebGPU"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://v2.fiveplay.lol/launcher.html",
+          "attemptedAt": "2026-10-18T08:31:13.955Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-18T08:31:13.955Z",
+          "lastWorkingAt": "2026-10-18T08:31:13.955Z",
+          "target": "https://v2.fiveplay.lol/launcher.html",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-25T08:31:13.955Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/c99469cbe49e9821da3fdb33.jpg",
+            "kind": "demo",
+            "url": "https://v2.fiveplay.lol/launcher.html",
+            "capturedAt": "2026-10-18T08:31:13.955Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-18T08:31:13.955Z",
+        "previewCheck": {
+          "url": "https://v2.fiveplay.lol/launcher.html",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-18T08:31:13.955Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-25T08:31:13.957Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-19T20:31:13.958Z",
+      "checkedAt": "2026-10-18T08:31:13.958Z",
+      "firstAcceptedAt": "2026-10-18T08:31:13.958Z"
     },
     "yeabsiram290/omarchy-piassa-nostalgia-theme": {
       "full": "YeabsiraM290/omarchy-piassa-nostalgia-theme",
@@ -54291,7 +55435,7 @@
     "irfanfaraaz/mailrust": {
       "full": "irfanfaraaz/mailrust",
       "firstSeenAt": "2026-10-18T08:30:02.161Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -54318,7 +55462,122 @@
           "repository": "irfanfaraaz/mailrust"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "irfanfaraaz/mailrust",
+        "postUrl": "https://x.com/i/web/status/2111154523058352568",
+        "url": "https://mailrust.irfanfaraaz.in/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "irfanfaraaz/mailrust",
+        "name": "mailrust",
+        "description": "Self-hosted email platform: a sending API (like Resend) and a newsletter app (like beehiiv), on one Rust engine that sends through your own Amazon SES. Guards your SES reputation, and your AI can run it over MCP.",
+        "category": "Developer tools",
+        "language": "Rust",
+        "stars": 1,
+        "forks": 0,
+        "created": "2026-10-12T04:29:36Z",
+        "updated": "2026-10-16T08:36:48Z",
+        "license": "AGPL-3.0",
+        "branch": "main",
+        "homepage": "https://mailrust.irfanfaraaz.in",
+        "topics": [
+          "aws-ses",
+          "email",
+          "mcp",
+          "newsletter",
+          "resend-alternative",
+          "rust",
+          "self-hosted",
+          "transactional-email"
+        ],
+        "demo": "https://mailrust.irfanfaraaz.in/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-18T08:31:51.998Z",
+        "lastAvailableAt": "2026-10-18T08:31:51.998Z",
+        "lastAttemptAt": "2026-10-18T08:31:51.998Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "irfanfaraaz/mailrust",
+          "postUrl": "https://x.com/i/web/status/2111154523058352568",
+          "url": "https://mailrust.irfanfaraaz.in/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2111154523058352568",
+            "postId": "2111154523058352568",
+            "postedAt": "2026-10-16T17:57:16.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents",
+          "Self-hosted apps"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "MCP servers & agents",
+            "Self-hosted apps"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "MCP"
+            },
+            {
+              "subject": "Self-hosted apps",
+              "source": "metadata",
+              "match": "Self hosted"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://mailrust.irfanfaraaz.in/",
+          "attemptedAt": "2026-10-18T08:31:57.132Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-18T08:31:57.132Z",
+          "lastWorkingAt": "2026-10-18T08:31:57.132Z",
+          "target": "https://mailrust.irfanfaraaz.in/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-25T08:31:57.132Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/7fbf0364a195a5c4904b97a1.jpg",
+            "kind": "demo",
+            "url": "https://mailrust.irfanfaraaz.in/",
+            "capturedAt": "2026-10-18T08:31:57.132Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-18T08:31:57.132Z",
+        "previewCheck": {
+          "url": "https://mailrust.irfanfaraaz.in/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-18T08:31:57.132Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-25T08:31:57.133Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-19T20:31:57.134Z",
+      "checkedAt": "2026-10-18T08:31:57.134Z",
+      "firstAcceptedAt": "2026-10-18T08:31:57.134Z"
     },
     "dotmorten/githubtodo": {
       "full": "dotMorten/GitHubToDo",
@@ -55204,8 +56463,8 @@
       "posts": 419,
       "uniquePosts": 255,
       "newCandidates": 167,
-      "validationAttempts": 156,
-      "accepted": 47
+      "validationAttempts": 165,
+      "accepted": 51
     },
     "2c0438e5283099cf": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
@@ -55228,8 +56487,8 @@
       "posts": 165,
       "uniquePosts": 30,
       "newCandidates": 23,
-      "validationAttempts": 12,
-      "accepted": 3
+      "validationAttempts": 23,
+      "accepted": 8
     },
     "a0153cbebcc5cf46": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
@@ -55559,7 +56818,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-17T05:39:40.693Z",
+      "nextAttemptAt": "2026-10-25T08:30:46.359Z",
       "reason": "no_repository_link"
     },
     "https://lgs1920.github.io/timeline": {
@@ -55603,7 +56862,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-17T07:20:30.230Z",
+      "nextAttemptAt": "2026-10-25T08:30:47.076Z",
       "reason": "no_repository_link"
     },
     "https://kucha-5.github.io/Project-Zero-web-version/": {
@@ -55625,7 +56884,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-17T07:20:30.767Z",
+      "nextAttemptAt": "2026-10-25T08:30:47.659Z",
       "reason": "no_repository_link"
     },
     "https://kucha11451.itch.io/project-zero-mobile-version": {
@@ -55647,7 +56906,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-17T07:20:31.097Z",
+      "nextAttemptAt": "2026-10-25T08:30:47.862Z",
       "reason": "no_repository_link"
     },
     "https://kucha-5.github.io/PZ-Mobile-version/": {
@@ -55669,7 +56928,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-17T07:20:31.352Z",
+      "nextAttemptAt": "2026-10-25T08:30:48.165Z",
       "reason": "no_repository_link"
     },
     "https://elon-musk12.github.io/My-personal-AI/": {
@@ -55808,6 +57067,6 @@
   "lastDemoDiscovery": {
     "checked": 5,
     "resolved": 0,
-    "at": "2026-10-18T05:55:54.992Z"
+    "at": "2026-10-18T08:30:48.378Z"
   }
 }
