@@ -7224,7 +7224,7 @@
         "stars": 0,
         "forks": 0,
         "created": "2026-10-08T08:09:54Z",
-        "updated": "2026-10-09T08:10:00Z",
+        "updated": "2026-10-12T14:39:20Z",
         "license": "CC-BY-4.0",
         "branch": "main",
         "homepage": null,
@@ -7232,9 +7232,9 @@
         "demo": "https://medium.com/@MixVioAI/image-to-video-ai-what-14-test-clips-taught-me-about-turning-photos-into-video-d18e8297110a",
         "color": "#193546",
         "ink": "#a6d6e8",
-        "lastCheckedAt": "2026-10-09T09:24:06.235Z",
-        "lastAvailableAt": "2026-10-09T09:24:06.235Z",
-        "lastAttemptAt": "2026-10-09T09:24:06.235Z",
+        "lastCheckedAt": "2026-10-18T05:58:11.616Z",
+        "lastAvailableAt": "2026-10-18T05:58:11.616Z",
+        "lastAttemptAt": "2026-10-18T05:58:11.616Z",
         "demoEvidence": {
           "kind": "x_link",
           "repository": "orvyno/mixvio-notes",
@@ -7265,29 +7265,29 @@
         },
         "demoHealth": {
           "url": "https://medium.com/@MixVioAI/image-to-video-ai-what-14-test-clips-taught-me-about-turning-photos-into-video-d18e8297110a",
-          "attemptedAt": "2026-10-09T09:24:06.734Z",
+          "attemptedAt": "2026-10-18T05:58:12.151Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "access_restricted",
-            "at": "2026-10-09T09:24:06.734Z"
+            "at": "2026-10-18T05:58:12.151Z"
           },
-          "nextCheckAt": "2026-10-09T11:24:06.734Z"
+          "nextCheckAt": "2026-10-18T07:58:12.151Z"
         },
-        "previewAttemptAt": "2026-10-09T09:24:06.734Z",
+        "previewAttemptAt": "2026-10-18T05:58:12.151Z",
         "previewCheck": {
           "url": "https://medium.com/@MixVioAI/image-to-video-ai-what-14-test-clips-taught-me-about-turning-photos-into-video-d18e8297110a",
           "status": "retry",
           "reason": "access_restricted",
-          "attemptedAt": "2026-10-09T09:24:06.734Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-09T11:24:06.734Z"
+          "attemptedAt": "2026-10-18T05:58:12.151Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-18T07:58:12.151Z"
         }
       },
       "reason": "access_restricted",
-      "nextAttemptAt": "2026-10-09T11:24:06.734Z",
-      "checkedAt": "2026-10-09T09:24:06.734Z"
+      "nextAttemptAt": "2026-10-18T07:58:12.151Z",
+      "checkedAt": "2026-10-18T05:58:12.152Z"
     },
     "shinshin86/mesh-avatar-studio": {
       "full": "shinshin86/mesh-avatar-studio",
@@ -9138,7 +9138,7 @@
         "stars": 4,
         "forks": 1,
         "created": "2026-09-21T14:46:02Z",
-        "updated": "2026-10-09T09:21:54Z",
+        "updated": "2026-10-17T13:03:58Z",
         "license": "MIT",
         "branch": "main",
         "homepage": "https://run-hound.rahulbharati.com/",
@@ -9151,9 +9151,9 @@
         "demo": "https://run-hound.rahulbharati.com/",
         "color": "#25392f",
         "ink": "#d1e5c5",
-        "lastCheckedAt": "2026-10-09T09:24:16.614Z",
-        "lastAvailableAt": "2026-10-09T09:24:16.614Z",
-        "lastAttemptAt": "2026-10-09T09:24:16.614Z",
+        "lastCheckedAt": "2026-10-18T05:58:12.775Z",
+        "lastAvailableAt": "2026-10-18T05:58:12.775Z",
+        "lastAttemptAt": "2026-10-18T05:58:12.775Z",
         "demoEvidence": {
           "kind": "x_link",
           "repository": "rahul-bharati/run-hound",
@@ -9201,29 +9201,29 @@
         },
         "demoHealth": {
           "url": "https://run-hound.rahulbharati.com/",
-          "attemptedAt": "2026-10-09T09:24:17.068Z",
+          "attemptedAt": "2026-10-18T05:58:13.375Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "challenge",
-            "at": "2026-10-09T09:24:17.068Z"
+            "at": "2026-10-18T05:58:13.375Z"
           },
-          "nextCheckAt": "2026-10-09T11:24:17.068Z"
+          "nextCheckAt": "2026-11-17T05:58:13.375Z"
         },
-        "previewAttemptAt": "2026-10-09T09:24:17.068Z",
+        "previewAttemptAt": "2026-10-18T05:58:13.375Z",
         "previewCheck": {
           "url": "https://run-hound.rahulbharati.com/",
           "status": "retry",
           "reason": "challenge",
-          "attemptedAt": "2026-10-09T09:24:17.068Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-09T11:24:17.068Z"
+          "attemptedAt": "2026-10-18T05:58:13.375Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-11-17T05:58:13.375Z"
         }
       },
       "reason": "challenge",
-      "nextAttemptAt": "2026-10-09T11:24:17.068Z",
-      "checkedAt": "2026-10-09T09:24:17.068Z"
+      "nextAttemptAt": "2026-11-17T05:58:13.375Z",
+      "checkedAt": "2026-10-18T05:58:13.376Z"
     },
     "shawnchee/andrej-explains": {
       "full": "Shawnchee/andrej-explains",
@@ -14067,7 +14067,7 @@
       ],
       "lastSeenAt": "2026-10-09T13:16:04.326Z",
       "reason": "temporary_error",
-      "nextAttemptAt": "2026-10-09T19:17:41.484Z"
+      "nextAttemptAt": "2026-10-18T11:58:13.602Z"
     },
     "pal-123456789/dogfood-portal": {
       "full": "pal-123456789/dogfood-portal",
@@ -14500,7 +14500,7 @@
         "description": "Zero-shot Image-to-LiDAR Registration",
         "category": "Other",
         "language": "Python",
-        "stars": 19,
+        "stars": 23,
         "forks": 0,
         "created": "2026-09-22T07:28:21Z",
         "updated": "2026-09-28T12:45:58Z",
@@ -14510,9 +14510,9 @@
         "demo": "https://arxiv.org/pdf/2609.22716",
         "color": "#323057",
         "ink": "#d6caff",
-        "lastCheckedAt": "2026-10-09T13:17:32.787Z",
-        "lastAvailableAt": "2026-10-09T13:17:32.787Z",
-        "lastAttemptAt": "2026-10-09T13:17:32.787Z",
+        "lastCheckedAt": "2026-10-18T05:58:09.422Z",
+        "lastAvailableAt": "2026-10-18T05:58:09.422Z",
+        "lastAttemptAt": "2026-10-18T05:58:09.422Z",
         "demoEvidence": {
           "kind": "x_link",
           "repository": "ZijunLi7/ZIL",
@@ -14543,29 +14543,29 @@
         },
         "demoHealth": {
           "url": "https://arxiv.org/pdf/2609.22716",
-          "attemptedAt": "2026-10-09T13:17:33.543Z",
+          "attemptedAt": "2026-10-18T05:58:09.957Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "network_or_timeout",
-            "at": "2026-10-09T13:17:33.543Z"
+            "at": "2026-10-18T05:58:09.957Z"
           },
-          "nextCheckAt": "2026-10-09T15:17:33.543Z"
+          "nextCheckAt": "2026-10-18T07:58:09.957Z"
         },
-        "previewAttemptAt": "2026-10-09T13:17:33.543Z",
+        "previewAttemptAt": "2026-10-18T05:58:09.957Z",
         "previewCheck": {
           "url": "https://arxiv.org/pdf/2609.22716",
           "status": "retry",
           "reason": "network_or_timeout",
-          "attemptedAt": "2026-10-09T13:17:33.543Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-09T15:17:33.543Z"
+          "attemptedAt": "2026-10-18T05:58:09.957Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-18T07:58:09.957Z"
         }
       },
       "reason": "network_or_timeout",
-      "nextAttemptAt": "2026-10-09T15:17:33.543Z",
-      "checkedAt": "2026-10-09T13:17:33.543Z"
+      "nextAttemptAt": "2026-10-18T07:58:09.957Z",
+      "checkedAt": "2026-10-18T05:58:09.958Z"
     },
     "mohamed-elsayed-200/fullstack-saas-starter": {
       "full": "mohamed-elsayed-200/fullstack-saas-starter",
@@ -20979,9 +20979,9 @@
         "demo": "https://brain-cat-illustrated.succinct-kirallik.chatgpt.site/",
         "color": "#302e55",
         "ink": "#dbd2ff",
-        "lastCheckedAt": "2026-10-10T07:20:51.779Z",
-        "lastAvailableAt": "2026-10-10T07:20:51.779Z",
-        "lastAttemptAt": "2026-10-10T07:20:51.779Z",
+        "lastCheckedAt": "2026-10-18T05:57:33.965Z",
+        "lastAvailableAt": "2026-10-18T05:57:33.965Z",
+        "lastAttemptAt": "2026-10-18T05:57:33.965Z",
         "discoveredVia": [
           {
             "kind": "x",
@@ -21006,29 +21006,29 @@
         },
         "demoHealth": {
           "url": "https://brain-cat-illustrated.succinct-kirallik.chatgpt.site/",
-          "attemptedAt": "2026-10-10T07:20:54.309Z",
+          "attemptedAt": "2026-10-18T05:57:35.673Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "http_401",
-            "at": "2026-10-10T07:20:54.309Z"
+            "at": "2026-10-18T05:57:35.673Z"
           },
-          "nextCheckAt": "2026-10-10T09:20:54.309Z"
+          "nextCheckAt": "2026-10-18T07:57:35.673Z"
         },
-        "previewAttemptAt": "2026-10-10T07:20:54.309Z",
+        "previewAttemptAt": "2026-10-18T05:57:35.673Z",
         "previewCheck": {
           "url": "https://brain-cat-illustrated.succinct-kirallik.chatgpt.site/",
           "status": "retry",
           "reason": "http_401",
-          "attemptedAt": "2026-10-10T07:20:54.309Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-10T09:20:54.309Z"
+          "attemptedAt": "2026-10-18T05:57:35.673Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-18T07:57:35.673Z"
         }
       },
       "reason": "http_401",
-      "nextAttemptAt": "2026-10-10T09:20:54.309Z",
-      "checkedAt": "2026-10-10T07:20:54.309Z"
+      "nextAttemptAt": "2026-10-18T07:57:35.673Z",
+      "checkedAt": "2026-10-18T05:57:35.673Z"
     },
     "gauravmishra-1404/rubberai": {
       "full": "gauravmishra-1404/rubberai",
@@ -21399,9 +21399,9 @@
         "demo": "https://vanch007.github.io/mlx-AuK/",
         "color": "#193546",
         "ink": "#a6d6e8",
-        "lastCheckedAt": "2026-10-10T07:21:28.854Z",
-        "lastAvailableAt": "2026-10-10T07:21:28.854Z",
-        "lastAttemptAt": "2026-10-10T07:21:28.854Z",
+        "lastCheckedAt": "2026-10-18T05:58:14.133Z",
+        "lastAvailableAt": "2026-10-18T05:58:14.133Z",
+        "lastAttemptAt": "2026-10-18T05:58:14.133Z",
         "discoveredVia": [
           {
             "kind": "x",
@@ -21451,29 +21451,29 @@
         },
         "demoHealth": {
           "url": "https://vanch007.github.io/mlx-AuK/",
-          "attemptedAt": "2026-10-10T07:21:43.915Z",
+          "attemptedAt": "2026-10-18T05:58:33.890Z",
           "probeVersion": 3,
           "status": "working",
-          "checkedAt": "2026-10-10T07:21:43.915Z",
-          "lastWorkingAt": "2026-10-10T07:21:43.915Z",
+          "checkedAt": "2026-10-18T05:58:33.890Z",
+          "lastWorkingAt": "2026-10-18T05:58:33.890Z",
           "target": "https://vanch007.github.io/mlx-AuK/web/index.html",
           "failureCount": 0,
           "consecutiveTemporaryFailures": 0,
-          "nextCheckAt": "2026-10-17T07:21:43.915Z"
+          "nextCheckAt": "2026-10-25T05:58:33.890Z"
         },
-        "previewAttemptAt": "2026-10-10T07:21:43.915Z",
+        "previewAttemptAt": "2026-10-18T05:58:33.890Z",
         "previewCheck": {
           "url": "https://vanch007.github.io/mlx-AuK/",
           "status": "retry",
           "reason": "screenshot_error",
-          "attemptedAt": "2026-10-10T07:21:43.915Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-17T07:21:43.915Z"
+          "attemptedAt": "2026-10-18T05:58:33.890Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-25T05:58:33.890Z"
         }
       },
       "reason": "screenshot_error",
-      "nextAttemptAt": "2026-10-17T07:21:43.915Z",
-      "checkedAt": "2026-10-10T07:21:43.915Z"
+      "nextAttemptAt": "2026-10-25T05:58:33.890Z",
+      "checkedAt": "2026-10-18T05:58:33.891Z"
     },
     "daming98/cyberpunk-message-generator": {
       "full": "daming98/cyberpunk-message-generator",
@@ -22657,9 +22657,9 @@
         "demo": "https://didahsdr.guenael.ca/",
         "color": "#323057",
         "ink": "#d6caff",
-        "lastCheckedAt": "2026-10-17T10:45:20.145Z",
-        "lastAvailableAt": "2026-10-17T10:45:20.145Z",
-        "lastAttemptAt": "2026-10-17T10:45:20.145Z",
+        "lastCheckedAt": "2026-10-18T05:57:31.566Z",
+        "lastAvailableAt": "2026-10-18T05:57:31.566Z",
+        "lastAttemptAt": "2026-10-18T05:57:31.566Z",
         "demoEvidence": {
           "kind": "x_link",
           "repository": "Guenael/didahSDR",
@@ -22690,29 +22690,29 @@
         },
         "demoHealth": {
           "url": "https://didahsdr.guenael.ca/",
-          "attemptedAt": "2026-10-17T10:45:20.904Z",
+          "attemptedAt": "2026-10-18T05:57:32.230Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 2,
+          "consecutiveTemporaryFailures": 3,
           "error": {
             "reason": "http_502",
-            "at": "2026-10-17T10:45:20.904Z"
+            "at": "2026-10-18T05:57:32.230Z"
           },
-          "nextCheckAt": "2026-10-17T12:45:20.904Z"
+          "nextCheckAt": "2026-10-19T05:57:32.230Z"
         },
-        "previewAttemptAt": "2026-10-17T10:45:20.904Z",
+        "previewAttemptAt": "2026-10-18T05:57:32.230Z",
         "previewCheck": {
           "url": "https://didahsdr.guenael.ca/",
           "status": "retry",
           "reason": "http_502",
-          "attemptedAt": "2026-10-17T10:45:20.904Z",
-          "consecutiveFailures": 2,
-          "nextCheckAt": "2026-10-17T12:45:20.904Z"
+          "attemptedAt": "2026-10-18T05:57:32.230Z",
+          "consecutiveFailures": 3,
+          "nextCheckAt": "2026-10-19T05:57:32.230Z"
         }
       },
       "reason": "http_502",
-      "nextAttemptAt": "2026-10-17T12:45:20.904Z",
-      "checkedAt": "2026-10-17T10:45:20.904Z"
+      "nextAttemptAt": "2026-10-19T05:57:32.230Z",
+      "checkedAt": "2026-10-18T05:57:32.231Z"
     },
     "jubayer910/admin-panel": {
       "full": "jubayer910/Admin-panel",
@@ -24261,7 +24261,7 @@
     "martinvibes/vouch-studio": {
       "full": "martinvibes/vouch-studio",
       "firstSeenAt": "2026-10-10T12:31:01.111Z",
-      "status": "retry",
+      "status": "rejected",
       "sources": [
         {
           "kind": "x",
@@ -24294,7 +24294,7 @@
         "full": "martinvibes/vouch-studio",
         "name": "vouch-studio",
         "description": "Find the right AI model for every shot. Describe it once, watch three models compete on the Livepeer network, and get a blind, evidence-backed verdict.",
-        "category": "AI & machine learning",
+        "category": "Other",
         "language": "TypeScript",
         "stars": 0,
         "forks": 0,
@@ -24306,9 +24306,9 @@
         "demo": "https://web-production-e90e7.up.railway.app/",
         "color": "#323057",
         "ink": "#d6caff",
-        "lastCheckedAt": "2026-10-10T12:32:08.782Z",
-        "lastAvailableAt": "2026-10-10T12:32:08.782Z",
-        "lastAttemptAt": "2026-10-10T12:32:08.782Z",
+        "lastCheckedAt": "2026-10-18T05:58:10.538Z",
+        "lastAvailableAt": "2026-10-18T05:58:10.538Z",
+        "lastAttemptAt": "2026-10-18T05:58:10.538Z",
         "discoveredVia": [
           {
             "kind": "x",
@@ -24333,28 +24333,28 @@
         },
         "demoHealth": {
           "url": "https://web-production-e90e7.up.railway.app/",
-          "attemptedAt": "2026-10-10T12:32:09.279Z",
+          "attemptedAt": "2026-10-18T05:58:11.039Z",
           "probeVersion": 3,
-          "status": "review",
-          "checkedAt": "2026-10-10T12:32:09.279Z",
+          "status": "unavailable",
+          "checkedAt": "2026-10-18T05:58:11.039Z",
           "consecutiveTemporaryFailures": 0,
-          "failureCount": 1,
+          "failureCount": 2,
           "reason": "http_404",
-          "nextCheckAt": "2026-10-10T18:32:09.279Z"
+          "nextCheckAt": "2026-10-19T05:58:11.039Z"
         },
-        "previewAttemptAt": "2026-10-10T12:32:09.279Z",
+        "previewAttemptAt": "2026-10-18T05:58:11.039Z",
         "previewCheck": {
           "url": "https://web-production-e90e7.up.railway.app/",
           "status": "retry",
           "reason": "http_404",
-          "attemptedAt": "2026-10-10T12:32:09.279Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-10T18:32:09.279Z"
+          "attemptedAt": "2026-10-18T05:58:11.039Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-19T05:58:11.039Z"
         }
       },
       "reason": "http_404",
-      "nextAttemptAt": "2026-10-10T18:32:09.279Z",
-      "checkedAt": "2026-10-10T12:32:09.280Z"
+      "nextAttemptAt": "2026-10-19T05:58:11.039Z",
+      "checkedAt": "2026-10-18T05:58:11.039Z"
     },
     "abhivarde/tryeve": {
       "full": "AbhiVarde/tryeve",
@@ -26102,9 +26102,9 @@
         "demo": "https://tampal.vercel.app/",
         "color": "#323057",
         "ink": "#d6caff",
-        "lastCheckedAt": "2026-10-17T10:45:06.402Z",
-        "lastAvailableAt": "2026-10-17T10:45:06.402Z",
-        "lastAttemptAt": "2026-10-17T10:45:06.402Z",
+        "lastCheckedAt": "2026-10-18T05:57:19.742Z",
+        "lastAvailableAt": "2026-10-18T05:57:19.742Z",
+        "lastAttemptAt": "2026-10-18T05:57:19.742Z",
         "discoveredVia": [
           {
             "kind": "x",
@@ -26129,29 +26129,29 @@
         },
         "demoHealth": {
           "url": "https://tampal.vercel.app/",
-          "attemptedAt": "2026-10-17T10:45:17.712Z",
+          "attemptedAt": "2026-10-18T05:57:30.884Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 2,
+          "consecutiveTemporaryFailures": 3,
           "error": {
             "reason": "empty_page",
-            "at": "2026-10-17T10:45:17.712Z"
+            "at": "2026-10-18T05:57:30.884Z"
           },
-          "nextCheckAt": "2026-10-17T12:45:17.712Z"
+          "nextCheckAt": "2026-10-19T05:57:30.884Z"
         },
-        "previewAttemptAt": "2026-10-17T10:45:17.712Z",
+        "previewAttemptAt": "2026-10-18T05:57:30.884Z",
         "previewCheck": {
           "url": "https://tampal.vercel.app/",
           "status": "retry",
           "reason": "empty_page",
-          "attemptedAt": "2026-10-17T10:45:17.712Z",
-          "consecutiveFailures": 2,
-          "nextCheckAt": "2026-10-17T12:45:17.712Z"
+          "attemptedAt": "2026-10-18T05:57:30.884Z",
+          "consecutiveFailures": 3,
+          "nextCheckAt": "2026-10-19T05:57:30.884Z"
         }
       },
       "reason": "empty_page",
-      "nextAttemptAt": "2026-10-17T12:45:17.712Z",
-      "checkedAt": "2026-10-17T10:45:17.712Z"
+      "nextAttemptAt": "2026-10-19T05:57:30.884Z",
+      "checkedAt": "2026-10-18T05:57:30.884Z"
     },
     "hakopod/hakopod": {
       "full": "hakopod/hakopod",
@@ -27386,9 +27386,9 @@
         "demo": "https://iamtechartist.github.io/Conceptual-X-16/",
         "color": "#63362a",
         "ink": "#f8c7a8",
-        "lastCheckedAt": "2026-10-17T10:44:47.749Z",
-        "lastAvailableAt": "2026-10-17T10:44:47.749Z",
-        "lastAttemptAt": "2026-10-17T10:44:47.749Z",
+        "lastCheckedAt": "2026-10-18T05:56:58.713Z",
+        "lastAvailableAt": "2026-10-18T05:56:58.713Z",
+        "lastAttemptAt": "2026-10-18T05:56:58.713Z",
         "discoveredVia": [
           {
             "kind": "x",
@@ -27423,29 +27423,29 @@
         },
         "demoHealth": {
           "url": "https://iamtechartist.github.io/Conceptual-X-16/",
-          "attemptedAt": "2026-10-17T10:45:04.268Z",
+          "attemptedAt": "2026-10-18T05:57:19.023Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 2,
+          "consecutiveTemporaryFailures": 3,
           "error": {
             "reason": "network_or_timeout",
-            "at": "2026-10-17T10:45:04.268Z"
+            "at": "2026-10-18T05:57:19.023Z"
           },
-          "nextCheckAt": "2026-10-17T12:45:04.268Z"
+          "nextCheckAt": "2026-10-19T05:57:19.023Z"
         },
-        "previewAttemptAt": "2026-10-17T10:45:04.268Z",
+        "previewAttemptAt": "2026-10-18T05:57:19.023Z",
         "previewCheck": {
           "url": "https://iamtechartist.github.io/Conceptual-X-16/",
           "status": "retry",
           "reason": "network_or_timeout",
-          "attemptedAt": "2026-10-17T10:45:04.268Z",
-          "consecutiveFailures": 2,
-          "nextCheckAt": "2026-10-17T12:45:04.268Z"
+          "attemptedAt": "2026-10-18T05:57:19.023Z",
+          "consecutiveFailures": 3,
+          "nextCheckAt": "2026-10-19T05:57:19.023Z"
         }
       },
       "reason": "network_or_timeout",
-      "nextAttemptAt": "2026-10-17T12:45:04.268Z",
-      "checkedAt": "2026-10-17T10:45:04.272Z"
+      "nextAttemptAt": "2026-10-19T05:57:19.023Z",
+      "checkedAt": "2026-10-18T05:57:19.024Z"
     },
     "pmndrs/examples": {
       "full": "pmndrs/examples",
@@ -27931,9 +27931,9 @@
         "demo": "https://earlyaccess.livepeer.org/login",
         "color": "#193546",
         "ink": "#a6d6e8",
-        "lastCheckedAt": "2026-10-17T10:44:42.643Z",
-        "lastAvailableAt": "2026-10-17T10:44:42.643Z",
-        "lastAttemptAt": "2026-10-17T10:44:42.643Z",
+        "lastCheckedAt": "2026-10-18T05:56:54.605Z",
+        "lastAvailableAt": "2026-10-18T05:56:54.605Z",
+        "lastAttemptAt": "2026-10-18T05:56:54.605Z",
         "demoEvidence": {
           "kind": "x_link",
           "repository": "mehrdadmms/livepeer-agent-recipes",
@@ -27974,29 +27974,29 @@
         },
         "demoHealth": {
           "url": "https://earlyaccess.livepeer.org/login",
-          "attemptedAt": "2026-10-17T10:44:46.634Z",
+          "attemptedAt": "2026-10-18T05:56:57.948Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 2,
+          "consecutiveTemporaryFailures": 3,
           "error": {
             "reason": "login_wall",
-            "at": "2026-10-17T10:44:46.634Z"
+            "at": "2026-10-18T05:56:57.948Z"
           },
-          "nextCheckAt": "2026-10-17T12:44:46.634Z"
+          "nextCheckAt": "2026-10-19T05:56:57.948Z"
         },
-        "previewAttemptAt": "2026-10-17T10:44:46.634Z",
+        "previewAttemptAt": "2026-10-18T05:56:57.948Z",
         "previewCheck": {
           "url": "https://earlyaccess.livepeer.org/login",
           "status": "retry",
           "reason": "login_wall",
-          "attemptedAt": "2026-10-17T10:44:46.634Z",
-          "consecutiveFailures": 2,
-          "nextCheckAt": "2026-10-17T12:44:46.634Z"
+          "attemptedAt": "2026-10-18T05:56:57.948Z",
+          "consecutiveFailures": 3,
+          "nextCheckAt": "2026-10-19T05:56:57.948Z"
         }
       },
       "reason": "login_wall",
-      "nextAttemptAt": "2026-10-17T12:44:46.634Z",
-      "checkedAt": "2026-10-17T10:44:46.634Z"
+      "nextAttemptAt": "2026-10-19T05:56:57.948Z",
+      "checkedAt": "2026-10-18T05:56:57.948Z"
     },
     "robertpiosik/codewebchat": {
       "full": "robertpiosik/CodeWebChat",
@@ -29015,7 +29015,7 @@
         "description": "A Filamentphp-Inspired Admin Framework for Adonis JS",
         "category": "Developer tools",
         "language": "TypeScript",
-        "stars": 3,
+        "stars": 4,
         "forks": 0,
         "created": "2026-07-22T04:04:19Z",
         "updated": "2026-10-07T13:22:26Z",
@@ -29036,9 +29036,9 @@
         "demo": "https://demo.shamar.dev/",
         "color": "#63362a",
         "ink": "#f8c7a8",
-        "lastCheckedAt": "2026-10-10T19:35:40.348Z",
-        "lastAvailableAt": "2026-10-10T19:35:40.348Z",
-        "lastAttemptAt": "2026-10-10T19:35:40.348Z",
+        "lastCheckedAt": "2026-10-18T05:58:03.735Z",
+        "lastAvailableAt": "2026-10-18T05:58:03.735Z",
+        "lastAttemptAt": "2026-10-18T05:58:03.735Z",
         "discoveredVia": [
           {
             "kind": "x",
@@ -29063,29 +29063,29 @@
         },
         "demoHealth": {
           "url": "https://demo.shamar.dev/",
-          "attemptedAt": "2026-10-10T19:35:40.968Z",
+          "attemptedAt": "2026-10-18T05:58:04.333Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "challenge",
-            "at": "2026-10-10T19:35:40.968Z"
+            "at": "2026-10-18T05:58:04.333Z"
           },
-          "nextCheckAt": "2026-10-10T21:35:40.968Z"
+          "nextCheckAt": "2026-11-17T05:58:04.333Z"
         },
-        "previewAttemptAt": "2026-10-10T19:35:40.968Z",
+        "previewAttemptAt": "2026-10-18T05:58:04.333Z",
         "previewCheck": {
           "url": "https://demo.shamar.dev/",
           "status": "retry",
           "reason": "challenge",
-          "attemptedAt": "2026-10-10T19:35:40.968Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-10T21:35:40.968Z"
+          "attemptedAt": "2026-10-18T05:58:04.333Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-11-17T05:58:04.333Z"
         }
       },
       "reason": "challenge",
-      "nextAttemptAt": "2026-10-10T21:35:40.968Z",
-      "checkedAt": "2026-10-10T19:35:40.968Z"
+      "nextAttemptAt": "2026-11-17T05:58:04.333Z",
+      "checkedAt": "2026-10-18T05:58:04.334Z"
     },
     "alexhancock/chip": {
       "full": "alexhancock/chip",
@@ -29800,8 +29800,8 @@
         "description": "Real-time, photoreal shallow water in a single HTML file. WebGL2, no libraries, no build step.",
         "category": "Other",
         "language": "HTML",
-        "stars": 513,
-        "forks": 95,
+        "stars": 514,
+        "forks": 96,
         "created": "2026-09-23T13:20:08Z",
         "updated": "2026-09-23T13:20:28Z",
         "license": "MIT",
@@ -29819,9 +29819,9 @@
         "demo": "https://aureliengmz.github.io/clearwater/",
         "color": "#25392f",
         "ink": "#d1e5c5",
-        "lastCheckedAt": "2026-10-17T10:43:53.866Z",
-        "lastAvailableAt": "2026-10-17T10:43:53.866Z",
-        "lastAttemptAt": "2026-10-17T10:43:53.866Z",
+        "lastCheckedAt": "2026-10-18T05:55:55.675Z",
+        "lastAvailableAt": "2026-10-18T05:55:55.675Z",
+        "lastAttemptAt": "2026-10-18T05:55:55.675Z",
         "discoveredVia": [
           {
             "kind": "x",
@@ -29856,29 +29856,29 @@
         },
         "demoHealth": {
           "url": "https://aureliengmz.github.io/clearwater/",
-          "attemptedAt": "2026-10-17T10:44:09.707Z",
+          "attemptedAt": "2026-10-18T05:56:16.015Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 2,
+          "consecutiveTemporaryFailures": 3,
           "error": {
             "reason": "network_or_timeout",
-            "at": "2026-10-17T10:44:09.707Z"
+            "at": "2026-10-18T05:56:16.015Z"
           },
-          "nextCheckAt": "2026-10-17T12:44:09.707Z"
+          "nextCheckAt": "2026-10-19T05:56:16.015Z"
         },
-        "previewAttemptAt": "2026-10-17T10:44:09.707Z",
+        "previewAttemptAt": "2026-10-18T05:56:16.015Z",
         "previewCheck": {
           "url": "https://aureliengmz.github.io/clearwater/",
           "status": "retry",
           "reason": "network_or_timeout",
-          "attemptedAt": "2026-10-17T10:44:09.707Z",
-          "consecutiveFailures": 2,
-          "nextCheckAt": "2026-10-17T12:44:09.707Z"
+          "attemptedAt": "2026-10-18T05:56:16.015Z",
+          "consecutiveFailures": 3,
+          "nextCheckAt": "2026-10-19T05:56:16.015Z"
         }
       },
       "reason": "network_or_timeout",
-      "nextAttemptAt": "2026-10-17T12:44:09.707Z",
-      "checkedAt": "2026-10-17T10:44:09.707Z"
+      "nextAttemptAt": "2026-10-19T05:56:16.015Z",
+      "checkedAt": "2026-10-18T05:56:16.015Z"
     },
     "healthybuilder/owys": {
       "full": "HealthyBuilder/owys",
@@ -39789,7 +39789,7 @@
         "full": "Arittra-Bag/Dataset-Maker",
         "name": "Dataset-Maker",
         "description": "Tear PDF pages into non-overlapping fragments with exact ground truth, plus dm-bench: a torn-document reassembly benchmark with an evaluation harness and baseline solver.",
-        "category": "AI & machine learning",
+        "category": "Other",
         "language": "Python",
         "stars": 1,
         "forks": 0,
@@ -39813,9 +39813,9 @@
         "demo": "https://peerlist.io/arittrabag/project/datasetmaker",
         "color": "#323057",
         "ink": "#d6caff",
-        "lastCheckedAt": "2026-10-11T10:16:48.131Z",
-        "lastAvailableAt": "2026-10-11T10:16:48.131Z",
-        "lastAttemptAt": "2026-10-11T10:16:48.131Z",
+        "lastCheckedAt": "2026-10-18T05:58:02.460Z",
+        "lastAvailableAt": "2026-10-18T05:58:02.460Z",
+        "lastAttemptAt": "2026-10-18T05:58:02.460Z",
         "demoEvidence": {
           "kind": "x_link",
           "repository": "Arittra-Bag/Dataset-Maker",
@@ -39846,29 +39846,29 @@
         },
         "demoHealth": {
           "url": "https://peerlist.io/arittrabag/project/datasetmaker",
-          "attemptedAt": "2026-10-11T10:16:51.887Z",
+          "attemptedAt": "2026-10-18T05:58:02.996Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
-            "reason": "dns_timeout",
-            "at": "2026-10-11T10:16:51.887Z"
+            "reason": "challenge",
+            "at": "2026-10-18T05:58:02.996Z"
           },
-          "nextCheckAt": "2026-10-11T12:16:51.887Z"
+          "nextCheckAt": "2026-11-17T05:58:02.996Z"
         },
-        "previewAttemptAt": "2026-10-11T10:16:51.887Z",
+        "previewAttemptAt": "2026-10-18T05:58:02.996Z",
         "previewCheck": {
           "url": "https://peerlist.io/arittrabag/project/datasetmaker",
           "status": "retry",
-          "reason": "dns_timeout",
-          "attemptedAt": "2026-10-11T10:16:51.887Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-11T12:16:51.887Z"
+          "reason": "challenge",
+          "attemptedAt": "2026-10-18T05:58:02.996Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-11-17T05:58:02.996Z"
         }
       },
-      "reason": "dns_timeout",
-      "nextAttemptAt": "2026-10-11T12:16:51.887Z",
-      "checkedAt": "2026-10-11T10:16:51.888Z"
+      "reason": "challenge",
+      "nextAttemptAt": "2026-11-17T05:58:02.996Z",
+      "checkedAt": "2026-10-18T05:58:02.997Z"
     },
     "kaigen-technologies/entitycomponentsystemsamples": {
       "full": "Kaigen-Technologies/EntityComponentSystemSamples",
@@ -41693,10 +41693,10 @@
         "description": "Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents",
         "category": "Design",
         "language": "HTML",
-        "stars": 6806,
-        "forks": 797,
+        "stars": 6818,
+        "forks": 799,
         "created": "2026-02-03T10:10:55Z",
-        "updated": "2026-10-06T14:20:26Z",
+        "updated": "2026-10-18T05:47:39Z",
         "license": "MIT",
         "branch": "main",
         "homepage": null,
@@ -41704,9 +41704,9 @@
         "demo": "https://threeui.com/dark-souls-holo-card",
         "color": "#302e55",
         "ink": "#dbd2ff",
-        "lastCheckedAt": "2026-10-17T10:44:13.579Z",
-        "lastAvailableAt": "2026-10-17T10:44:13.579Z",
-        "lastAttemptAt": "2026-10-17T10:44:13.579Z",
+        "lastCheckedAt": "2026-10-18T05:56:16.519Z",
+        "lastAvailableAt": "2026-10-18T05:56:16.519Z",
+        "lastAttemptAt": "2026-10-18T05:56:16.519Z",
         "demoEvidence": {
           "kind": "x_link",
           "repository": "MengTo/Skills",
@@ -41754,29 +41754,29 @@
         },
         "demoHealth": {
           "url": "https://threeui.com/dark-souls-holo-card",
-          "attemptedAt": "2026-10-17T10:44:41.650Z",
+          "attemptedAt": "2026-10-18T05:56:53.536Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 2,
+          "consecutiveTemporaryFailures": 3,
           "error": {
             "reason": "empty_page",
-            "at": "2026-10-17T10:44:41.650Z"
+            "at": "2026-10-18T05:56:53.536Z"
           },
-          "nextCheckAt": "2026-10-17T12:44:41.650Z"
+          "nextCheckAt": "2026-10-19T05:56:53.536Z"
         },
-        "previewAttemptAt": "2026-10-17T10:44:41.650Z",
+        "previewAttemptAt": "2026-10-18T05:56:53.536Z",
         "previewCheck": {
           "url": "https://threeui.com/dark-souls-holo-card",
           "status": "retry",
           "reason": "empty_page",
-          "attemptedAt": "2026-10-17T10:44:41.650Z",
-          "consecutiveFailures": 2,
-          "nextCheckAt": "2026-10-17T12:44:41.650Z"
+          "attemptedAt": "2026-10-18T05:56:53.536Z",
+          "consecutiveFailures": 3,
+          "nextCheckAt": "2026-10-19T05:56:53.536Z"
         }
       },
       "reason": "empty_page",
-      "nextAttemptAt": "2026-10-17T12:44:41.650Z",
-      "checkedAt": "2026-10-17T10:44:41.650Z"
+      "nextAttemptAt": "2026-10-19T05:56:53.536Z",
+      "checkedAt": "2026-10-18T05:56:53.536Z"
     },
     "openclaw/openclaw-enterprise": {
       "full": "openclaw/openclaw-enterprise",
@@ -43268,9 +43268,9 @@
         "demo": "https://braindump-6trr2nlk1-bishtparth227-4184s-projects.vercel.app/",
         "color": "#63362a",
         "ink": "#f8c7a8",
-        "lastCheckedAt": "2026-10-11T12:56:47.218Z",
-        "lastAvailableAt": "2026-10-11T12:56:47.218Z",
-        "lastAttemptAt": "2026-10-11T12:56:47.218Z",
+        "lastCheckedAt": "2026-10-18T05:58:04.844Z",
+        "lastAvailableAt": "2026-10-18T05:58:04.844Z",
+        "lastAttemptAt": "2026-10-18T05:58:04.844Z",
         "discoveredVia": [
           {
             "kind": "x",
@@ -43295,29 +43295,29 @@
         },
         "demoHealth": {
           "url": "https://braindump-6trr2nlk1-bishtparth227-4184s-projects.vercel.app/",
-          "attemptedAt": "2026-10-11T12:56:51.289Z",
+          "attemptedAt": "2026-10-18T05:58:08.720Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "login_wall",
-            "at": "2026-10-11T12:56:51.289Z"
+            "at": "2026-10-18T05:58:08.720Z"
           },
-          "nextCheckAt": "2026-10-11T14:56:51.289Z"
+          "nextCheckAt": "2026-10-18T07:58:08.720Z"
         },
-        "previewAttemptAt": "2026-10-11T12:56:51.289Z",
+        "previewAttemptAt": "2026-10-18T05:58:08.720Z",
         "previewCheck": {
           "url": "https://braindump-6trr2nlk1-bishtparth227-4184s-projects.vercel.app/",
           "status": "retry",
           "reason": "login_wall",
-          "attemptedAt": "2026-10-11T12:56:51.289Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-11T14:56:51.289Z"
+          "attemptedAt": "2026-10-18T05:58:08.720Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-18T07:58:08.720Z"
         }
       },
       "reason": "login_wall",
-      "nextAttemptAt": "2026-10-11T14:56:51.289Z",
-      "checkedAt": "2026-10-11T12:56:51.290Z"
+      "nextAttemptAt": "2026-10-18T07:58:08.720Z",
+      "checkedAt": "2026-10-18T05:58:08.720Z"
     },
     "bugsbunnydev2000/local_anime_dubber": {
       "full": "Bugsbunnydev2000/local_anime_dubber",
@@ -48829,7 +48829,7 @@
     "vibeaman/tradereplay": {
       "full": "Vibeaman/TradeReplay",
       "firstSeenAt": "2026-10-13T14:10:54.092Z",
-      "status": "retry",
+      "status": "rejected",
       "sources": [
         {
           "kind": "x",
@@ -48875,9 +48875,9 @@
         "demo": "https://tradereplay-pi.vercel.app/",
         "color": "#63362a",
         "ink": "#f8c7a8",
-        "lastCheckedAt": "2026-10-13T14:11:47.471Z",
-        "lastAvailableAt": "2026-10-13T14:11:47.471Z",
-        "lastAttemptAt": "2026-10-13T14:11:47.471Z",
+        "lastCheckedAt": "2026-10-18T05:57:36.218Z",
+        "lastAvailableAt": "2026-10-18T05:57:36.218Z",
+        "lastAttemptAt": "2026-10-18T05:57:36.218Z",
         "discoveredVia": [
           {
             "kind": "x",
@@ -48902,28 +48902,28 @@
         },
         "demoHealth": {
           "url": "https://tradereplay-pi.vercel.app/",
-          "attemptedAt": "2026-10-13T14:11:48.245Z",
+          "attemptedAt": "2026-10-18T05:57:36.734Z",
           "probeVersion": 3,
-          "status": "review",
-          "checkedAt": "2026-10-13T14:11:48.245Z",
+          "status": "unavailable",
+          "checkedAt": "2026-10-18T05:57:36.734Z",
           "consecutiveTemporaryFailures": 0,
-          "failureCount": 1,
+          "failureCount": 2,
           "reason": "http_404",
-          "nextCheckAt": "2026-10-13T20:11:48.245Z"
+          "nextCheckAt": "2026-10-19T05:57:36.734Z"
         },
-        "previewAttemptAt": "2026-10-13T14:11:48.245Z",
+        "previewAttemptAt": "2026-10-18T05:57:36.734Z",
         "previewCheck": {
           "url": "https://tradereplay-pi.vercel.app/",
           "status": "retry",
           "reason": "http_404",
-          "attemptedAt": "2026-10-13T14:11:48.245Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-13T20:11:48.245Z"
+          "attemptedAt": "2026-10-18T05:57:36.734Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-19T05:57:36.734Z"
         }
       },
       "reason": "http_404",
-      "nextAttemptAt": "2026-10-13T20:11:48.245Z",
-      "checkedAt": "2026-10-13T14:11:48.246Z"
+      "nextAttemptAt": "2026-10-19T05:57:36.734Z",
+      "checkedAt": "2026-10-18T05:57:36.734Z"
     },
     "jack-of-aces/dev-ledgr": {
       "full": "Jack-Of-Aces/dev-ledgr",
@@ -49493,7 +49493,7 @@
     "mertkayacs/jevalt": {
       "full": "mertkayacs/jevalt",
       "firstSeenAt": "2026-10-13T14:10:54.092Z",
-      "status": "retry",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -49537,22 +49537,24 @@
         "availability": "available",
         "full": "mertkayacs/jevalt",
         "name": "jevalt",
-        "description": "Three small 4B language models for local decisions in English, Turkish and German. Jev-compatible API, per-option probabilities and CPU GGUF builds.",
+        "description": "Three 4B decision models for English, Turkish and German, with per-option probabilities, GGUF builds and the Jev API.",
         "category": "Developer tools",
         "language": "Python",
         "stars": 5,
         "forks": 1,
         "created": "2026-10-01T05:54:11Z",
-        "updated": "2026-10-07T11:47:04Z",
+        "updated": "2026-10-16T15:14:45Z",
         "license": "Apache-2.0",
         "branch": "main",
         "homepage": "https://jevalt.mertkayacs.com",
         "topics": [
           "calibration",
           "decision-model",
+          "english",
           "german",
           "gguf",
           "jev",
+          "jevalt",
           "llama-cpp",
           "local-llm",
           "multilingual",
@@ -49564,12 +49566,12 @@
           "turkish",
           "uncertainty-quantification"
         ],
-        "demo": "https://huggingface.co/collections/mertkayacs/jevalt",
+        "demo": "https://huggingface.co/spaces/mertkayacs/JevAlt",
         "color": "#302e55",
         "ink": "#dbd2ff",
-        "lastCheckedAt": "2026-10-13T14:11:48.945Z",
-        "lastAvailableAt": "2026-10-13T14:11:48.945Z",
-        "lastAttemptAt": "2026-10-13T14:11:48.945Z",
+        "lastCheckedAt": "2026-10-18T05:57:58.440Z",
+        "lastAvailableAt": "2026-10-18T05:57:58.440Z",
+        "lastAttemptAt": "2026-10-18T05:57:58.440Z",
         "demoEvidence": {
           "kind": "x_link",
           "repository": "mertkayacs/jevalt",
@@ -49599,29 +49601,39 @@
           "reviewRequired": false
         },
         "demoHealth": {
-          "url": "https://huggingface.co/collections/mertkayacs/jevalt",
-          "attemptedAt": "2026-10-13T14:11:49.729Z",
+          "url": "https://huggingface.co/spaces/mertkayacs/JevAlt",
+          "attemptedAt": "2026-10-18T05:58:01.856Z",
           "probeVersion": 3,
-          "status": "review",
-          "checkedAt": "2026-10-13T14:11:49.729Z",
+          "status": "working",
+          "checkedAt": "2026-10-18T05:58:01.856Z",
+          "lastWorkingAt": "2026-10-18T05:58:01.856Z",
+          "target": "https://huggingface.co/spaces/mertkayacs/JevAlt",
+          "failureCount": 0,
           "consecutiveTemporaryFailures": 0,
-          "failureCount": 1,
-          "reason": "http_404",
-          "nextCheckAt": "2026-10-13T20:11:49.729Z"
+          "nextCheckAt": "2026-10-25T05:58:01.856Z"
         },
-        "previewAttemptAt": "2026-10-13T14:11:49.729Z",
+        "screenshots": [
+          {
+            "src": "previews/d3963c7dca60c7974cc34e09.jpg",
+            "kind": "demo",
+            "url": "https://huggingface.co/spaces/mertkayacs/JevAlt",
+            "capturedAt": "2026-10-18T05:58:01.856Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-18T05:58:01.856Z",
         "previewCheck": {
-          "url": "https://huggingface.co/collections/mertkayacs/jevalt",
-          "status": "retry",
-          "reason": "http_404",
-          "attemptedAt": "2026-10-13T14:11:49.729Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-13T20:11:49.729Z"
+          "url": "https://huggingface.co/spaces/mertkayacs/JevAlt",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-18T05:58:01.856Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-25T05:58:01.857Z"
         }
       },
-      "reason": "http_404",
-      "nextAttemptAt": "2026-10-13T20:11:49.729Z",
-      "checkedAt": "2026-10-13T14:11:49.729Z"
+      "reason": null,
+      "nextAttemptAt": "2026-10-19T17:58:01.858Z",
+      "checkedAt": "2026-10-18T05:58:01.858Z",
+      "firstAcceptedAt": "2026-10-18T05:58:01.858Z"
     },
     "garcfd/ellis-wormhole": {
       "full": "garcfd/ellis-wormhole",
@@ -49652,7 +49664,7 @@
     "saur0w/reel-flux": {
       "full": "Saur0w/Reel-Flux",
       "firstSeenAt": "2026-10-14T11:51:25.584Z",
-      "status": "retry",
+      "status": "rejected",
       "sources": [
         {
           "kind": "x",
@@ -49703,9 +49715,9 @@
         "demo": "https://saurowreel.vercel.app/",
         "color": "#63362a",
         "ink": "#f8c7a8",
-        "lastCheckedAt": "2026-10-14T11:52:38.941Z",
-        "lastAvailableAt": "2026-10-14T11:52:38.941Z",
-        "lastAttemptAt": "2026-10-14T11:52:38.941Z",
+        "lastCheckedAt": "2026-10-18T05:57:32.880Z",
+        "lastAvailableAt": "2026-10-18T05:57:32.880Z",
+        "lastAttemptAt": "2026-10-18T05:57:32.880Z",
         "discoveredVia": [
           {
             "kind": "x",
@@ -49730,28 +49742,28 @@
         },
         "demoHealth": {
           "url": "https://saurowreel.vercel.app/",
-          "attemptedAt": "2026-10-14T11:52:39.392Z",
+          "attemptedAt": "2026-10-18T05:57:33.407Z",
           "probeVersion": 3,
-          "status": "review",
-          "checkedAt": "2026-10-14T11:52:39.392Z",
+          "status": "unavailable",
+          "checkedAt": "2026-10-18T05:57:33.407Z",
           "consecutiveTemporaryFailures": 0,
-          "failureCount": 1,
+          "failureCount": 2,
           "reason": "http_404",
-          "nextCheckAt": "2026-10-14T17:52:39.392Z"
+          "nextCheckAt": "2026-10-19T05:57:33.407Z"
         },
-        "previewAttemptAt": "2026-10-14T11:52:39.392Z",
+        "previewAttemptAt": "2026-10-18T05:57:33.407Z",
         "previewCheck": {
           "url": "https://saurowreel.vercel.app/",
           "status": "retry",
           "reason": "http_404",
-          "attemptedAt": "2026-10-14T11:52:39.392Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-14T17:52:39.392Z"
+          "attemptedAt": "2026-10-18T05:57:33.407Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-19T05:57:33.407Z"
         }
       },
       "reason": "http_404",
-      "nextAttemptAt": "2026-10-14T17:52:39.392Z",
-      "checkedAt": "2026-10-14T11:52:39.392Z"
+      "nextAttemptAt": "2026-10-19T05:57:33.407Z",
+      "checkedAt": "2026-10-18T05:57:33.407Z"
     },
     "samg-coder/grain-cuda-sand": {
       "full": "SamG-Coder/grain-cuda-sand",
@@ -49965,9 +49977,9 @@
         "demo": "https://fly.reilabs.org/",
         "color": "#302e55",
         "ink": "#dbd2ff",
-        "lastCheckedAt": "2026-10-14T11:52:40.051Z",
-        "lastAvailableAt": "2026-10-14T11:52:40.051Z",
-        "lastAttemptAt": "2026-10-14T11:52:40.051Z",
+        "lastCheckedAt": "2026-10-18T05:57:37.258Z",
+        "lastAvailableAt": "2026-10-18T05:57:37.258Z",
+        "lastAttemptAt": "2026-10-18T05:57:37.258Z",
         "demoEvidence": {
           "kind": "x_link",
           "repository": "0xReisearch/fly-captcha-adapt1",
@@ -49998,29 +50010,29 @@
         },
         "demoHealth": {
           "url": "https://fly.reilabs.org/",
-          "attemptedAt": "2026-10-14T11:52:59.777Z",
+          "attemptedAt": "2026-10-18T05:57:57.752Z",
           "probeVersion": 3,
           "status": "unknown",
-          "consecutiveTemporaryFailures": 1,
+          "consecutiveTemporaryFailures": 2,
           "error": {
             "reason": "http_522",
-            "at": "2026-10-14T11:52:59.777Z"
+            "at": "2026-10-18T05:57:57.752Z"
           },
-          "nextCheckAt": "2026-10-14T13:52:59.777Z"
+          "nextCheckAt": "2026-10-18T07:57:57.752Z"
         },
-        "previewAttemptAt": "2026-10-14T11:52:59.777Z",
+        "previewAttemptAt": "2026-10-18T05:57:57.752Z",
         "previewCheck": {
           "url": "https://fly.reilabs.org/",
           "status": "retry",
           "reason": "http_522",
-          "attemptedAt": "2026-10-14T11:52:59.777Z",
-          "consecutiveFailures": 1,
-          "nextCheckAt": "2026-10-14T13:52:59.777Z"
+          "attemptedAt": "2026-10-18T05:57:57.752Z",
+          "consecutiveFailures": 2,
+          "nextCheckAt": "2026-10-18T07:57:57.752Z"
         }
       },
       "reason": "http_522",
-      "nextAttemptAt": "2026-10-14T13:52:59.777Z",
-      "checkedAt": "2026-10-14T11:52:59.777Z"
+      "nextAttemptAt": "2026-10-18T07:57:57.752Z",
+      "checkedAt": "2026-10-18T05:57:57.752Z"
     },
     "ashemag/fly-brain-atlas": {
       "full": "ashemag/fly-brain-atlas",
@@ -54161,7 +54173,7 @@
       "posts": 384,
       "uniquePosts": 220,
       "newCandidates": 145,
-      "validationAttempts": 150,
+      "validationAttempts": 156,
       "accepted": 47
     },
     "2c0438e5283099cf": {
@@ -54169,7 +54181,7 @@
       "posts": 176,
       "uniquePosts": 173,
       "newCandidates": 197,
-      "validationAttempts": 201,
+      "validationAttempts": 206,
       "accepted": 77
     },
     "ac3eb65e96558e14": {
@@ -54177,7 +54189,7 @@
       "posts": 46,
       "uniquePosts": 44,
       "newCandidates": 20,
-      "validationAttempts": 24,
+      "validationAttempts": 28,
       "accepted": 20
     },
     "0cdbecff36d6436d": {
@@ -54193,8 +54205,8 @@
       "posts": 307,
       "uniquePosts": 146,
       "newCandidates": 145,
-      "validationAttempts": 145,
-      "accepted": 66
+      "validationAttempts": 150,
+      "accepted": 67
     }
   },
   "demoSeeds": {
@@ -54384,7 +54396,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-16T17:42:54.476Z",
+      "nextAttemptAt": "2026-10-25T05:55:52.996Z",
       "reason": "no_repository_link"
     },
     "https://innov8tor3.github.io/project-engine/gaming/gaming-overview.html": {
@@ -54406,7 +54418,7 @@
         "replies": 1,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-16T17:42:55.475Z",
+      "nextAttemptAt": "2026-10-25T05:55:53.459Z",
       "reason": "no_repository_link"
     },
     "https://local402.vercel.app/": {
@@ -54428,7 +54440,7 @@
         "replies": 1,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-16T17:42:55.744Z",
+      "nextAttemptAt": "2026-10-25T05:55:53.736Z",
       "reason": "ambiguous_repositories"
     },
     "https://pyflow-v0.vercel.app/": {
@@ -54450,7 +54462,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-16T17:42:55.980Z",
+      "nextAttemptAt": "2026-10-25T05:55:53.993Z",
       "reason": "no_repository_link"
     },
     "https://invincible04.github.io/SplitFree/": {
@@ -54494,7 +54506,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-17T05:39:40.180Z",
+      "nextAttemptAt": "2026-10-25T05:55:54.491Z",
       "reason": "no_repository_link"
     },
     "https://netlify.app/": {
@@ -54765,6 +54777,6 @@
   "lastDemoDiscovery": {
     "checked": 5,
     "resolved": 0,
-    "at": "2026-10-17T10:43:29.216Z"
+    "at": "2026-10-18T05:55:54.992Z"
   }
 }
