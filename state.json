@@ -38,7 +38,7 @@
         "start": "2026-07-11T09:20:22.003Z",
         "end": "2026-10-02T09:20:22.003Z",
         "done": false,
-        "nextToken": "b26v89c19zqg8o3juzixw46v5foxsnh78vbdraomm5zlp"
+        "nextToken": "b26v89c19zqg8o3juzixw248hl5ks9yarim1ya02qpegt"
       },
       "recent": {
         "start": "2026-10-12T13:14:16.582Z",
@@ -60243,6 +60243,258 @@
       "lastSeenAt": "2026-10-19T07:21:39.688Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-26T07:22:58.080Z"
+    },
+    "alexclmy/paperwake": {
+      "full": "alexclmy/Paperwake",
+      "firstSeenAt": "2026-10-19T13:13:34.900Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105302514707095993",
+          "postId": "2105302514707095993",
+          "postedAt": "2026-09-30T14:23:28.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-19T13:13:34.900Z"
+    },
+    "harshitsaxena214/eks-argo-microservice": {
+      "full": "harshitsaxena214/eks-argo-microservice",
+      "firstSeenAt": "2026-10-19T13:13:34.900Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105298033001087341",
+          "postId": "2105298033001087341",
+          "postedAt": "2026-09-30T14:05:40.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 4,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-19T13:13:34.900Z"
+    },
+    "roboflow/trackers": {
+      "full": "roboflow/trackers",
+      "firstSeenAt": "2026-10-19T13:13:34.900Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105296768753918099",
+          "postId": "2105296768753918099",
+          "postedAt": "2026-09-30T14:00:38.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 2200,
+        "reposts": 138,
+        "replies": 10,
+        "quotes": 4
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-19T13:13:34.900Z"
+    },
+    "devmuhakeem/deploying-a-web-application-on-amazon-ec2-within-a-custom-vpc": {
+      "full": "devmuhakeem/Deploying-a-Web-Application-on-Amazon-EC2-within-a-Custom-VPC",
+      "firstSeenAt": "2026-10-19T13:13:34.900Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105295288147779607",
+          "postId": "2105295288147779607",
+          "postedAt": "2026-09-30T13:54:45.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-19T13:13:34.900Z"
+    },
+    "jarvis322/macos-sysdata": {
+      "full": "Jarvis322/macos-sysdata",
+      "firstSeenAt": "2026-10-19T13:13:34.900Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105294982869639173",
+          "postId": "2105294982869639173",
+          "postedAt": "2026-09-30T13:53:33.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-19T13:13:34.900Z"
+    },
+    "kerne-protocol/contracts-public": {
+      "full": "kerne-protocol/contracts-public",
+      "firstSeenAt": "2026-10-19T13:13:34.900Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105284140472095212",
+          "postId": "2105284140472095212",
+          "postedAt": "2026-09-30T13:10:28.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://kerne.fi/security/acknowledgments"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://kerne.fi/security/acknowledgments",
+          "postUrl": "https://x.com/i/web/status/2105284140472095212",
+          "repository": "kerne-protocol/contracts-public"
+        }
+      ],
+      "lastSeenAt": "2026-10-19T13:13:34.900Z"
+    },
+    "h5i-dev/h5i-app-bench": {
+      "full": "h5i-dev/h5i-app-bench",
+      "firstSeenAt": "2026-10-19T13:13:34.900Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105279900491890950",
+          "postId": "2105279900491890950",
+          "postedAt": "2026-09-30T12:53:37.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "lastSeenAt": "2026-10-19T13:13:34.900Z"
+    },
+    "h5i-dev/i5h": {
+      "full": "h5i-dev/i5h",
+      "firstSeenAt": "2026-10-19T13:13:34.900Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105279900491890950",
+          "postId": "2105279900491890950",
+          "postedAt": "2026-09-30T12:53:37.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "lastSeenAt": "2026-10-19T13:13:34.900Z"
+    },
+    "maruakshay/miii-cli": {
+      "full": "maruakshay/miii-cli",
+      "firstSeenAt": "2026-10-19T13:13:34.900Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105277841093136685",
+          "postId": "2105277841093136685",
+          "postedAt": "2026-09-30T12:45:26.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-19T13:13:34.900Z"
+    },
+    "akshayking517/fdvr-headpiece-sim": {
+      "full": "akshayking517/fdvr-headpiece-sim",
+      "firstSeenAt": "2026-10-19T13:13:34.900Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105272101582381101",
+          "postId": "2105272101582381101",
+          "postedAt": "2026-09-30T12:22:37.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://akshayking517.github.io/fdvr-headpiece-sim/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://akshayking517.github.io/fdvr-headpiece-sim/",
+          "postUrl": "https://x.com/i/web/status/2105272101582381101",
+          "repository": "akshayking517/fdvr-headpiece-sim"
+        }
+      ],
+      "lastSeenAt": "2026-10-19T13:13:34.900Z"
     }
   },
   "lastRun": {
@@ -61173,14 +61425,31 @@
     "2111659870273650692",
     "2111659525417705477",
     "2111651003762463108",
-    "2111650341377003550"
+    "2111650341377003550",
+    "2105302514707095993",
+    "2105298033001087341",
+    "2105296768753918099",
+    "2105295288147779607",
+    "2105294982869639173",
+    "2105284140472095212",
+    "2105279900491890950",
+    "2105277841093136685",
+    "2105273652807963121",
+    "2105273586344972667",
+    "2105273393507639338",
+    "2105273142197506527",
+    "2105272901498974275",
+    "2105272559315149198",
+    "2105272356747059319",
+    "2105272101582381101",
+    "2105271838813364568"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
-      "posts": 437,
-      "uniquePosts": 255,
-      "newCandidates": 167,
+      "posts": 454,
+      "uniquePosts": 272,
+      "newCandidates": 177,
       "validationAttempts": 169,
       "accepted": 53
     },
