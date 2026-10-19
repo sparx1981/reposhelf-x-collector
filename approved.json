@@ -1,264 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-18T11:05:56.075Z",
+  "updatedAt": "2026-10-19T07:23:30.524Z",
   "runtimeRevision": "ed71211be3a262dd1b928f3740f110b041b3708e",
   "checked": 20,
   "repositories": [
-    {
-      "availability": "available",
-      "full": "shpeedle/demo-jev",
-      "name": "demo-jev",
-      "description": "Explore this public GitHub project.",
-      "category": "Other",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-10-02T00:32:40Z",
-      "updated": "2026-10-02T00:32:45Z",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://docs.typesafe.ai/",
-      "color": "#323057",
-      "ink": "#d6caff",
-      "lastCheckedAt": "2026-10-16T11:24:00.709Z",
-      "lastAvailableAt": "2026-10-16T11:24:00.709Z",
-      "lastAttemptAt": "2026-10-16T11:24:00.709Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105831134475264204",
-          "postId": "2105831134475264204",
-          "postedAt": "2026-10-02T01:24:01.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://docs.typesafe.ai/",
-        "attemptedAt": "2026-10-16T11:24:04.311Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-16T11:24:04.311Z",
-        "lastWorkingAt": "2026-10-16T11:24:04.311Z",
-        "target": "https://docs.typesafe.ai/introduction",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-23T11:24:04.311Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/d85074da31269bb99c126fcd.jpg",
-          "kind": "demo",
-          "url": "https://docs.typesafe.ai/",
-          "capturedAt": "2026-10-16T11:24:04.311Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-16T11:24:04.311Z",
-      "previewCheck": {
-        "url": "https://docs.typesafe.ai/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-16T11:24:04.311Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-23T11:24:04.312Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "quoid/userscripts",
-      "name": "userscripts",
-      "description": "An open-source userscript manager for Safari",
-      "category": "Developer tools",
-      "language": "Swift",
-      "stars": 4840,
-      "forks": 461,
-      "created": "2018-12-01T21:27:43Z",
-      "updated": "2026-10-16T03:55:52Z",
-      "license": "GPL-3.0",
-      "branch": "main",
-      "homepage": "https://quoid.github.io/userscripts/",
-      "topics": [
-        "safari",
-        "safari-app-extension",
-        "safari-extension",
-        "swift",
-        "userscript",
-        "userscript-editor",
-        "web-extension"
-      ],
-      "demo": "https://quoid.github.io/userscripts/",
-      "color": "#63362a",
-      "ink": "#f8c7a8",
-      "lastCheckedAt": "2026-10-16T11:24:18.588Z",
-      "lastAvailableAt": "2026-10-16T11:24:18.588Z",
-      "lastAttemptAt": "2026-10-16T11:24:18.588Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105555930158911751",
-          "postId": "2105555930158911751",
-          "postedAt": "2026-10-01T07:10:27.000Z"
-        }
-      ],
-      "subjects": [
-        "Browser extensions & PWAs"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [
-          "Browser extensions & PWAs"
-        ],
-        "evidence": [
-          {
-            "subject": "Browser extensions & PWAs",
-            "source": "metadata",
-            "match": "userscripts"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://quoid.github.io/userscripts/",
-        "attemptedAt": "2026-10-16T11:24:21.841Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-16T11:24:21.841Z",
-        "lastWorkingAt": "2026-10-16T11:24:21.841Z",
-        "target": "https://quoid.github.io/userscripts/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-23T11:24:21.841Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/d1216ec1a3e7b3bd8c5e6cc0.jpg",
-          "kind": "demo",
-          "url": "https://quoid.github.io/userscripts/",
-          "capturedAt": "2026-10-16T11:24:21.841Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-16T11:24:21.841Z",
-      "previewCheck": {
-        "url": "https://quoid.github.io/userscripts/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-16T11:24:21.841Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-23T11:24:21.843Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "webdriverio/native-demo-app",
-      "name": "native-demo-app",
-      "description": "Guinea pig app for showcasing test automation with WebdriverIO and Appium",
-      "category": "Other",
-      "language": "TypeScript",
-      "stars": 115,
-      "forks": 36,
-      "created": "2018-09-07T11:57:12Z",
-      "updated": "2026-09-24T22:05:55Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://expo.dev/",
-      "color": "#302e55",
-      "ink": "#dbd2ff",
-      "lastCheckedAt": "2026-10-16T11:24:27.607Z",
-      "lastAvailableAt": "2026-10-16T11:24:27.607Z",
-      "lastAttemptAt": "2026-10-16T11:24:27.607Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105714110205710832",
-          "postId": "2105714110205710832",
-          "postedAt": "2026-10-01T17:39:00.000Z"
-        }
-      ],
-      "subjects": [
-        "Automation & workflows"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [
-          "Automation & workflows"
-        ],
-        "evidence": [
-          {
-            "subject": "Automation & workflows",
-            "source": "metadata",
-            "match": "automation"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://expo.dev/",
-        "attemptedAt": "2026-10-16T11:24:31.104Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-16T11:24:31.104Z",
-        "lastWorkingAt": "2026-10-16T11:24:31.104Z",
-        "target": "https://expo.dev/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-23T11:24:31.104Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/576f316e1cb0e6aaf0ea551d.jpg",
-          "kind": "demo",
-          "url": "https://expo.dev/",
-          "capturedAt": "2026-10-16T11:24:31.104Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-16T11:24:31.104Z",
-      "previewCheck": {
-        "url": "https://expo.dev/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-16T11:24:31.104Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-23T11:24:31.105Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
     {
       "availability": "available",
       "full": "mertkayacs/jevalt",
@@ -442,237 +187,75 @@
     },
     {
       "availability": "available",
-      "full": "knadh/listmonk",
-      "name": "listmonk",
-      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
-      "category": "Developer tools",
-      "language": "Go",
-      "stars": 23814,
-      "forks": 2685,
-      "created": "2019-06-26T05:08:39Z",
-      "updated": "2026-10-16T17:47:19Z",
-      "license": "AGPL-3.0",
-      "branch": "master",
-      "homepage": "https://listmonk.app",
-      "topics": [
-        "campaign",
-        "campaign-management",
-        "email-marketing",
-        "email-subscription",
-        "listmonk",
-        "mailing-list",
-        "newsletter",
-        "newsletter-management",
-        "newsletter-software",
-        "self-hosted",
-        "sms-gateway",
-        "smtp",
-        "transactional-emails"
-      ],
-      "demo": "https://demo.listmonk.app/",
-      "color": "#63362a",
-      "ink": "#f8c7a8",
-      "lastCheckedAt": "2026-10-16T17:56:44.950Z",
-      "lastAttemptAt": "2026-10-16T17:56:44.950Z",
-      "lastAvailableAt": "2026-10-16T17:56:44.950Z",
-      "metrics": [
-        {
-          "at": "2026-10-03T14:33:04.469Z",
-          "stars": 23676,
-          "forks": 2643
-        },
-        {
-          "at": "2026-10-04T05:13:52.445Z",
-          "stars": 23686,
-          "forks": 2645
-        },
-        {
-          "at": "2026-10-05T19:23:31.677Z",
-          "stars": 23698,
-          "forks": 2654
-        },
-        {
-          "at": "2026-10-07T20:14:18.457Z",
-          "stars": 23712,
-          "forks": 2652
-        },
-        {
-          "at": "2026-10-08T16:05:39.205Z",
-          "stars": 23719,
-          "forks": 2656
-        },
-        {
-          "at": "2026-10-11T00:24:47.509Z",
-          "stars": 23739,
-          "forks": 2663
-        },
-        {
-          "at": "2026-10-16T17:56:44.950Z",
-          "stars": 23814,
-          "forks": 2685
-        }
-      ],
-      "technologies": [
-        "Go"
-      ],
-      "overview": {
-        "kind": "readme",
-        "version": 1,
-        "paragraphs": [
-          "listmonk is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary. It uses a PostgreSQL database as its data store."
-        ],
-        "features": [],
-        "sourceUrl": "https://github.com/knadh/listmonk/blob/master/README.md",
-        "fingerprint": "e3592dcea72705901f2cfba4f674de81e96dc7aaded2343246cca9312a092cee",
-        "extractedAt": "2026-10-03T06:26:30.321Z"
-      },
-      "overviewCheckedAt": "2026-10-16T17:56:44.950Z",
-      "overviewRepoUpdated": "2026-10-16T17:47:19Z",
-      "lastDemoCheckedAt": "2026-10-16T17:56:44.950Z",
-      "enrichmentAttemptAt": "2026-10-05T16:57:46.920Z",
-      "latestRelease": {
-        "name": "v6.2.0",
-        "tag": "v6.2.0",
-        "publishedAt": "2026-06-26T10:24:34Z",
-        "url": "https://github.com/knadh/listmonk/releases/tag/v6.2.0"
-      },
-      "releaseCheckedAt": "2026-10-05T16:57:46.920Z",
-      "screenshots": [
-        {
-          "src": "previews/a306b62e64f502adae537da8.jpg",
-          "kind": "demo",
-          "capturedAt": "2026-10-16T18:22:30.027Z",
-          "url": "https://demo.listmonk.app/",
-          "variants": [
-            {
-              "src": "previews/variants/a306b62e64f502adae537da8-320.webp",
-              "width": 320,
-              "height": 200
-            },
-            {
-              "src": "previews/variants/a306b62e64f502adae537da8-640.webp",
-              "width": 640,
-              "height": 400
-            },
-            {
-              "src": "previews/variants/a306b62e64f502adae537da8-960.webp",
-              "width": 960,
-              "height": 600
-            }
-          ]
-        }
-      ],
-      "demoHealth": {
-        "url": "https://demo.listmonk.app/",
-        "attemptedAt": "2026-10-16T18:22:30.026Z",
-        "status": "working",
-        "checkedAt": "2026-10-16T18:22:30.026Z",
-        "lastWorkingAt": "2026-10-16T18:22:30.026Z",
-        "target": "https://demo.listmonk.app/",
-        "failureCount": 0,
-        "nextCheckAt": "2026-10-23T18:22:30.026Z",
-        "consecutiveTemporaryFailures": 0,
-        "probeVersion": 3
-      },
-      "previewAttemptAt": "2026-10-16T18:22:30.027Z",
-      "projectInsights": {
-        "version": 1,
-        "whatItDoes": {
-          "text": "listmonk is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary. It uses a PostgreSQL database as its data store.",
-          "sourceUrl": "https://github.com/knadh/listmonk/blob/master/README.md"
-        },
-        "audience": [],
-        "requirements": [],
-        "fingerprint": "e3592dcea72705901f2cfba4f674de81e96dc7aaded2343246cca9312a092cee",
-        "sourceUrl": "https://github.com/knadh/listmonk/blob/master/README.md",
-        "checkedAt": "2026-10-16T17:56:44.950Z"
-      },
-      "readmeSnapshot": {
-        "version": 1,
-        "status": "saved",
-        "sourceUrl": "https://github.com/knadh/listmonk/blob/master/README.md",
-        "checkedAt": "2026-10-16T17:56:44.950Z",
-        "hash": "e3592dcea72705901f2cfba4f674de81e96dc7aaded2343246cca9312a092cee",
-        "originalBytes": 2138,
-        "storedBytes": 2138,
-        "truncated": false
-      },
-      "agentContextAttemptAt": "2026-10-03T21:20:20.665Z",
-      "agentContext": {
-        "version": 1,
-        "checkedAt": "2026-10-03T21:20:22.908Z",
-        "documents": [
-          {
-            "name": "go.mod",
-            "sourceUrl": "https://github.com/knadh/listmonk/blob/master/go.mod",
-            "hash": "f99e88768b881a7849dca2a55d3c322ed58d6dd7da4fc12a173ecb6b9a140015",
-            "originalBytes": 2713,
-            "truncated": false
-          },
-          {
-            "name": "LICENSE",
-            "sourceUrl": "https://github.com/knadh/listmonk/blob/master/LICENSE",
-            "hash": "76a97c878c9c7a8321bb395c2b44d3fe2f8d81314d219b20138ed0e2dddd5182",
-            "originalBytes": 34520,
-            "truncated": false
-          }
-        ]
-      },
-      "agentContextRepoUpdated": "2026-10-03T10:12:30Z",
+      "full": "AryanSingh1112/SkillSwap",
+      "name": "SkillSwap",
+      "description": "SkillSwap is a community-driven platform that matches users based on skills they want to learn and teach, enabling real-time collaboration and peer-to-peer learning.",
+      "category": "Education",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2025-09-25T08:23:46Z",
+      "updated": "2026-10-10T10:16:04Z",
+      "branch": "main",
+      "homepage": "https://skill-swap-one-kappa.vercel.app/",
+      "topics": [],
+      "demo": "https://skill-swap-one-kappa.vercel.app/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-19T07:23:23.856Z",
+      "lastAvailableAt": "2026-10-19T07:23:23.856Z",
+      "lastAttemptAt": "2026-10-19T07:23:23.856Z",
       "discoveredVia": [
         {
           "kind": "x",
           "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105367075262775432",
-          "postId": "2105367075262775432",
-          "postedAt": "2026-09-30T18:40:01.000Z"
+          "url": "https://x.com/i/web/status/2111715116471484792",
+          "postId": "2111715116471484792",
+          "postedAt": "2026-10-18T07:04:52.000Z"
         }
       ],
-      "qualityPriority": false,
-      "overviewAttemptAt": "2026-10-07T23:33:23.287Z",
-      "previewCheck": {
-        "url": "https://demo.listmonk.app/",
-        "attemptedAt": "2026-10-16T18:22:30.027Z",
-        "consecutiveFailures": 0,
-        "status": "captured",
-        "reason": null,
-        "nextCheckAt": "2026-10-23T18:22:30.027Z"
-      },
-      "subjects": [
-        "Data & dashboards",
-        "Self-hosted apps"
-      ],
+      "subjects": [],
+      "platforms": [],
       "classification": {
         "version": 4,
         "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [
-          "Data & dashboards",
-          "Self-hosted apps"
-        ],
-        "evidence": [
-          {
-            "subject": "Data & dashboards",
-            "source": "metadata",
-            "match": "dashboard"
-          },
-          {
-            "subject": "Self-hosted apps",
-            "source": "metadata",
-            "match": "self hosted"
-          }
-        ],
+        "category": "Education",
+        "subjects": [],
+        "evidence": [],
         "platformEvidence": [],
         "platformSupport": "author_metadata_not_runtime_tested",
         "suggestedSubjects": [],
         "reviewRequired": false
       },
-      "platforms": [],
-      "repositoryEtag": "W/\"142973a77127aa078effc488e07d66a7469d2da111eae435e0141f3e8a6ec385\"",
-      "repositoryEtagFor": "knadh/listmonk",
-      "repositoryId": 193833307,
-      "spaces": [],
-      "communityPosts": [],
+      "demoHealth": {
+        "url": "https://skill-swap-one-kappa.vercel.app/",
+        "attemptedAt": "2026-10-19T07:23:29.851Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-19T07:23:29.851Z",
+        "lastWorkingAt": "2026-10-19T07:23:29.851Z",
+        "target": "https://allowed-sloth-34.accounts.dev/sign-in?redirect_url=https%3A%2F%2Fskill-swap-one-kappa.vercel.app%2F",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-26T07:23:29.851Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/ec02acc584d4f7bf0a8e0129.jpg",
+          "kind": "demo",
+          "url": "https://skill-swap-one-kappa.vercel.app/",
+          "capturedAt": "2026-10-19T07:23:29.851Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-19T07:23:29.851Z",
+      "previewCheck": {
+        "url": "https://skill-swap-one-kappa.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-19T07:23:29.851Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-26T07:23:29.852Z"
+      },
       "sourceCategories": [
         "As Seen On X.com"
       ]
@@ -882,6 +465,109 @@
         "attemptedAt": "2026-10-18T08:32:33.941Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-25T08:32:33.942Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Vinyl-Davyl/hermes",
+      "name": "hermes",
+      "description": "Local-first handoff CLI that packs unfinished work on your disk and hands it to the next coding agent: Claude, Cursor, Codex, Antigravity, and more. No plugin. No cloud.",
+      "category": "Developer tools",
+      "language": "Go",
+      "stars": 17,
+      "forks": 0,
+      "created": "2026-09-26T04:43:39Z",
+      "updated": "2026-09-28T07:12:01Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://tryhermes.pages.dev",
+      "topics": [
+        "ai-agents",
+        "antigravity",
+        "claude-code",
+        "cline",
+        "codex",
+        "context-handoff",
+        "copilot-cli",
+        "cursor",
+        "cursor-ai",
+        "deepseek",
+        "developer-tools",
+        "kimi",
+        "open-code",
+        "pi-agent",
+        "session-handoff",
+        "session-history"
+      ],
+      "demo": "https://tryhermes.pages.dev/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-19T07:23:10.086Z",
+      "lastAvailableAt": "2026-10-19T07:23:10.086Z",
+      "lastAttemptAt": "2026-10-19T07:23:10.086Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105329568097718572",
+          "postId": "2105329568097718572",
+          "postedAt": "2026-09-30T16:10:58.000Z"
+        }
+      ],
+      "subjects": [
+        "MCP servers & agents"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "evidence": [
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "coding agent"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://tryhermes.pages.dev/",
+        "attemptedAt": "2026-10-19T07:23:13.645Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-19T07:23:13.645Z",
+        "lastWorkingAt": "2026-10-19T07:23:13.645Z",
+        "target": "https://tryhermes.pages.dev/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-26T07:23:13.645Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/7977e0654fee39845d1a8b3b.jpg",
+          "kind": "demo",
+          "url": "https://tryhermes.pages.dev/",
+          "capturedAt": "2026-10-19T07:23:13.645Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-19T07:23:13.645Z",
+      "previewCheck": {
+        "url": "https://tryhermes.pages.dev/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-19T07:23:13.645Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-26T07:23:13.646Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
@@ -1697,6 +1383,111 @@
     },
     {
       "availability": "available",
+      "full": "heygen-com/hyperframes",
+      "name": "hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "category": "Design",
+      "language": "TypeScript",
+      "stars": 67014,
+      "forks": 6073,
+      "created": "2026-03-10T01:51:06Z",
+      "updated": "2026-10-19T07:10:22Z",
+      "license": "Apache-2.0",
+      "branch": "main",
+      "homepage": "https://hyperframes.dev",
+      "topics": [
+        "ai",
+        "animation",
+        "ffmpeg",
+        "framework",
+        "gsap",
+        "html",
+        "mcp",
+        "puppeteer",
+        "rendering",
+        "typescript",
+        "video"
+      ],
+      "demo": "https://www.hyperframes.dev/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-19T07:23:14.908Z",
+      "lastAvailableAt": "2026-10-19T07:23:14.908Z",
+      "lastAttemptAt": "2026-10-19T07:23:14.908Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111745599691534568",
+          "postId": "2111745599691534568",
+          "postedAt": "2026-10-18T09:05:59.000Z"
+        }
+      ],
+      "subjects": [
+        "Animation & motion",
+        "MCP servers & agents"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "Animation & motion",
+          "MCP servers & agents"
+        ],
+        "evidence": [
+          {
+            "subject": "Animation & motion",
+            "source": "metadata",
+            "match": "animation"
+          },
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "agents"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://www.hyperframes.dev/",
+        "attemptedAt": "2026-10-19T07:23:21.777Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-19T07:23:21.777Z",
+        "lastWorkingAt": "2026-10-19T07:23:21.777Z",
+        "target": "https://www.hyperframes.dev/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-26T07:23:21.777Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/0495d9fe7b8c8525366761e8.jpg",
+          "kind": "demo",
+          "url": "https://www.hyperframes.dev/",
+          "capturedAt": "2026-10-19T07:23:21.777Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-19T07:23:21.777Z",
+      "previewCheck": {
+        "url": "https://www.hyperframes.dev/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-19T07:23:21.777Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-26T07:23:21.778Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
       "full": "0xdopewilly/blackout",
       "name": "blackout",
       "description": "Cover that pays out when a government cuts the internet. GenLayer validators measure the outage from IODA and judge who caused it from the news.",
@@ -1772,6 +1563,100 @@
         "attemptedAt": "2026-10-18T11:04:48.438Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-25T11:04:48.439Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "boykopovar/AnyPS5",
+      "name": "AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "category": "Developer tools",
+      "language": "C++",
+      "stars": 43511,
+      "forks": 3955,
+      "created": "2026-08-03T21:30:25Z",
+      "updated": "2026-10-19T07:21:32Z",
+      "license": "GPL-2.0",
+      "branch": "main",
+      "homepage": "https://boykopovar.github.io/AnyPS5/",
+      "topics": [
+        "anyps5",
+        "dynamic-library",
+        "game-porting",
+        "ps5",
+        "ps5-tools",
+        "spir-v",
+        "vulkan"
+      ],
+      "demo": "https://boykopovar.github.io/AnyPS5/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-19T07:22:59.337Z",
+      "lastAvailableAt": "2026-10-19T07:22:59.337Z",
+      "lastAttemptAt": "2026-10-19T07:22:59.337Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111736543601889300",
+          "postId": "2111736543601889300",
+          "postedAt": "2026-10-18T08:30:00.000Z"
+        }
+      ],
+      "subjects": [
+        "Games & game development"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "Games & game development"
+        ],
+        "evidence": [
+          {
+            "subject": "Games & game development",
+            "source": "metadata",
+            "match": "game"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://boykopovar.github.io/AnyPS5/",
+        "attemptedAt": "2026-10-19T07:23:02.669Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-19T07:23:02.669Z",
+        "lastWorkingAt": "2026-10-19T07:23:02.669Z",
+        "target": "https://boykopovar.github.io/AnyPS5/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-26T07:23:02.669Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/1b4e8367b982b7077de0ae85.jpg",
+          "kind": "demo",
+          "url": "https://boykopovar.github.io/AnyPS5/",
+          "capturedAt": "2026-10-19T07:23:02.669Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-19T07:23:02.669Z",
+      "previewCheck": {
+        "url": "https://boykopovar.github.io/AnyPS5/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-19T07:23:02.669Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-26T07:23:02.669Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
@@ -2299,6 +2184,112 @@
           "postedAt": "2026-10-18T03:39:21.000Z"
         }
       ],
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Riehnbean/xrpl-token-guard",
+      "name": "xrpl-token-guard",
+      "description": "Read-only XRPL token and wallet checks over MCP, with a voice-assistant simulator",
+      "category": "AI & machine learning",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-10-18T00:32:43Z",
+      "updated": "2026-10-18T17:46:32Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": null,
+      "topics": [
+        "ai-agents",
+        "alexa",
+        "mcp",
+        "token-safety",
+        "xrpl"
+      ],
+      "demo": "https://cocoeatsai.com/area4/guard/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-19T07:23:04.458Z",
+      "lastAvailableAt": "2026-10-19T07:23:04.458Z",
+      "lastAttemptAt": "2026-10-19T07:23:04.458Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111648293944205526",
+          "postId": "2111648293944205526",
+          "postedAt": "2026-10-18T02:39:20.000Z"
+        }
+      ],
+      "subjects": [
+        "Simulation & physics",
+        "MCP servers & agents",
+        "Chatbots & assistants"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "AI & machine learning",
+        "subjects": [
+          "Simulation & physics",
+          "MCP servers & agents",
+          "Chatbots & assistants"
+        ],
+        "evidence": [
+          {
+            "subject": "Simulation & physics",
+            "source": "metadata",
+            "match": "simulator"
+          },
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "MCP"
+          },
+          {
+            "subject": "Chatbots & assistants",
+            "source": "metadata",
+            "match": "voice assistant"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://cocoeatsai.com/area4/guard/",
+        "attemptedAt": "2026-10-19T07:23:08.055Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-19T07:23:08.055Z",
+        "lastWorkingAt": "2026-10-19T07:23:08.055Z",
+        "target": "https://cocoeatsai.com/area4/guard/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-26T07:23:08.055Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/0ba9d2ac3bf673d7d1110931.jpg",
+          "kind": "demo",
+          "url": "https://cocoeatsai.com/area4/guard/",
+          "capturedAt": "2026-10-19T07:23:08.055Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-19T07:23:08.055Z",
+      "previewCheck": {
+        "url": "https://cocoeatsai.com/area4/guard/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-19T07:23:08.055Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-26T07:23:08.055Z"
+      },
       "sourceCategories": [
         "As Seen On X.com"
       ]
@@ -3124,6 +3115,167 @@
         "attemptedAt": "2026-10-18T11:05:31.257Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-25T11:05:31.257Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "bilibili/Index-Translate",
+      "name": "Index-Translate",
+      "description": "A Multilingual, Multimodal Translation Model Family",
+      "category": "AI & machine learning",
+      "language": "Python",
+      "stars": 1689,
+      "forks": 42,
+      "created": "2026-09-15T13:03:42Z",
+      "updated": "2026-10-14T11:03:37Z",
+      "license": "Apache-2.0",
+      "branch": "main",
+      "homepage": "https://index-translate.bilibili.com",
+      "topics": [
+        "llm",
+        "machine-translation"
+      ],
+      "demo": "https://index-translate.bilibili.com/?p=/site/home.html#benchmark-cases",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-19T07:22:46.301Z",
+      "lastAvailableAt": "2026-10-19T07:22:46.301Z",
+      "lastAttemptAt": "2026-10-19T07:22:46.301Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105294684004487406",
+          "postId": "2105294684004487406",
+          "postedAt": "2026-09-30T13:52:21.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "AI & machine learning",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://index-translate.bilibili.com/?p=/site/home.html#benchmark-cases",
+        "attemptedAt": "2026-10-19T07:22:50.566Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-19T07:22:50.566Z",
+        "lastWorkingAt": "2026-10-19T07:22:50.566Z",
+        "target": "https://index-translate.bilibili.com/?p=/site/home.html#benchmark-cases",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-26T07:22:50.566Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/9f8d40b083db2f4b24f1b168.jpg",
+          "kind": "demo",
+          "url": "https://index-translate.bilibili.com/?p=/site/home.html#benchmark-cases",
+          "capturedAt": "2026-10-19T07:22:50.566Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-19T07:22:50.566Z",
+      "previewCheck": {
+        "url": "https://index-translate.bilibili.com/?p=/site/home.html#benchmark-cases",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-19T07:22:50.566Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-26T07:22:50.567Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "witetech/pocket-tts-turkish",
+      "name": "pocket-tts-turkish",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "Python",
+      "stars": 4,
+      "forks": 1,
+      "created": "2026-09-28T12:20:40Z",
+      "updated": "2026-09-30T10:46:50Z",
+      "license": "Apache-2.0",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://huggingface.co/wite-tech/pocket-tts-turkish",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-19T07:22:29.853Z",
+      "lastAvailableAt": "2026-10-19T07:22:29.853Z",
+      "lastAttemptAt": "2026-10-19T07:22:29.853Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "witetech/pocket-tts-turkish",
+        "postUrl": "https://x.com/i/web/status/2105263014857286092",
+        "url": "https://huggingface.co/wite-tech/pocket-tts-turkish"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105263014857286092",
+          "postId": "2105263014857286092",
+          "postedAt": "2026-09-30T11:46:31.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://huggingface.co/wite-tech/pocket-tts-turkish",
+        "attemptedAt": "2026-10-19T07:22:33.469Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-19T07:22:33.469Z",
+        "lastWorkingAt": "2026-10-19T07:22:33.469Z",
+        "target": "https://huggingface.co/wite-tech/pocket-tts-turkish",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-26T07:22:33.469Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/8dc8ed51e3b28fe0b292063b.jpg",
+          "kind": "demo",
+          "url": "https://huggingface.co/wite-tech/pocket-tts-turkish",
+          "capturedAt": "2026-10-19T07:22:33.469Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-19T07:22:33.469Z",
+      "previewCheck": {
+        "url": "https://huggingface.co/wite-tech/pocket-tts-turkish",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-19T07:22:33.469Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-26T07:22:33.470Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
