@@ -79,7 +79,8 @@
       },
       "recent": {
         "start": "2026-10-12T07:22:34.870Z",
-        "end": "2026-10-18T08:29:27.839Z"
+        "end": "2026-10-18T08:29:27.839Z",
+        "nextToken": "b26v89c19zqg8o3juzlvz9kc9xi9meivfulvzglhx5zel"
       }
     },
     "a0153cbebcc5cf46": {
@@ -28083,14 +28084,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 76,
-        "reposts": 5,
+        "likes": 101,
+        "reposts": 7,
         "replies": 7,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "lastSeenAt": "2026-10-19T07:21:39.688Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-17T16:19:47.551Z"
     },
@@ -54099,9 +54100,9 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 17,
-        "reposts": 2,
-        "replies": 1,
+        "likes": 35,
+        "reposts": 3,
+        "replies": 3,
         "quotes": 1
       },
       "demoHints": [
@@ -54114,7 +54115,7 @@
           "repository": "felixtrz/roadster"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "lastSeenAt": "2026-10-19T07:21:39.688Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "felixtrz/roadster",
@@ -54671,14 +54672,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 18,
+        "likes": 28,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "lastSeenAt": "2026-10-19T07:21:39.688Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-25T08:32:29.172Z"
     },
@@ -54712,7 +54713,7 @@
           "repository": "Khalid-000-ME/xemo"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "lastSeenAt": "2026-10-19T07:21:39.688Z",
       "entry": {
         "availability": "available",
         "full": "Khalid-000-ME/xemo",
@@ -54806,14 +54807,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 84,
+        "likes": 91,
         "reposts": 7,
-        "replies": 5,
+        "replies": 7,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "lastSeenAt": "2026-10-19T07:21:39.688Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-25T08:32:28.704Z"
     },
@@ -54832,9 +54833,9 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 11,
+        "likes": 13,
         "reposts": 0,
-        "replies": 2,
+        "replies": 3,
         "quotes": 0
       },
       "demoHints": [
@@ -54847,7 +54848,7 @@
           "repository": "felixtrz/chinese-garden"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "lastSeenAt": "2026-10-19T07:21:39.688Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "felixtrz/chinese-garden",
@@ -54953,14 +54954,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 22,
-        "reposts": 9,
-        "replies": 1,
+        "likes": 34,
+        "reposts": 12,
+        "replies": 2,
         "quotes": 1
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "lastSeenAt": "2026-10-19T07:21:39.688Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-25T08:32:29.636Z"
     },
@@ -54979,14 +54980,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 13,
+        "likes": 18,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "lastSeenAt": "2026-10-19T07:21:39.688Z",
       "entry": {
         "availability": "available",
         "full": "mttmcknn/sea-glass",
@@ -55071,7 +55072,7 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 20,
+        "likes": 25,
         "reposts": 1,
         "replies": 6,
         "quotes": 0
@@ -55086,7 +55087,7 @@
           "repository": "battlejoose/soltoshidice-programs"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "lastSeenAt": "2026-10-19T07:21:39.688Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "battlejoose/soltoshidice-programs",
@@ -55182,14 +55183,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 28,
-        "reposts": 2,
+        "likes": 30,
+        "reposts": 4,
         "replies": 2,
         "quotes": 1
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "lastSeenAt": "2026-10-19T07:21:39.688Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-25T08:32:30.103Z"
     },
@@ -55229,7 +55230,7 @@
           "repository": "MELcodes99/paybot"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "lastSeenAt": "2026-10-19T07:21:39.688Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "MELcodes99/paybot",
@@ -55334,7 +55335,7 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 706,
+        "likes": 713,
         "reposts": 54,
         "replies": 16,
         "quotes": 0
@@ -55349,7 +55350,7 @@
           "repository": "SebasKitten/Grand-V"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "lastSeenAt": "2026-10-19T07:21:39.688Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "SebasKitten/Grand-V",
@@ -55473,7 +55474,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z"
+      "lastSeenAt": "2026-10-19T07:21:39.688Z"
     },
     "irfanfaraaz/mailrust": {
       "full": "irfanfaraaz/mailrust",
@@ -55491,7 +55492,7 @@
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
         "likes": 14,
-        "reposts": 2,
+        "reposts": 3,
         "replies": 7,
         "quotes": 0
       },
@@ -55505,7 +55506,7 @@
           "repository": "irfanfaraaz/mailrust"
         }
       ],
-      "lastSeenAt": "2026-10-18T08:30:02.161Z",
+      "lastSeenAt": "2026-10-19T07:21:39.688Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "irfanfaraaz/mailrust",
@@ -59363,6 +59364,30 @@
       "demoHints": [],
       "demoLinks": [],
       "lastSeenAt": "2026-10-19T07:21:30.837Z"
+    },
+    "elianiva/meiro": {
+      "full": "elianiva/meiro",
+      "firstSeenAt": "2026-10-19T07:21:39.688Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2111547833744855341",
+          "postId": "2111547833744855341",
+          "postedAt": "2026-10-17T20:00:08.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 10,
+        "reposts": 3,
+        "replies": 2,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-19T07:21:39.688Z"
     }
   },
   "lastRun": {
@@ -60210,20 +60235,6 @@
     "2105307120371654963",
     "2105303117042770160",
     "2105302696458699092",
-    "2111675529372086706",
-    "2111618616256848227",
-    "2111610304572666357",
-    "2111568320667541613",
-    "2111528908080517570",
-    "2111514875851669952",
-    "2111491947361931360",
-    "2111488268894396766",
-    "2111471362598736271",
-    "2111430362689597935",
-    "2111349027069419770",
-    "2111265468073845220",
-    "2111177745350722029",
-    "2111154523058352568",
     "2111126610254696671",
     "2111747765076140441",
     "2105356523161714792",
@@ -60287,7 +60298,22 @@
     "2105224474211864662",
     "2105220001162559734",
     "2105216494179098743",
-    "2105216132634628296"
+    "2105216132634628296",
+    "2111675529372086706",
+    "2111618616256848227",
+    "2111610304572666357",
+    "2111568320667541613",
+    "2111547833744855341",
+    "2111528908080517570",
+    "2111514875851669952",
+    "2111491947361931360",
+    "2111488268894396766",
+    "2111471362598736271",
+    "2111430362689597935",
+    "2111349027069419770",
+    "2111265468073845220",
+    "2111177745350722029",
+    "2111154523058352568"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -60316,9 +60342,9 @@
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 165,
-      "uniquePosts": 30,
-      "newCandidates": 23,
+      "posts": 180,
+      "uniquePosts": 31,
+      "newCandidates": 24,
       "validationAttempts": 23,
       "accepted": 8
     },
