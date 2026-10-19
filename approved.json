@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-19T07:23:30.524Z",
+  "updatedAt": "2026-10-19T13:15:11.974Z",
   "runtimeRevision": "ed71211be3a262dd1b928f3740f110b041b3708e",
   "checked": 20,
   "repositories": [
@@ -99,87 +99,6 @@
         "attemptedAt": "2026-10-18T05:58:01.856Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-25T05:58:01.857Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "Xuzhen-Li/grapeancestry",
-      "name": "grapeancestry",
-      "description": "167K grapevine capture panel companion: ancestry, identity, PCA, colour GS",
-      "category": "Other",
-      "language": "Python",
-      "stars": 3,
-      "forks": 0,
-      "created": "2026-08-20T05:33:34Z",
-      "updated": "2026-10-12T07:10:17Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
-      "topics": [
-        "capture-panel",
-        "genomics",
-        "grapevine",
-        "population-genetics"
-      ],
-      "demo": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
-      "color": "#25392f",
-      "ink": "#d1e5c5",
-      "lastCheckedAt": "2026-10-17T10:43:34.383Z",
-      "lastAvailableAt": "2026-10-17T10:43:34.383Z",
-      "lastAttemptAt": "2026-10-17T10:43:34.383Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105495541664944445",
-          "postId": "2105495541664944445",
-          "postedAt": "2026-10-01T03:10:30.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
-        "attemptedAt": "2026-10-17T10:43:50.989Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-17T10:43:50.989Z",
-        "lastWorkingAt": "2026-10-17T10:43:50.989Z",
-        "target": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-24T10:43:50.989Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/8ef4eaeb2ada14b6debf5140.jpg",
-          "kind": "demo",
-          "url": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
-          "capturedAt": "2026-10-17T10:43:50.989Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-17T10:43:50.989Z",
-      "previewCheck": {
-        "url": "https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-17T10:43:50.989Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-24T10:43:50.990Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
@@ -1663,237 +1582,6 @@
       ]
     },
     {
-      "full": "tumio-ltd/focusflow",
-      "name": "focusflow",
-      "description": "🎬 Turn complex architecture diagrams into 60fps cinematic interactive stories. Interactive camera paths, AI voiceovers, and standalone single-file HTML or MP4 export.",
-      "category": "Design",
-      "language": "TypeScript",
-      "stars": 8,
-      "forks": 2,
-      "created": "2026-09-09T04:58:56Z",
-      "updated": "2026-10-17T03:16:23Z",
-      "license": null,
-      "branch": "main",
-      "homepage": "https://focusflow.tumio.site/",
-      "topics": [
-        "architecture-diagram",
-        "audio-visualization",
-        "camera-controls",
-        "canvas",
-        "developer-tools",
-        "diagramming",
-        "gemini-tts",
-        "html5",
-        "linear-style",
-        "motion-graphics",
-        "offline-first",
-        "presentation-tool",
-        "react",
-        "standalone-html",
-        "storytelling",
-        "svg-animation",
-        "tailwind-css",
-        "typescript",
-        "video-player",
-        "vite"
-      ],
-      "demo": "https://focusflow.tumio.site/",
-      "color": "#193546",
-      "ink": "#a6d6e8",
-      "availability": "available",
-      "lastCheckedAt": "2026-10-17T12:31:13.402Z",
-      "lastAttemptAt": "2026-10-17T12:31:13.402Z",
-      "lastAvailableAt": "2026-10-17T12:31:13.402Z",
-      "lastDemoCheckedAt": "2026-10-17T12:31:13.402Z",
-      "metrics": [
-        {
-          "at": "2026-10-03T21:17:56.464Z",
-          "stars": 7,
-          "forks": 2
-        },
-        {
-          "at": "2026-10-04T08:16:50.809Z",
-          "stars": 7,
-          "forks": 2
-        },
-        {
-          "at": "2026-10-06T15:44:57.912Z",
-          "stars": 7,
-          "forks": 2
-        },
-        {
-          "at": "2026-10-08T09:24:34.233Z",
-          "stars": 7,
-          "forks": 2
-        },
-        {
-          "at": "2026-10-10T19:01:44.331Z",
-          "stars": 8,
-          "forks": 2
-        },
-        {
-          "at": "2026-10-15T13:02:28.372Z",
-          "stars": 8,
-          "forks": 2
-        },
-        {
-          "at": "2026-10-17T12:31:13.402Z",
-          "stars": 8,
-          "forks": 2
-        }
-      ],
-      "technologies": [
-        "React"
-      ],
-      "overview": {
-        "kind": "readme",
-        "version": 1,
-        "paragraphs": [
-          "Turn complex architecture diagrams into 60fps cinematic interactive stories.",
-          "When presenting distributed systems, microservices, or complex AI pipelines, static architecture diagrams have fundamental flaws:",
-          "FocusFlow bridges this gap. It lets you direct your architecture diagram like a movie camera:"
-        ],
-        "features": [
-          "Cognitive Overload: A static 4K diagram with 100+ microservices and crisscrossing lines overwhelms the audience within 30 seconds.",
-          "Slides vs. Videos Dilemma: Slide decks fragment the architectural topology into disjointed screenshots; screen recordings cannot be paused to inspect or zoom into specific service configs.",
-          "Prohibitive Animation Costs: Crafting smooth motion graphics requires days of manual keyframing in After Effects.",
-          "Smoothly pans, zooms, and rotates across nodes at 60fps GPU acceleration.",
-          "Lights up dynamic cubic Bezier curves between dependencies."
-        ],
-        "sourceUrl": "https://github.com/tumio-ltd/focusflow/blob/main/README.md",
-        "fingerprint": "6b72de95fadc6076e30665307a9c5ac4c31e79fb1e8e225bb0904c62c5f7eb2d",
-        "extractedAt": "2026-10-03T08:24:56.020Z"
-      },
-      "overviewCheckedAt": "2026-10-17T12:31:13.515Z",
-      "projectInsights": {
-        "version": 1,
-        "whatItDoes": {
-          "text": "Turn complex architecture diagrams into 60fps cinematic interactive stories.",
-          "sourceUrl": "https://github.com/tumio-ltd/focusflow/blob/main/README.md"
-        },
-        "audience": [],
-        "requirements": [
-          {
-            "kind": "paid_service",
-            "status": "required",
-            "text": "Prohibitive Animation Costs: Crafting smooth motion graphics requires days of manual keyframing in After Effects.",
-            "sourceUrl": "https://github.com/tumio-ltd/focusflow/blob/main/README.md"
-          }
-        ],
-        "fingerprint": "6b72de95fadc6076e30665307a9c5ac4c31e79fb1e8e225bb0904c62c5f7eb2d",
-        "sourceUrl": "https://github.com/tumio-ltd/focusflow/blob/main/README.md",
-        "checkedAt": "2026-10-17T12:31:13.516Z"
-      },
-      "overviewRepoUpdated": "2026-10-17T03:16:23Z",
-      "overviewAttemptAt": "2026-10-06T15:47:50.229Z",
-      "readmeSnapshot": {
-        "version": 1,
-        "status": "saved",
-        "sourceUrl": "https://github.com/tumio-ltd/focusflow/blob/main/README.md",
-        "checkedAt": "2026-10-17T12:31:13.516Z",
-        "hash": "6b72de95fadc6076e30665307a9c5ac4c31e79fb1e8e225bb0904c62c5f7eb2d",
-        "originalBytes": 9181,
-        "storedBytes": 9181,
-        "truncated": false
-      },
-      "qualityPriority": false,
-      "enrichmentAttemptAt": "2026-10-05T01:00:53.125Z",
-      "latestRelease": null,
-      "releaseCheckedAt": "2026-10-05T01:00:53.125Z",
-      "screenshots": [
-        {
-          "src": "previews/049a950b34863b4ccd4b46a8.jpg",
-          "kind": "demo",
-          "capturedAt": "2026-10-17T12:47:56.391Z",
-          "url": "https://focusflow.tumio.site/"
-        }
-      ],
-      "previewAttemptAt": "2026-10-17T12:47:56.391Z",
-      "demoHealth": {
-        "url": "https://focusflow.tumio.site/",
-        "attemptedAt": "2026-10-17T12:47:56.391Z",
-        "status": "working",
-        "checkedAt": "2026-10-17T12:47:56.391Z",
-        "lastWorkingAt": "2026-10-17T12:47:56.391Z",
-        "target": "https://focusflow.tumio.site/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-24T12:47:56.391Z",
-        "probeVersion": 3
-      },
-      "previewCheck": {
-        "url": "https://focusflow.tumio.site/",
-        "attemptedAt": "2026-10-17T12:47:56.391Z",
-        "consecutiveFailures": 0,
-        "status": "captured",
-        "reason": null,
-        "nextCheckAt": "2026-10-24T12:47:56.391Z"
-      },
-      "subjects": [
-        "Animation & motion",
-        "Streaming",
-        "Image, audio & video AI",
-        "Music & audio"
-      ],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Design",
-        "subjects": [
-          "Animation & motion",
-          "Streaming",
-          "Image, audio & video AI",
-          "Music & audio"
-        ],
-        "evidence": [
-          {
-            "subject": "Animation & motion",
-            "source": "metadata",
-            "match": "motion graphics"
-          },
-          {
-            "subject": "Streaming",
-            "source": "metadata",
-            "match": "video player"
-          },
-          {
-            "subject": "Image, audio & video AI",
-            "source": "metadata",
-            "match": "tts"
-          },
-          {
-            "subject": "Music & audio",
-            "source": "metadata",
-            "match": "audio visualization"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [
-          "Maths & algorithms"
-        ],
-        "reviewRequired": true
-      },
-      "platforms": [],
-      "repositoryEtag": "W/\"ab7775e0587fef2d2224831222d4950cacc9cef3fc043b6d762f78da818db6ad\"",
-      "repositoryEtagFor": "tumio-ltd/focusflow",
-      "repositoryId": 1362219331,
-      "spaces": [],
-      "communityPosts": [],
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2111721214834303396",
-          "postId": "2111721214834303396",
-          "postedAt": "2026-10-18T07:29:06.000Z"
-        }
-      ],
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
       "availability": "available",
       "full": "hackerjose25/Arkiv-Hack",
       "name": "Arkiv-Hack",
@@ -2970,6 +2658,562 @@
       ]
     },
     {
+      "repositoryId": 1360000671,
+      "availability": "available",
+      "full": "magiccreator-ai/awesome-gpt-6-astra",
+      "name": "awesome-gpt-6-astra",
+      "description": "Curated GPT-6 Astra demos: games, Blender & 3D, websites, and video creation. Original posts, creator credits, and live projects.",
+      "category": "Other",
+      "language": null,
+      "stars": 115,
+      "forks": 8,
+      "created": "2026-09-07T09:03:52Z",
+      "updated": "2026-09-22T04:48:44Z",
+      "branch": "main",
+      "homepage": "https://magiccreator.ai/astra",
+      "topics": [],
+      "demo": "https://www.paperroute.lol/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-18T21:03:10.379Z",
+      "lastAttemptAt": "2026-10-18T21:03:10.379Z",
+      "lastAvailableAt": "2026-10-18T21:03:10.379Z",
+      "metrics": [
+        {
+          "at": "2026-10-15T13:02:10.910Z",
+          "stars": 113,
+          "forks": 8
+        },
+        {
+          "at": "2026-10-18T21:03:10.379Z",
+          "stars": 115,
+          "forks": 8
+        }
+      ],
+      "technologies": [],
+      "overview": {
+        "kind": "readme",
+        "version": 1,
+        "paragraphs": [
+          "A curated collection of GPT-6 Astra demos: games, Blender & 3D, websites, video creation, drawing and other computer-use projects. Discover what creators built, how Astra contributed, and where to see the original work.",
+          "⭐ More Astra demos are on the way. We regularly add new discoveries with original sources and available demo links. Star this repo to save the collection and come back for more.",
+          "181 cases · 54 creator-supplied live links · Latest recorded review: 2026-09-22"
+        ],
+        "features": [
+          "An old steam-train drawing reconstructed as a detailed, editable Blender model.",
+          "Watch the original post · View case details",
+          "The preview belongs to its creator and links to the original post; this repository does not host the video."
+        ],
+        "sourceUrl": "https://github.com/magiccreator-ai/awesome-gpt-6-astra/blob/main/README.md",
+        "fingerprint": "029a80e2da1b102dd7b7d718b02104a58e499cf18e863600cabc6b296e3e45c2",
+        "extractedAt": "2026-10-15T13:02:11.066Z"
+      },
+      "overviewCheckedAt": "2026-10-15T13:02:11.066Z",
+      "projectInsights": {
+        "version": 1,
+        "whatItDoes": {
+          "text": "A curated collection of GPT-6 Astra demos: games, Blender & 3D, websites, video creation, drawing and other computer-use projects. Discover what creators built, how Astra contributed, and where to see the original work.",
+          "sourceUrl": "https://github.com/magiccreator-ai/awesome-gpt-6-astra/blob/main/README.md"
+        },
+        "audience": [],
+        "requirements": [
+          {
+            "kind": "account",
+            "status": "required",
+            "text": "The page was readable during the earlier review; login, syncing and app functionality have not been independently tested.",
+            "sourceUrl": "https://github.com/magiccreator-ai/awesome-gpt-6-astra/blob/main/README.md"
+          }
+        ],
+        "fingerprint": "029a80e2da1b102dd7b7d718b02104a58e499cf18e863600cabc6b296e3e45c2",
+        "sourceUrl": "https://github.com/magiccreator-ai/awesome-gpt-6-astra/blob/main/README.md",
+        "checkedAt": "2026-10-15T13:02:11.067Z"
+      },
+      "overviewRepoUpdated": "2026-09-22T04:48:44Z",
+      "readmeSnapshot": {
+        "version": 1,
+        "status": "saved",
+        "sourceUrl": "https://github.com/magiccreator-ai/awesome-gpt-6-astra/blob/main/README.md",
+        "checkedAt": "2026-10-15T13:02:11.071Z",
+        "hash": "029a80e2da1b102dd7b7d718b02104a58e499cf18e863600cabc6b296e3e45c2",
+        "originalBytes": 145746,
+        "storedBytes": 145746,
+        "truncated": false
+      },
+      "lastDemoCheckedAt": "2026-10-15T13:02:11.077Z",
+      "enrichmentAttemptAt": "2026-10-15T13:02:55.065Z",
+      "latestRelease": null,
+      "releaseCheckedAt": "2026-10-15T13:02:55.065Z",
+      "screenshots": [
+        {
+          "src": "previews/f870db90d0ad889ef1cef220.jpg",
+          "kind": "demo",
+          "capturedAt": "2026-10-15T13:13:07.980Z",
+          "url": "https://www.paperroute.lol/"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/magiccreator-ai/awesome-gpt-6-astra/main/%3Chttps://pbs.twimg.com/amplify_video_thumb/2095754646069354497/img/Pz6DsxqZ529t3QdE.jpg%3E",
+          "kind": "readme",
+          "alt": "Steam Train in Blender — Preview from the creator’s post"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/magiccreator-ai/awesome-gpt-6-astra/main/%3Chttps://pbs.twimg.com/amplify_video_thumb/2096028515099660288/img/SQ7xgsqG8hoVZ5P1.jpg%3E",
+          "kind": "readme",
+          "alt": "Rocket League Style Game — Preview from the creator’s post"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/magiccreator-ai/awesome-gpt-6-astra/main/%3Chttps://pbs.twimg.com/amplify_video_thumb/2098775794281828352/img/Hoy8EuS5JEPOFpLO.jpg%3E",
+          "kind": "readme",
+          "alt": "Paperboy Browser Remake — Preview from the creator’s post"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/magiccreator-ai/awesome-gpt-6-astra/main/%3Chttps://pbs.twimg.com/amplify_video_thumb/2095599652796272640/img/-alGPQCkf-Z8Cs-n.jpg%3E",
+          "kind": "readme",
+          "alt": "Browser 3D Game Prototype — Preview from the creator’s post"
+        }
+      ],
+      "subjects": [
+        "Games & game development",
+        "Animation & motion",
+        "3D & graphics"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [
+          "Games & game development",
+          "Animation & motion",
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "Games & game development",
+            "source": "metadata",
+            "match": "games"
+          },
+          {
+            "subject": "Animation & motion",
+            "source": "metadata",
+            "match": "Blender"
+          },
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "3D"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [
+          "Automation & workflows",
+          "MCP servers & agents",
+          "Templates & UI components"
+        ],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://www.paperroute.lol/",
+        "attemptedAt": "2026-10-15T13:13:07.980Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-15T13:13:07.980Z",
+        "lastWorkingAt": "2026-10-15T13:13:07.980Z",
+        "target": "https://www.paperroute.lol/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-22T13:13:07.980Z"
+      },
+      "previewAttemptAt": "2026-10-15T13:13:07.980Z",
+      "previewCheck": {
+        "url": "https://www.paperroute.lol/",
+        "attemptedAt": "2026-10-15T13:13:07.980Z",
+        "consecutiveFailures": 0,
+        "status": "captured",
+        "reason": null,
+        "nextCheckAt": "2026-10-22T13:13:07.980Z"
+      },
+      "qualityPriority": false,
+      "spaces": [],
+      "communityPosts": [],
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2097286217641697459",
+          "postId": "2097286217641697459",
+          "postedAt": "2026-09-08T11:29:34.000Z"
+        }
+      ],
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "TripoGrowthLab/awesome-astra-prompts",
+      "name": "awesome-astra-prompts",
+      "description": "200+ Curated GPT-6 Astra prompts and 3D examples for games, Blender scenes and interactive worlds. 14 languages, previews and source links. Updated twice daily. Curated by Tripo.",
+      "category": "AI & machine learning",
+      "language": "JavaScript",
+      "stars": 343,
+      "forks": 25,
+      "created": "2026-09-05T19:33:25Z",
+      "updated": "2026-10-16T04:43:35Z",
+      "license": null,
+      "branch": "main",
+      "homepage": "https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra",
+      "topics": [
+        "3d",
+        "ai-prompts",
+        "astra-prompts",
+        "awesome-list",
+        "blender",
+        "game-development",
+        "gpt-6-astra",
+        "multilingual",
+        "prompt-engineering",
+        "threejs",
+        "tripo"
+      ],
+      "demo": "https://monster-block.tripo.page/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-18T22:45:46.460Z",
+      "lastAttemptAt": "2026-10-18T22:45:46.460Z",
+      "lastAvailableAt": "2026-10-18T22:45:46.460Z",
+      "metrics": [
+        {
+          "at": "2026-10-04T08:18:14.676Z",
+          "stars": 321,
+          "forks": 20
+        },
+        {
+          "at": "2026-10-06T16:31:17.364Z",
+          "stars": 324,
+          "forks": 21
+        },
+        {
+          "at": "2026-10-08T20:09:03.049Z",
+          "stars": 329,
+          "forks": 23
+        },
+        {
+          "at": "2026-10-11T04:29:35.665Z",
+          "stars": 332,
+          "forks": 24
+        },
+        {
+          "at": "2026-10-15T13:02:05.688Z",
+          "stars": 340,
+          "forks": 25
+        },
+        {
+          "at": "2026-10-16T18:02:27.871Z",
+          "stars": 341,
+          "forks": 25
+        },
+        {
+          "at": "2026-10-18T22:45:46.460Z",
+          "stars": 343,
+          "forks": 25
+        }
+      ],
+      "technologies": [
+        "Three.js"
+      ],
+      "overview": {
+        "kind": "readme",
+        "version": 1,
+        "paragraphs": [
+          "Building with Claude Opus 5.5? Explore Awesome Opus 5.5 Prompts for source-linked 3D scenes, games and simulations.",
+          "A starting point for your next game, scene or interactive world.",
+          "Explore GPT-6 Astra prompts and 3D examples for Blender, Three.js, Unreal Engine, Unity and the browser."
+        ],
+        "features": [
+          "Wright Flyer Through a Japanese Forest Jared Prompt → Jelly Jungle: 3D Platformer Jared Prompt → AKARI: Nagoya Rooftop Flame Relay Jared Prompt → The Cyclops' Island Jared Prompt →"
+        ],
+        "sourceUrl": "https://github.com/TripoGrowthLab/awesome-astra-prompts/blob/main/README.md",
+        "fingerprint": "a554ef88f71214676d60023479aa2feeca3898fa113c02e35d471d93507e39cb",
+        "extractedAt": "2026-10-16T18:02:28.052Z"
+      },
+      "overviewCheckedAt": "2026-10-16T18:02:28.052Z",
+      "projectInsights": {
+        "version": 1,
+        "whatItDoes": {
+          "text": "Building with Claude Opus 5.5? Explore Awesome Opus 5.5 Prompts for source-linked 3D scenes, games and simulations.",
+          "sourceUrl": "https://github.com/TripoGrowthLab/awesome-astra-prompts/blob/main/README.md"
+        },
+        "audience": [],
+        "requirements": [],
+        "fingerprint": "a554ef88f71214676d60023479aa2feeca3898fa113c02e35d471d93507e39cb",
+        "sourceUrl": "https://github.com/TripoGrowthLab/awesome-astra-prompts/blob/main/README.md",
+        "checkedAt": "2026-10-16T18:02:28.056Z"
+      },
+      "overviewRepoUpdated": "2026-10-16T04:43:35Z",
+      "readmeSnapshot": {
+        "version": 1,
+        "status": "saved",
+        "sourceUrl": "https://github.com/TripoGrowthLab/awesome-astra-prompts/blob/main/README.md",
+        "checkedAt": "2026-10-16T18:02:28.063Z",
+        "hash": "a554ef88f71214676d60023479aa2feeca3898fa113c02e35d471d93507e39cb",
+        "originalBytes": 329633,
+        "storedBytes": 329633,
+        "truncated": false
+      },
+      "lastDemoCheckedAt": "2026-10-16T18:02:28.086Z",
+      "enrichmentAttemptAt": "2026-10-04T06:12:46.577Z",
+      "latestRelease": null,
+      "releaseCheckedAt": "2026-10-04T06:12:46.577Z",
+      "screenshots": [
+        {
+          "src": "previews/8f52f1844c9674abb0ff22b7.jpg",
+          "kind": "demo",
+          "capturedAt": "2026-10-16T18:25:49.432Z",
+          "url": "https://monster-block.tripo.page/"
+        }
+      ],
+      "qualityPriority": false,
+      "demoHealth": {
+        "url": "https://monster-block.tripo.page/",
+        "attemptedAt": "2026-10-16T18:25:49.432Z",
+        "status": "working",
+        "checkedAt": "2026-10-16T18:25:49.432Z",
+        "lastWorkingAt": "2026-10-16T18:25:49.432Z",
+        "target": "https://monster-block.tripo.page/",
+        "failureCount": 0,
+        "nextCheckAt": "2026-10-23T18:25:49.432Z",
+        "consecutiveTemporaryFailures": 0,
+        "probeVersion": 3
+      },
+      "previewAttemptAt": "2026-10-16T18:25:49.432Z",
+      "previewCheck": {
+        "url": "https://monster-block.tripo.page/",
+        "attemptedAt": "2026-10-16T18:25:49.432Z",
+        "consecutiveFailures": 0,
+        "status": "captured",
+        "reason": null,
+        "nextCheckAt": "2026-10-23T18:25:49.432Z"
+      },
+      "agentContextAttemptAt": "2026-10-05T15:43:22.392Z",
+      "agentContext": {
+        "version": 1,
+        "checkedAt": "2026-10-05T15:43:27.337Z",
+        "documents": [
+          {
+            "name": "package.json",
+            "sourceUrl": "https://github.com/TripoGrowthLab/awesome-astra-prompts/blob/main/package.json",
+            "hash": "4dcd7acfd7dd56e73e32856bf20ffc235b8897e61f765e13277ca77abc627f63",
+            "originalBytes": 604,
+            "truncated": false
+          },
+          {
+            "name": "LICENSE",
+            "sourceUrl": "https://github.com/TripoGrowthLab/awesome-astra-prompts/blob/main/LICENSE",
+            "hash": "404ffc00c14ec5abc46e9c546667a387b5246fa5b47d7dbebb1c0c77014e0b34",
+            "originalBytes": 1434,
+            "truncated": false
+          }
+        ]
+      },
+      "agentContextRepoUpdated": "2026-10-04T06:03:14Z",
+      "subjects": [
+        "Games & game development",
+        "Animation & motion",
+        "3D & graphics"
+      ],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "AI & machine learning",
+        "subjects": [
+          "Games & game development",
+          "Animation & motion",
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "Games & game development",
+            "source": "metadata",
+            "match": "games"
+          },
+          {
+            "subject": "Animation & motion",
+            "source": "metadata",
+            "match": "Blender"
+          },
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "3D"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [
+          "Simulation & physics",
+          "Mobile",
+          "Science",
+          "Maths & algorithms"
+        ],
+        "reviewRequired": true
+      },
+      "platforms": [],
+      "repositoryEtag": "W/\"5981e6f8b635965bfdc9d5d2c9083f4900c88ad965faea649a3e58e7e6db32ed\"",
+      "repositoryEtagFor": "TripoGrowthLab/awesome-astra-prompts",
+      "overviewAttemptAt": "2026-10-08T22:36:10.979Z",
+      "repositoryId": 1358503697,
+      "spaces": [],
+      "communityPosts": [],
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2097286217641697459",
+          "postId": "2097286217641697459",
+          "postedAt": "2026-09-08T11:29:34.000Z"
+        }
+      ],
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "carpentry-liu/awesome-astra-3d",
+      "name": "awesome-astra-3d",
+      "description": "Curated GPT-6 Astra 3D examples: editable Blender projects, Three.js games, CAD, full videos & creator workflows. 中英文案例库、公开工程与上手路线。",
+      "category": "Developer tools",
+      "language": "TypeScript",
+      "stars": 16,
+      "forks": 1,
+      "created": "2026-09-06T01:09:51Z",
+      "updated": "2026-10-19T01:22:47Z",
+      "license": null,
+      "branch": "main",
+      "homepage": "https://carpentry-liu.github.io/awesome-astra-3d/",
+      "topics": [
+        "3d",
+        "3d-modeling",
+        "architectural-visualization",
+        "awesome-list",
+        "blender",
+        "cad",
+        "codex",
+        "game-development",
+        "generative-ai",
+        "godot",
+        "gpt-6",
+        "gpt-6-astra",
+        "houdini",
+        "mujoco",
+        "openai",
+        "prompt-engineering",
+        "rhino",
+        "showcase",
+        "threejs",
+        "webgl"
+      ],
+      "demo": "https://carpentry-liu.github.io/awesome-astra-3d/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-19T13:15:05.967Z",
+      "lastAvailableAt": "2026-10-19T13:15:05.967Z",
+      "lastAttemptAt": "2026-10-19T13:15:05.967Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2097286217641697459",
+          "postId": "2097286217641697459",
+          "postedAt": "2026-09-08T11:29:34.000Z"
+        }
+      ],
+      "subjects": [
+        "Architecture & building design",
+        "Games & game development",
+        "Animation & motion",
+        "Automation & workflows",
+        "3D & graphics"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "Architecture & building design",
+          "Games & game development",
+          "Animation & motion",
+          "Automation & workflows",
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "Architecture & building design",
+            "source": "metadata",
+            "match": "CAD"
+          },
+          {
+            "subject": "Games & game development",
+            "source": "metadata",
+            "match": "games"
+          },
+          {
+            "subject": "Animation & motion",
+            "source": "metadata",
+            "match": "Blender"
+          },
+          {
+            "subject": "Automation & workflows",
+            "source": "metadata",
+            "match": "workflows"
+          },
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "3d"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://carpentry-liu.github.io/awesome-astra-3d/",
+        "attemptedAt": "2026-10-19T13:15:09.268Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-19T13:15:09.268Z",
+        "lastWorkingAt": "2026-10-19T13:15:09.268Z",
+        "target": "https://carpentry-liu.github.io/awesome-astra-3d/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-26T13:15:09.268Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/60276a59ce8d8bcaf3c8b0ed.jpg",
+          "kind": "demo",
+          "url": "https://carpentry-liu.github.io/awesome-astra-3d/",
+          "capturedAt": "2026-10-19T13:15:09.268Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-19T13:15:09.268Z",
+      "previewCheck": {
+        "url": "https://carpentry-liu.github.io/awesome-astra-3d/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-19T13:15:09.268Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-26T13:15:09.268Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
       "availability": "available",
       "full": "GoodnessTech/Arbiter",
       "name": "Arbiter",
@@ -3277,6 +3521,967 @@
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-26T07:22:33.470Z"
       },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "roboflow/trackers",
+      "name": "trackers",
+      "description": "Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.",
+      "category": "Other",
+      "language": "Python",
+      "stars": 3951,
+      "forks": 420,
+      "created": "2025-04-14T16:12:26Z",
+      "updated": "2026-10-17T15:37:21Z",
+      "license": "Apache-2.0",
+      "branch": "develop",
+      "homepage": "https://trackers.roboflow.com/",
+      "topics": [
+        "bot-sort",
+        "bytetrack",
+        "dancetrack",
+        "mot17",
+        "multi-object-tracking",
+        "oc-sort",
+        "soccernet",
+        "sort",
+        "sportsmot",
+        "trackeval"
+      ],
+      "demo": "https://huggingface.co/spaces/roboflow/trackers",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-17T16:00:45.013Z",
+      "lastAttemptAt": "2026-10-17T16:00:45.013Z",
+      "lastAvailableAt": "2026-10-17T16:00:45.013Z",
+      "metrics": [
+        {
+          "at": "2026-10-04T08:15:53.769Z",
+          "stars": 3903,
+          "forks": 417
+        },
+        {
+          "at": "2026-10-06T15:43:10.625Z",
+          "stars": 3915,
+          "forks": 419
+        },
+        {
+          "at": "2026-10-08T16:03:09.750Z",
+          "stars": 3928,
+          "forks": 419
+        },
+        {
+          "at": "2026-10-11T00:23:02.799Z",
+          "stars": 3938,
+          "forks": 419
+        },
+        {
+          "at": "2026-10-15T17:00:59.143Z",
+          "stars": 3946,
+          "forks": 421
+        },
+        {
+          "at": "2026-10-17T16:00:45.013Z",
+          "stars": 3951,
+          "forks": 420
+        }
+      ],
+      "technologies": [
+        "Python"
+      ],
+      "overview": {
+        "kind": "readme",
+        "version": 1,
+        "paragraphs": [
+          "Plug-and-play object tracking in Python (multi-object) for any detection model.",
+          "trackers is an object tracking library for Python. It gives you clean-room, benchmarked implementations of SORT, ByteTrack, OC-SORT, BoT-SORT, C-BIoU, and McByte — so occlusions, fast motion, and moving cameras stop being your problem to solve from scratch. It speaks supervision.Detections natively, slotting into any detector you already use — YOLO, DETR, RT-DETR, or anything else — without glue code. One consistent interface, whether you're a researcher comparing algorithms, an engineer shipping a production pipeline, or a hobbyist building something cool. Requires Python ≥ 3.10."
+        ],
+        "features": [
+          "Clean-room implementations. Every algorithm is re-implemented from the original paper — not vendored or wrapped. You can read it, understand it, and modify it.",
+          "Apache 2.0, no copyleft. Ship it inside closed-source products — unlike AGPL-3.0 alternatives such as BoxMOT.",
+          "Detector-agnostic. Works with YOLO, DETR, RT-DETR, or any model that produces bounding boxes. No inference library required or assumed.",
+          "supervision.Detections native. Plugs directly into the supervision ecosystem. Pass detections in, get tracked detections back — zero glue code.",
+          "Benchmarked across four datasets. MOT17, SportsMOT, SoccerNet, and DanceTrack — at default parameters and after hyperparameter tuning (McByte: defaults only, by design), so you know what to expect before you deploy."
+        ],
+        "sourceUrl": "https://github.com/roboflow/trackers/blob/develop/README.md",
+        "fingerprint": "3780e905f43c79684ee2f8c8b291269fc16c6c50a5af7e9a31f70f1aee53a28f",
+        "extractedAt": "2026-10-04T06:11:55.185Z"
+      },
+      "overviewCheckedAt": "2026-10-17T16:00:45.119Z",
+      "projectInsights": {
+        "version": 1,
+        "whatItDoes": {
+          "text": "Plug-and-play object tracking in Python (multi-object) for any detection model.",
+          "sourceUrl": "https://github.com/roboflow/trackers/blob/develop/README.md"
+        },
+        "audience": [],
+        "requirements": [],
+        "fingerprint": "3780e905f43c79684ee2f8c8b291269fc16c6c50a5af7e9a31f70f1aee53a28f",
+        "sourceUrl": "https://github.com/roboflow/trackers/blob/develop/README.md",
+        "checkedAt": "2026-10-17T16:00:45.120Z"
+      },
+      "overviewRepoUpdated": "2026-10-17T15:37:21Z",
+      "readmeSnapshot": {
+        "version": 1,
+        "status": "saved",
+        "sourceUrl": "https://github.com/roboflow/trackers/blob/develop/README.md",
+        "checkedAt": "2026-10-17T16:00:45.120Z",
+        "hash": "3780e905f43c79684ee2f8c8b291269fc16c6c50a5af7e9a31f70f1aee53a28f",
+        "originalBytes": 12288,
+        "storedBytes": 12288,
+        "truncated": false
+      },
+      "lastDemoCheckedAt": "2026-10-17T16:00:45.013Z",
+      "enrichmentAttemptAt": "2026-10-04T06:12:46.577Z",
+      "latestRelease": {
+        "name": "v2.6.1: Bug fixes and maintenance",
+        "tag": "2.6.1",
+        "publishedAt": "2026-09-25T10:59:35Z",
+        "url": "https://github.com/roboflow/trackers/releases/tag/2.6.1"
+      },
+      "releaseCheckedAt": "2026-10-04T06:12:46.577Z",
+      "screenshots": [
+        {
+          "src": "previews/8047debc459e8a8f4ae29286.jpg",
+          "kind": "demo",
+          "capturedAt": "2026-10-17T16:20:33.423Z",
+          "url": "https://huggingface.co/spaces/roboflow/trackers"
+        }
+      ],
+      "demoHealth": {
+        "url": "https://huggingface.co/spaces/roboflow/trackers",
+        "attemptedAt": "2026-10-17T16:20:33.423Z",
+        "status": "working",
+        "checkedAt": "2026-10-17T16:20:33.423Z",
+        "lastWorkingAt": "2026-10-17T16:20:33.423Z",
+        "target": "https://huggingface.co/spaces/Roboflow/Trackers",
+        "failureCount": 0,
+        "nextCheckAt": "2026-10-24T16:20:33.423Z",
+        "probeVersion": 3,
+        "consecutiveTemporaryFailures": 0
+      },
+      "qualityPriority": false,
+      "agentContextAttemptAt": "2026-10-04T12:22:20.108Z",
+      "agentContext": {
+        "version": 1,
+        "checkedAt": "2026-10-04T12:22:21.576Z",
+        "documents": [
+          {
+            "name": "pyproject.toml",
+            "sourceUrl": "https://github.com/roboflow/trackers/blob/develop/pyproject.toml",
+            "hash": "9ad1b221f85bad64980563fe0ad2bdc1b25cbc8d2e61ad99171055f5feda23c3",
+            "originalBytes": 6203,
+            "truncated": false
+          },
+          {
+            "name": "LICENSE",
+            "sourceUrl": "https://github.com/roboflow/trackers/blob/develop/LICENSE",
+            "hash": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+            "originalBytes": 11357,
+            "truncated": false
+          }
+        ]
+      },
+      "agentContextRepoUpdated": "2026-10-03T23:35:00Z",
+      "previewAttemptAt": "2026-10-17T16:20:33.423Z",
+      "subjects": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [
+          "Automation & workflows"
+        ],
+        "reviewRequired": true
+      },
+      "platforms": [],
+      "repositoryEtag": "W/\"59406ccecc305c6b3eb26cb6727df14d2178380da98f580c796686b62ee06cd7\"",
+      "repositoryEtagFor": "roboflow/trackers",
+      "overviewAttemptAt": "2026-10-08T16:09:07.416Z",
+      "previewCheck": {
+        "url": "https://huggingface.co/spaces/roboflow/trackers",
+        "attemptedAt": "2026-10-17T16:20:33.423Z",
+        "consecutiveFailures": 0,
+        "status": "captured",
+        "reason": null,
+        "nextCheckAt": "2026-10-24T16:20:33.423Z"
+      },
+      "repositoryId": 966243985,
+      "spaces": [],
+      "communityPosts": [],
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105296768753918099",
+          "postId": "2105296768753918099",
+          "postedAt": "2026-09-30T14:00:38.000Z"
+        }
+      ],
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "kerne-protocol/contracts-public",
+      "name": "contracts-public",
+      "description": "Public verification surface for Kerne Protocol, a delta-neutral synthetic dollar (kUSD) on Base: deployment registry, live-protocol verification script, and how-to-verify walkthrough.",
+      "category": "Finance",
+      "language": "Solidity",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-06-08T19:11:38Z",
+      "updated": "2026-08-24T19:28:03Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://kerne.fi",
+      "topics": [
+        "base",
+        "defi",
+        "delta-neutral",
+        "erc-4626",
+        "ethereum",
+        "kerne",
+        "kusd",
+        "proof-of-reserves",
+        "solidity",
+        "stablecoin",
+        "synthetic-dollar"
+      ],
+      "demo": "https://kerne.fi/security/acknowledgments",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-19T13:14:55.307Z",
+      "lastAvailableAt": "2026-10-19T13:14:55.307Z",
+      "lastAttemptAt": "2026-10-19T13:14:55.307Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "kerne-protocol/contracts-public",
+        "postUrl": "https://x.com/i/web/status/2105284140472095212",
+        "url": "https://kerne.fi/security/acknowledgments"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105284140472095212",
+          "postId": "2105284140472095212",
+          "postedAt": "2026-09-30T13:10:28.000Z"
+        }
+      ],
+      "subjects": [
+        "Crypto & blockchain"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Finance",
+        "subjects": [
+          "Crypto & blockchain"
+        ],
+        "evidence": [
+          {
+            "subject": "Crypto & blockchain",
+            "source": "metadata",
+            "match": "defi"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://kerne.fi/security/acknowledgments",
+        "attemptedAt": "2026-10-19T13:14:58.926Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-19T13:14:58.926Z",
+        "lastWorkingAt": "2026-10-19T13:14:58.926Z",
+        "target": "https://kerne.fi/security/acknowledgments",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-26T13:14:58.926Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/84bbbc47096e445e320ac875.jpg",
+          "kind": "demo",
+          "url": "https://kerne.fi/security/acknowledgments",
+          "capturedAt": "2026-10-19T13:14:58.926Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-19T13:14:58.926Z",
+      "previewCheck": {
+        "url": "https://kerne.fi/security/acknowledgments",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-19T13:14:58.926Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-26T13:14:58.927Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "akshayking517/fdvr-headpiece-sim",
+      "name": "fdvr-headpiece-sim",
+      "description": "Interactive power-budget simulator for a battery-less retinal-projection headpiece (full-dive VR essay companion).",
+      "category": "Finance",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-30T11:19:28Z",
+      "updated": "2026-09-30T11:28:50Z",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://akshayking517.github.io/fdvr-headpiece-sim/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-19T13:14:51.034Z",
+      "lastAvailableAt": "2026-10-19T13:14:51.034Z",
+      "lastAttemptAt": "2026-10-19T13:14:51.034Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "akshayking517/fdvr-headpiece-sim",
+        "postUrl": "https://x.com/i/web/status/2105272101582381101",
+        "url": "https://akshayking517.github.io/fdvr-headpiece-sim/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105272101582381101",
+          "postId": "2105272101582381101",
+          "postedAt": "2026-09-30T12:22:37.000Z"
+        }
+      ],
+      "subjects": [
+        "Simulation & physics"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Finance",
+        "subjects": [
+          "Simulation & physics"
+        ],
+        "evidence": [
+          {
+            "subject": "Simulation & physics",
+            "source": "metadata",
+            "match": "simulator"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://akshayking517.github.io/fdvr-headpiece-sim/",
+        "attemptedAt": "2026-10-19T13:14:54.359Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-19T13:14:54.359Z",
+        "lastWorkingAt": "2026-10-19T13:14:54.359Z",
+        "target": "https://akshayking517.github.io/fdvr-headpiece-sim/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-26T13:14:54.359Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/83086f287af73ef20c26d7f5.jpg",
+          "kind": "demo",
+          "url": "https://akshayking517.github.io/fdvr-headpiece-sim/",
+          "capturedAt": "2026-10-19T13:14:54.359Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-19T13:14:54.359Z",
+      "previewCheck": {
+        "url": "https://akshayking517.github.io/fdvr-headpiece-sim/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-19T13:14:54.359Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-26T13:14:54.359Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "mikro-orm/mikro-orm",
+      "name": "mikro-orm",
+      "description": "TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.",
+      "category": "Developer tools",
+      "language": "TypeScript",
+      "stars": 9253,
+      "forks": 689,
+      "created": "2018-03-15T09:21:10Z",
+      "updated": "2026-10-19T05:04:01Z",
+      "license": "MIT",
+      "branch": "master",
+      "homepage": "https://mikro-orm.io",
+      "topics": [
+        "database",
+        "datamapper",
+        "entities",
+        "entity",
+        "identity-map",
+        "javascript",
+        "libsql",
+        "mongodb",
+        "mysql",
+        "nodejs",
+        "orm",
+        "postgre",
+        "postgresql",
+        "sql",
+        "sql-server",
+        "sqlite",
+        "sqlite3",
+        "typescript",
+        "typescript-orm",
+        "unit-of-work"
+      ],
+      "demo": "https://mikro-orm.io/blog/mikro-orm-7-2-released",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-19T13:14:44.859Z",
+      "lastAvailableAt": "2026-10-19T13:14:44.859Z",
+      "lastAttemptAt": "2026-10-19T13:14:44.859Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "mikro-orm/mikro-orm",
+        "postUrl": "https://x.com/i/web/status/2097008541714330053",
+        "url": "https://mikro-orm.io/blog/mikro-orm-7-2-released"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2097008541714330053",
+          "postId": "2097008541714330053",
+          "postedAt": "2026-09-07T17:06:11.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://mikro-orm.io/blog/mikro-orm-7-2-released",
+        "attemptedAt": "2026-10-19T13:14:48.566Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-19T13:14:48.566Z",
+        "lastWorkingAt": "2026-10-19T13:14:48.566Z",
+        "target": "https://mikro-orm.io/blog/mikro-orm-7-2-released",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-26T13:14:48.566Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/b5ce2cf8ec79c0a605d36a84.jpg",
+          "kind": "demo",
+          "url": "https://mikro-orm.io/blog/mikro-orm-7-2-released",
+          "capturedAt": "2026-10-19T13:14:48.566Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-19T13:14:48.566Z",
+      "previewCheck": {
+        "url": "https://mikro-orm.io/blog/mikro-orm-7-2-released",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-19T13:14:48.566Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-26T13:14:48.567Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "achimala/dream-loop",
+      "name": "dream-loop",
+      "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "category": "Other",
+      "language": "JavaScript",
+      "stars": 1712,
+      "forks": 173,
+      "created": "2026-09-07T14:19:20Z",
+      "updated": "2026-09-09T22:43:38Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://dream-loop-demo.anshu.dev/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-18T09:16:59.693Z",
+      "lastAttemptAt": "2026-10-18T09:16:59.693Z",
+      "lastAvailableAt": "2026-10-18T09:16:59.693Z",
+      "metrics": [
+        {
+          "at": "2026-10-05T21:32:18.574Z",
+          "stars": 1639,
+          "forks": 170
+        },
+        {
+          "at": "2026-10-07T23:29:21.332Z",
+          "stars": 1650,
+          "forks": 170
+        },
+        {
+          "at": "2026-10-10T01:07:35.527Z",
+          "stars": 1667,
+          "forks": 170
+        },
+        {
+          "at": "2026-10-15T13:02:01.624Z",
+          "stars": 1695,
+          "forks": 173
+        },
+        {
+          "at": "2026-10-18T09:16:59.693Z",
+          "stars": 1712,
+          "forks": 173
+        }
+      ],
+      "technologies": [],
+      "overview": {
+        "kind": "readme",
+        "version": 1,
+        "paragraphs": [
+          "An agent skill that builds a game, app, or scene with impressive visuals, by creating a closed loop:"
+        ],
+        "features": [
+          "AI \"dreams\" up a high-quality target screenshot using image generation",
+          "AI builds with this target in mind",
+          "A separate AI critic compares the live screenshot to the target and provides feedback",
+          "AI loops back to step 2 until critic is satisfied",
+          "Optionally, AI loops back to step 1 and dreams up an even better target based on the current state."
+        ],
+        "sourceUrl": "https://github.com/achimala/dream-loop/blob/main/README.md",
+        "fingerprint": "3db72b0ce7bff56e78785f4d93c9c6f48b3cf89f91615208c76bd000e71a9bdd",
+        "extractedAt": "2026-10-05T21:32:18.736Z"
+      },
+      "overviewCheckedAt": "2026-10-15T13:02:01.721Z",
+      "projectInsights": {
+        "version": 1,
+        "whatItDoes": {
+          "text": "An agent skill that builds a game, app, or scene with impressive visuals, by creating a closed loop:",
+          "sourceUrl": "https://github.com/achimala/dream-loop/blob/main/README.md"
+        },
+        "audience": [],
+        "requirements": [],
+        "fingerprint": "3db72b0ce7bff56e78785f4d93c9c6f48b3cf89f91615208c76bd000e71a9bdd",
+        "sourceUrl": "https://github.com/achimala/dream-loop/blob/main/README.md",
+        "checkedAt": "2026-10-15T13:02:01.721Z"
+      },
+      "overviewRepoUpdated": "2026-09-09T22:43:38Z",
+      "readmeSnapshot": {
+        "version": 1,
+        "status": "saved",
+        "sourceUrl": "https://github.com/achimala/dream-loop/blob/main/README.md",
+        "checkedAt": "2026-10-15T13:02:01.721Z",
+        "hash": "3db72b0ce7bff56e78785f4d93c9c6f48b3cf89f91615208c76bd000e71a9bdd",
+        "originalBytes": 2182,
+        "storedBytes": 2182,
+        "truncated": false
+      },
+      "lastDemoCheckedAt": "2026-10-15T13:02:01.722Z",
+      "demoHealth": {
+        "url": "https://dream-loop-demo.anshu.dev/",
+        "attemptedAt": "2026-10-13T00:08:49.451Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-13T00:08:49.451Z",
+        "lastWorkingAt": "2026-10-13T00:08:49.451Z",
+        "target": "https://dream-loop-demo.anshu.dev/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-20T00:08:49.451Z"
+      },
+      "previewAttemptAt": "2026-10-13T00:08:49.451Z",
+      "previewCheck": {
+        "url": "https://dream-loop-demo.anshu.dev/",
+        "attemptedAt": "2026-10-13T00:08:49.451Z",
+        "consecutiveFailures": 0,
+        "status": "captured",
+        "reason": null,
+        "nextCheckAt": "2026-10-20T00:08:49.451Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/5abcb91106f08359b4ea0959.jpg",
+          "kind": "demo",
+          "capturedAt": "2026-10-13T00:08:49.451Z",
+          "url": "https://dream-loop-demo.anshu.dev/"
+        }
+      ],
+      "enrichmentAttemptAt": "2026-10-06T01:26:23.628Z",
+      "latestRelease": null,
+      "releaseCheckedAt": "2026-10-06T01:26:23.628Z",
+      "subjects": [
+        "Animation & motion",
+        "3D & graphics"
+      ],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [
+          "Animation & motion",
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "Animation & motion",
+            "source": "metadata",
+            "match": "Blender"
+          },
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "3D"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [
+          "Games & game development",
+          "MCP servers & agents"
+        ],
+        "reviewRequired": true
+      },
+      "qualityPriority": false,
+      "platforms": [],
+      "repositoryEtag": "W/\"811a2008da1197dbe40af66c4b141037d5aa6ab9083e9f53ec0bcae018c544e0\"",
+      "repositoryEtagFor": "achimala/dream-loop",
+      "overviewAttemptAt": "2026-10-13T07:39:24.517Z",
+      "agentContextAttemptAt": "2026-10-13T07:39:46.795Z",
+      "agentContext": {
+        "version": 1,
+        "checkedAt": "2026-10-13T07:39:48.258Z",
+        "documents": [
+          {
+            "name": "LICENSE",
+            "sourceUrl": "https://github.com/achimala/dream-loop/blob/main/LICENSE",
+            "hash": "1607e9149a254c619d0ceb4119ed9346e13048c28c1d437d80ff2837e40159da",
+            "originalBytes": 1070,
+            "truncated": false
+          }
+        ]
+      },
+      "agentContextRepoUpdated": "2026-09-09T22:43:38Z",
+      "repositoryId": 1360317501,
+      "repositoryAliases": [],
+      "spaces": [],
+      "communityPosts": [],
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2097001450941587889",
+          "postId": "2097001450941587889",
+          "postedAt": "2026-09-07T16:38:00.000Z"
+        }
+      ],
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "HiMahendraBeniwal/female-atlas",
+      "name": "female-atlas",
+      "description": "Explore the reference female anatomy across 3,004 individually modeled structures and 16 systems with authentic female morphology in real-time 3D.",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 25,
+      "forks": 10,
+      "created": "2026-09-07T00:14:05Z",
+      "updated": "2026-09-07T01:00:58Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://female-atlas.outme.lol/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-19T13:14:33.427Z",
+      "lastAvailableAt": "2026-10-19T13:14:33.427Z",
+      "lastAttemptAt": "2026-10-19T13:14:33.427Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "HiMahendraBeniwal/female-atlas",
+        "postUrl": "https://x.com/i/web/status/2096771114198544448",
+        "url": "https://female-atlas.outme.lol/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2096858571342495983",
+          "postId": "2096858571342495983",
+          "postedAt": "2026-09-07T07:10:15.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2096771114198544448",
+          "postId": "2096771114198544448",
+          "postedAt": "2026-09-07T01:22:44.000Z"
+        }
+      ],
+      "subjects": [
+        "3D & graphics"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "3D"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://female-atlas.outme.lol/",
+        "attemptedAt": "2026-10-19T13:14:43.530Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-19T13:14:43.530Z",
+        "lastWorkingAt": "2026-10-19T13:14:43.530Z",
+        "target": "https://female-atlas.outme.lol/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-26T13:14:43.530Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/08f3a10c3811fb946b6e507a.jpg",
+          "kind": "demo",
+          "url": "https://female-atlas.outme.lol/",
+          "capturedAt": "2026-10-19T13:14:43.530Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-19T13:14:43.530Z",
+      "previewCheck": {
+        "url": "https://female-atlas.outme.lol/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-19T13:14:43.530Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-26T13:14:43.531Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "VII-Cae/hyalite--liquid-glass",
+      "name": "hyalite--liquid-glass",
+      "description": "Real refraction liquid glass for the web: SDF lens maps + SVG displacement + backdrop-filter. One file, no WebGL.",
+      "category": "Design",
+      "language": "JavaScript",
+      "stars": 237,
+      "forks": 12,
+      "created": "2026-09-07T01:20:43Z",
+      "updated": "2026-09-11T12:58:50Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://vii-cae.github.io/hyalite--liquid-glass/demo/index.html",
+      "topics": [
+        "backdrop-filter",
+        "css",
+        "glassmorphism",
+        "liquid-glass",
+        "refraction",
+        "svg-filters"
+      ],
+      "demo": "https://vii-cae.github.io/hyalite--liquid-glass/demo/index.html",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-18T09:17:04.794Z",
+      "lastAttemptAt": "2026-10-18T09:17:04.794Z",
+      "lastAvailableAt": "2026-10-18T09:17:04.794Z",
+      "metrics": [
+        {
+          "at": "2026-10-11T04:29:41.876Z",
+          "stars": 231,
+          "forks": 11
+        },
+        {
+          "at": "2026-10-15T13:02:06.193Z",
+          "stars": 234,
+          "forks": 12
+        },
+        {
+          "at": "2026-10-18T09:17:04.794Z",
+          "stars": 237,
+          "forks": 12
+        }
+      ],
+      "technologies": [],
+      "overview": {
+        "kind": "readme",
+        "version": 1,
+        "paragraphs": [
+          "Real refraction “liquid glass” for the web. One file, no WebGL, no build step.",
+          "Hyalite treats an element as a slab of glass with a bevelled edge. For the element’s exact size and corner radii it computes a lens map, feeds it to an SVG filter, and lets the browser bend whatever is behind the element through backdrop-filter: url(#…). The centre stays clear; the edge pulls the world inward the way a thick piece of glass does, darkens where it magnifies, and catches a line of light along the rim. Straight lines curve, not smear.",
+          "Named after hyalite, the water-clear glassy opal. It also sounds like highlight, which is what the edge is about."
+        ],
+        "features": [
+          "demo/index.html — all four engines at once, each on the settings its own release was shown at: 0.1.0 bends, 0.2.0 does it cheaply, 0.3.1 loses the staircase, 0.4.0 shades the edge and stops being shy about it, 0.5.0…",
+          "demo/edge-lab.html — the three bevel profiles side by side on one set of parameters, with an oscilloscope for the edge: displacement, the brightness the caustic implies, and the signed profile that comes out of them.",
+          "demo/cases.html — self-checking page: asymmetric, elliptical and overlap-rule radii, twins sharing a filter, size buckets, quarter-symmetry read back out of the map, a seam-free direction field on a circle, a dispersion…",
+          "demo/run-cases.mjs — not a page to open: a command-line script that runs cases.html in a real headless Chromium and prints red/green with an exit code. npm test, or node demo/run-cases.mjs (Node 22+, no dependencies).…"
+        ],
+        "sourceUrl": "https://github.com/VII-Cae/hyalite--liquid-glass/blob/main/README.md",
+        "fingerprint": "db664c19edb19c7e1217e96ad23fb3bc47d651a3ec30833a1c2440a230153cf9",
+        "extractedAt": "2026-10-11T04:29:42.009Z"
+      },
+      "overviewCheckedAt": "2026-10-15T13:02:06.362Z",
+      "projectInsights": {
+        "version": 1,
+        "whatItDoes": {
+          "text": "Real refraction “liquid glass” for the web. One file, no WebGL, no build step.",
+          "sourceUrl": "https://github.com/VII-Cae/hyalite--liquid-glass/blob/main/README.md"
+        },
+        "audience": [],
+        "requirements": [],
+        "fingerprint": "db664c19edb19c7e1217e96ad23fb3bc47d651a3ec30833a1c2440a230153cf9",
+        "sourceUrl": "https://github.com/VII-Cae/hyalite--liquid-glass/blob/main/README.md",
+        "checkedAt": "2026-10-15T13:02:06.362Z"
+      },
+      "overviewRepoUpdated": "2026-09-11T12:58:50Z",
+      "readmeSnapshot": {
+        "version": 1,
+        "status": "saved",
+        "sourceUrl": "https://github.com/VII-Cae/hyalite--liquid-glass/blob/main/README.md",
+        "checkedAt": "2026-10-15T13:02:06.362Z",
+        "hash": "db664c19edb19c7e1217e96ad23fb3bc47d651a3ec30833a1c2440a230153cf9",
+        "originalBytes": 21581,
+        "storedBytes": 21581,
+        "truncated": false
+      },
+      "lastDemoCheckedAt": "2026-10-15T13:02:06.364Z",
+      "subjects": [
+        "3D & graphics"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "WebGL"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [
+          "Maths & algorithms"
+        ],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://vii-cae.github.io/hyalite--liquid-glass/demo/index.html",
+        "attemptedAt": "2026-10-18T05:16:08.827Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-18T05:16:08.827Z",
+        "lastWorkingAt": "2026-10-18T05:16:08.827Z",
+        "target": "https://vii-cae.github.io/hyalite--liquid-glass/demo/index.html",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-25T05:16:08.827Z"
+      },
+      "previewAttemptAt": "2026-10-18T05:16:08.827Z",
+      "previewCheck": {
+        "url": "https://vii-cae.github.io/hyalite--liquid-glass/demo/index.html",
+        "attemptedAt": "2026-10-18T05:16:08.827Z",
+        "consecutiveFailures": 0,
+        "status": "captured",
+        "reason": null,
+        "nextCheckAt": "2026-10-25T05:16:08.827Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/0428a3203faa9837b86b99f2.jpg",
+          "kind": "demo",
+          "capturedAt": "2026-10-18T05:16:08.827Z",
+          "url": "https://vii-cae.github.io/hyalite--liquid-glass/demo/index.html"
+        }
+      ],
+      "qualityPriority": false,
+      "enrichmentAttemptAt": "2026-10-11T06:15:37.675Z",
+      "latestRelease": {
+        "name": "hyalite 0.5.0 — the glass never switches off",
+        "tag": "v0.5.0",
+        "publishedAt": "2026-09-11T09:59:30Z",
+        "url": "https://github.com/VII-Cae/hyalite--liquid-glass/releases/tag/v0.5.0"
+      },
+      "releaseCheckedAt": "2026-10-11T06:15:37.675Z",
+      "repositoryId": 1359630749,
+      "spaces": [],
+      "communityPosts": [],
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2096826840375787956",
+          "postId": "2096826840375787956",
+          "postedAt": "2026-09-07T05:04:10.000Z"
+        }
+      ],
       "sourceCategories": [
         "As Seen On X.com"
       ]

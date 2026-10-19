@@ -1,15 +1,15 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-19T07:23:30.524Z
+Checked: 2026-10-19T13:15:11.974Z
 
-Quality-ready repositories: **35**
+Quality-ready repositories: **43**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 419 | 255 | 167 | 53 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 191 | 188 | 220 | 83 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 454 | 272 | 177 | 56 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 206 | 203 | 232 | 90 |
 | (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 20 |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 180 | 31 | 24 | 8 |
 | url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 372 | 187 | 189 | 83 |
@@ -19,7 +19,6 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | Repository | Demo | Screenshot | Source post |
 | --- | --- | --- | --- |
 | [mertkayacs/jevalt](https://github.com/mertkayacs/jevalt) | [Try demo](https://huggingface.co/spaces/mertkayacs/JevAlt) | [Screenshot](previews/d3963c7dca60c7974cc34e09.jpg) | [Source](https://x.com/i/web/status/2105594599016390722) |
-| [Xuzhen-Li/grapeancestry](https://github.com/Xuzhen-Li/grapeancestry) | [Try demo](https://xuzhen-li.github.io/grapeancestry/demo/results/ramos2019_np.batch.report.html) | [Screenshot](previews/8ef4eaeb2ada14b6debf5140.jpg) | [Source](https://x.com/i/web/status/2105495541664944445) |
 | [AryanSingh1112/SkillSwap](https://github.com/AryanSingh1112/SkillSwap) | [Try demo](https://skill-swap-one-kappa.vercel.app/) | [Screenshot](previews/ec02acc584d4f7bf0a8e0129.jpg) | [Source](https://x.com/i/web/status/2111715116471484792) |
 | [Aidoku/Aidoku](https://github.com/Aidoku/Aidoku) | [Try demo](https://aidoku.app/) | [Screenshot](previews/ede7a48e96467dd74fc5b04d.jpg) | [Source](https://x.com/i/web/status/2111695204096856253) |
 | [neromtoobad/syncly](https://github.com/neromtoobad/syncly) | [Try demo](https://hiresyncly.site/#money) | [Screenshot](previews/c5967acfff55b7b301503e3d.jpg) | [Source](https://x.com/i/web/status/2111678738488553829) |
@@ -36,7 +35,6 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | [Try demo](https://www.hyperframes.dev/) | [Screenshot](previews/0495d9fe7b8c8525366761e8.jpg) | [Source](https://x.com/i/web/status/2111745599691534568) |
 | [0xdopewilly/blackout](https://github.com/0xdopewilly/blackout) | [Try demo](https://blackout-cover.vercel.app/) | [Screenshot](previews/ffa7c8903db6bb24f99bfddc.jpg) | [Source](https://x.com/i/web/status/2111740777433125103) |
 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | [Try demo](https://boykopovar.github.io/AnyPS5/) | [Screenshot](previews/1b4e8367b982b7077de0ae85.jpg) | [Source](https://x.com/i/web/status/2111736543601889300) |
-| [tumio-ltd/focusflow](https://github.com/tumio-ltd/focusflow) | [Try demo](https://focusflow.tumio.site/) | [Screenshot](previews/049a950b34863b4ccd4b46a8.jpg) | [Source](https://x.com/i/web/status/2111721214834303396) |
 | [hackerjose25/Arkiv-Hack](https://github.com/hackerjose25/Arkiv-Hack) | [Try demo](https://arkivsight.vercel.app/) | [Screenshot](previews/e88f95cf1714d4b8f5ac36fd.jpg) | [Source](https://x.com/i/web/status/2111719381684408608) |
 | [google-research/harness2](https://github.com/google-research/harness2) | [Try demo](https://arxiv.org/abs/2610.14224) | [Screenshot](previews/fe144c269fb7ef5a76b85f7b.jpg) | [Source](https://x.com/i/web/status/2111681465385632151) |
 | [solidfdn/judgment-transfer](https://github.com/solidfdn/judgment-transfer) | [Try demo](https://judgment-transfer-unql76xapq-an.a.run.app/assets/demo/index.html) | [Screenshot](previews/94bb375ec0963f3a4eb484c0.jpg) | [Source](https://x.com/i/web/status/2111663396466971034) |
@@ -49,9 +47,19 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [dummdidumm/sveltekit-books](https://github.com/dummdidumm/sveltekit-books) | [Try demo](https://www.next-books.dev/) | [Screenshot](previews/a43c49a5a2f2c12f52978746.jpg) | [Source](https://x.com/i/web/status/2097441618068406448) |
 | [qianyubtc/cfmeeting](https://github.com/qianyubtc/cfmeeting) | [Try demo](https://demo.realtime.cloudflare.com/meeting?demo=Default) | [Screenshot](previews/79e579a846af79a38c1d2b50.jpg) | [Source](https://x.com/i/web/status/2097313471482470716) |
 | [dtch1997/fly-api](https://github.com/dtch1997/fly-api) | [Try demo](https://dtch1997.github.io/fly-api/) | [Screenshot](previews/35e7d8ad784c8ab7326125a8.jpg) | [Source](https://x.com/i/web/status/2097302341439345036) |
+| [magiccreator-ai/awesome-gpt-6-astra](https://github.com/magiccreator-ai/awesome-gpt-6-astra) | [Try demo](https://www.paperroute.lol/) | [Screenshot](previews/f870db90d0ad889ef1cef220.jpg) | [Source](https://x.com/i/web/status/2097286217641697459) |
+| [TripoGrowthLab/awesome-astra-prompts](https://github.com/TripoGrowthLab/awesome-astra-prompts) | [Try demo](https://monster-block.tripo.page/) | [Screenshot](previews/8f52f1844c9674abb0ff22b7.jpg) | [Source](https://x.com/i/web/status/2097286217641697459) |
+| [carpentry-liu/awesome-astra-3d](https://github.com/carpentry-liu/awesome-astra-3d) | [Try demo](https://carpentry-liu.github.io/awesome-astra-3d/) | [Screenshot](previews/60276a59ce8d8bcaf3c8b0ed.jpg) | [Source](https://x.com/i/web/status/2097286217641697459) |
 | [GoodnessTech/Arbiter](https://github.com/GoodnessTech/Arbiter) | [Try demo](https://arbiter-web-lake.vercel.app/) | [Screenshot](previews/7bff441f691682a276839fd0.jpg) | [Source](https://x.com/i/web/status/2097203976655519988) |
 | [donatofaith/marketlens-ai](https://github.com/donatofaith/marketlens-ai) | [Try demo](https://marketlens-ai-ten.vercel.app/) | [Screenshot](previews/3636ba7713b0ca2c0229d2ff.jpg) | [Source](https://x.com/i/web/status/2097164814913024449) |
 | [bilibili/Index-Translate](https://github.com/bilibili/Index-Translate) | [Try demo](https://index-translate.bilibili.com/?p=/site/home.html#benchmark-cases) | [Screenshot](previews/9f8d40b083db2f4b24f1b168.jpg) | [Source](https://x.com/i/web/status/2105294684004487406) |
 | [witetech/pocket-tts-turkish](https://github.com/witetech/pocket-tts-turkish) | [Try demo](https://huggingface.co/wite-tech/pocket-tts-turkish) | [Screenshot](previews/8dc8ed51e3b28fe0b292063b.jpg) | [Source](https://x.com/i/web/status/2105263014857286092) |
+| [roboflow/trackers](https://github.com/roboflow/trackers) | [Try demo](https://huggingface.co/spaces/roboflow/trackers) | [Screenshot](previews/8047debc459e8a8f4ae29286.jpg) | [Source](https://x.com/i/web/status/2105296768753918099) |
+| [kerne-protocol/contracts-public](https://github.com/kerne-protocol/contracts-public) | [Try demo](https://kerne.fi/security/acknowledgments) | [Screenshot](previews/84bbbc47096e445e320ac875.jpg) | [Source](https://x.com/i/web/status/2105284140472095212) |
+| [akshayking517/fdvr-headpiece-sim](https://github.com/akshayking517/fdvr-headpiece-sim) | [Try demo](https://akshayking517.github.io/fdvr-headpiece-sim/) | [Screenshot](previews/83086f287af73ef20c26d7f5.jpg) | [Source](https://x.com/i/web/status/2105272101582381101) |
+| [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) | [Try demo](https://mikro-orm.io/blog/mikro-orm-7-2-released) | [Screenshot](previews/b5ce2cf8ec79c0a605d36a84.jpg) | [Source](https://x.com/i/web/status/2097008541714330053) |
+| [achimala/dream-loop](https://github.com/achimala/dream-loop) | [Try demo](https://dream-loop-demo.anshu.dev/) | [Screenshot](previews/5abcb91106f08359b4ea0959.jpg) | [Source](https://x.com/i/web/status/2097001450941587889) |
+| [HiMahendraBeniwal/female-atlas](https://github.com/HiMahendraBeniwal/female-atlas) | [Try demo](https://female-atlas.outme.lol/) | [Screenshot](previews/08f3a10c3811fb946b6e507a.jpg) | [Source](https://x.com/i/web/status/2096858571342495983) |
+| [VII-Cae/hyalite--liquid-glass](https://github.com/VII-Cae/hyalite--liquid-glass) | [Try demo](https://vii-cae.github.io/hyalite--liquid-glass/demo/index.html) | [Screenshot](previews/0428a3203faa9837b86b99f2.jpg) | [Source](https://x.com/i/web/status/2096826840375787956) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.
