@@ -89,7 +89,7 @@
         "start": "2026-07-11T17:41:57.699Z",
         "end": "2026-10-02T17:41:57.699Z",
         "done": false,
-        "nextToken": "b26v89c19zqg8o3juzixw24ud0roipey4xhlc7k44l9q5"
+        "nextToken": "b26v89c19zqg8o3juzixw22fykiwfokxwwgztyxtwp7ct"
       },
       "recent": {
         "start": "2026-10-12T07:22:15.889Z",
@@ -10403,14 +10403,14 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 626,
-        "reposts": 103,
+        "likes": 629,
+        "reposts": 104,
         "replies": 41,
         "quotes": 3
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T11:03:40.067Z",
+      "lastSeenAt": "2026-10-19T07:21:30.837Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-16T09:24:41.736Z"
     },
@@ -59092,6 +59092,278 @@
         }
       ],
       "lastSeenAt": "2026-10-19T07:21:21.695Z"
+    },
+    "bilibili/index-translate": {
+      "full": "bilibili/Index-Translate",
+      "firstSeenAt": "2026-10-19T07:21:30.837Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105294684004487406",
+          "postId": "2105294684004487406",
+          "postedAt": "2026-09-30T13:52:21.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://huggingface.co/IndexTeam",
+        "https://index-translate.bilibili.com/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://huggingface.co/IndexTeam",
+          "postUrl": "https://x.com/i/web/status/2105294684004487406",
+          "repository": "bilibili/Index-Translate"
+        },
+        {
+          "url": "https://index-translate.bilibili.com/",
+          "postUrl": "https://x.com/i/web/status/2105294684004487406",
+          "repository": "bilibili/Index-Translate"
+        }
+      ],
+      "lastSeenAt": "2026-10-19T07:21:30.837Z"
+    },
+    "mpereiraesaa/prospero-win": {
+      "full": "mpereiraesaa/prospero-win",
+      "firstSeenAt": "2026-10-19T07:21:30.837Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105280863533781246",
+          "postId": "2105280863533781246",
+          "postedAt": "2026-09-30T12:57:26.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 3,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 1
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-19T07:21:30.837Z"
+    },
+    "witetech/pocket-tts-turkish": {
+      "full": "witetech/pocket-tts-turkish",
+      "firstSeenAt": "2026-10-19T07:21:30.837Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105263014857286092",
+          "postId": "2105263014857286092",
+          "postedAt": "2026-09-30T11:46:31.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://huggingface.co/wite-tech/pocket-tts-turkish",
+        "https://huggingface.co/spaces/wite-tech/pocket-tts-turkish"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://huggingface.co/wite-tech/pocket-tts-turkish",
+          "postUrl": "https://x.com/i/web/status/2105263014857286092",
+          "repository": "witetech/pocket-tts-turkish"
+        },
+        {
+          "url": "https://huggingface.co/spaces/wite-tech/pocket-tts-turkish",
+          "postUrl": "https://x.com/i/web/status/2105263014857286092",
+          "repository": "witetech/pocket-tts-turkish"
+        }
+      ],
+      "lastSeenAt": "2026-10-19T07:21:30.837Z"
+    },
+    "doxbrix/doxloop": {
+      "full": "doxbrix/doxloop",
+      "firstSeenAt": "2026-10-19T07:21:30.837Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105261188590473656",
+          "postId": "2105261188590473656",
+          "postedAt": "2026-09-30T11:39:15.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://www.npmjs.com/package/@doxbrix/doxloop"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://www.npmjs.com/package/@doxbrix/doxloop",
+          "postUrl": "https://x.com/i/web/status/2105261188590473656",
+          "repository": "doxbrix/doxloop"
+        }
+      ],
+      "lastSeenAt": "2026-10-19T07:21:30.837Z"
+    },
+    "immich-app/immich": {
+      "full": "immich-app/immich",
+      "firstSeenAt": "2026-10-19T07:21:30.837Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105241746183725422",
+          "postId": "2105241746183725422",
+          "postedAt": "2026-09-30T10:22:00.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://docs.immich.app/overview/quick-start/",
+        "https://docs.immich.app/",
+        "https://demo.immich.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://docs.immich.app/overview/quick-start/",
+          "postUrl": "https://x.com/i/web/status/2105241746183725422",
+          "repository": "immich-app/immich"
+        },
+        {
+          "url": "https://docs.immich.app/",
+          "postUrl": "https://x.com/i/web/status/2105241746183725422",
+          "repository": "immich-app/immich"
+        },
+        {
+          "url": "https://demo.immich.app/",
+          "postUrl": "https://x.com/i/web/status/2105241746183725422",
+          "repository": "immich-app/immich"
+        }
+      ],
+      "lastSeenAt": "2026-10-19T07:21:30.837Z"
+    },
+    "botrail/botrail": {
+      "full": "botrail/botrail",
+      "firstSeenAt": "2026-10-19T07:21:30.837Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105228858882687200",
+          "postId": "2105228858882687200",
+          "postedAt": "2026-09-30T09:30:47.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-19T07:21:30.837Z"
+    },
+    "timidan/cuebound": {
+      "full": "Timidan/cuebound",
+      "firstSeenAt": "2026-10-19T07:21:30.837Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105220001162559734",
+          "postId": "2105220001162559734",
+          "postedAt": "2026-09-30T08:55:36.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 5,
+        "reposts": 2,
+        "replies": 3,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-19T07:21:30.837Z"
+    },
+    "ccubetez/solana-fleet-panel": {
+      "full": "ccubetez/solana-fleet-panel",
+      "firstSeenAt": "2026-10-19T07:21:30.837Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105216494179098743",
+          "postId": "2105216494179098743",
+          "postedAt": "2026-09-30T08:41:39.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 8,
+        "reposts": 1,
+        "replies": 2,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-19T07:21:30.837Z"
+    },
+    "petrzpav/omarchy-mail": {
+      "full": "petrzpav/omarchy-mail",
+      "firstSeenAt": "2026-10-19T07:21:30.837Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105216132634628296",
+          "postId": "2105216132634628296",
+          "postedAt": "2026-09-30T08:40:13.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-19T07:21:30.837Z"
     }
   },
   "lastRun": {
@@ -59356,7 +59628,6 @@
     "2105822681476350005",
     "2105822440207327365",
     "2105822344015204625",
-    "2105271130215064056",
     "2105204499266855051",
     "2105180532770242782",
     "2105053913485586669",
@@ -60000,7 +60271,19 @@
     "2111648293944205526",
     "2111644443803791536",
     "2111633513132781791",
-    "2111618314174931378"
+    "2111618314174931378",
+    "2105294684004487406",
+    "2105280863533781246",
+    "2105271130215064056",
+    "2105263014857286092",
+    "2105261188590473656",
+    "2105254213244923923",
+    "2105241746183725422",
+    "2105228858882687200",
+    "2105224474211864662",
+    "2105220001162559734",
+    "2105216494179098743",
+    "2105216132634628296"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -60037,9 +60320,9 @@
     },
     "a0153cbebcc5cf46": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
-      "posts": 360,
-      "uniquePosts": 176,
-      "newCandidates": 180,
+      "posts": 372,
+      "uniquePosts": 187,
+      "newCandidates": 189,
       "validationAttempts": 162,
       "accepted": 78
     }
@@ -60607,6 +60890,46 @@
       },
       "nextAttemptAt": "2026-10-25T11:04:36.566Z",
       "reason": "no_repository_link"
+    },
+    "https://www.linkedin.com/pulse/marg-career-guidance-website-manjit-das-ofe3f": {
+      "url": "https://www.linkedin.com/pulse/marg-career-guidance-website-manjit-das-ofe3f",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105224474211864662",
+          "postId": "2105224474211864662",
+          "postedAt": "2026-09-30T09:13:22.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-10-19T07:21:30.837Z",
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      }
+    },
+    "https://marg-eta.vercel.app/": {
+      "url": "https://marg-eta.vercel.app/",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105224474211864662",
+          "postId": "2105224474211864662",
+          "postedAt": "2026-09-30T09:13:22.000Z"
+        }
+      ],
+      "firstSeenAt": "2026-10-19T07:21:30.837Z",
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      }
     }
   },
   "lastDemoDiscovery": {
