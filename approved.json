@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-20T11:09:50.767Z",
+  "updatedAt": "2026-10-20T11:37:47.791Z",
   "runtimeRevision": "ed71211be3a262dd1b928f3740f110b041b3708e",
   "checked": 20,
   "repositories": [
@@ -2256,6 +2256,575 @@
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-27T11:09:30.995Z"
       },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "erickyegon/within-reach",
+      "name": "within-reach",
+      "description": "Money buys hospitals, compactness buys access. R + Shiny analysis of hospital access in 11,422 cities (#TidyTuesday 2026 wk 39)",
+      "category": "Finance",
+      "language": "R",
+      "stars": 1,
+      "forks": 0,
+      "created": "2026-09-29T18:11:23Z",
+      "updated": "2026-10-05T23:15:28Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": null,
+      "topics": [
+        "data-visualization",
+        "health-access",
+        "r",
+        "shiny",
+        "tidytuesday"
+      ],
+      "demo": "https://01a0ee6a-97e7-2695-7bb6-f897551993b8.share.connect.posit.cloud/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-20T11:37:15.500Z",
+      "lastAvailableAt": "2026-10-20T11:37:15.500Z",
+      "lastAttemptAt": "2026-10-20T11:37:15.500Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105003983999832240",
+          "postId": "2105003983999832240",
+          "postedAt": "2026-09-29T18:37:13.000Z"
+        }
+      ],
+      "subjects": [
+        "Data & dashboards"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Finance",
+        "subjects": [
+          "Data & dashboards"
+        ],
+        "evidence": [
+          {
+            "subject": "Data & dashboards",
+            "source": "metadata",
+            "match": "data visualization"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://01a0ee6a-97e7-2695-7bb6-f897551993b8.share.connect.posit.cloud/",
+        "attemptedAt": "2026-10-20T11:37:24.822Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-20T11:37:24.822Z",
+        "lastWorkingAt": "2026-10-20T11:37:24.822Z",
+        "target": "https://01a0ee6a-97e7-2695-7bb6-f897551993b8.share.connect.posit.cloud/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-27T11:37:24.822Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/95b5a7172fb7433927db3e2c.jpg",
+          "kind": "demo",
+          "url": "https://01a0ee6a-97e7-2695-7bb6-f897551993b8.share.connect.posit.cloud/",
+          "capturedAt": "2026-10-20T11:37:24.822Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-20T11:37:24.822Z",
+      "previewCheck": {
+        "url": "https://01a0ee6a-97e7-2695-7bb6-f897551993b8.share.connect.posit.cloud/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-20T11:37:24.822Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-27T11:37:24.823Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Lokie-ree/still-true",
+      "name": "still-true",
+      "description": "Public answers that tell you when they stopped being true. Built for the Convex All Gas Hackathon.",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-08-30T22:47:56Z",
+      "updated": "2026-09-22T00:47:33Z",
+      "branch": "main",
+      "homepage": "https://impressive-marten-163.convex.site/",
+      "topics": [],
+      "demo": "https://impressive-marten-163.convex.site/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-20T11:37:25.800Z",
+      "lastAvailableAt": "2026-10-20T11:37:25.800Z",
+      "lastAttemptAt": "2026-10-20T11:37:25.800Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "Lokie-ree/still-true",
+        "postUrl": "https://x.com/i/web/status/2104999829558477016",
+        "url": "https://impressive-marten-163.convex.site/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104999829558477016",
+          "postId": "2104999829558477016",
+          "postedAt": "2026-09-29T18:20:43.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://impressive-marten-163.convex.site/",
+        "attemptedAt": "2026-10-20T11:37:29.312Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-20T11:37:29.312Z",
+        "lastWorkingAt": "2026-10-20T11:37:29.312Z",
+        "target": "https://impressive-marten-163.convex.site/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-27T11:37:29.312Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/74fa91de241ae8809a37bc8a.jpg",
+          "kind": "demo",
+          "url": "https://impressive-marten-163.convex.site/",
+          "capturedAt": "2026-10-20T11:37:29.312Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-20T11:37:29.312Z",
+      "previewCheck": {
+        "url": "https://impressive-marten-163.convex.site/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-20T11:37:29.312Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-27T11:37:29.312Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "alesha-pro/bench-portal",
+      "name": "bench-portal",
+      "description": "Playable browser game benchmark portal",
+      "category": "Other",
+      "language": "HTML",
+      "stars": 30,
+      "forks": 13,
+      "created": "2026-08-01T21:25:20Z",
+      "updated": "2026-10-07T23:28:22Z",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://whiteout-protocol.vercel.app/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-20T11:37:30.093Z",
+      "lastAvailableAt": "2026-10-20T11:37:30.093Z",
+      "lastAttemptAt": "2026-10-20T11:37:30.093Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "alesha-pro/bench-portal",
+        "postUrl": "https://x.com/i/web/status/2104999509801500810",
+        "url": "https://whiteout-protocol.vercel.app/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104999509801500810",
+          "postId": "2104999509801500810",
+          "postedAt": "2026-09-29T18:19:26.000Z"
+        }
+      ],
+      "subjects": [
+        "Games & game development"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [
+          "Games & game development"
+        ],
+        "evidence": [
+          {
+            "subject": "Games & game development",
+            "source": "metadata",
+            "match": "game"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://whiteout-protocol.vercel.app/",
+        "attemptedAt": "2026-10-20T11:37:36.992Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-20T11:37:36.992Z",
+        "lastWorkingAt": "2026-10-20T11:37:36.992Z",
+        "target": "https://whiteout-protocol.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-27T11:37:36.992Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/d25099685d17b353e7dfb974.jpg",
+          "kind": "demo",
+          "url": "https://whiteout-protocol.vercel.app/",
+          "capturedAt": "2026-10-20T11:37:36.992Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-20T11:37:36.992Z",
+      "previewCheck": {
+        "url": "https://whiteout-protocol.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-20T11:37:36.992Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-27T11:37:36.993Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "polozad/hardcraft-dist",
+      "name": "hardcraft-dist",
+      "description": "Hardcraft — downloads: add-on zips and the CAD Tools converter package",
+      "category": "Developer tools",
+      "language": null,
+      "stars": 66,
+      "forks": 1,
+      "created": "2026-07-27T20:30:32Z",
+      "updated": "2026-10-14T21:15:19Z",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://polozad.github.io/hardcraft-docs/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-20T11:36:24.794Z",
+      "lastAvailableAt": "2026-10-20T11:36:24.794Z",
+      "lastAttemptAt": "2026-10-20T11:36:24.794Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "polozad/hardcraft-dist",
+        "postUrl": "https://x.com/i/web/status/2096616926701117849",
+        "url": "https://polozad.github.io/hardcraft-docs/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2096616926701117849",
+          "postId": "2096616926701117849",
+          "postedAt": "2026-09-06T15:10:03.000Z"
+        }
+      ],
+      "subjects": [
+        "Architecture & building design"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "Architecture & building design"
+        ],
+        "evidence": [
+          {
+            "subject": "Architecture & building design",
+            "source": "metadata",
+            "match": "CAD"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://polozad.github.io/hardcraft-docs/",
+        "attemptedAt": "2026-10-20T11:36:28.052Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-20T11:36:28.052Z",
+        "lastWorkingAt": "2026-10-20T11:36:28.052Z",
+        "target": "https://polozad.github.io/hardcraft-docs/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-27T11:36:28.052Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/7c8705329096fdf97e7be65a.jpg",
+          "kind": "demo",
+          "url": "https://polozad.github.io/hardcraft-docs/",
+          "capturedAt": "2026-10-20T11:36:28.052Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-20T11:36:28.052Z",
+      "previewCheck": {
+        "url": "https://polozad.github.io/hardcraft-docs/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-20T11:36:28.052Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-27T11:36:28.053Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "echohtp/brightpixels",
+      "name": "brightpixels",
+      "description": "Dependency-free HDR text, images, shapes, edge glow, interaction feedback, and GPU particles for the web.",
+      "category": "Other",
+      "language": "JavaScript",
+      "stars": 15,
+      "forks": 1,
+      "created": "2026-09-05T18:12:55Z",
+      "updated": "2026-09-17T00:50:38Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://echohtp.github.io/brightpixels/",
+      "topics": [],
+      "demo": "https://echohtp.github.io/brightpixels/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-20T11:36:29.827Z",
+      "lastAvailableAt": "2026-10-20T11:36:29.827Z",
+      "lastAttemptAt": "2026-10-20T11:36:29.827Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2096343573784330486",
+          "postId": "2096343573784330486",
+          "postedAt": "2026-09-05T21:03:50.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://echohtp.github.io/brightpixels/",
+        "attemptedAt": "2026-10-20T11:36:33.097Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-20T11:36:33.097Z",
+        "lastWorkingAt": "2026-10-20T11:36:33.097Z",
+        "target": "https://echohtp.github.io/brightpixels/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-27T11:36:33.097Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/b6314b66b32a3799dbdee1c7.jpg",
+          "kind": "demo",
+          "url": "https://echohtp.github.io/brightpixels/",
+          "capturedAt": "2026-10-20T11:36:33.097Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-20T11:36:33.097Z",
+      "previewCheck": {
+        "url": "https://echohtp.github.io/brightpixels/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-20T11:36:33.097Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-27T11:36:33.098Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "SafaElmali/dualsense-studio",
+      "name": "dualsense-studio",
+      "description": "Interactive PS5 DualSense recreation with Three.js, moving controls, gamepad input, and locally bundled assets.",
+      "category": "Other",
+      "language": "JavaScript",
+      "stars": 44,
+      "forks": 12,
+      "created": "2026-09-04T20:30:58Z",
+      "updated": "2026-09-24T05:40:59Z",
+      "branch": "main",
+      "homepage": "dualsense.studio",
+      "topics": [],
+      "demo": "https://dualsense.studio/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-19T05:02:29.312Z",
+      "lastAttemptAt": "2026-10-19T05:02:29.312Z",
+      "lastAvailableAt": "2026-10-19T05:02:29.312Z",
+      "metrics": [
+        {
+          "at": "2026-10-09T18:01:23.198Z",
+          "stars": 44,
+          "forks": 12
+        },
+        {
+          "at": "2026-10-13T04:15:16.839Z",
+          "stars": 44,
+          "forks": 12
+        },
+        {
+          "at": "2026-10-19T05:02:29.312Z",
+          "stars": 44,
+          "forks": 12
+        }
+      ],
+      "technologies": [],
+      "overview": {
+        "kind": "readme",
+        "version": 1,
+        "paragraphs": [
+          "Public playground edition. This repository contains the controller playground. Streamer mode and the community gallery remain available on dualsense.studio; their implementation is maintained separately."
+        ],
+        "features": [],
+        "sourceUrl": "https://github.com/SafaElmali/dualsense-studio/blob/main/README.md",
+        "fingerprint": "9404414ef761bf5682182a6efbc60a26c9ad363b5c96515d6077baaef2c8f65e",
+        "extractedAt": "2026-10-09T18:01:23.304Z"
+      },
+      "overviewCheckedAt": "2026-10-09T18:01:23.304Z",
+      "projectInsights": {
+        "version": 1,
+        "whatItDoes": {
+          "text": "Public playground edition. This repository contains the controller playground. Streamer mode and the community gallery remain available on dualsense.studio; their implementation is maintained separately.",
+          "sourceUrl": "https://github.com/SafaElmali/dualsense-studio/blob/main/README.md"
+        },
+        "audience": [],
+        "requirements": [],
+        "fingerprint": "9404414ef761bf5682182a6efbc60a26c9ad363b5c96515d6077baaef2c8f65e",
+        "sourceUrl": "https://github.com/SafaElmali/dualsense-studio/blob/main/README.md",
+        "checkedAt": "2026-10-09T18:01:23.304Z"
+      },
+      "overviewRepoUpdated": "2026-09-24T05:40:59Z",
+      "readmeSnapshot": {
+        "version": 1,
+        "status": "saved",
+        "sourceUrl": "https://github.com/SafaElmali/dualsense-studio/blob/main/README.md",
+        "checkedAt": "2026-10-09T18:01:23.304Z",
+        "hash": "9404414ef761bf5682182a6efbc60a26c9ad363b5c96515d6077baaef2c8f65e",
+        "originalBytes": 2174,
+        "storedBytes": 2174,
+        "truncated": false
+      },
+      "lastDemoCheckedAt": "2026-10-09T18:01:23.198Z",
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [
+          "Animation & motion"
+        ],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://dualsense.studio/",
+        "attemptedAt": "2026-10-16T18:22:15.645Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-16T18:22:15.645Z",
+        "lastWorkingAt": "2026-10-16T18:22:15.645Z",
+        "target": "https://dualsense.studio/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-23T18:22:15.645Z"
+      },
+      "previewAttemptAt": "2026-10-16T18:22:15.645Z",
+      "previewCheck": {
+        "url": "https://dualsense.studio/",
+        "attemptedAt": "2026-10-16T18:22:15.645Z",
+        "consecutiveFailures": 0,
+        "status": "captured",
+        "reason": null,
+        "nextCheckAt": "2026-10-23T18:22:15.645Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/05510ccfddb475535255b556.jpg",
+          "kind": "demo",
+          "capturedAt": "2026-10-16T18:22:15.645Z",
+          "url": "https://dualsense.studio/"
+        }
+      ],
+      "qualityPriority": false,
+      "repositoryId": 1357570269,
+      "repositoryAliases": [],
+      "repositoryEtag": "W/\"537b1d23fe7d7a2fe86691739a19d17b22a5ff09f0c6390a124f86b7d96f1265\"",
+      "repositoryEtagFor": "SafaElmali/dualsense-studio",
+      "spaces": [],
+      "communityPosts": [],
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2095989925627789490",
+          "postId": "2095989925627789490",
+          "postedAt": "2026-09-04T21:38:34.000Z"
+        }
+      ],
       "sourceCategories": [
         "As Seen On X.com"
       ]

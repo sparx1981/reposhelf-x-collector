@@ -1,18 +1,18 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-20T11:09:50.767Z
+Checked: 2026-10-20T11:37:47.791Z
 
-Quality-ready repositories: **19**
+Quality-ready repositories: **25**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 454 | 272 | 177 | 56 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 206 | 203 | 232 | 90 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 221 | 218 | 253 | 93 |
 | (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 20 |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 195 | 31 | 24 | 8 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 405 | 200 | 199 | 88 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 440 | 213 | 212 | 91 |
 
 Acceptance totals are attributed to the first discovery query; these are not controlled experiments.
 
@@ -37,5 +37,11 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [mira-wm/mira](https://github.com/mira-wm/mira) | [Try demo](https://mira-wm.com/) | [Screenshot](previews/4be752fdaf6ab02f1a5daa10.jpg) | [Source](https://x.com/i/web/status/2105150327997469058) |
 | [pseudozach/lightning-pay-kit](https://github.com/pseudozach/lightning-pay-kit) | [Try demo](https://pseudozach.github.io/lightning-pay-kit/) | [Screenshot](previews/8ea6544847a7c9de708adbaf.jpg) | [Source](https://x.com/i/web/status/2105128849143177230) |
 | [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | [Try demo](https://lnkiai.github.io/m3e-canvas/) | [Screenshot](previews/6b247360c3068a7b40623bcc.jpg) | [Source](https://x.com/i/web/status/2105127827473674369) |
+| [erickyegon/within-reach](https://github.com/erickyegon/within-reach) | [Try demo](https://01a0ee6a-97e7-2695-7bb6-f897551993b8.share.connect.posit.cloud/) | [Screenshot](previews/95b5a7172fb7433927db3e2c.jpg) | [Source](https://x.com/i/web/status/2105003983999832240) |
+| [Lokie-ree/still-true](https://github.com/Lokie-ree/still-true) | [Try demo](https://impressive-marten-163.convex.site/) | [Screenshot](previews/74fa91de241ae8809a37bc8a.jpg) | [Source](https://x.com/i/web/status/2104999829558477016) |
+| [alesha-pro/bench-portal](https://github.com/alesha-pro/bench-portal) | [Try demo](https://whiteout-protocol.vercel.app/) | [Screenshot](previews/d25099685d17b353e7dfb974.jpg) | [Source](https://x.com/i/web/status/2104999509801500810) |
+| [polozad/hardcraft-dist](https://github.com/polozad/hardcraft-dist) | [Try demo](https://polozad.github.io/hardcraft-docs/) | [Screenshot](previews/7c8705329096fdf97e7be65a.jpg) | [Source](https://x.com/i/web/status/2096616926701117849) |
+| [echohtp/brightpixels](https://github.com/echohtp/brightpixels) | [Try demo](https://echohtp.github.io/brightpixels/) | [Screenshot](previews/b6314b66b32a3799dbdee1c7.jpg) | [Source](https://x.com/i/web/status/2096343573784330486) |
+| [SafaElmali/dualsense-studio](https://github.com/SafaElmali/dualsense-studio) | [Try demo](https://dualsense.studio/) | [Screenshot](previews/05510ccfddb475535255b556.jpg) | [Source](https://x.com/i/web/status/2095989925627789490) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.
