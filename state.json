@@ -42,7 +42,8 @@
       },
       "recent": {
         "start": "2026-10-14T11:48:53.890Z",
-        "end": "2026-10-18T08:29:11.721Z"
+        "end": "2026-10-18T08:29:11.721Z",
+        "nextToken": "b26v89c19zqg8o3juzlvzk7yuiea8lhjs7kpzjwtt0xa5"
       }
     },
     "2c0438e5283099cf": {
@@ -53494,7 +53495,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-19T13:13:23.261Z",
+      "lastSeenAt": "2026-10-21T11:47:59.617Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-26T13:15:00.469Z"
     },
@@ -53534,7 +53535,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-19T13:13:23.261Z",
+      "lastSeenAt": "2026-10-21T11:47:59.617Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-25T08:32:35.473Z"
     },
@@ -53560,7 +53561,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-19T13:13:23.261Z",
+      "lastSeenAt": "2026-10-21T11:47:59.617Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-26T07:23:22.563Z"
     },
@@ -53579,14 +53580,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 0,
+        "likes": 1,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-19T13:13:23.261Z"
+      "lastSeenAt": "2026-10-21T11:47:59.617Z"
     },
     "aryansingh1112/skillswap": {
       "full": "AryanSingh1112/SkillSwap",
@@ -53610,7 +53611,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-19T13:13:23.261Z",
+      "lastSeenAt": "2026-10-21T11:47:59.617Z",
       "entry": {
         "availability": "available",
         "full": "AryanSingh1112/SkillSwap",
@@ -53710,7 +53711,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-19T13:13:23.261Z",
+      "lastSeenAt": "2026-10-21T11:47:59.617Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-26T13:15:01.274Z"
     },
@@ -53736,7 +53737,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-19T13:13:23.261Z",
+      "lastSeenAt": "2026-10-21T11:47:59.617Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-26T07:23:30.506Z"
     },
@@ -53770,7 +53771,7 @@
           "repository": "Aidoku/Aidoku"
         }
       ],
-      "lastSeenAt": "2026-10-19T13:13:23.261Z",
+      "lastSeenAt": "2026-10-21T11:47:59.617Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "Aidoku/Aidoku",
@@ -53944,11 +53945,11 @@
       "demoLinks": [
         {
           "url": "https://getkimo.tech/",
-          "postUrl": "https://x.com/i/web/status/2111633513132781791",
+          "postUrl": "https://x.com/i/web/status/2111676414890000857",
           "repository": "naman-sharma12345/kimo"
         }
       ],
-      "lastSeenAt": "2026-10-20T11:35:10.725Z",
+      "lastSeenAt": "2026-10-21T11:47:59.617Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "naman-sharma12345/kimo",
@@ -54105,7 +54106,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-19T13:13:23.261Z",
+      "lastSeenAt": "2026-10-21T11:47:59.617Z",
       "entry": {
         "availability": "available",
         "full": "neromtoobad/syncly",
@@ -54220,7 +54221,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-19T13:13:23.261Z",
+      "lastSeenAt": "2026-10-21T11:47:59.617Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-25T08:32:34.483Z"
     },
@@ -54254,7 +54255,7 @@
           "repository": "felixtrz/roadster"
         }
       ],
-      "lastSeenAt": "2026-10-20T11:08:30.999Z",
+      "lastSeenAt": "2026-10-21T11:47:59.617Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "felixtrz/roadster",
@@ -54351,14 +54352,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 6,
+        "likes": 7,
         "reposts": 0,
         "replies": 3,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-19T13:13:23.261Z",
+      "lastSeenAt": "2026-10-21T11:47:59.617Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-25T08:32:34.912Z"
     },
@@ -54384,7 +54385,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-19T13:13:23.261Z"
+      "lastSeenAt": "2026-10-21T11:47:59.617Z"
     },
     "oodle-ai/oodle-onboarding": {
       "full": "oodle-ai/oodle-onboarding",
@@ -54408,7 +54409,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:35:10.725Z"
+      "lastSeenAt": "2026-10-21T11:47:59.617Z"
     },
     "sameernaik2021/farm-management-web-app-claude-ai": {
       "full": "sameernaik2021/farm-management-web-app-claude-ai",
@@ -66649,22 +66650,6 @@
     "2105220001162559734",
     "2105216494179098743",
     "2105216132634628296",
-    "2111729447426486672",
-    "2111721842029514813",
-    "2111721520389353807",
-    "2111719732906750270",
-    "2111715116471484792",
-    "2111713713254461547",
-    "2111704224837079305",
-    "2111695204096856253",
-    "2111679005082411160",
-    "2111678738488553829",
-    "2111677772729115129",
-    "2111676414890000857",
-    "2111672364132143125",
-    "2111659870273650692",
-    "2111659525417705477",
-    "2111651003762463108",
     "2105302514707095993",
     "2105298033001087341",
     "2105296768753918099",
@@ -66712,7 +66697,6 @@
     "2105120890807885884",
     "2105112299107454979",
     "2105076847180714436",
-    "2111675529372086706",
     "2111618616256848227",
     "2111610304572666357",
     "2111568320667541613",
@@ -66740,7 +66724,6 @@
     "2111681465385632151",
     "2111680197267476659",
     "2111663396466971034",
-    "2111650341377003550",
     "2111648293944205526",
     "2111644443803791536",
     "2111633513132781791",
@@ -66776,12 +66759,30 @@
     "2095972160414073242",
     "2095888865827373202",
     "2095849853402177903",
-    "2095725596085289175"
+    "2095725596085289175",
+    "2111729447426486672",
+    "2111721842029514813",
+    "2111721520389353807",
+    "2111719732906750270",
+    "2111715116471484792",
+    "2111713713254461547",
+    "2111704224837079305",
+    "2111695204096856253",
+    "2111679005082411160",
+    "2111678738488553829",
+    "2111677772729115129",
+    "2111676414890000857",
+    "2111675529372086706",
+    "2111672364132143125",
+    "2111659870273650692",
+    "2111659525417705477",
+    "2111651003762463108",
+    "2111650341377003550"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
-      "posts": 454,
+      "posts": 472,
       "uniquePosts": 272,
       "newCandidates": 177,
       "validationAttempts": 174,
