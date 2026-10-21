@@ -79,7 +79,8 @@
       },
       "recent": {
         "start": "2026-10-14T11:49:15.566Z",
-        "end": "2026-10-18T08:29:27.839Z"
+        "end": "2026-10-18T08:29:27.839Z",
+        "nextToken": "b26v89c19zqg8o3juzlvz9kc9xi9meivfulvzglhx5zel"
       }
     },
     "a0153cbebcc5cf46": {
@@ -28104,7 +28105,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:08:30.999Z",
+      "lastSeenAt": "2026-10-21T11:48:20.599Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-17T16:19:47.551Z"
     },
@@ -54254,7 +54255,7 @@
           "repository": "felixtrz/roadster"
         }
       ],
-      "lastSeenAt": "2026-10-21T11:47:59.617Z",
+      "lastSeenAt": "2026-10-21T11:48:20.599Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "felixtrz/roadster",
@@ -54922,7 +54923,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:08:30.999Z",
+      "lastSeenAt": "2026-10-21T11:48:20.599Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-25T08:32:29.172Z"
     },
@@ -54956,7 +54957,7 @@
           "repository": "Khalid-000-ME/xemo"
         }
       ],
-      "lastSeenAt": "2026-10-20T11:08:30.999Z",
+      "lastSeenAt": "2026-10-21T11:48:20.599Z",
       "entry": {
         "availability": "available",
         "full": "Khalid-000-ME/xemo",
@@ -55057,7 +55058,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:08:30.999Z",
+      "lastSeenAt": "2026-10-21T11:48:20.599Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-25T08:32:28.704Z"
     },
@@ -55091,7 +55092,7 @@
           "repository": "felixtrz/chinese-garden"
         }
       ],
-      "lastSeenAt": "2026-10-20T11:08:30.999Z",
+      "lastSeenAt": "2026-10-21T11:48:20.599Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "felixtrz/chinese-garden",
@@ -55197,14 +55198,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 36,
+        "likes": 37,
         "reposts": 14,
         "replies": 2,
         "quotes": 1
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:08:30.999Z",
+      "lastSeenAt": "2026-10-21T11:48:20.599Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-25T08:32:29.636Z"
     },
@@ -55230,7 +55231,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:08:30.999Z",
+      "lastSeenAt": "2026-10-21T11:48:20.599Z",
       "entry": {
         "availability": "available",
         "full": "mttmcknn/sea-glass",
@@ -55330,7 +55331,7 @@
           "repository": "battlejoose/soltoshidice-programs"
         }
       ],
-      "lastSeenAt": "2026-10-20T11:08:30.999Z",
+      "lastSeenAt": "2026-10-21T11:48:20.599Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "battlejoose/soltoshidice-programs",
@@ -55433,7 +55434,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:08:30.999Z",
+      "lastSeenAt": "2026-10-21T11:48:20.599Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-25T08:32:30.103Z"
     },
@@ -55473,7 +55474,7 @@
           "repository": "MELcodes99/paybot"
         }
       ],
-      "lastSeenAt": "2026-10-20T11:08:30.999Z",
+      "lastSeenAt": "2026-10-21T11:48:20.599Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "MELcodes99/paybot",
@@ -55580,7 +55581,7 @@
       "engagement": {
         "likes": 713,
         "reposts": 54,
-        "replies": 17,
+        "replies": 18,
         "quotes": 0
       },
       "demoHints": [
@@ -55593,7 +55594,7 @@
           "repository": "SebasKitten/Grand-V"
         }
       ],
-      "lastSeenAt": "2026-10-20T11:08:30.999Z",
+      "lastSeenAt": "2026-10-21T11:48:20.599Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "SebasKitten/Grand-V",
@@ -55717,7 +55718,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:08:30.999Z",
+      "lastSeenAt": "2026-10-21T11:48:20.599Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-26T07:23:03.830Z"
     },
@@ -55751,7 +55752,7 @@
           "repository": "irfanfaraaz/mailrust"
         }
       ],
-      "lastSeenAt": "2026-10-20T11:08:30.999Z",
+      "lastSeenAt": "2026-10-21T11:48:20.599Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "irfanfaraaz/mailrust",
@@ -61308,7 +61309,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:08:30.999Z",
+      "lastSeenAt": "2026-10-21T11:48:20.599Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-26T07:22:58.080Z"
     },
@@ -66701,20 +66702,6 @@
     "2105120890807885884",
     "2105112299107454979",
     "2105076847180714436",
-    "2111618616256848227",
-    "2111610304572666357",
-    "2111568320667541613",
-    "2111547833744855341",
-    "2111528908080517570",
-    "2111514875851669952",
-    "2111491947361931360",
-    "2111488268894396766",
-    "2111471362598736271",
-    "2111430362689597935",
-    "2111349027069419770",
-    "2111265468073845220",
-    "2111177745350722029",
-    "2111154523058352568",
     "2111774119326810367",
     "2111761648872747475",
     "2111745599691534568",
@@ -66776,7 +66763,6 @@
     "2111678738488553829",
     "2111677772729115129",
     "2111676414890000857",
-    "2111675529372086706",
     "2111672364132143125",
     "2111659870273650692",
     "2111659525417705477",
@@ -66796,7 +66782,22 @@
     "2105268259524407399",
     "2105268119099027617",
     "2105268004716171372",
-    "2105267230934217058"
+    "2105267230934217058",
+    "2111675529372086706",
+    "2111618616256848227",
+    "2111610304572666357",
+    "2111568320667541613",
+    "2111547833744855341",
+    "2111528908080517570",
+    "2111514875851669952",
+    "2111491947361931360",
+    "2111488268894396766",
+    "2111471362598736271",
+    "2111430362689597935",
+    "2111349027069419770",
+    "2111265468073845220",
+    "2111177745350722029",
+    "2111154523058352568"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -66825,7 +66826,7 @@
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 195,
+      "posts": 210,
       "uniquePosts": 31,
       "newCandidates": 24,
       "validationAttempts": 26,
