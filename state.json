@@ -53568,7 +53568,7 @@
     "irekrog/skills-check-updates": {
       "full": "irekrog/skills-check-updates",
       "firstSeenAt": "2026-10-18T08:29:46.247Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -53587,7 +53587,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-21T11:47:59.617Z"
+      "lastSeenAt": "2026-10-21T11:47:59.617Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-28T11:49:17.686Z"
     },
     "aryansingh1112/skillswap": {
       "full": "AryanSingh1112/SkillSwap",
@@ -54390,7 +54392,7 @@
     "oodle-ai/oodle-onboarding": {
       "full": "oodle-ai/oodle-onboarding",
       "firstSeenAt": "2026-10-18T08:29:46.247Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -54409,7 +54411,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-21T11:47:59.617Z"
+      "lastSeenAt": "2026-10-21T11:47:59.617Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-28T11:49:22.591Z"
     },
     "sameernaik2021/farm-management-web-app-claude-ai": {
       "full": "sameernaik2021/farm-management-web-app-claude-ai",
@@ -57871,7 +57875,7 @@
     "vi-shub/gateshift": {
       "full": "Vi-shub/GateShift",
       "firstSeenAt": "2026-10-18T11:03:40.067Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -57890,7 +57894,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T11:03:40.067Z"
+      "lastSeenAt": "2026-10-18T11:03:40.067Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-28T11:49:23.228Z"
     },
     "yihui-dev/awesome-opus5-5-videos": {
       "full": "yihui-dev/awesome-opus5-5-videos",
@@ -58290,7 +58296,7 @@
     "diggerhq/shipvideo": {
       "full": "diggerhq/shipvideo",
       "firstSeenAt": "2026-10-18T11:03:40.067Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -58307,12 +58313,14 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-18T11:03:40.067Z"
+      "lastSeenAt": "2026-10-18T11:03:40.067Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-28T11:49:12.516Z"
     },
     "makevoid/motion-graphics-music-video-skill": {
       "full": "makevoid/motion-graphics-music-video-skill",
       "firstSeenAt": "2026-10-18T11:03:40.067Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -58329,12 +58337,14 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-18T11:03:40.067Z"
+      "lastSeenAt": "2026-10-18T11:03:40.067Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-28T11:49:13.037Z"
     },
     "tuzhechen2005/opus-video-skills": {
       "full": "tuzhechen2005/opus-video-skills",
       "firstSeenAt": "2026-10-18T11:03:40.067Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -58351,7 +58361,9 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-18T11:03:40.067Z"
+      "lastSeenAt": "2026-10-18T11:03:40.067Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-28T11:49:13.519Z"
     },
     "kooo1k/litmus-bench": {
       "full": "kooo1k/litmus-bench",
@@ -59003,7 +59015,7 @@
     "azure/bicep": {
       "full": "Azure/bicep",
       "firstSeenAt": "2026-10-18T11:03:47.795Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -59022,7 +59034,174 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T11:03:47.795Z"
+      "lastSeenAt": "2026-10-18T11:03:47.795Z",
+      "reusedEvidence": true,
+      "entry": {
+        "repositoryId": 263503250,
+        "availability": "available",
+        "full": "Azure/bicep",
+        "name": "bicep",
+        "description": "Bicep is a declarative language for describing and deploying Azure resources",
+        "category": "Other",
+        "language": "Bicep",
+        "stars": 3657,
+        "forks": 832,
+        "created": "2020-05-13T02:18:30Z",
+        "updated": "2026-10-19T23:50:36Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "",
+        "topics": [
+          "arm-json",
+          "arm-templates",
+          "bicep"
+        ],
+        "demo": "https://azure.github.io/bicep/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-20T01:48:57.848Z",
+        "lastAttemptAt": "2026-10-20T01:48:57.848Z",
+        "lastAvailableAt": "2026-10-20T01:48:57.848Z",
+        "metrics": [
+          {
+            "at": "2026-10-15T17:00:59.879Z",
+            "stars": 3656,
+            "forks": 832
+          },
+          {
+            "at": "2026-10-17T16:00:44.660Z",
+            "stars": 3655,
+            "forks": 832
+          },
+          {
+            "at": "2026-10-20T01:48:57.848Z",
+            "stars": 3657,
+            "forks": 832
+          }
+        ],
+        "technologies": [],
+        "overview": {
+          "kind": "readme",
+          "version": 1,
+          "paragraphs": [
+            "Bicep is an infrastructure-as-code (IaC) programming language that uses declarative syntax to deploy Azure resources. In a Bicep file, you define the infrastructure you want to deploy to Azure and then use that file throughout the development lifecycle to repeatedly deploy that infrastructure. Your resources are deployed in a consistent manner.",
+            "Learn more about the language and benefits of using Bicep in the What is Bicep documentation."
+          ],
+          "features": [],
+          "sourceUrl": "https://github.com/Azure/bicep/blob/main/README.md",
+          "fingerprint": "69c1e6caa9c62d9a950ea29f24470fc6ffc3d2c723ac2057291aa18aa62c25d1",
+          "extractedAt": "2026-10-15T17:00:59.936Z"
+        },
+        "overviewCheckedAt": "2026-10-20T01:48:57.901Z",
+        "projectInsights": {
+          "version": 1,
+          "whatItDoes": {
+            "text": "Bicep is an infrastructure-as-code (IaC) programming language that uses declarative syntax to deploy Azure resources. In a Bicep file, you define the infrastructure you want to deploy to Azure and then use that file throughout the development lifecycle to repeatedly deploy that infrastructure. Your resources are deployed in a consistent manner.",
+            "sourceUrl": "https://github.com/Azure/bicep/blob/main/README.md"
+          },
+          "audience": [],
+          "requirements": [],
+          "fingerprint": "69c1e6caa9c62d9a950ea29f24470fc6ffc3d2c723ac2057291aa18aa62c25d1",
+          "sourceUrl": "https://github.com/Azure/bicep/blob/main/README.md",
+          "checkedAt": "2026-10-20T01:48:57.901Z"
+        },
+        "overviewRepoUpdated": "2026-10-19T23:50:36Z",
+        "readmeSnapshot": {
+          "version": 1,
+          "status": "saved",
+          "sourceUrl": "https://github.com/Azure/bicep/blob/main/README.md",
+          "checkedAt": "2026-10-20T01:48:57.902Z",
+          "hash": "69c1e6caa9c62d9a950ea29f24470fc6ffc3d2c723ac2057291aa18aa62c25d1",
+          "originalBytes": 10749,
+          "storedBytes": 10749,
+          "truncated": false
+        },
+        "lastDemoCheckedAt": "2026-10-20T01:48:57.848Z",
+        "enrichmentAttemptAt": "2026-10-15T17:02:22.770Z",
+        "latestRelease": {
+          "name": "v0.48.1",
+          "tag": "v0.48.1",
+          "publishedAt": "2026-10-05T19:06:48Z",
+          "url": "https://github.com/Azure/bicep/releases/tag/v0.48.1"
+        },
+        "releaseCheckedAt": "2026-10-15T17:02:22.770Z",
+        "screenshots": [
+          {
+            "src": "previews/44685cececf9656bfdce57f6.jpg",
+            "kind": "demo",
+            "capturedAt": "2026-10-20T02:05:22.752Z",
+            "url": "https://azure.github.io/bicep/"
+          }
+        ],
+        "agentContextAttemptAt": "2026-10-15T17:03:23.758Z",
+        "agentContext": {
+          "version": 1,
+          "checkedAt": "2026-10-15T17:03:24.687Z",
+          "documents": [
+            {
+              "name": "LICENSE",
+              "sourceUrl": "https://github.com/Azure/bicep/blob/main/LICENSE",
+              "hash": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+              "originalBytes": 1141,
+              "truncated": false
+            }
+          ]
+        },
+        "agentContextRepoUpdated": "2026-10-15T11:54:52Z",
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [
+            "Automation & workflows",
+            "Templates & UI components"
+          ],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://azure.github.io/bicep/",
+          "attemptedAt": "2026-10-20T02:05:22.752Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-20T02:05:22.752Z",
+          "lastWorkingAt": "2026-10-20T02:05:22.752Z",
+          "target": "https://azure.github.io/bicep/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-27T02:05:22.752Z"
+        },
+        "previewAttemptAt": "2026-10-20T02:05:22.752Z",
+        "previewCheck": {
+          "url": "https://azure.github.io/bicep/",
+          "attemptedAt": "2026-10-20T02:05:22.752Z",
+          "consecutiveFailures": 0,
+          "status": "captured",
+          "reason": null,
+          "nextCheckAt": "2026-10-27T02:05:22.752Z"
+        },
+        "qualityPriority": false,
+        "spaces": [],
+        "communityPosts": [],
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2097387601074278600",
+            "postId": "2097387601074278600",
+            "postedAt": "2026-09-08T18:12:26.000Z"
+          }
+        ]
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-22T23:49:15.924Z",
+      "checkedAt": "2026-10-21T11:49:15.924Z",
+      "firstAcceptedAt": "2026-10-21T11:49:15.924Z"
     },
     "huawei-bayerlab/marigold-v2": {
       "full": "huawei-bayerlab/marigold-v2",
@@ -60776,7 +60955,7 @@
     "mpereiraesaa/prospero-win": {
       "full": "mpereiraesaa/prospero-win",
       "firstSeenAt": "2026-10-19T07:21:30.837Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -60795,7 +60974,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-19T07:21:30.837Z"
+      "lastSeenAt": "2026-10-19T07:21:30.837Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-28T11:49:17.169Z"
     },
     "witetech/pocket-tts-turkish": {
       "full": "witetech/pocket-tts-turkish",
@@ -61983,7 +62164,7 @@
     "shokribardiya/data-base-with-graph-orbital-2--oblivion-xquantum-version-2-": {
       "full": "shokribardiya/Data-Base-with-graph-Orbital-2--Oblivion-XQuantum-version-2-",
       "firstSeenAt": "2026-10-19T13:13:44.267Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -62002,7 +62183,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-19T13:13:44.267Z"
+      "lastSeenAt": "2026-10-19T13:13:44.267Z",
+      "reason": "temporary_error",
+      "nextAttemptAt": "2026-10-21T17:49:14.384Z"
     },
     "mikro-orm/mikro-orm": {
       "full": "mikro-orm/mikro-orm",
@@ -62375,7 +62558,7 @@
     "tugrulguner/intpot": {
       "full": "tugrulguner/intpot",
       "firstSeenAt": "2026-10-19T13:13:44.267Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -62394,7 +62577,105 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-19T13:13:44.267Z"
+      "lastSeenAt": "2026-10-19T13:13:44.267Z",
+      "entry": {
+        "availability": "available",
+        "full": "tugrulguner/intpot",
+        "name": "intpot",
+        "description": "Define Python tools once and serve them as a Typer CLI, FastAPI app, or FastMCP server — or convert existing apps between all three.",
+        "category": "Developer tools",
+        "language": "Python",
+        "stars": 13,
+        "forks": 4,
+        "created": "2026-03-03T01:27:44Z",
+        "updated": "2026-10-21T06:20:02Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://intpot.modepot.io/",
+        "topics": [
+          "cli",
+          "code-generation",
+          "converter",
+          "developer-tools",
+          "fastapi",
+          "fastmcp",
+          "mcp",
+          "model-context-protocol",
+          "python",
+          "typer"
+        ],
+        "demo": "https://intpot.modepot.io/playground/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-21T11:49:18.260Z",
+        "lastAvailableAt": "2026-10-21T11:49:18.260Z",
+        "lastAttemptAt": "2026-10-21T11:49:18.260Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2096985388220842268",
+            "postId": "2096985388220842268",
+            "postedAt": "2026-09-07T15:34:11.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "mcp"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://intpot.modepot.io/playground/",
+          "attemptedAt": "2026-10-21T11:49:21.761Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-21T11:49:21.761Z",
+          "lastWorkingAt": "2026-10-21T11:49:21.761Z",
+          "target": "https://intpot.modepot.io/playground/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-28T11:49:21.761Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/854cd733984cf6cc7de75578.jpg",
+            "kind": "demo",
+            "url": "https://intpot.modepot.io/playground/",
+            "capturedAt": "2026-10-21T11:49:21.761Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-21T11:49:21.761Z",
+        "previewCheck": {
+          "url": "https://intpot.modepot.io/playground/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-21T11:49:21.761Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-28T11:49:21.763Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-22T23:49:21.764Z",
+      "checkedAt": "2026-10-21T11:49:21.764Z",
+      "firstAcceptedAt": "2026-10-21T11:49:21.764Z"
     },
     "lyrixx/symfony-observability-demo": {
       "full": "lyrixx/symfony-observability-demo",
@@ -62798,7 +63079,7 @@
     "theycallmeloki/hyprland-remote": {
       "full": "theycallmeloki/hyprland-remote",
       "firstSeenAt": "2026-10-19T13:13:44.267Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -62817,7 +63098,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-19T13:13:44.267Z"
+      "lastSeenAt": "2026-10-19T13:13:44.267Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-28T11:49:15.581Z"
     },
     "evnsnclr/neurocraft-fly-public": {
       "full": "evnsnclr/neurocraft-fly-public",
@@ -64569,7 +64852,7 @@
     "pushkardesai-06/kreo-hive65-rgb-linux": {
       "full": "PushkarDesai-06/Kreo-Hive65-Rgb-Linux",
       "firstSeenAt": "2026-10-20T11:35:21.628Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -64588,12 +64871,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:35:21.628Z"
+      "lastSeenAt": "2026-10-20T11:35:21.628Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-28T11:49:14.950Z"
     },
     "didiviking/otel-performance-overhead": {
       "full": "didiViking/otel-performance-overhead",
       "firstSeenAt": "2026-10-20T11:35:21.628Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -64610,12 +64895,14 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-20T11:35:21.628Z"
+      "lastSeenAt": "2026-10-20T11:35:21.628Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-28T11:49:10.614Z"
     },
     "didiviking/conferences_talks": {
       "full": "didiViking/Conferences_Talks",
       "firstSeenAt": "2026-10-20T11:35:21.628Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -64632,7 +64919,9 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-20T11:35:21.628Z"
+      "lastSeenAt": "2026-10-20T11:35:21.628Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-28T11:49:11.408Z"
     },
     "suranjaychandra/jev-state": {
       "full": "suranjaychandra/jev-state",
@@ -65195,7 +65484,7 @@
     "hungbeck90/binance-alpha-scout": {
       "full": "hungbeck90/binance-alpha-scout",
       "firstSeenAt": "2026-10-20T11:35:31.666Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -65214,7 +65503,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:35:31.666Z"
+      "lastSeenAt": "2026-10-20T11:35:31.666Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-28T11:49:14.149Z"
     },
     "indhg/ai-for-coyote": {
       "full": "indhg/AI-for-Coyote",
@@ -65355,7 +65646,7 @@
     "nozomi-koborinai/terradart": {
       "full": "nozomi-koborinai/terradart",
       "firstSeenAt": "2026-10-20T11:35:31.666Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -65374,7 +65665,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:35:31.666Z"
+      "lastSeenAt": "2026-10-20T11:35:31.666Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-28T11:49:11.955Z"
     },
     "safaelmali/dualsense-studio": {
       "full": "SafaElmali/dualsense-studio",
@@ -65565,7 +65858,7 @@
     "vrmxt/extended-vrm-specs": {
       "full": "vrmxt/Extended-VRM-Specs",
       "firstSeenAt": "2026-10-20T11:35:31.666Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -65582,12 +65875,14 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-20T11:35:31.666Z"
+      "lastSeenAt": "2026-10-20T11:35:31.666Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-28T11:49:08.247Z"
     },
     "miramocha/extended-vrm-specs": {
       "full": "miramocha/Extended-VRM-Specs",
       "firstSeenAt": "2026-10-20T11:35:31.666Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -65604,12 +65899,14 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-20T11:35:31.666Z"
+      "lastSeenAt": "2026-10-20T11:35:31.666Z",
+      "reason": "temporary_error",
+      "nextAttemptAt": "2026-10-21T17:49:08.538Z"
     },
     "adilrc/remora": {
       "full": "adilrc/Remora",
       "firstSeenAt": "2026-10-20T11:35:31.666Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -65628,12 +65925,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:35:31.666Z"
+      "lastSeenAt": "2026-10-20T11:35:31.666Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-28T11:49:09.995Z"
     },
     "kassandraoftroy/kohaku-helper": {
       "full": "kassandraoftroy/kohaku-helper",
       "firstSeenAt": "2026-10-20T11:35:31.666Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -65652,7 +65951,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:35:31.666Z"
+      "lastSeenAt": "2026-10-20T11:35:31.666Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-28T11:49:09.202Z"
     },
     "kattyfury/binance-agent": {
       "full": "KattyFury/Binance-Agent",
@@ -66805,7 +67106,7 @@
       "posts": 487,
       "uniquePosts": 287,
       "newCandidates": 177,
-      "validationAttempts": 174,
+      "validationAttempts": 176,
       "accepted": 56
     },
     "2c0438e5283099cf": {
@@ -66813,8 +67114,8 @@
       "posts": 221,
       "uniquePosts": 218,
       "newCandidates": 253,
-      "validationAttempts": 252,
-      "accepted": 93
+      "validationAttempts": 262,
+      "accepted": 95
     },
     "ac3eb65e96558e14": {
       "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
@@ -66837,7 +67138,7 @@
       "posts": 440,
       "uniquePosts": 213,
       "newCandidates": 212,
-      "validationAttempts": 192,
+      "validationAttempts": 200,
       "accepted": 91
     }
   },
@@ -67292,7 +67593,7 @@
         "replies": 1,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-20T13:14:30.668Z",
+      "nextAttemptAt": "2026-10-22T11:49:06.970Z",
       "reason": "temporary_error"
     },
     "https://elon-musk12.github.io/Elon-X-capital/": {
@@ -67453,6 +67754,6 @@
   "lastDemoDiscovery": {
     "checked": 1,
     "resolved": 0,
-    "at": "2026-10-19T13:14:30.709Z"
+    "at": "2026-10-21T11:49:07.028Z"
   }
 }
