@@ -54627,7 +54627,7 @@
     "devmuhakeem/-configuring-a-web-app-to-use-amazon-s3-and-dynamodb": {
       "full": "devmuhakeem/-Configuring-a-Web-App-to-Use-Amazon-S3-and-DynamoDB",
       "firstSeenAt": "2026-10-18T08:29:54.122Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -54646,7 +54646,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:29:54.122Z"
+      "lastSeenAt": "2026-10-18T08:29:54.122Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-29T12:02:15.520Z"
     },
     "markusbug/bluechip": {
       "full": "markusbug/bluechip",
@@ -54941,7 +54943,7 @@
     "race45race/solo45": {
       "full": "race45race/solo45",
       "firstSeenAt": "2026-10-18T08:29:54.122Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -54960,7 +54962,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:29:54.122Z"
+      "lastSeenAt": "2026-10-18T08:29:54.122Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-29T12:02:22.309Z"
     },
     "leonxlnx/cinetic": {
       "full": "Leonxlnx/cinetic",
@@ -57829,7 +57833,7 @@
     "ashutosh-rath02/pxr": {
       "full": "ashutosh-rath02/pxr",
       "firstSeenAt": "2026-10-18T11:03:40.067Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -57848,12 +57852,97 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T11:03:40.067Z"
+      "lastSeenAt": "2026-10-18T11:03:40.067Z",
+      "entry": {
+        "availability": "available",
+        "full": "ashutosh-rath02/pxr",
+        "name": "pxr",
+        "description": "Deterministic action admission for embedded systems. Rust no_std, fixed memory, resource leases, local supervision, and a C/C++ interface.",
+        "category": "Developer tools",
+        "language": "Rust",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-30T15:43:02Z",
+        "updated": "2026-10-01T08:01:56Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://ashutosh-rath02.github.io/pxr/",
+        "topics": [
+          "embedded",
+          "embedded-rust",
+          "firmware",
+          "no-std",
+          "physical-ai",
+          "robotics",
+          "rust"
+        ],
+        "demo": "https://ashutosh-rath02.github.io/pxr/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-22T12:02:10.861Z",
+        "lastAvailableAt": "2026-10-22T12:02:10.861Z",
+        "lastAttemptAt": "2026-10-22T12:02:10.861Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105352756706041932",
+            "postId": "2105352756706041932",
+            "postedAt": "2026-09-30T17:43:07.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://ashutosh-rath02.github.io/pxr/",
+          "attemptedAt": "2026-10-22T12:02:14.310Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-22T12:02:14.310Z",
+          "lastWorkingAt": "2026-10-22T12:02:14.310Z",
+          "target": "https://ashutosh-rath02.github.io/pxr/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-29T12:02:14.310Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/f84724dc5b2a3aff51c5ddd9.jpg",
+            "kind": "demo",
+            "url": "https://ashutosh-rath02.github.io/pxr/",
+            "capturedAt": "2026-10-22T12:02:14.310Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-22T12:02:14.310Z",
+        "previewCheck": {
+          "url": "https://ashutosh-rath02.github.io/pxr/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-22T12:02:14.310Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-29T12:02:14.311Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-24T00:02:14.312Z",
+      "checkedAt": "2026-10-22T12:02:14.312Z",
+      "firstAcceptedAt": "2026-10-22T12:02:14.312Z"
     },
     "open-ep/zephyr-user-space-examples": {
       "full": "open-ep/zephyr-user-space-examples",
       "firstSeenAt": "2026-10-18T11:03:40.067Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -57872,12 +57961,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T11:03:40.067Z"
+      "lastSeenAt": "2026-10-18T11:03:40.067Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-29T12:02:21.020Z"
     },
     "therealla/book-demo-the-prompting-playbook-eval-driven-prompting-for-production-agents": {
       "full": "TheRealla/Book-Demo-The-Prompting-Playbook-Eval-Driven-Prompting-for-Production-Agents",
       "firstSeenAt": "2026-10-18T11:03:40.067Z",
-      "status": "queued",
+      "status": "rejected",
       "sources": [
         {
           "kind": "x",
@@ -57903,12 +57994,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T11:03:40.067Z"
+      "lastSeenAt": "2026-10-18T11:03:40.067Z",
+      "reason": "repository_unavailable",
+      "nextAttemptAt": "2026-10-22T18:02:22.735Z"
     },
     "malwation/cve-2026-43786": {
       "full": "Malwation/CVE-2026-43786",
       "firstSeenAt": "2026-10-18T11:03:40.067Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -57927,7 +58020,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T11:03:40.067Z"
+      "lastSeenAt": "2026-10-18T11:03:40.067Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-29T12:02:16.608Z"
     },
     "vi-shub/gateshift": {
       "full": "Vi-shub/GateShift",
@@ -61354,7 +61449,7 @@
     "botrail/botrail": {
       "full": "botrail/botrail",
       "firstSeenAt": "2026-10-19T07:21:30.837Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -61373,7 +61468,172 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-19T07:21:30.837Z"
+      "lastSeenAt": "2026-10-19T07:21:30.837Z",
+      "reusedEvidence": true,
+      "entry": {
+        "repositoryId": 325935052,
+        "availability": "available",
+        "full": "botrail/botrail",
+        "name": "botrail",
+        "description": "Next generation motion planning package. Build robot cells as code.",
+        "category": "Developer tools",
+        "language": "Rust",
+        "stars": 31,
+        "forks": 8,
+        "created": "2021-01-01T07:20:22Z",
+        "updated": "2026-10-17T16:23:51Z",
+        "license": null,
+        "branch": "main",
+        "homepage": "https://botrail.github.io/botrail/",
+        "topics": [
+          "isaac-sim",
+          "motion-planning",
+          "robot",
+          "threejs",
+          "usd"
+        ],
+        "demo": "https://botrail.github.io/botrail/demo/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-21T14:31:58.748Z",
+        "lastAttemptAt": "2026-10-21T14:31:58.748Z",
+        "lastAvailableAt": "2026-10-21T14:31:58.748Z",
+        "metrics": [
+          {
+            "at": "2026-10-18T18:18:07.437Z",
+            "stars": 31,
+            "forks": 8
+          },
+          {
+            "at": "2026-10-21T14:31:58.748Z",
+            "stars": 31,
+            "forks": 8
+          }
+        ],
+        "technologies": [
+          "Three.js",
+          "Rust"
+        ],
+        "overview": {
+          "kind": "readme",
+          "version": 1,
+          "paragraphs": [
+            "Beyond motion planning. Build robot cells as code. One source of truth from layout to I/O list — verified deterministically on every change.",
+            "Robot machining — spindle toolpaths with stepwise stock removal",
+            "Assembly line — a linear-motor shuttle loop serving ceiling-mounted arms and SCARAs"
+          ],
+          "features": [
+            "Robots from URDF, Xacro, or USD — including Isaac Sim articulations",
+            "(bt.Robot.fromusd(\"franka.usd\")), rendered at full visual fidelity with three-usd-robot. Mimic joints (URDF , USD NewtonMimicAPI / PhysxMimicJointAPI) are followed, so a two-finger gripper costs one DOF, not two.…",
+            "USD scene import (usda/usdc/usdz, references, variants, instancing) —",
+            "stages become obstacles and named mount frames, normalized to meters / Z-up.",
+            "Environments that behave — a PLC-style step sequencer (entry actions +"
+          ],
+          "sourceUrl": "https://github.com/botrail/botrail/blob/main/README.md",
+          "fingerprint": "0c6af1ff6ea26f3c5e9bc95a2bdc17d0c2e702006b738cc532c52562121e3e4c",
+          "extractedAt": "2026-10-18T18:18:07.531Z"
+        },
+        "overviewCheckedAt": "2026-10-18T18:18:07.531Z",
+        "projectInsights": {
+          "version": 1,
+          "whatItDoes": {
+            "text": "Beyond motion planning. Build robot cells as code. One source of truth from layout to I/O list — verified deterministically on every change.",
+            "sourceUrl": "https://github.com/botrail/botrail/blob/main/README.md"
+          },
+          "audience": [],
+          "requirements": [],
+          "fingerprint": "0c6af1ff6ea26f3c5e9bc95a2bdc17d0c2e702006b738cc532c52562121e3e4c",
+          "sourceUrl": "https://github.com/botrail/botrail/blob/main/README.md",
+          "checkedAt": "2026-10-18T18:18:07.532Z"
+        },
+        "overviewRepoUpdated": "2026-10-17T16:23:51Z",
+        "readmeSnapshot": {
+          "version": 1,
+          "status": "saved",
+          "sourceUrl": "https://github.com/botrail/botrail/blob/main/README.md",
+          "checkedAt": "2026-10-18T18:18:07.533Z",
+          "hash": "0c6af1ff6ea26f3c5e9bc95a2bdc17d0c2e702006b738cc532c52562121e3e4c",
+          "originalBytes": 13512,
+          "storedBytes": 13512,
+          "truncated": false
+        },
+        "lastDemoCheckedAt": "2026-10-18T18:18:07.437Z",
+        "subjects": [
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "threejs"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [
+            "Architecture & building design",
+            "Animation & motion",
+            "Simulation & physics"
+          ],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://botrail.github.io/botrail/demo/",
+          "attemptedAt": "2026-10-18T18:31:34.740Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-18T18:31:34.740Z",
+          "lastWorkingAt": "2026-10-18T18:31:34.740Z",
+          "target": "https://botrail.github.io/botrail/demo/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-25T18:31:34.740Z"
+        },
+        "previewAttemptAt": "2026-10-18T18:31:34.740Z",
+        "previewCheck": {
+          "url": "https://botrail.github.io/botrail/demo/",
+          "attemptedAt": "2026-10-18T18:31:34.740Z",
+          "consecutiveFailures": 0,
+          "status": "captured",
+          "reason": null,
+          "nextCheckAt": "2026-10-25T18:31:34.740Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/3b98007201faea7b748b2440.jpg",
+            "kind": "demo",
+            "capturedAt": "2026-10-18T18:31:34.740Z",
+            "url": "https://botrail.github.io/botrail/demo/"
+          }
+        ],
+        "qualityPriority": false,
+        "repositoryAliases": [],
+        "repositoryEtag": "W/\"56aeb5ff61cf2844f5cea2eb00200fc19fd19540cbcf46886afb1eb010ff47bd\"",
+        "repositoryEtagFor": "botrail/botrail",
+        "spaces": [],
+        "communityPosts": [],
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105228858882687200",
+            "postId": "2105228858882687200",
+            "postedAt": "2026-09-30T09:30:47.000Z"
+          }
+        ]
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-24T00:02:17.046Z",
+      "checkedAt": "2026-10-22T12:02:17.046Z",
+      "firstAcceptedAt": "2026-10-22T12:02:17.046Z"
     },
     "timidan/cuebound": {
       "full": "Timidan/cuebound",
@@ -61836,7 +62096,7 @@
     "devmuhakeem/deploying-a-web-application-on-amazon-ec2-within-a-custom-vpc": {
       "full": "devmuhakeem/Deploying-a-Web-Application-on-Amazon-EC2-within-a-Custom-VPC",
       "firstSeenAt": "2026-10-19T13:13:34.900Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -61855,7 +62115,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-19T13:13:34.900Z"
+      "lastSeenAt": "2026-10-19T13:13:34.900Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-29T12:02:24.687Z"
     },
     "jarvis322/macos-sysdata": {
       "full": "Jarvis322/macos-sysdata",
@@ -64190,7 +64452,7 @@
     "adrielsantana/bendcraft": {
       "full": "AdrielSantana/bendcraft",
       "firstSeenAt": "2026-10-20T11:08:21.375Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -64209,7 +64471,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:08:21.375Z"
+      "lastSeenAt": "2026-10-20T11:08:21.375Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-29T12:02:18.630Z"
     },
     "wobsoriano/svelte-native": {
       "full": "wobsoriano/svelte-native",
@@ -66240,7 +66504,7 @@
     "abdulazizayalew/zombie-factory": {
       "full": "AbdulazizAyalew/zombie-factory",
       "firstSeenAt": "2026-10-22T03:55:07.238Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -66259,7 +66523,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-22T03:55:07.238Z"
+      "lastSeenAt": "2026-10-22T03:55:07.238Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-29T12:02:19.652Z"
     },
     "ahmedgcompany-cyber/contractrift": {
       "full": "ahmedgcompany-cyber/contractrift",
@@ -66422,7 +66688,7 @@
     "ronaldo-avalos/maya": {
       "full": "ronaldo-avalos/Maya",
       "firstSeenAt": "2026-10-22T03:55:07.238Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -66441,7 +66707,225 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-22T03:55:07.238Z"
+      "lastSeenAt": "2026-10-22T03:55:07.238Z",
+      "reusedEvidence": true,
+      "entry": {
+        "availability": "available",
+        "full": "ronaldo-avalos/Maya",
+        "name": "Maya",
+        "description": "🖥️ 📱 ▶️ Wrap your iPhone screen recordings in a beautiful device frame, add cinematic zoom moments, and export ready-to-share videos.",
+        "category": "Other",
+        "language": "Swift",
+        "stars": 1067,
+        "forks": 61,
+        "created": "2026-05-17T04:00:39Z",
+        "updated": "2026-08-23T23:45:45Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://ronaldo-avalos.github.io/Maya/",
+        "topics": [
+          "iphone-screen-recordings",
+          "macos-app",
+          "screen-recordings"
+        ],
+        "demo": "https://ronaldo-avalos.github.io/Maya/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-21T09:22:26.245Z",
+        "lastAttemptAt": "2026-10-21T09:22:26.245Z",
+        "lastAvailableAt": "2026-10-21T09:22:26.245Z",
+        "metrics": [
+          {
+            "at": "2026-10-11T09:02:03.049Z",
+            "stars": 1063,
+            "forks": 60
+          },
+          {
+            "at": "2026-10-17T11:02:26.654Z",
+            "stars": 1066,
+            "forks": 60
+          },
+          {
+            "at": "2026-10-18T09:18:08.261Z",
+            "stars": 1064,
+            "forks": 60
+          },
+          {
+            "at": "2026-10-21T09:22:26.245Z",
+            "stars": 1067,
+            "forks": 61
+          }
+        ],
+        "technologies": [],
+        "overview": {
+          "kind": "readme",
+          "version": 1,
+          "paragraphs": [
+            "Wrap screen recordings in a beautiful device frame, adjust the pacing, add cinematic zoom and tap moments, and export ready-to-share videos.",
+            "A native macOS app for turning raw screen recordings into polished marketing clips, social-media posts, and in-app tutorial overlays."
+          ],
+          "features": [
+            "Drop a screen recording — Maya wraps it in a clean device mockup with the correct screen cutout and corner radius.",
+            "Multiple devices: iPhone 17 Pro, iPhone 16 Pro, iPhone 15 Pro, iPad Pro 11\" (landscape), and MacBook Pro 14. The iPhones include their titanium color variants (Cosmic Orange, Deep Blue, Silver, Natural / Black / White /…",
+            "Generic mode: a brand-agnostic frame with user-defined bezel width and bezel color.",
+            "No frame mode: ship the bare screen recording with rounded corners only.",
+            "A corner radius slider appears in Generic / No-frame modes so you can dial from sharp to stadium."
+          ],
+          "sourceUrl": "https://github.com/ronaldo-avalos/Maya/blob/main/README.md",
+          "fingerprint": "ab1fa9feac746b9de2e237bc7ac52c46463607bd80b65002f085ce4efb91bf51",
+          "extractedAt": "2026-10-11T09:02:03.117Z"
+        },
+        "overviewCheckedAt": "2026-10-18T09:18:08.401Z",
+        "projectInsights": {
+          "version": 1,
+          "whatItDoes": {
+            "text": "Wrap screen recordings in a beautiful device frame, adjust the pacing, add cinematic zoom and tap moments, and export ready-to-share videos.",
+            "sourceUrl": "https://github.com/ronaldo-avalos/Maya/blob/main/README.md"
+          },
+          "audience": [],
+          "requirements": [],
+          "fingerprint": "ab1fa9feac746b9de2e237bc7ac52c46463607bd80b65002f085ce4efb91bf51",
+          "sourceUrl": "https://github.com/ronaldo-avalos/Maya/blob/main/README.md",
+          "checkedAt": "2026-10-18T09:18:08.401Z"
+        },
+        "overviewRepoUpdated": "2026-08-23T23:45:45Z",
+        "readmeSnapshot": {
+          "version": 1,
+          "status": "saved",
+          "sourceUrl": "https://github.com/ronaldo-avalos/Maya/blob/main/README.md",
+          "checkedAt": "2026-10-18T09:18:08.402Z",
+          "hash": "ab1fa9feac746b9de2e237bc7ac52c46463607bd80b65002f085ce4efb91bf51",
+          "originalBytes": 12977,
+          "storedBytes": 12977,
+          "truncated": false
+        },
+        "lastDemoCheckedAt": "2026-10-18T09:18:08.261Z",
+        "enrichmentAttemptAt": "2026-10-11T09:02:28.753Z",
+        "latestRelease": {
+          "name": "Maya v1.2",
+          "tag": "v1.2",
+          "publishedAt": "2026-08-23T23:48:00Z",
+          "url": "https://github.com/ronaldo-avalos/Maya/releases/tag/v1.2"
+        },
+        "releaseCheckedAt": "2026-10-11T09:02:28.753Z",
+        "screenshots": [
+          {
+            "src": "previews/8981fa2e9f9d40b1e32bbe7f.jpg",
+            "kind": "demo",
+            "capturedAt": "2026-10-18T09:31:16.290Z",
+            "url": "https://ronaldo-avalos.github.io/Maya/"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/ronaldo-avalos/Maya/main/docs/screenshot.png",
+            "kind": "readme",
+            "alt": "Maya screenshot"
+          }
+        ],
+        "subjects": [
+          "Apple",
+          "Mobile"
+        ],
+        "platforms": [
+          "iOS & iPadOS",
+          "macOS"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "Apple",
+            "Mobile"
+          ],
+          "evidence": [
+            {
+              "subject": "Apple",
+              "source": "metadata",
+              "match": "iPhone"
+            },
+            {
+              "subject": "Mobile",
+              "source": "metadata",
+              "match": "iPhone"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "iOS & iPadOS",
+              "source": "metadata",
+              "match": "iPhone"
+            },
+            {
+              "platform": "macOS",
+              "source": "metadata",
+              "match": "macos"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [
+            "Animation & motion",
+            "Android",
+            "Maths & algorithms"
+          ],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://ronaldo-avalos.github.io/Maya/",
+          "attemptedAt": "2026-10-18T09:31:16.289Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-18T09:31:16.289Z",
+          "lastWorkingAt": "2026-10-18T09:31:16.289Z",
+          "target": "https://ronaldo-avalos.github.io/Maya/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-25T09:31:16.289Z"
+        },
+        "previewAttemptAt": "2026-10-18T09:31:16.290Z",
+        "previewCheck": {
+          "url": "https://ronaldo-avalos.github.io/Maya/",
+          "attemptedAt": "2026-10-18T09:31:16.290Z",
+          "consecutiveFailures": 0,
+          "status": "captured",
+          "reason": null,
+          "nextCheckAt": "2026-10-25T09:31:16.290Z"
+        },
+        "qualityPriority": false,
+        "repositoryId": 1241183189,
+        "repositoryAliases": [],
+        "repositoryEtag": "W/\"400e4dca942d624609b5d1b7caf99fe07fa53a7f32be96dc4c64e9092ee5465c\"",
+        "repositoryEtagFor": "ronaldo-avalos/Maya",
+        "agentContextAttemptAt": "2026-10-17T22:42:14.026Z",
+        "agentContext": {
+          "version": 1,
+          "checkedAt": "2026-10-17T22:42:16.843Z",
+          "documents": [
+            {
+              "name": "LICENSE",
+              "sourceUrl": "https://github.com/ronaldo-avalos/Maya/blob/main/LICENSE",
+              "hash": "58516d9c747845046f9abb281e3d2546b957f3a31f89785ee74c26c3277cc30b",
+              "originalBytes": 1071,
+              "truncated": false
+            }
+          ]
+        },
+        "agentContextRepoUpdated": "2026-08-23T23:45:45Z",
+        "spaces": [],
+        "communityPosts": [],
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104949331438473289",
+            "postId": "2104949331438473289",
+            "postedAt": "2026-09-29T15:00:03.000Z"
+          }
+        ]
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-24T00:02:19.976Z",
+      "checkedAt": "2026-10-22T12:02:19.976Z",
+      "firstAcceptedAt": "2026-10-22T12:02:19.976Z"
     },
     "nvlabs/eagle": {
       "full": "NVlabs/Eagle",
@@ -67993,7 +68477,7 @@
     "screenpipe/river-ai-screenpipe-training": {
       "full": "screenpipe/river-ai-screenpipe-training",
       "firstSeenAt": "2026-10-22T11:51:30.182Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -68020,12 +68504,111 @@
           "repository": "screenpipe/river-ai-screenpipe-training"
         }
       ],
-      "lastSeenAt": "2026-10-22T11:51:30.182Z"
+      "lastSeenAt": "2026-10-22T11:51:30.182Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "screenpipe/river-ai-screenpipe-training",
+        "postUrl": "https://x.com/i/web/status/2104934652217532507",
+        "url": "https://screenpipe.com/enterprise"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "screenpipe/river-ai-screenpipe-training",
+        "name": "river-ai-screenpipe-training",
+        "description": "Train a personal or company AI from reviewed AI chats and Screenpipe context using River. Agent skills, dataset preparation, and evaluation.",
+        "category": "AI & machine learning",
+        "language": "Python",
+        "stars": 1,
+        "forks": 0,
+        "created": "2026-09-28T18:05:15Z",
+        "updated": "2026-09-28T18:30:32Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://screenpipe.com/enterprise",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-22T12:01:39.190Z",
+        "lastAvailableAt": "2026-10-22T12:01:39.190Z",
+        "lastAttemptAt": "2026-10-22T12:01:39.190Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "screenpipe/river-ai-screenpipe-training",
+          "postUrl": "https://x.com/i/web/status/2104934652217532507",
+          "url": "https://screenpipe.com/enterprise"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104934652217532507",
+            "postId": "2104934652217532507",
+            "postedAt": "2026-09-29T14:01:43.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "Agent"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://screenpipe.com/enterprise",
+          "attemptedAt": "2026-10-22T12:01:42.648Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-22T12:01:42.648Z",
+          "lastWorkingAt": "2026-10-22T12:01:42.648Z",
+          "target": "https://screenpipe.com/enterprise",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-29T12:01:42.648Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/23a3af40f2615f7e9a651c56.jpg",
+            "kind": "demo",
+            "url": "https://screenpipe.com/enterprise",
+            "capturedAt": "2026-10-22T12:01:42.648Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-22T12:01:42.648Z",
+        "previewCheck": {
+          "url": "https://screenpipe.com/enterprise",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-22T12:01:42.648Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-29T12:01:42.649Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-24T00:01:42.650Z",
+      "checkedAt": "2026-10-22T12:01:42.650Z",
+      "firstAcceptedAt": "2026-10-22T12:01:42.650Z"
     },
     "onlyonealexia/armorcodex-demo": {
       "full": "onlyoneAlexia/armorcodex-demo",
       "firstSeenAt": "2026-10-22T11:51:30.182Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -68052,12 +68635,110 @@
           "repository": "onlyoneAlexia/armorcodex-demo"
         }
       ],
-      "lastSeenAt": "2026-10-22T11:51:30.182Z"
+      "lastSeenAt": "2026-10-22T11:51:30.182Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "onlyoneAlexia/armorcodex-demo",
+        "postUrl": "https://x.com/i/web/status/2104931796446261463",
+        "url": "https://drive.google.com/file/d/1hvfsXIjudgef4NQDlBLtSciLIKz0ypre/view?usp=drivesdk"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "onlyoneAlexia/armorcodex-demo",
+        "name": "armorcodex-demo",
+        "description": "ArmorCodex demo for the ArmorIQ Video Contest: one command install, policy from chat, blocking a command before it runs, and dashboard logging.",
+        "category": "Developer tools",
+        "language": null,
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-29T11:45:27Z",
+        "updated": "2026-09-29T12:58:30Z",
+        "branch": "main",
+        "homepage": "",
+        "topics": [],
+        "demo": "https://drive.google.com/file/d/1hvfsXIjudgef4NQDlBLtSciLIKz0ypre/view?usp=drivesdk",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-22T12:01:43.693Z",
+        "lastAvailableAt": "2026-10-22T12:01:43.693Z",
+        "lastAttemptAt": "2026-10-22T12:01:43.693Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "onlyoneAlexia/armorcodex-demo",
+          "postUrl": "https://x.com/i/web/status/2104931796446261463",
+          "url": "https://drive.google.com/file/d/1hvfsXIjudgef4NQDlBLtSciLIKz0ypre/view?usp=drivesdk"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104931796446261463",
+            "postId": "2104931796446261463",
+            "postedAt": "2026-09-29T13:50:22.000Z"
+          }
+        ],
+        "subjects": [
+          "Data & dashboards"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Data & dashboards"
+          ],
+          "evidence": [
+            {
+              "subject": "Data & dashboards",
+              "source": "metadata",
+              "match": "dashboard"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://drive.google.com/file/d/1hvfsXIjudgef4NQDlBLtSciLIKz0ypre/view?usp=drivesdk",
+          "attemptedAt": "2026-10-22T12:01:47.144Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-22T12:01:47.144Z",
+          "lastWorkingAt": "2026-10-22T12:01:47.144Z",
+          "target": "https://drive.google.com/file/d/1hvfsXIjudgef4NQDlBLtSciLIKz0ypre/view",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-29T12:01:47.144Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/c45b32ebf912a5f41b9932ea.jpg",
+            "kind": "demo",
+            "url": "https://drive.google.com/file/d/1hvfsXIjudgef4NQDlBLtSciLIKz0ypre/view?usp=drivesdk",
+            "capturedAt": "2026-10-22T12:01:47.144Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-22T12:01:47.144Z",
+        "previewCheck": {
+          "url": "https://drive.google.com/file/d/1hvfsXIjudgef4NQDlBLtSciLIKz0ypre/view?usp=drivesdk",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-22T12:01:47.144Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-29T12:01:47.144Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-24T00:01:47.145Z",
+      "checkedAt": "2026-10-22T12:01:47.145Z",
+      "firstAcceptedAt": "2026-10-22T12:01:47.145Z"
     },
     "gm1654/jev-decisionops": {
       "full": "Gm1654/jev-decisionops",
       "firstSeenAt": "2026-10-22T11:51:30.182Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -68084,7 +68765,83 @@
           "repository": "Gm1654/jev-decisionops"
         }
       ],
-      "lastSeenAt": "2026-10-22T11:51:30.182Z"
+      "lastSeenAt": "2026-10-22T11:51:30.182Z",
+      "entry": {
+        "availability": "available",
+        "full": "Gm1654/jev-decisionops",
+        "name": "jev-decisionops",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-26T17:48:32Z",
+        "updated": "2026-09-26T20:12:29Z",
+        "branch": "main",
+        "homepage": "https://jev-decisionops.vercel.app",
+        "topics": [],
+        "demo": "https://jev-decisionops.vercel.app/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-22T12:01:48.287Z",
+        "lastAvailableAt": "2026-10-22T12:01:48.287Z",
+        "lastAttemptAt": "2026-10-22T12:01:48.287Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104931784626688325",
+            "postId": "2104931784626688325",
+            "postedAt": "2026-09-29T13:50:19.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://jev-decisionops.vercel.app/",
+          "attemptedAt": "2026-10-22T12:01:51.933Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-22T12:01:51.933Z",
+          "lastWorkingAt": "2026-10-22T12:01:51.933Z",
+          "target": "https://jev-decisionops.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-29T12:01:51.933Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/02ebbf05e40f80a56a193199.jpg",
+            "kind": "demo",
+            "url": "https://jev-decisionops.vercel.app/",
+            "capturedAt": "2026-10-22T12:01:51.933Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-22T12:01:51.933Z",
+        "previewCheck": {
+          "url": "https://jev-decisionops.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-22T12:01:51.933Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-29T12:01:51.934Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-24T00:01:51.935Z",
+      "checkedAt": "2026-10-22T12:01:51.935Z",
+      "firstAcceptedAt": "2026-10-22T12:01:51.935Z"
     },
     "naotsun19b/unrealaiintegrationplatform-document": {
       "full": "Naotsun19B/UnrealAIIntegrationPlatform-Document",
@@ -68137,7 +68894,7 @@
     "xalisher/tor-basecamp": {
       "full": "xAlisher/tor-basecamp",
       "firstSeenAt": "2026-10-22T11:51:30.182Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -68156,12 +68913,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-22T11:51:30.182Z"
+      "lastSeenAt": "2026-10-22T11:51:30.182Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-29T12:02:07.754Z"
     },
     "tomtom87/portage": {
       "full": "tomtom87/Portage",
       "firstSeenAt": "2026-10-22T11:51:30.182Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -68194,7 +68953,126 @@
           "repository": "tomtom87/Portage"
         }
       ],
-      "lastSeenAt": "2026-10-22T11:51:30.182Z"
+      "lastSeenAt": "2026-10-22T11:51:30.182Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "tomtom87/Portage",
+        "postUrl": "https://x.com/i/web/status/2104873020116643992",
+        "url": "https://portage.readthedocs.io/en/latest/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "tomtom87/Portage",
+        "name": "Portage",
+        "description": "Let your agent go to the store (chill, you approve every payment 😃). CLI, Claude Code plugin and Ruby gems for MCP/UCP.",
+        "category": "Business",
+        "language": "Ruby",
+        "stars": 2,
+        "forks": 0,
+        "created": "2026-08-14T01:01:12Z",
+        "updated": "2026-10-22T06:01:04Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://portage.readthedocs.io",
+        "topics": [
+          "agentic-commerce",
+          "ai-agents",
+          "bigcommerce",
+          "claude-code",
+          "claude-code-plugin",
+          "cli-tool",
+          "ecommerce",
+          "etsy",
+          "homebrew",
+          "instagram",
+          "magento",
+          "mcp",
+          "ruby",
+          "rubygems",
+          "shopify",
+          "ucp",
+          "webmcp",
+          "wix",
+          "woocommerce"
+        ],
+        "demo": "https://portage.readthedocs.io/en/latest/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-22T12:01:52.979Z",
+        "lastAvailableAt": "2026-10-22T12:01:52.979Z",
+        "lastAttemptAt": "2026-10-22T12:01:52.979Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "tomtom87/Portage",
+          "postUrl": "https://x.com/i/web/status/2104873020116643992",
+          "url": "https://portage.readthedocs.io/en/latest/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104873020116643992",
+            "postId": "2104873020116643992",
+            "postedAt": "2026-09-29T09:56:49.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Business",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "agent"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://portage.readthedocs.io/en/latest/",
+          "attemptedAt": "2026-10-22T12:01:56.532Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-22T12:01:56.532Z",
+          "lastWorkingAt": "2026-10-22T12:01:56.532Z",
+          "target": "https://portage.readthedocs.io/en/latest/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-29T12:01:56.532Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/1aa8dad2fb4142e4bac701c7.jpg",
+            "kind": "demo",
+            "url": "https://portage.readthedocs.io/en/latest/",
+            "capturedAt": "2026-10-22T12:01:56.532Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-22T12:01:56.532Z",
+        "previewCheck": {
+          "url": "https://portage.readthedocs.io/en/latest/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-22T12:01:56.532Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-29T12:01:56.533Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-24T00:01:56.534Z",
+      "checkedAt": "2026-10-22T12:01:56.534Z",
+      "firstAcceptedAt": "2026-10-22T12:01:56.534Z"
     },
     "1clawai/1claw-crewai-demo": {
       "full": "1clawAI/1claw-crewai-demo",
@@ -68271,7 +69149,7 @@
     "sergiosgatidis/chexanatomy": {
       "full": "sergiosgatidis/CheXanatomy",
       "firstSeenAt": "2026-10-22T11:51:30.182Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -68288,12 +69166,14 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-22T11:51:30.182Z"
+      "lastSeenAt": "2026-10-22T11:51:30.182Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-29T12:02:08.789Z"
     },
     "sergiosgatidis/chexsynth": {
       "full": "sergiosgatidis/CheXsynth",
       "firstSeenAt": "2026-10-22T11:51:30.182Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -68310,12 +69190,14 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-22T11:51:30.182Z"
+      "lastSeenAt": "2026-10-22T11:51:30.182Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-29T12:02:09.828Z"
     },
     "v-harshith/kiro-university-2026": {
       "full": "V-harshith/kiro-university-2026",
       "firstSeenAt": "2026-10-22T11:51:30.182Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -68342,12 +69224,111 @@
           "repository": "V-harshith/kiro-university-2026"
         }
       ],
-      "lastSeenAt": "2026-10-22T11:51:30.182Z"
+      "lastSeenAt": "2026-10-22T11:51:30.182Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "V-harshith/kiro-university-2026",
+        "postUrl": "https://x.com/i/web/status/2104841584638587318",
+        "url": "https://schema.org/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "V-harshith/kiro-university-2026",
+        "name": "kiro-university-2026",
+        "description": "Kiro University Challenge 2026 submission - spec-driven build with Kiro (specs, steering, hooks, property-based tests, powers, MCP, custom agents)",
+        "category": "AI & machine learning",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-23T08:43:08Z",
+        "updated": "2026-09-25T19:32:27Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://schema.org/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-22T12:01:57.564Z",
+        "lastAvailableAt": "2026-10-22T12:01:57.564Z",
+        "lastAttemptAt": "2026-10-22T12:01:57.564Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "V-harshith/kiro-university-2026",
+          "postUrl": "https://x.com/i/web/status/2104841584638587318",
+          "url": "https://schema.org/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104841584638587318",
+            "postId": "2104841584638587318",
+            "postedAt": "2026-09-29T07:51:54.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "MCP"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://schema.org/",
+          "attemptedAt": "2026-10-22T12:02:00.830Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-22T12:02:00.830Z",
+          "lastWorkingAt": "2026-10-22T12:02:00.830Z",
+          "target": "https://schema.org/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-29T12:02:00.830Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/407c2000734e655a3e67a360.jpg",
+            "kind": "demo",
+            "url": "https://schema.org/",
+            "capturedAt": "2026-10-22T12:02:00.830Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-22T12:02:00.830Z",
+        "previewCheck": {
+          "url": "https://schema.org/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-22T12:02:00.830Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-29T12:02:00.831Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-24T00:02:00.832Z",
+      "checkedAt": "2026-10-22T12:02:00.832Z",
+      "firstAcceptedAt": "2026-10-22T12:02:00.832Z"
     },
     "bharathcoorg/nammakyc": {
       "full": "Bharathcoorg/nammakyc",
       "firstSeenAt": "2026-10-22T11:51:30.182Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -68374,7 +69355,84 @@
           "repository": "Bharathcoorg/nammakyc"
         }
       ],
-      "lastSeenAt": "2026-10-22T11:51:30.182Z"
+      "lastSeenAt": "2026-10-22T11:51:30.182Z",
+      "entry": {
+        "availability": "available",
+        "full": "Bharathcoorg/nammakyc",
+        "name": "nammakyc",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 1,
+        "forks": 0,
+        "created": "2026-09-26T11:00:02Z",
+        "updated": "2026-09-28T19:46:52Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://bharathcoorg.github.io/nammakyc/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-22T12:02:02.038Z",
+        "lastAvailableAt": "2026-10-22T12:02:02.038Z",
+        "lastAttemptAt": "2026-10-22T12:02:02.038Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104840667197522150",
+            "postId": "2104840667197522150",
+            "postedAt": "2026-09-29T07:48:15.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://bharathcoorg.github.io/nammakyc/",
+          "attemptedAt": "2026-10-22T12:02:06.702Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-22T12:02:06.702Z",
+          "lastWorkingAt": "2026-10-22T12:02:06.702Z",
+          "target": "https://bharathcoorg.github.io/nammakyc/demo/index.html",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-29T12:02:06.702Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/a4b9b8333ca9601c4330137c.jpg",
+            "kind": "demo",
+            "url": "https://bharathcoorg.github.io/nammakyc/",
+            "capturedAt": "2026-10-22T12:02:06.702Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-22T12:02:06.702Z",
+        "previewCheck": {
+          "url": "https://bharathcoorg.github.io/nammakyc/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-22T12:02:06.702Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-29T12:02:06.704Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-24T00:02:06.705Z",
+      "checkedAt": "2026-10-22T12:02:06.705Z",
+      "firstAcceptedAt": "2026-10-22T12:02:06.705Z"
     }
   },
   "lastRun": {
@@ -69482,7 +70540,7 @@
       "posts": 487,
       "uniquePosts": 287,
       "newCandidates": 177,
-      "validationAttempts": 177,
+      "validationAttempts": 180,
       "accepted": 56
     },
     "2c0438e5283099cf": {
@@ -69514,8 +70572,8 @@
       "posts": 508,
       "uniquePosts": 239,
       "newCandidates": 232,
-      "validationAttempts": 207,
-      "accepted": 95
+      "validationAttempts": 224,
+      "accepted": 104
     }
   },
   "demoSeeds": {
@@ -69969,7 +71027,7 @@
         "replies": 1,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-22T11:49:06.970Z",
+      "nextAttemptAt": "2026-10-23T12:01:37.915Z",
       "reason": "temporary_error"
     },
     "https://elon-musk12.github.io/Elon-X-capital/": {
@@ -70194,8 +71252,8 @@
     }
   },
   "lastDemoDiscovery": {
-    "checked": 3,
+    "checked": 1,
     "resolved": 0,
-    "at": "2026-10-22T03:56:01.581Z"
+    "at": "2026-10-22T12:01:37.977Z"
   }
 }
