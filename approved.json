@@ -1,882 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-21T11:49:23.250Z",
+  "updatedAt": "2026-10-22T03:57:19.120Z",
   "runtimeRevision": "ed71211be3a262dd1b928f3740f110b041b3708e",
   "checked": 20,
   "repositories": [
-    {
-      "availability": "available",
-      "full": "lemomo-ai/lemo-opuscar",
-      "name": "lemo-opuscar",
-      "description": "Claude Code skill for short films with no video model: 51 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98 and the new Evidence Films). By Lemomo. · Opus5.5 x 51 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南（新增「实证影像」）",
-      "category": "Design",
-      "language": "JavaScript",
-      "stars": 3815,
-      "forks": 435,
-      "created": "2026-09-26T10:10:41Z",
-      "updated": "2026-10-19T12:11:41Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "https://lemomo-ai.github.io/lemo-opuscar/",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "ai-short-film",
-        "ai-video",
-        "animation",
-        "canvas",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-code-skill",
-        "creative-coding",
-        "ffmpeg",
-        "filmmaking",
-        "motion-graphics",
-        "opus-5-5",
-        "prompt-library",
-        "text-to-speech",
-        "threejs",
-        "video-production",
-        "webgl"
-      ],
-      "demo": "https://lemomo-ai.github.io/lemo-opuscar/",
-      "color": "#302e55",
-      "ink": "#dbd2ff",
-      "lastCheckedAt": "2026-10-20T01:48:12.983Z",
-      "lastAttemptAt": "2026-10-20T01:48:12.983Z",
-      "lastAvailableAt": "2026-10-20T01:48:12.983Z",
-      "metrics": [
-        {
-          "at": "2026-10-08T16:07:13.806Z",
-          "stars": 1407,
-          "forks": 163
-        },
-        {
-          "at": "2026-10-09T23:11:43.461Z",
-          "stars": 1541,
-          "forks": 175
-        },
-        {
-          "at": "2026-10-11T22:40:07.594Z",
-          "stars": 1897,
-          "forks": 206
-        },
-        {
-          "at": "2026-10-15T13:02:01.112Z",
-          "stars": 2423,
-          "forks": 254
-        },
-        {
-          "at": "2026-10-16T18:02:23.609Z",
-          "stars": 2657,
-          "forks": 286
-        },
-        {
-          "at": "2026-10-17T12:30:58.698Z",
-          "stars": 2804,
-          "forks": 304
-        },
-        {
-          "at": "2026-10-18T09:16:59.502Z",
-          "stars": 2952,
-          "forks": 326
-        },
-        {
-          "at": "2026-10-20T01:48:12.983Z",
-          "stars": 3815,
-          "forks": 435
-        }
-      ],
-      "technologies": [
-        "Three.js"
-      ],
-      "overview": {
-        "kind": "readme",
-        "version": 1,
-        "paragraphs": [
-          "51 film styles, each with a short film made entirely in code.",
-          "Pick a style, bring your own story, and let your coding agent direct the film.",
-          "51 种影片风格，每种都配一支完全用代码做出来的短片 · 🇨🇳 中文用户请看 简体中文说明"
-        ],
-        "features": [
-          "▶ The film · 1927 – 2025 · 6:31 One Clawd walks through all 98 Best Picture winners, each one redrawn in a style that fits the film. All 98 styles, open · 77 in 2D · 4 in 2.5D · 17 in 3D Each film's style tag, a frame,…",
-          "Every frame, every note and every cut was written in code by Claude Opus 5.5.",
-          "▶ Watch · All 98 styles · Download 1080p",
-          "🎨 Picture: canvas and WebGL pages, rendered frame by frame",
-          "🎵 Music: original scores from free sample libraries"
-        ],
-        "sourceUrl": "https://github.com/lemomo-ai/lemo-opuscar/blob/main/README.md",
-        "fingerprint": "61891edc3866c9ffa83c32b13c6b6287ea324615f06dd374d4d83552419bbfc1",
-        "extractedAt": "2026-10-20T01:48:13.013Z"
-      },
-      "overviewCheckedAt": "2026-10-20T01:48:13.013Z",
-      "projectInsights": {
-        "version": 1,
-        "whatItDoes": {
-          "text": "51 film styles, each with a short film made entirely in code.",
-          "sourceUrl": "https://github.com/lemomo-ai/lemo-opuscar/blob/main/README.md"
-        },
-        "audience": [],
-        "requirements": [],
-        "fingerprint": "61891edc3866c9ffa83c32b13c6b6287ea324615f06dd374d4d83552419bbfc1",
-        "sourceUrl": "https://github.com/lemomo-ai/lemo-opuscar/blob/main/README.md",
-        "checkedAt": "2026-10-20T01:48:13.014Z"
-      },
-      "overviewRepoUpdated": "2026-10-19T12:11:41Z",
-      "readmeSnapshot": {
-        "version": 1,
-        "status": "saved",
-        "sourceUrl": "https://github.com/lemomo-ai/lemo-opuscar/blob/main/README.md",
-        "checkedAt": "2026-10-20T01:48:13.017Z",
-        "hash": "61891edc3866c9ffa83c32b13c6b6287ea324615f06dd374d4d83552419bbfc1",
-        "originalBytes": 27046,
-        "storedBytes": 27046,
-        "truncated": false
-      },
-      "lastDemoCheckedAt": "2026-10-20T01:48:12.983Z",
-      "subjects": [
-        "Animation & motion",
-        "MCP servers & agents",
-        "Image, audio & video AI",
-        "3D & graphics"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Design",
-        "subjects": [
-          "Animation & motion",
-          "MCP servers & agents",
-          "Image, audio & video AI",
-          "3D & graphics"
-        ],
-        "evidence": [
-          {
-            "subject": "Animation & motion",
-            "source": "metadata",
-            "match": "animation"
-          },
-          {
-            "subject": "MCP servers & agents",
-            "source": "metadata",
-            "match": "agent"
-          },
-          {
-            "subject": "Image, audio & video AI",
-            "source": "metadata",
-            "match": "ai video"
-          },
-          {
-            "subject": "3D & graphics",
-            "source": "metadata",
-            "match": "threejs"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [
-          "Games & game development",
-          "Music & audio"
-        ],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://lemomo-ai.github.io/lemo-opuscar/",
-        "attemptedAt": "2026-10-20T02:05:15.494Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-20T02:05:15.494Z",
-        "lastWorkingAt": "2026-10-20T02:05:15.494Z",
-        "target": "https://lemomo-ai.github.io/lemo-opuscar/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-27T02:05:15.494Z"
-      },
-      "previewAttemptAt": "2026-10-20T02:05:15.494Z",
-      "previewCheck": {
-        "url": "https://lemomo-ai.github.io/lemo-opuscar/",
-        "attemptedAt": "2026-10-20T02:05:15.494Z",
-        "consecutiveFailures": 0,
-        "status": "captured",
-        "reason": null,
-        "nextCheckAt": "2026-10-27T02:05:15.494Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/c8a902128bb0b8425411641e.jpg",
-          "kind": "demo",
-          "capturedAt": "2026-10-20T02:05:15.494Z",
-          "url": "https://lemomo-ai.github.io/lemo-opuscar/",
-          "variants": [
-            {
-              "src": "previews/variants/c8a902128bb0b8425411641e-320.webp",
-              "width": 320,
-              "height": 200
-            },
-            {
-              "src": "previews/variants/c8a902128bb0b8425411641e-640.webp",
-              "width": 640,
-              "height": 400
-            },
-            {
-              "src": "previews/variants/c8a902128bb0b8425411641e-960.webp",
-              "width": 960,
-              "height": 600
-            }
-          ]
-        }
-      ],
-      "qualityPriority": false,
-      "enrichmentAttemptAt": "2026-10-08T18:26:17.783Z",
-      "latestRelease": {
-        "name": "Web cuts (720p, copied into the gallery)",
-        "tag": "web",
-        "publishedAt": "2026-09-26T11:20:10Z",
-        "url": "https://github.com/lemomo-ai/lemo-opuscar/releases/tag/web"
-      },
-      "releaseCheckedAt": "2026-10-08T18:26:17.783Z",
-      "agentContextAttemptAt": "2026-10-12T23:53:03.524Z",
-      "agentContext": {
-        "version": 1,
-        "checkedAt": "2026-10-12T23:53:04.966Z",
-        "documents": [
-          {
-            "name": "package.json",
-            "sourceUrl": "https://github.com/lemomo-ai/lemo-opuscar/blob/main/package.json",
-            "hash": "6b8067aaba294772db54db7d2763300021e0d1fe97b5f108c10ae7c42aa1350d",
-            "originalBytes": 363,
-            "truncated": false
-          },
-          {
-            "name": "LICENSE",
-            "sourceUrl": "https://github.com/lemomo-ai/lemo-opuscar/blob/main/LICENSE",
-            "hash": "14c9ff6f14bfb2391e74fedb01c256891d2a3bba1c2acf5789901bdf77e54e33",
-            "originalBytes": 1064,
-            "truncated": false
-          }
-        ]
-      },
-      "agentContextRepoUpdated": "2026-10-10T11:25:21Z",
-      "repositoryId": 1389011744,
-      "spaces": [],
-      "trendshift": {
-        "seenAt": "2026-10-19T22:16:36.842Z",
-        "signal": 0.319
-      },
-      "communityPosts": [],
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105313076048248998",
-          "postId": "2105313076048248998",
-          "postedAt": "2026-09-30T15:05:26.000Z"
-        }
-      ],
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "repositoryId": 263503250,
-      "availability": "available",
-      "full": "Azure/bicep",
-      "name": "bicep",
-      "description": "Bicep is a declarative language for describing and deploying Azure resources",
-      "category": "Other",
-      "language": "Bicep",
-      "stars": 3657,
-      "forks": 832,
-      "created": "2020-05-13T02:18:30Z",
-      "updated": "2026-10-19T23:50:36Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "",
-      "topics": [
-        "arm-json",
-        "arm-templates",
-        "bicep"
-      ],
-      "demo": "https://azure.github.io/bicep/",
-      "color": "#193546",
-      "ink": "#a6d6e8",
-      "lastCheckedAt": "2026-10-20T01:48:57.848Z",
-      "lastAttemptAt": "2026-10-20T01:48:57.848Z",
-      "lastAvailableAt": "2026-10-20T01:48:57.848Z",
-      "metrics": [
-        {
-          "at": "2026-10-15T17:00:59.879Z",
-          "stars": 3656,
-          "forks": 832
-        },
-        {
-          "at": "2026-10-17T16:00:44.660Z",
-          "stars": 3655,
-          "forks": 832
-        },
-        {
-          "at": "2026-10-20T01:48:57.848Z",
-          "stars": 3657,
-          "forks": 832
-        }
-      ],
-      "technologies": [],
-      "overview": {
-        "kind": "readme",
-        "version": 1,
-        "paragraphs": [
-          "Bicep is an infrastructure-as-code (IaC) programming language that uses declarative syntax to deploy Azure resources. In a Bicep file, you define the infrastructure you want to deploy to Azure and then use that file throughout the development lifecycle to repeatedly deploy that infrastructure. Your resources are deployed in a consistent manner.",
-          "Learn more about the language and benefits of using Bicep in the What is Bicep documentation."
-        ],
-        "features": [],
-        "sourceUrl": "https://github.com/Azure/bicep/blob/main/README.md",
-        "fingerprint": "69c1e6caa9c62d9a950ea29f24470fc6ffc3d2c723ac2057291aa18aa62c25d1",
-        "extractedAt": "2026-10-15T17:00:59.936Z"
-      },
-      "overviewCheckedAt": "2026-10-20T01:48:57.901Z",
-      "projectInsights": {
-        "version": 1,
-        "whatItDoes": {
-          "text": "Bicep is an infrastructure-as-code (IaC) programming language that uses declarative syntax to deploy Azure resources. In a Bicep file, you define the infrastructure you want to deploy to Azure and then use that file throughout the development lifecycle to repeatedly deploy that infrastructure. Your resources are deployed in a consistent manner.",
-          "sourceUrl": "https://github.com/Azure/bicep/blob/main/README.md"
-        },
-        "audience": [],
-        "requirements": [],
-        "fingerprint": "69c1e6caa9c62d9a950ea29f24470fc6ffc3d2c723ac2057291aa18aa62c25d1",
-        "sourceUrl": "https://github.com/Azure/bicep/blob/main/README.md",
-        "checkedAt": "2026-10-20T01:48:57.901Z"
-      },
-      "overviewRepoUpdated": "2026-10-19T23:50:36Z",
-      "readmeSnapshot": {
-        "version": 1,
-        "status": "saved",
-        "sourceUrl": "https://github.com/Azure/bicep/blob/main/README.md",
-        "checkedAt": "2026-10-20T01:48:57.902Z",
-        "hash": "69c1e6caa9c62d9a950ea29f24470fc6ffc3d2c723ac2057291aa18aa62c25d1",
-        "originalBytes": 10749,
-        "storedBytes": 10749,
-        "truncated": false
-      },
-      "lastDemoCheckedAt": "2026-10-20T01:48:57.848Z",
-      "enrichmentAttemptAt": "2026-10-15T17:02:22.770Z",
-      "latestRelease": {
-        "name": "v0.48.1",
-        "tag": "v0.48.1",
-        "publishedAt": "2026-10-05T19:06:48Z",
-        "url": "https://github.com/Azure/bicep/releases/tag/v0.48.1"
-      },
-      "releaseCheckedAt": "2026-10-15T17:02:22.770Z",
-      "screenshots": [
-        {
-          "src": "previews/44685cececf9656bfdce57f6.jpg",
-          "kind": "demo",
-          "capturedAt": "2026-10-20T02:05:22.752Z",
-          "url": "https://azure.github.io/bicep/"
-        }
-      ],
-      "agentContextAttemptAt": "2026-10-15T17:03:23.758Z",
-      "agentContext": {
-        "version": 1,
-        "checkedAt": "2026-10-15T17:03:24.687Z",
-        "documents": [
-          {
-            "name": "LICENSE",
-            "sourceUrl": "https://github.com/Azure/bicep/blob/main/LICENSE",
-            "hash": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
-            "originalBytes": 1141,
-            "truncated": false
-          }
-        ]
-      },
-      "agentContextRepoUpdated": "2026-10-15T11:54:52Z",
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [
-          "Automation & workflows",
-          "Templates & UI components"
-        ],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://azure.github.io/bicep/",
-        "attemptedAt": "2026-10-20T02:05:22.752Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-20T02:05:22.752Z",
-        "lastWorkingAt": "2026-10-20T02:05:22.752Z",
-        "target": "https://azure.github.io/bicep/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-27T02:05:22.752Z"
-      },
-      "previewAttemptAt": "2026-10-20T02:05:22.752Z",
-      "previewCheck": {
-        "url": "https://azure.github.io/bicep/",
-        "attemptedAt": "2026-10-20T02:05:22.752Z",
-        "consecutiveFailures": 0,
-        "status": "captured",
-        "reason": null,
-        "nextCheckAt": "2026-10-27T02:05:22.752Z"
-      },
-      "qualityPriority": false,
-      "spaces": [],
-      "communityPosts": [],
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2097387601074278600",
-          "postId": "2097387601074278600",
-          "postedAt": "2026-09-08T18:12:26.000Z"
-        }
-      ],
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "carpentry-liu/awesome-astra-3d",
-      "name": "awesome-astra-3d",
-      "description": "Curated GPT-6 Astra 3D examples: editable Blender projects, Three.js games, CAD, full videos & creator workflows. 中英文案例库、公开工程与上手路线。",
-      "category": "Developer tools",
-      "language": "TypeScript",
-      "stars": 16,
-      "forks": 1,
-      "created": "2026-09-06T01:09:51Z",
-      "updated": "2026-10-19T01:22:47Z",
-      "license": null,
-      "branch": "main",
-      "homepage": "https://carpentry-liu.github.io/awesome-astra-3d/",
-      "topics": [
-        "3d",
-        "3d-modeling",
-        "architectural-visualization",
-        "awesome-list",
-        "blender",
-        "cad",
-        "codex",
-        "game-development",
-        "generative-ai",
-        "godot",
-        "gpt-6",
-        "gpt-6-astra",
-        "houdini",
-        "mujoco",
-        "openai",
-        "prompt-engineering",
-        "rhino",
-        "showcase",
-        "threejs",
-        "webgl"
-      ],
-      "demo": "https://carpentry-liu.github.io/awesome-astra-3d/",
-      "color": "#63362a",
-      "ink": "#f8c7a8",
-      "lastCheckedAt": "2026-10-19T13:15:05.967Z",
-      "lastAvailableAt": "2026-10-19T13:15:05.967Z",
-      "lastAttemptAt": "2026-10-19T13:15:05.967Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2097286217641697459",
-          "postId": "2097286217641697459",
-          "postedAt": "2026-09-08T11:29:34.000Z"
-        }
-      ],
-      "subjects": [
-        "Architecture & building design",
-        "Games & game development",
-        "Animation & motion",
-        "Automation & workflows",
-        "3D & graphics"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [
-          "Architecture & building design",
-          "Games & game development",
-          "Animation & motion",
-          "Automation & workflows",
-          "3D & graphics"
-        ],
-        "evidence": [
-          {
-            "subject": "Architecture & building design",
-            "source": "metadata",
-            "match": "CAD"
-          },
-          {
-            "subject": "Games & game development",
-            "source": "metadata",
-            "match": "games"
-          },
-          {
-            "subject": "Animation & motion",
-            "source": "metadata",
-            "match": "Blender"
-          },
-          {
-            "subject": "Automation & workflows",
-            "source": "metadata",
-            "match": "workflows"
-          },
-          {
-            "subject": "3D & graphics",
-            "source": "metadata",
-            "match": "3d"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://carpentry-liu.github.io/awesome-astra-3d/",
-        "attemptedAt": "2026-10-19T13:15:09.268Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-19T13:15:09.268Z",
-        "lastWorkingAt": "2026-10-19T13:15:09.268Z",
-        "target": "https://carpentry-liu.github.io/awesome-astra-3d/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-26T13:15:09.268Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/60276a59ce8d8bcaf3c8b0ed.jpg",
-          "kind": "demo",
-          "url": "https://carpentry-liu.github.io/awesome-astra-3d/",
-          "capturedAt": "2026-10-19T13:15:09.268Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-19T13:15:09.268Z",
-      "previewCheck": {
-        "url": "https://carpentry-liu.github.io/awesome-astra-3d/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-19T13:15:09.268Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-26T13:15:09.268Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "kerne-protocol/contracts-public",
-      "name": "contracts-public",
-      "description": "Public verification surface for Kerne Protocol, a delta-neutral synthetic dollar (kUSD) on Base: deployment registry, live-protocol verification script, and how-to-verify walkthrough.",
-      "category": "Finance",
-      "language": "Solidity",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-06-08T19:11:38Z",
-      "updated": "2026-08-24T19:28:03Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "https://kerne.fi",
-      "topics": [
-        "base",
-        "defi",
-        "delta-neutral",
-        "erc-4626",
-        "ethereum",
-        "kerne",
-        "kusd",
-        "proof-of-reserves",
-        "solidity",
-        "stablecoin",
-        "synthetic-dollar"
-      ],
-      "demo": "https://kerne.fi/security/acknowledgments",
-      "color": "#302e55",
-      "ink": "#dbd2ff",
-      "lastCheckedAt": "2026-10-19T13:14:55.307Z",
-      "lastAvailableAt": "2026-10-19T13:14:55.307Z",
-      "lastAttemptAt": "2026-10-19T13:14:55.307Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "kerne-protocol/contracts-public",
-        "postUrl": "https://x.com/i/web/status/2105284140472095212",
-        "url": "https://kerne.fi/security/acknowledgments"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105284140472095212",
-          "postId": "2105284140472095212",
-          "postedAt": "2026-09-30T13:10:28.000Z"
-        }
-      ],
-      "subjects": [
-        "Crypto & blockchain"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Finance",
-        "subjects": [
-          "Crypto & blockchain"
-        ],
-        "evidence": [
-          {
-            "subject": "Crypto & blockchain",
-            "source": "metadata",
-            "match": "defi"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://kerne.fi/security/acknowledgments",
-        "attemptedAt": "2026-10-19T13:14:58.926Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-19T13:14:58.926Z",
-        "lastWorkingAt": "2026-10-19T13:14:58.926Z",
-        "target": "https://kerne.fi/security/acknowledgments",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-26T13:14:58.926Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/84bbbc47096e445e320ac875.jpg",
-          "kind": "demo",
-          "url": "https://kerne.fi/security/acknowledgments",
-          "capturedAt": "2026-10-19T13:14:58.926Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-19T13:14:58.926Z",
-      "previewCheck": {
-        "url": "https://kerne.fi/security/acknowledgments",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-19T13:14:58.926Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-26T13:14:58.927Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "akshayking517/fdvr-headpiece-sim",
-      "name": "fdvr-headpiece-sim",
-      "description": "Interactive power-budget simulator for a battery-less retinal-projection headpiece (full-dive VR essay companion).",
-      "category": "Finance",
-      "language": "HTML",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-09-30T11:19:28Z",
-      "updated": "2026-09-30T11:28:50Z",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://akshayking517.github.io/fdvr-headpiece-sim/",
-      "color": "#25392f",
-      "ink": "#d1e5c5",
-      "lastCheckedAt": "2026-10-19T13:14:51.034Z",
-      "lastAvailableAt": "2026-10-19T13:14:51.034Z",
-      "lastAttemptAt": "2026-10-19T13:14:51.034Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "akshayking517/fdvr-headpiece-sim",
-        "postUrl": "https://x.com/i/web/status/2105272101582381101",
-        "url": "https://akshayking517.github.io/fdvr-headpiece-sim/"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105272101582381101",
-          "postId": "2105272101582381101",
-          "postedAt": "2026-09-30T12:22:37.000Z"
-        }
-      ],
-      "subjects": [
-        "Simulation & physics"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Finance",
-        "subjects": [
-          "Simulation & physics"
-        ],
-        "evidence": [
-          {
-            "subject": "Simulation & physics",
-            "source": "metadata",
-            "match": "simulator"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://akshayking517.github.io/fdvr-headpiece-sim/",
-        "attemptedAt": "2026-10-19T13:14:54.359Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-19T13:14:54.359Z",
-        "lastWorkingAt": "2026-10-19T13:14:54.359Z",
-        "target": "https://akshayking517.github.io/fdvr-headpiece-sim/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-26T13:14:54.359Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/83086f287af73ef20c26d7f5.jpg",
-          "kind": "demo",
-          "url": "https://akshayking517.github.io/fdvr-headpiece-sim/",
-          "capturedAt": "2026-10-19T13:14:54.359Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-19T13:14:54.359Z",
-      "previewCheck": {
-        "url": "https://akshayking517.github.io/fdvr-headpiece-sim/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-19T13:14:54.359Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-26T13:14:54.359Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "mikro-orm/mikro-orm",
-      "name": "mikro-orm",
-      "description": "TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.",
-      "category": "Developer tools",
-      "language": "TypeScript",
-      "stars": 9253,
-      "forks": 689,
-      "created": "2018-03-15T09:21:10Z",
-      "updated": "2026-10-19T05:04:01Z",
-      "license": "MIT",
-      "branch": "master",
-      "homepage": "https://mikro-orm.io",
-      "topics": [
-        "database",
-        "datamapper",
-        "entities",
-        "entity",
-        "identity-map",
-        "javascript",
-        "libsql",
-        "mongodb",
-        "mysql",
-        "nodejs",
-        "orm",
-        "postgre",
-        "postgresql",
-        "sql",
-        "sql-server",
-        "sqlite",
-        "sqlite3",
-        "typescript",
-        "typescript-orm",
-        "unit-of-work"
-      ],
-      "demo": "https://mikro-orm.io/blog/mikro-orm-7-2-released",
-      "color": "#63362a",
-      "ink": "#f8c7a8",
-      "lastCheckedAt": "2026-10-19T13:14:44.859Z",
-      "lastAvailableAt": "2026-10-19T13:14:44.859Z",
-      "lastAttemptAt": "2026-10-19T13:14:44.859Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "mikro-orm/mikro-orm",
-        "postUrl": "https://x.com/i/web/status/2097008541714330053",
-        "url": "https://mikro-orm.io/blog/mikro-orm-7-2-released"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2097008541714330053",
-          "postId": "2097008541714330053",
-          "postedAt": "2026-09-07T17:06:11.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://mikro-orm.io/blog/mikro-orm-7-2-released",
-        "attemptedAt": "2026-10-19T13:14:48.566Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-19T13:14:48.566Z",
-        "lastWorkingAt": "2026-10-19T13:14:48.566Z",
-        "target": "https://mikro-orm.io/blog/mikro-orm-7-2-released",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-26T13:14:48.566Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/b5ce2cf8ec79c0a605d36a84.jpg",
-          "kind": "demo",
-          "url": "https://mikro-orm.io/blog/mikro-orm-7-2-released",
-          "capturedAt": "2026-10-19T13:14:48.566Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-19T13:14:48.566Z",
-      "previewCheck": {
-        "url": "https://mikro-orm.io/blog/mikro-orm-7-2-released",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-19T13:14:48.566Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-26T13:14:48.567Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
     {
       "availability": "available",
       "full": "tugrulguner/intpot",
@@ -969,105 +96,6 @@
         "attemptedAt": "2026-10-21T11:49:21.761Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-28T11:49:21.763Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "HiMahendraBeniwal/female-atlas",
-      "name": "female-atlas",
-      "description": "Explore the reference female anatomy across 3,004 individually modeled structures and 16 systems with authentic female morphology in real-time 3D.",
-      "category": "Other",
-      "language": "TypeScript",
-      "stars": 25,
-      "forks": 10,
-      "created": "2026-09-07T00:14:05Z",
-      "updated": "2026-09-07T01:00:58Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://female-atlas.outme.lol/",
-      "color": "#323057",
-      "ink": "#d6caff",
-      "lastCheckedAt": "2026-10-19T13:14:33.427Z",
-      "lastAvailableAt": "2026-10-19T13:14:33.427Z",
-      "lastAttemptAt": "2026-10-19T13:14:33.427Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "HiMahendraBeniwal/female-atlas",
-        "postUrl": "https://x.com/i/web/status/2096771114198544448",
-        "url": "https://female-atlas.outme.lol/"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2096858571342495983",
-          "postId": "2096858571342495983",
-          "postedAt": "2026-09-07T07:10:15.000Z"
-        },
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2096771114198544448",
-          "postId": "2096771114198544448",
-          "postedAt": "2026-09-07T01:22:44.000Z"
-        }
-      ],
-      "subjects": [
-        "3D & graphics"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [
-          "3D & graphics"
-        ],
-        "evidence": [
-          {
-            "subject": "3D & graphics",
-            "source": "metadata",
-            "match": "3D"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://female-atlas.outme.lol/",
-        "attemptedAt": "2026-10-19T13:14:43.530Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-19T13:14:43.530Z",
-        "lastWorkingAt": "2026-10-19T13:14:43.530Z",
-        "target": "https://female-atlas.outme.lol/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-26T13:14:43.530Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/08f3a10c3811fb946b6e507a.jpg",
-          "kind": "demo",
-          "url": "https://female-atlas.outme.lol/",
-          "capturedAt": "2026-10-19T13:14:43.530Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-19T13:14:43.530Z",
-      "previewCheck": {
-        "url": "https://female-atlas.outme.lol/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-19T13:14:43.530Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-26T13:14:43.531Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
@@ -1743,6 +771,1203 @@
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-27T11:36:33.098Z"
       },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "vatsakash/ShadowPay",
+      "name": "ShadowPay",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-27T16:19:25Z",
+      "updated": "2026-09-30T16:32:34Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://shadow-pay-hk42.vercel.app",
+      "topics": [],
+      "demo": "https://drive.google.com/file/d/11o55cfCwYoXV9EZ6WoUKhJjrf42e_bkE/view?usp=sharing",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-22T03:56:58.489Z",
+      "lastAvailableAt": "2026-10-22T03:56:58.489Z",
+      "lastAttemptAt": "2026-10-22T03:56:58.489Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104976243326431372",
+          "postId": "2104976243326431372",
+          "postedAt": "2026-09-29T16:46:59.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://drive.google.com/file/d/11o55cfCwYoXV9EZ6WoUKhJjrf42e_bkE/view?usp=sharing",
+        "attemptedAt": "2026-10-22T03:57:01.881Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-22T03:57:01.881Z",
+        "lastWorkingAt": "2026-10-22T03:57:01.881Z",
+        "target": "https://drive.google.com/file/d/11o55cfCwYoXV9EZ6WoUKhJjrf42e_bkE/view",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-29T03:57:01.881Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/abef74976a9c93d3eedf43e4.jpg",
+          "kind": "demo",
+          "url": "https://drive.google.com/file/d/11o55cfCwYoXV9EZ6WoUKhJjrf42e_bkE/view?usp=sharing",
+          "capturedAt": "2026-10-22T03:57:01.881Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-22T03:57:01.881Z",
+      "previewCheck": {
+        "url": "https://drive.google.com/file/d/11o55cfCwYoXV9EZ6WoUKhJjrf42e_bkE/view?usp=sharing",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-22T03:57:01.881Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-29T03:57:01.881Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "ahmedgcompany-cyber/contractrift",
+      "name": "contractrift",
+      "description": "Know when the APIs, LLMs and MCP servers you depend on go down — or silently change. Self-hosted API contract & drift monitoring.",
+      "category": "Developer tools",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-28T16:58:39Z",
+      "updated": "2026-09-29T11:40:12Z",
+      "license": "AGPL-3.0",
+      "branch": "main",
+      "homepage": "https://ahmedgcompany-cyber.github.io/contractrift/",
+      "topics": [
+        "api-drift",
+        "api-monitoring",
+        "contract-testing",
+        "devops",
+        "fastify",
+        "llm",
+        "llmops",
+        "mcp",
+        "model-context-protocol",
+        "observability",
+        "postgresql",
+        "react",
+        "schema-drift",
+        "self-hosted",
+        "sre",
+        "synthetic-monitoring",
+        "typescript"
+      ],
+      "demo": "https://136-119-147-140.sslip.io/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-22T03:57:02.586Z",
+      "lastAvailableAt": "2026-10-22T03:57:02.586Z",
+      "lastAttemptAt": "2026-10-22T03:57:02.586Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104957294773715153",
+          "postId": "2104957294773715153",
+          "postedAt": "2026-09-29T15:31:41.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104956909145178492",
+          "postId": "2104956909145178492",
+          "postedAt": "2026-09-29T15:30:10.000Z"
+        }
+      ],
+      "subjects": [
+        "MCP servers & agents",
+        "Self-hosted apps"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "MCP servers & agents",
+          "Self-hosted apps"
+        ],
+        "evidence": [
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "MCP"
+          },
+          {
+            "subject": "Self-hosted apps",
+            "source": "metadata",
+            "match": "Self hosted"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://136-119-147-140.sslip.io/",
+        "attemptedAt": "2026-10-22T03:57:06.906Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-22T03:57:06.906Z",
+        "lastWorkingAt": "2026-10-22T03:57:06.906Z",
+        "target": "https://136-119-147-140.sslip.io/login",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-29T03:57:06.906Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/eda70be651cf7419416de441.jpg",
+          "kind": "demo",
+          "url": "https://136-119-147-140.sslip.io/",
+          "capturedAt": "2026-10-22T03:57:06.906Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-22T03:57:06.906Z",
+      "previewCheck": {
+        "url": "https://136-119-147-140.sslip.io/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-22T03:57:06.906Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-29T03:57:06.907Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "NVlabs/Eagle",
+      "name": "Eagle",
+      "description": "Eagle: Frontier Vision-Language Models with Data-Centric Strategies",
+      "category": "AI & machine learning",
+      "language": "Python",
+      "stars": 3712,
+      "forks": 361,
+      "created": "2024-06-27T07:22:52Z",
+      "updated": "2026-06-24T18:12:11Z",
+      "license": "Apache-2.0",
+      "branch": "main",
+      "homepage": "https://nvlabs.github.io/Eagle/",
+      "topics": [
+        "demo",
+        "eagle",
+        "gpt4",
+        "huggingface",
+        "large-language-models",
+        "llama",
+        "llama3",
+        "llava",
+        "llm",
+        "lmm",
+        "lvlm",
+        "mllm",
+        "nvdia"
+      ],
+      "demo": "https://huggingface.co/spaces/nvidia/LocateAnything",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-20T19:36:02.225Z",
+      "lastAttemptAt": "2026-10-20T19:36:02.225Z",
+      "lastAvailableAt": "2026-10-20T19:36:02.225Z",
+      "metrics": [
+        {
+          "at": "2026-10-05T18:33:31.901Z",
+          "stars": 3686,
+          "forks": 362
+        },
+        {
+          "at": "2026-10-07T18:42:44.067Z",
+          "stars": 3687,
+          "forks": 362
+        },
+        {
+          "at": "2026-10-09T19:33:32.720Z",
+          "stars": 3694,
+          "forks": 362
+        },
+        {
+          "at": "2026-10-11T11:06:56.403Z",
+          "stars": 3697,
+          "forks": 362
+        },
+        {
+          "at": "2026-10-16T20:35:13.477Z",
+          "stars": 3704,
+          "forks": 361
+        },
+        {
+          "at": "2026-10-20T19:36:02.225Z",
+          "stars": 3712,
+          "forks": 361
+        }
+      ],
+      "technologies": [
+        "Python"
+      ],
+      "overview": {
+        "kind": "readme",
+        "version": 1,
+        "paragraphs": [
+          "[📘Eagle Report] [📘Eagle 2 Report] [📘Eagle 2.5 Report] [📘LocateAnything Report]",
+          "[🤗Model Collection] [🤗LocateAnything Demo] [🌐Project Page]"
+        ],
+        "features": [
+          "Dense Object Detection",
+          "LocateAnything performs diverse localization tasks under a unified VLM — document understanding, GUI grounding, dense object detection, and OCR.",
+          "Parallel Box Decoding (PBD) vs. Quantized Coordinate Decoding — PBD predicts each bounding box atomically in a single forward pass for substantially faster throughput.",
+          "Analyze the video and divide it into distinct sections. For each section, create a title using a few words or phrases, and a detailed caption describing the content of the section, and indicate when it begins in…",
+          "1.05 seconds, Introduction"
+        ],
+        "sourceUrl": "https://github.com/NVlabs/Eagle/blob/main/README.md",
+        "fingerprint": "209cc0d1f26d51fbba62dc14d7a2507b34855521cedbd475d628ceef528c5610",
+        "extractedAt": "2026-10-05T18:33:32.046Z"
+      },
+      "overviewCheckedAt": "2026-10-11T11:06:56.543Z",
+      "projectInsights": {
+        "version": 1,
+        "whatItDoes": {
+          "text": "[📘Eagle Report] [📘Eagle 2 Report] [📘Eagle 2.5 Report] [📘LocateAnything Report]",
+          "sourceUrl": "https://github.com/NVlabs/Eagle/blob/main/README.md"
+        },
+        "audience": [],
+        "requirements": [],
+        "fingerprint": "209cc0d1f26d51fbba62dc14d7a2507b34855521cedbd475d628ceef528c5610",
+        "sourceUrl": "https://github.com/NVlabs/Eagle/blob/main/README.md",
+        "checkedAt": "2026-10-11T11:06:56.544Z"
+      },
+      "overviewRepoUpdated": "2026-06-24T18:12:11Z",
+      "readmeSnapshot": {
+        "version": 1,
+        "status": "saved",
+        "sourceUrl": "https://github.com/NVlabs/Eagle/blob/main/README.md",
+        "checkedAt": "2026-10-11T11:06:56.545Z",
+        "hash": "209cc0d1f26d51fbba62dc14d7a2507b34855521cedbd475d628ceef528c5610",
+        "originalBytes": 25213,
+        "storedBytes": 25213,
+        "truncated": false
+      },
+      "lastDemoCheckedAt": "2026-10-11T11:06:56.547Z",
+      "enrichmentAttemptAt": "2026-10-05T18:33:40.349Z",
+      "latestRelease": null,
+      "releaseCheckedAt": "2026-10-05T18:33:40.349Z",
+      "screenshots": [
+        {
+          "src": "previews/4a3efb061b84ab0337243917.jpg",
+          "kind": "demo",
+          "capturedAt": "2026-10-19T20:31:46.464Z",
+          "url": "https://huggingface.co/spaces/nvidia/LocateAnything"
+        }
+      ],
+      "agentContextAttemptAt": "2026-10-05T18:34:19.593Z",
+      "agentContext": {
+        "version": 1,
+        "checkedAt": "2026-10-05T18:34:21.195Z",
+        "documents": [
+          {
+            "name": "LICENSE",
+            "sourceUrl": "https://github.com/NVlabs/Eagle/blob/main/LICENSE",
+            "hash": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+            "originalBytes": 11357,
+            "truncated": false
+          }
+        ]
+      },
+      "agentContextRepoUpdated": "2026-06-24T18:12:11Z",
+      "demoHealth": {
+        "url": "https://huggingface.co/spaces/nvidia/LocateAnything",
+        "attemptedAt": "2026-10-19T20:31:46.464Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-19T20:31:46.464Z",
+        "lastWorkingAt": "2026-10-19T20:31:46.464Z",
+        "target": "https://huggingface.co/spaces/nvidia/LocateAnything",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-26T20:31:46.464Z"
+      },
+      "previewAttemptAt": "2026-10-19T20:31:46.464Z",
+      "previewCheck": {
+        "url": "https://huggingface.co/spaces/nvidia/LocateAnything",
+        "attemptedAt": "2026-10-19T20:31:46.464Z",
+        "consecutiveFailures": 0,
+        "status": "captured",
+        "reason": null,
+        "nextCheckAt": "2026-10-26T20:31:46.464Z"
+      },
+      "subjects": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "AI & machine learning",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [
+          "Games & game development",
+          "Image, audio & video AI"
+        ],
+        "reviewRequired": true
+      },
+      "qualityPriority": false,
+      "platforms": [],
+      "repositoryEtag": "W/\"7f3477470a71befcdbd4abd46ae83e4345e744240cc666eefc4937a9eb032ade\"",
+      "repositoryEtagFor": "NVlabs/Eagle",
+      "repositoryId": 820789280,
+      "repositoryAliases": [],
+      "spaces": [],
+      "communityPosts": [],
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104948771675115726",
+          "postId": "2104948771675115726",
+          "postedAt": "2026-09-29T14:57:49.000Z"
+        }
+      ],
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "QianQIUlp/handoffcheck-kiro-2026",
+      "name": "handoffcheck-kiro-2026",
+      "description": "Offline handoff evidence checker built with Kiro for University Challenge 2026",
+      "category": "Other",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-29T13:56:28Z",
+      "updated": "2026-09-29T14:11:47Z",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://qianqiulp.github.io/handoffcheck-kiro-2026/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-22T03:57:08.093Z",
+      "lastAvailableAt": "2026-10-22T03:57:08.093Z",
+      "lastAttemptAt": "2026-10-22T03:57:08.093Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "QianQIUlp/handoffcheck-kiro-2026",
+        "postUrl": "https://x.com/i/web/status/2104936869750517900",
+        "url": "https://qianqiulp.github.io/handoffcheck-kiro-2026/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104936869750517900",
+          "postId": "2104936869750517900",
+          "postedAt": "2026-09-29T14:10:32.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://qianqiulp.github.io/handoffcheck-kiro-2026/",
+        "attemptedAt": "2026-10-22T03:57:11.232Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-22T03:57:11.232Z",
+        "lastWorkingAt": "2026-10-22T03:57:11.232Z",
+        "target": "https://qianqiulp.github.io/handoffcheck-kiro-2026/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-29T03:57:11.232Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/25e01aa88967d665692c36b6.jpg",
+          "kind": "demo",
+          "url": "https://qianqiulp.github.io/handoffcheck-kiro-2026/",
+          "capturedAt": "2026-10-22T03:57:11.232Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-22T03:57:11.232Z",
+      "previewCheck": {
+        "url": "https://qianqiulp.github.io/handoffcheck-kiro-2026/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-22T03:57:11.232Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-29T03:57:11.233Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Vincentwei1021/video-talkcraft",
+      "name": "video-talkcraft",
+      "description": "Agent skill that turns Claude Code / Codex into a motion-design studio for voiceover-driven explainer videos — word-level voiceover sync, 109 motion recipe cards, an anti-slideshow camera system, Remotion rendering.",
+      "category": "Design",
+      "language": "HTML",
+      "stars": 1671,
+      "forks": 169,
+      "created": "2026-08-22T17:11:05Z",
+      "updated": "2026-10-12T05:29:10Z",
+      "license": null,
+      "branch": "main",
+      "homepage": "https://vincentwei1021.github.io/video-talkcraft/",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "claude",
+        "claude-code",
+        "explainer-video",
+        "kinetic-typography",
+        "motion-design",
+        "motion-graphics",
+        "narration",
+        "remotion",
+        "talking-head",
+        "video-production"
+      ],
+      "demo": "https://vincentwei1021.github.io/video-talkcraft/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-21T00:41:04.808Z",
+      "lastAttemptAt": "2026-10-21T00:41:04.808Z",
+      "lastAvailableAt": "2026-10-21T00:41:04.808Z",
+      "metrics": [
+        {
+          "at": "2026-10-11T04:29:17.480Z",
+          "stars": 1488,
+          "forks": 147
+        },
+        {
+          "at": "2026-10-15T13:02:01.662Z",
+          "stars": 1594,
+          "forks": 161
+        },
+        {
+          "at": "2026-10-18T09:16:59.694Z",
+          "stars": 1629,
+          "forks": 164
+        },
+        {
+          "at": "2026-10-21T00:41:04.808Z",
+          "stars": 1671,
+          "forks": 169
+        }
+      ],
+      "technologies": [],
+      "overview": {
+        "kind": "readme",
+        "version": 1,
+        "paragraphs": [
+          "口播视频的 agent skill：字级配音同步 · 108 张动效配方卡 · 七层反 PPT 镜头系统 · 三重验收",
+          "video-talkcraft 是 video-shotcraft 系列的口播视频篇：一个把 Claude Code / Codex 变成口播视频动效工作室的 AI agent skill。 给它一份口播稿和一条成品配音，它在本机对齐字级时间戳、把每个语义拍写进 SHOTBOOK 分镜，然后用 Remotion 渲出高质量的解说成片——动态字卡、 证据截图、运镜、素排字幕、影视级音效，全部锁在人声上。"
+        ],
+        "features": [],
+        "sourceUrl": "https://github.com/Vincentwei1021/video-talkcraft/blob/main/README.md",
+        "fingerprint": "63aca232f209db300476c889891e0d53566a746ac2074f0a6cafc68b6b76a8d8",
+        "extractedAt": "2026-10-15T13:02:01.805Z"
+      },
+      "overviewCheckedAt": "2026-10-15T13:02:01.805Z",
+      "projectInsights": {
+        "version": 1,
+        "whatItDoes": {
+          "text": "口播视频的 agent skill：字级配音同步 · 108 张动效配方卡 · 七层反 PPT 镜头系统 · 三重验收",
+          "sourceUrl": "https://github.com/Vincentwei1021/video-talkcraft/blob/main/README.md"
+        },
+        "audience": [],
+        "requirements": [],
+        "fingerprint": "63aca232f209db300476c889891e0d53566a746ac2074f0a6cafc68b6b76a8d8",
+        "sourceUrl": "https://github.com/Vincentwei1021/video-talkcraft/blob/main/README.md",
+        "checkedAt": "2026-10-15T13:02:01.805Z"
+      },
+      "overviewRepoUpdated": "2026-10-12T05:29:10Z",
+      "readmeSnapshot": {
+        "version": 1,
+        "status": "saved",
+        "sourceUrl": "https://github.com/Vincentwei1021/video-talkcraft/blob/main/README.md",
+        "checkedAt": "2026-10-15T13:04:05.543Z",
+        "hash": "63aca232f209db300476c889891e0d53566a746ac2074f0a6cafc68b6b76a8d8",
+        "originalBytes": 20216,
+        "storedBytes": 20216,
+        "truncated": false
+      },
+      "lastDemoCheckedAt": "2026-10-15T13:02:01.807Z",
+      "enrichmentAttemptAt": "2026-10-11T04:30:03.395Z",
+      "latestRelease": {
+        "name": "Gallery motion previews",
+        "tag": "gallery-media",
+        "publishedAt": "2026-08-28T10:50:28Z",
+        "url": "https://github.com/Vincentwei1021/video-talkcraft/releases/tag/gallery-media"
+      },
+      "releaseCheckedAt": "2026-10-11T04:30:03.395Z",
+      "screenshots": [
+        {
+          "src": "previews/9e427830c814f73441b68ad6.jpg",
+          "kind": "demo",
+          "capturedAt": "2026-10-15T13:20:55.401Z",
+          "url": "https://vincentwei1021.github.io/video-talkcraft/"
+        }
+      ],
+      "subjects": [
+        "Animation & motion",
+        "MCP servers & agents"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "Animation & motion",
+          "MCP servers & agents"
+        ],
+        "evidence": [
+          {
+            "subject": "Animation & motion",
+            "source": "metadata",
+            "match": "motion graphics"
+          },
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "Agent"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [
+          "Templates & UI components"
+        ],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://vincentwei1021.github.io/video-talkcraft/",
+        "attemptedAt": "2026-10-15T13:20:55.401Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-15T13:20:55.401Z",
+        "lastWorkingAt": "2026-10-15T13:20:55.401Z",
+        "target": "https://vincentwei1021.github.io/video-talkcraft/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-22T13:20:55.401Z"
+      },
+      "previewAttemptAt": "2026-10-15T13:20:55.401Z",
+      "previewCheck": {
+        "url": "https://vincentwei1021.github.io/video-talkcraft/",
+        "attemptedAt": "2026-10-15T13:20:55.401Z",
+        "consecutiveFailures": 0,
+        "status": "captured",
+        "reason": null,
+        "nextCheckAt": "2026-10-22T13:20:55.401Z"
+      },
+      "qualityPriority": false,
+      "repositoryId": 1343011496,
+      "agentContextAttemptAt": "2026-10-15T13:04:05.073Z",
+      "agentContext": {
+        "version": 1,
+        "checkedAt": "2026-10-15T13:04:05.710Z",
+        "documents": [
+          {
+            "name": "package.json",
+            "sourceUrl": "https://github.com/Vincentwei1021/video-talkcraft/blob/main/package.json",
+            "hash": "1336ce6076a8366b9938100cd07890ef4941c6bf049ffbaf08c522bb41f1c3d4",
+            "originalBytes": 56,
+            "truncated": false
+          },
+          {
+            "name": "LICENSE",
+            "sourceUrl": "https://github.com/Vincentwei1021/video-talkcraft/blob/main/LICENSE",
+            "hash": "ebe8b7ad95a04a78e6f233db4ffcfa2c03a1d8cfa2c49d537658b36e81603b7c",
+            "originalBytes": 4895,
+            "truncated": false
+          }
+        ]
+      },
+      "agentContextRepoUpdated": "2026-10-12T05:29:10Z",
+      "spaces": [],
+      "communityPosts": [],
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2095555063565434941",
+          "postId": "2095555063565434941",
+          "postedAt": "2026-09-03T16:50:35.000Z"
+        }
+      ],
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "achimala/TheLongSilence",
+      "name": "TheLongSilence",
+      "description": "A space exploration game built by Claude Opus 5",
+      "category": "Other",
+      "language": "JavaScript",
+      "stars": 522,
+      "forks": 79,
+      "created": "2026-07-27T08:43:36Z",
+      "updated": "2026-09-03T14:55:23Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://longsilence.anshu.dev/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-22T03:56:02.350Z",
+      "lastAvailableAt": "2026-10-22T03:56:02.350Z",
+      "lastAttemptAt": "2026-10-22T03:56:02.350Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "achimala/TheLongSilence",
+        "postUrl": "https://x.com/i/web/status/2095526170972594240",
+        "url": "https://longsilence.anshu.dev/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2095526170972594240",
+          "postId": "2095526170972594240",
+          "postedAt": "2026-09-03T14:55:46.000Z"
+        }
+      ],
+      "subjects": [
+        "Games & game development"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [
+          "Games & game development"
+        ],
+        "evidence": [
+          {
+            "subject": "Games & game development",
+            "source": "metadata",
+            "match": "game"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://longsilence.anshu.dev/",
+        "attemptedAt": "2026-10-22T03:56:09.781Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-22T03:56:09.781Z",
+        "lastWorkingAt": "2026-10-22T03:56:09.781Z",
+        "target": "https://longsilence.anshu.dev/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-29T03:56:09.781Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/4ed5341bf7de8bb5ee4dc775.jpg",
+          "kind": "demo",
+          "url": "https://longsilence.anshu.dev/",
+          "capturedAt": "2026-10-22T03:56:09.781Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-22T03:56:09.781Z",
+      "previewCheck": {
+        "url": "https://longsilence.anshu.dev/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-22T03:56:09.781Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-29T03:56:09.782Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "iamtechartist/home-sweet-home",
+      "name": "home-sweet-home",
+      "description": "One home. 4 evolving spaces. Built in Three.js, Garden, Living Room, Dining Room and Bedroom morph seamlessly through procedural geometry, animation and dynamic lighting.",
+      "category": "Design",
+      "language": "HTML",
+      "stars": 21,
+      "forks": 8,
+      "created": "2026-09-03T11:40:26Z",
+      "updated": "2026-09-03T11:43:05Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://iamtechartist.github.io/home-sweet-home/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-22T03:56:10.670Z",
+      "lastAvailableAt": "2026-10-22T03:56:10.670Z",
+      "lastAttemptAt": "2026-10-22T03:56:10.670Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2095486715779797173",
+          "postId": "2095486715779797173",
+          "postedAt": "2026-09-03T12:18:59.000Z"
+        }
+      ],
+      "subjects": [
+        "Animation & motion",
+        "Maths & algorithms"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "Animation & motion",
+          "Maths & algorithms"
+        ],
+        "evidence": [
+          {
+            "subject": "Animation & motion",
+            "source": "metadata",
+            "match": "animation"
+          },
+          {
+            "subject": "Maths & algorithms",
+            "source": "metadata",
+            "match": "geometry"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://iamtechartist.github.io/home-sweet-home/",
+        "attemptedAt": "2026-10-22T03:56:26.634Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-22T03:56:26.634Z",
+        "lastWorkingAt": "2026-10-22T03:56:26.634Z",
+        "target": "https://iamtechartist.github.io/home-sweet-home/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-29T03:56:26.634Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/50652d73d904e16ba429d63d.jpg",
+          "kind": "demo",
+          "url": "https://iamtechartist.github.io/home-sweet-home/",
+          "capturedAt": "2026-10-22T03:56:26.634Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-22T03:56:26.634Z",
+      "previewCheck": {
+        "url": "https://iamtechartist.github.io/home-sweet-home/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-22T03:56:26.634Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-29T03:56:26.634Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "imodoiepale/it-sentinel",
+      "name": "it-sentinel",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 2,
+      "forks": 2,
+      "created": "2026-08-28T18:45:27Z",
+      "updated": "2026-10-09T17:42:38Z",
+      "license": null,
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://it-sentinel-web.onrender.com/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-22T03:56:49.023Z",
+      "lastAvailableAt": "2026-10-22T03:56:49.023Z",
+      "lastAttemptAt": "2026-10-22T03:56:49.023Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "imodoiepale/it-sentinel",
+        "postUrl": "https://x.com/i/web/status/2095202595652636805",
+        "url": "https://it-sentinel-web.onrender.com/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2095202595652636805",
+          "postId": "2095202595652636805",
+          "postedAt": "2026-09-02T17:30:00.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://it-sentinel-web.onrender.com/",
+        "attemptedAt": "2026-10-22T03:56:52.671Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-22T03:56:52.671Z",
+        "lastWorkingAt": "2026-10-22T03:56:52.671Z",
+        "target": "https://it-sentinel-web.onrender.com/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-29T03:56:52.671Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/7427942f719bbc0d41d59b1f.jpg",
+          "kind": "demo",
+          "url": "https://it-sentinel-web.onrender.com/",
+          "capturedAt": "2026-10-22T03:56:52.671Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-22T03:56:52.671Z",
+      "previewCheck": {
+        "url": "https://it-sentinel-web.onrender.com/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-22T03:56:52.671Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-29T03:56:52.671Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "veerpast/jewellos-atelier-pairing",
+      "name": "jewellos-atelier-pairing",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-01T19:36:09Z",
+      "updated": "2026-09-01T20:45:30Z",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://veerpast.github.io/jewellos-atelier-pairing/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-22T03:56:53.403Z",
+      "lastAvailableAt": "2026-10-22T03:56:53.403Z",
+      "lastAttemptAt": "2026-10-22T03:56:53.403Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2094930043713773645",
+          "postId": "2094930043713773645",
+          "postedAt": "2026-09-01T23:26:58.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://veerpast.github.io/jewellos-atelier-pairing/",
+        "attemptedAt": "2026-10-22T03:56:56.660Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-22T03:56:56.660Z",
+        "lastWorkingAt": "2026-10-22T03:56:56.660Z",
+        "target": "https://veerpast.github.io/jewellos-atelier-pairing/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-29T03:56:56.660Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/dc345be362d332eee37f5cb1.jpg",
+          "kind": "demo",
+          "url": "https://veerpast.github.io/jewellos-atelier-pairing/",
+          "capturedAt": "2026-10-22T03:56:56.660Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-22T03:56:56.660Z",
+      "previewCheck": {
+        "url": "https://veerpast.github.io/jewellos-atelier-pairing/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-22T03:56:56.660Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-29T03:56:56.661Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "maxliebscher/threejs-procedural-rocks-cliffs",
+      "name": "threejs-procedural-rocks-cliffs",
+      "description": "Watertight procedural rock fields and cliffs in Three.js, with an interactive demo and Codex skill.",
+      "category": "Developer tools",
+      "language": "JavaScript",
+      "stars": 17,
+      "forks": 4,
+      "created": "2026-09-01T21:18:17Z",
+      "updated": "2026-10-15T10:45:48Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://maxliebscher.github.io/threejs-procedural-rocks-cliffs/",
+      "topics": [
+        "codex-skill",
+        "marching-tetrahedra",
+        "procedural-generation",
+        "sdf",
+        "threejs",
+        "webgl"
+      ],
+      "demo": "https://maxliebscher.github.io/threejs-procedural-rocks-cliffs/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-21T10:54:11.956Z",
+      "lastAttemptAt": "2026-10-21T10:54:11.956Z",
+      "lastAvailableAt": "2026-10-21T10:54:11.956Z",
+      "metrics": [
+        {
+          "at": "2026-10-06T05:09:40.991Z",
+          "stars": 17,
+          "forks": 4
+        },
+        {
+          "at": "2026-10-08T06:37:54.880Z",
+          "stars": 17,
+          "forks": 4
+        },
+        {
+          "at": "2026-10-10T15:03:20.614Z",
+          "stars": 17,
+          "forks": 4
+        },
+        {
+          "at": "2026-10-11T22:40:18.087Z",
+          "stars": 17,
+          "forks": 4
+        },
+        {
+          "at": "2026-10-15T23:48:00.486Z",
+          "stars": 17,
+          "forks": 4
+        },
+        {
+          "at": "2026-10-18T13:32:28.932Z",
+          "stars": 17,
+          "forks": 4
+        },
+        {
+          "at": "2026-10-21T10:54:11.956Z",
+          "stars": 17,
+          "forks": 4
+        }
+      ],
+      "technologies": [
+        "Three.js"
+      ],
+      "overview": {
+        "kind": "readme",
+        "version": 1,
+        "paragraphs": [
+          "An interactive Three.js demonstrator for drawing terrain-bound rock fields and watertight cliff masses. An editable footprint becomes a deterministic geological scalar field, one connected surface, a topology audit, and a metric triplanar PBR material.",
+          "This is a focused technical demo rather than a complete terrain editor. It makes the difficult part inspectable: believable fused stone masses that remain closed, deterministic, terrain-aware, and responsive enough for interactive authoring.",
+          "Independent rock meshes intersect internally and explicit profile lofts tend to create seams, self-intersections, or cut-block silhouettes when many natural masses must fuse. This demo represents the main geological body as one continuous scalar field and extracts a single surface from the union."
+        ],
+        "features": [],
+        "sourceUrl": "https://github.com/maxliebscher/threejs-procedural-rocks-cliffs/blob/main/README.md",
+        "fingerprint": "00914e9395129e127757bbeddfa0de10a9f7b5ca4102a8c971c5e5d6ac9ae81a",
+        "extractedAt": "2026-10-06T05:09:41.195Z"
+      },
+      "overviewCheckedAt": "2026-10-15T23:48:00.595Z",
+      "projectInsights": {
+        "version": 1,
+        "whatItDoes": {
+          "text": "An interactive Three.js demonstrator for drawing terrain-bound rock fields and watertight cliff masses. An editable footprint becomes a deterministic geological scalar field, one connected surface, a topology audit, and a metric triplanar PBR material.",
+          "sourceUrl": "https://github.com/maxliebscher/threejs-procedural-rocks-cliffs/blob/main/README.md"
+        },
+        "audience": [],
+        "requirements": [],
+        "fingerprint": "00914e9395129e127757bbeddfa0de10a9f7b5ca4102a8c971c5e5d6ac9ae81a",
+        "sourceUrl": "https://github.com/maxliebscher/threejs-procedural-rocks-cliffs/blob/main/README.md",
+        "checkedAt": "2026-10-15T23:48:00.596Z"
+      },
+      "overviewRepoUpdated": "2026-10-15T10:45:48Z",
+      "readmeSnapshot": {
+        "version": 1,
+        "status": "saved",
+        "sourceUrl": "https://github.com/maxliebscher/threejs-procedural-rocks-cliffs/blob/main/README.md",
+        "checkedAt": "2026-10-15T23:48:00.596Z",
+        "hash": "00914e9395129e127757bbeddfa0de10a9f7b5ca4102a8c971c5e5d6ac9ae81a",
+        "originalBytes": 8280,
+        "storedBytes": 8280,
+        "truncated": false
+      },
+      "lastDemoCheckedAt": "2026-10-15T23:48:00.599Z",
+      "demoHealth": {
+        "url": "https://maxliebscher.github.io/threejs-procedural-rocks-cliffs/",
+        "attemptedAt": "2026-10-16T00:16:21.888Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-16T00:16:21.888Z",
+        "lastWorkingAt": "2026-10-16T00:16:21.888Z",
+        "target": "https://maxliebscher.github.io/threejs-procedural-rocks-cliffs/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-23T00:16:21.888Z"
+      },
+      "previewAttemptAt": "2026-10-16T00:16:21.888Z",
+      "previewCheck": {
+        "url": "https://maxliebscher.github.io/threejs-procedural-rocks-cliffs/",
+        "attemptedAt": "2026-10-16T00:16:21.888Z",
+        "consecutiveFailures": 0,
+        "status": "captured",
+        "reason": null,
+        "nextCheckAt": "2026-10-23T00:16:21.888Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/b4a500a3df656c34763f0d47.jpg",
+          "kind": "demo",
+          "capturedAt": "2026-10-16T00:16:21.888Z",
+          "url": "https://maxliebscher.github.io/threejs-procedural-rocks-cliffs/"
+        }
+      ],
+      "subjects": [
+        "3D & graphics"
+      ],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "threejs"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [
+          "Simulation & physics",
+          "Automation & workflows",
+          "Maths & algorithms"
+        ],
+        "reviewRequired": true
+      },
+      "qualityPriority": false,
+      "platforms": [],
+      "repositoryEtag": "W/\"33efe1105b00bf417ebaa8ddb1034cdca87412c7810b7ec3dadb11689f4f3b81\"",
+      "repositoryEtagFor": "maxliebscher/threejs-procedural-rocks-cliffs",
+      "repositoryId": 1354036906,
+      "repositoryAliases": [],
+      "spaces": [],
+      "communityPosts": [],
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2094912057711706516",
+          "postId": "2094912057711706516",
+          "postedAt": "2026-09-01T22:15:30.000Z"
+        }
+      ],
       "sourceCategories": [
         "As Seen On X.com"
       ]
