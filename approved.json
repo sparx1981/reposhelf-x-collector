@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-23T11:39:46.300Z",
+  "updatedAt": "2026-10-23T16:29:26.369Z",
   "runtimeRevision": "ed71211be3a262dd1b928f3740f110b041b3708e",
   "checked": 20,
   "repositories": [
@@ -89,260 +89,76 @@
       ]
     },
     {
-      "repositoryId": 325935052,
       "availability": "available",
-      "full": "botrail/botrail",
-      "name": "botrail",
-      "description": "Next generation motion planning package. Build robot cells as code.",
-      "category": "Developer tools",
-      "language": "Rust",
-      "stars": 31,
-      "forks": 8,
-      "created": "2021-01-01T07:20:22Z",
-      "updated": "2026-10-17T16:23:51Z",
-      "license": null,
-      "branch": "main",
-      "homepage": "https://botrail.github.io/botrail/",
-      "topics": [
-        "isaac-sim",
-        "motion-planning",
-        "robot",
-        "threejs",
-        "usd"
-      ],
-      "demo": "https://botrail.github.io/botrail/demo/",
-      "color": "#193546",
-      "ink": "#a6d6e8",
-      "lastCheckedAt": "2026-10-21T14:31:58.748Z",
-      "lastAttemptAt": "2026-10-21T14:31:58.748Z",
-      "lastAvailableAt": "2026-10-21T14:31:58.748Z",
-      "metrics": [
-        {
-          "at": "2026-10-18T18:18:07.437Z",
-          "stars": 31,
-          "forks": 8
-        },
-        {
-          "at": "2026-10-21T14:31:58.748Z",
-          "stars": 31,
-          "forks": 8
-        }
-      ],
-      "technologies": [
-        "Three.js",
-        "Rust"
-      ],
-      "overview": {
-        "kind": "readme",
-        "version": 1,
-        "paragraphs": [
-          "Beyond motion planning. Build robot cells as code. One source of truth from layout to I/O list — verified deterministically on every change.",
-          "Robot machining — spindle toolpaths with stepwise stock removal",
-          "Assembly line — a linear-motor shuttle loop serving ceiling-mounted arms and SCARAs"
-        ],
-        "features": [
-          "Robots from URDF, Xacro, or USD — including Isaac Sim articulations",
-          "(bt.Robot.fromusd(\"franka.usd\")), rendered at full visual fidelity with three-usd-robot. Mimic joints (URDF , USD NewtonMimicAPI / PhysxMimicJointAPI) are followed, so a two-finger gripper costs one DOF, not two.…",
-          "USD scene import (usda/usdc/usdz, references, variants, instancing) —",
-          "stages become obstacles and named mount frames, normalized to meters / Z-up.",
-          "Environments that behave — a PLC-style step sequencer (entry actions +"
-        ],
-        "sourceUrl": "https://github.com/botrail/botrail/blob/main/README.md",
-        "fingerprint": "0c6af1ff6ea26f3c5e9bc95a2bdc17d0c2e702006b738cc532c52562121e3e4c",
-        "extractedAt": "2026-10-18T18:18:07.531Z"
-      },
-      "overviewCheckedAt": "2026-10-18T18:18:07.531Z",
-      "projectInsights": {
-        "version": 1,
-        "whatItDoes": {
-          "text": "Beyond motion planning. Build robot cells as code. One source of truth from layout to I/O list — verified deterministically on every change.",
-          "sourceUrl": "https://github.com/botrail/botrail/blob/main/README.md"
-        },
-        "audience": [],
-        "requirements": [],
-        "fingerprint": "0c6af1ff6ea26f3c5e9bc95a2bdc17d0c2e702006b738cc532c52562121e3e4c",
-        "sourceUrl": "https://github.com/botrail/botrail/blob/main/README.md",
-        "checkedAt": "2026-10-18T18:18:07.532Z"
-      },
-      "overviewRepoUpdated": "2026-10-17T16:23:51Z",
-      "readmeSnapshot": {
-        "version": 1,
-        "status": "saved",
-        "sourceUrl": "https://github.com/botrail/botrail/blob/main/README.md",
-        "checkedAt": "2026-10-18T18:18:07.533Z",
-        "hash": "0c6af1ff6ea26f3c5e9bc95a2bdc17d0c2e702006b738cc532c52562121e3e4c",
-        "originalBytes": 13512,
-        "storedBytes": 13512,
-        "truncated": false
-      },
-      "lastDemoCheckedAt": "2026-10-18T18:18:07.437Z",
-      "subjects": [
-        "3D & graphics"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [
-          "3D & graphics"
-        ],
-        "evidence": [
-          {
-            "subject": "3D & graphics",
-            "source": "metadata",
-            "match": "threejs"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [
-          "Architecture & building design",
-          "Animation & motion",
-          "Simulation & physics"
-        ],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://botrail.github.io/botrail/demo/",
-        "attemptedAt": "2026-10-18T18:31:34.740Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-18T18:31:34.740Z",
-        "lastWorkingAt": "2026-10-18T18:31:34.740Z",
-        "target": "https://botrail.github.io/botrail/demo/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-25T18:31:34.740Z"
-      },
-      "previewAttemptAt": "2026-10-18T18:31:34.740Z",
-      "previewCheck": {
-        "url": "https://botrail.github.io/botrail/demo/",
-        "attemptedAt": "2026-10-18T18:31:34.740Z",
-        "consecutiveFailures": 0,
-        "status": "captured",
-        "reason": null,
-        "nextCheckAt": "2026-10-25T18:31:34.740Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/3b98007201faea7b748b2440.jpg",
-          "kind": "demo",
-          "capturedAt": "2026-10-18T18:31:34.740Z",
-          "url": "https://botrail.github.io/botrail/demo/"
-        }
-      ],
-      "qualityPriority": false,
-      "repositoryAliases": [],
-      "repositoryEtag": "W/\"56aeb5ff61cf2844f5cea2eb00200fc19fd19540cbcf46886afb1eb010ff47bd\"",
-      "repositoryEtagFor": "botrail/botrail",
-      "spaces": [],
-      "communityPosts": [],
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105228858882687200",
-          "postId": "2105228858882687200",
-          "postedAt": "2026-09-30T09:30:47.000Z"
-        }
-      ],
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "tugrulguner/intpot",
-      "name": "intpot",
-      "description": "Define Python tools once and serve them as a Typer CLI, FastAPI app, or FastMCP server — or convert existing apps between all three.",
-      "category": "Developer tools",
-      "language": "Python",
-      "stars": 13,
-      "forks": 4,
-      "created": "2026-03-03T01:27:44Z",
-      "updated": "2026-10-21T06:20:02Z",
+      "full": "juaniquillo/resume",
+      "name": "resume",
+      "description": "A professional resume management system designed to help you take full control of your career narrative",
+      "category": "Design",
+      "language": "PHP",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-03-13T00:55:41Z",
+      "updated": "2026-10-21T15:02:17Z",
       "license": "MIT",
       "branch": "main",
-      "homepage": "https://intpot.modepot.io/",
-      "topics": [
-        "cli",
-        "code-generation",
-        "converter",
-        "developer-tools",
-        "fastapi",
-        "fastmcp",
-        "mcp",
-        "model-context-protocol",
-        "python",
-        "typer"
-      ],
-      "demo": "https://intpot.modepot.io/playground/",
-      "color": "#302e55",
-      "ink": "#dbd2ff",
-      "lastCheckedAt": "2026-10-21T11:49:18.260Z",
-      "lastAvailableAt": "2026-10-21T11:49:18.260Z",
-      "lastAttemptAt": "2026-10-21T11:49:18.260Z",
+      "homepage": "https://resume-manager.laravel.cloud",
+      "topics": [],
+      "demo": "https://resume-manager.laravel.cloud/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-23T16:29:15.303Z",
+      "lastAvailableAt": "2026-10-23T16:29:15.303Z",
+      "lastAttemptAt": "2026-10-23T16:29:15.303Z",
       "discoveredVia": [
         {
           "kind": "x",
           "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2096985388220842268",
-          "postId": "2096985388220842268",
-          "postedAt": "2026-09-07T15:34:11.000Z"
+          "url": "https://x.com/i/web/status/2105010419374977276",
+          "postId": "2105010419374977276",
+          "postedAt": "2026-09-29T19:02:47.000Z"
         }
       ],
-      "subjects": [
-        "MCP servers & agents"
-      ],
+      "subjects": [],
       "platforms": [],
       "classification": {
         "version": 4,
         "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [
-          "MCP servers & agents"
-        ],
-        "evidence": [
-          {
-            "subject": "MCP servers & agents",
-            "source": "metadata",
-            "match": "mcp"
-          }
-        ],
+        "category": "Design",
+        "subjects": [],
+        "evidence": [],
         "platformEvidence": [],
         "platformSupport": "author_metadata_not_runtime_tested",
         "suggestedSubjects": [],
         "reviewRequired": false
       },
       "demoHealth": {
-        "url": "https://intpot.modepot.io/playground/",
-        "attemptedAt": "2026-10-21T11:49:21.761Z",
+        "url": "https://resume-manager.laravel.cloud/",
+        "attemptedAt": "2026-10-23T16:29:19.313Z",
         "probeVersion": 3,
         "status": "working",
-        "checkedAt": "2026-10-21T11:49:21.761Z",
-        "lastWorkingAt": "2026-10-21T11:49:21.761Z",
-        "target": "https://intpot.modepot.io/playground/",
+        "checkedAt": "2026-10-23T16:29:19.313Z",
+        "lastWorkingAt": "2026-10-23T16:29:19.313Z",
+        "target": "https://resume-manager.laravel.cloud/",
         "failureCount": 0,
         "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-28T11:49:21.761Z"
+        "nextCheckAt": "2026-10-30T16:29:19.313Z"
       },
       "screenshots": [
         {
-          "src": "previews/854cd733984cf6cc7de75578.jpg",
+          "src": "previews/2766b2f1e4eee1415e904de8.jpg",
           "kind": "demo",
-          "url": "https://intpot.modepot.io/playground/",
-          "capturedAt": "2026-10-21T11:49:21.761Z"
+          "url": "https://resume-manager.laravel.cloud/",
+          "capturedAt": "2026-10-23T16:29:19.313Z"
         }
       ],
-      "previewAttemptAt": "2026-10-21T11:49:21.761Z",
+      "previewAttemptAt": "2026-10-23T16:29:19.313Z",
       "previewCheck": {
-        "url": "https://intpot.modepot.io/playground/",
+        "url": "https://resume-manager.laravel.cloud/",
         "status": "captured",
         "reason": null,
-        "attemptedAt": "2026-10-21T11:49:21.761Z",
+        "attemptedAt": "2026-10-23T16:29:19.313Z",
         "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-28T11:49:21.763Z"
+        "nextCheckAt": "2026-10-30T16:29:19.314Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
@@ -2337,6 +2153,171 @@
     },
     {
       "availability": "available",
+      "full": "vercel-labs/book-inventory",
+      "name": "book-inventory",
+      "description": "Explore this public GitHub project.",
+      "category": "Business",
+      "language": "TypeScript",
+      "stars": 1419,
+      "forks": 198,
+      "created": "2024-04-15T16:35:03Z",
+      "updated": "2025-12-12T04:32:40Z",
+      "branch": "main",
+      "homepage": "https://next-books-search.vercel.app/",
+      "topics": [],
+      "demo": "https://next-books-search.vercel.app/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-23T16:28:41.836Z",
+      "lastAvailableAt": "2026-10-23T16:28:41.836Z",
+      "lastAttemptAt": "2026-10-23T16:28:41.836Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2094435535582289925",
+          "postId": "2094435535582289925",
+          "postedAt": "2026-08-31T14:41:59.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Business",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://next-books-search.vercel.app/",
+        "attemptedAt": "2026-10-23T16:28:46.358Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-23T16:28:46.358Z",
+        "lastWorkingAt": "2026-10-23T16:28:46.358Z",
+        "target": "https://next-books-search.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-30T16:28:46.358Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/e4660b3db8878c9313fb35a0.jpg",
+          "kind": "demo",
+          "url": "https://next-books-search.vercel.app/",
+          "capturedAt": "2026-10-23T16:28:46.358Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-23T16:28:46.358Z",
+      "previewCheck": {
+        "url": "https://next-books-search.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-23T16:28:46.358Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-30T16:28:46.359Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "nextjs/next-books",
+      "name": "next-books",
+      "description": "Browse two million Goodreads books with Next.js 16.3 Instant Navigations.",
+      "category": "Design",
+      "language": "TypeScript",
+      "stars": 35,
+      "forks": 16,
+      "created": "2026-08-26T20:21:58Z",
+      "updated": "2026-10-14T00:48:16Z",
+      "branch": "main",
+      "homepage": "https://next-books.dev",
+      "topics": [
+        "app-router",
+        "cache-components",
+        "drizzle",
+        "instant-navigations",
+        "nextjs",
+        "partial-prefetching",
+        "postgres",
+        "react19",
+        "rsc",
+        "streaming",
+        "tailwindcss",
+        "view-transitions"
+      ],
+      "demo": "https://www.next-books.dev/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-23T16:28:47.181Z",
+      "lastAvailableAt": "2026-10-23T16:28:47.181Z",
+      "lastAttemptAt": "2026-10-23T16:28:47.181Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2094435535582289925",
+          "postId": "2094435535582289925",
+          "postedAt": "2026-08-31T14:41:59.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [
+          "Streaming"
+        ],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://www.next-books.dev/",
+        "attemptedAt": "2026-10-23T16:29:06.384Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-23T16:29:06.384Z",
+        "lastWorkingAt": "2026-10-23T16:29:06.384Z",
+        "target": "https://www.next-books.dev/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-30T16:29:06.384Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/1581e94dcfece962cf2b953f.jpg",
+          "kind": "demo",
+          "url": "https://www.next-books.dev/",
+          "capturedAt": "2026-10-23T16:29:06.384Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-23T16:29:06.384Z",
+      "previewCheck": {
+        "url": "https://www.next-books.dev/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-23T16:29:06.384Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-30T16:29:06.385Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
       "full": "Emmanuellsensai/anonymous-whispers",
       "name": "anonymous-whispers",
       "description": "Explore this public GitHub project.",
@@ -2943,6 +2924,111 @@
     },
     {
       "availability": "available",
+      "full": "volcengine/OpenViking",
+      "name": "OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "category": "Developer tools",
+      "language": "Python",
+      "stars": 40678,
+      "forks": 3288,
+      "created": "2026-01-05T07:11:17Z",
+      "updated": "2026-10-23T16:17:11Z",
+      "license": "AGPL-3.0",
+      "branch": "main",
+      "homepage": "https://openviking.ai",
+      "topics": [
+        "agent-context",
+        "agent-memory",
+        "agent-plugins",
+        "agentic-rag",
+        "context-database",
+        "dsh-plugin",
+        "knowledge-base",
+        "memory",
+        "memory-management",
+        "self-evolving",
+        "vector-database"
+      ],
+      "demo": "https://studio.openviking.ai/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-23T16:29:07.496Z",
+      "lastAvailableAt": "2026-10-23T16:29:07.496Z",
+      "lastAttemptAt": "2026-10-23T16:29:07.496Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2093298711182950682",
+          "postId": "2093298711182950682",
+          "postedAt": "2026-08-28T11:24:39.000Z"
+        }
+      ],
+      "subjects": [
+        "MCP servers & agents",
+        "Writing & documents"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "MCP servers & agents",
+          "Writing & documents"
+        ],
+        "evidence": [
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "AI Agents"
+          },
+          {
+            "subject": "Writing & documents",
+            "source": "metadata",
+            "match": "knowledge base"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://studio.openviking.ai/",
+        "attemptedAt": "2026-10-23T16:29:13.676Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-23T16:29:13.676Z",
+        "lastWorkingAt": "2026-10-23T16:29:13.676Z",
+        "target": "https://studio.openviking.ai/filesystem?upload=false",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-30T16:29:13.676Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/8a8bbd401ea5e2f755f84c2b.jpg",
+          "kind": "demo",
+          "url": "https://studio.openviking.ai/",
+          "capturedAt": "2026-10-23T16:29:13.676Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-23T16:29:13.676Z",
+      "previewCheck": {
+        "url": "https://studio.openviking.ai/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-23T16:29:13.676Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-30T16:29:13.676Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
       "full": "Admuad/technocore-studio",
       "name": "technocore-studio",
       "description": "Browser-based Ed25519 identity generator, signed message dispatcher, and verifiable proof recorder for Technocore by FLOP Labs. 100% client-side Web Cryptography.",
@@ -3011,6 +3097,355 @@
         "attemptedAt": "2026-10-23T11:39:11.153Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-30T11:39:11.154Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Gaurav-meena95/form-filling-agent",
+      "name": "form-filling-agent",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-04-17T13:46:24Z",
+      "updated": "2026-10-18T05:13:10Z",
+      "branch": "main",
+      "homepage": "https://form-filling-agent.vercel.app",
+      "topics": [],
+      "demo": "https://drive.google.com/file/d/1z9_G9OeqY-JHOL130gmrqb-q1CaoWbPv/view?usp=sharing",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-23T16:28:29.046Z",
+      "lastAvailableAt": "2026-10-23T16:28:29.046Z",
+      "lastAttemptAt": "2026-10-23T16:28:29.046Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104812026858279337",
+          "postId": "2104812026858279337",
+          "postedAt": "2026-09-29T05:54:27.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://drive.google.com/file/d/1z9_G9OeqY-JHOL130gmrqb-q1CaoWbPv/view?usp=sharing",
+        "attemptedAt": "2026-10-23T16:28:32.437Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-23T16:28:32.437Z",
+        "lastWorkingAt": "2026-10-23T16:28:32.437Z",
+        "target": "https://drive.google.com/file/d/1z9_G9OeqY-JHOL130gmrqb-q1CaoWbPv/view",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-30T16:28:32.437Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/74a7b068ae8ca6d51439ee84.jpg",
+          "kind": "demo",
+          "url": "https://drive.google.com/file/d/1z9_G9OeqY-JHOL130gmrqb-q1CaoWbPv/view?usp=sharing",
+          "capturedAt": "2026-10-23T16:28:32.437Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-23T16:28:32.437Z",
+      "previewCheck": {
+        "url": "https://drive.google.com/file/d/1z9_G9OeqY-JHOL130gmrqb-q1CaoWbPv/view?usp=sharing",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-23T16:28:32.437Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-30T16:28:32.438Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "andlyu/blupe-remote-yam",
+      "name": "blupe-remote-yam",
+      "description": "Run Astra on BluPe’s shared YAM robot arms from your computer.",
+      "category": "Other",
+      "language": "Python",
+      "stars": 3,
+      "forks": 2,
+      "created": "2026-09-07T08:32:16Z",
+      "updated": "2026-10-23T08:27:21Z",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://playground.blupe.io/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-23T16:28:33.172Z",
+      "lastAvailableAt": "2026-10-23T16:28:33.172Z",
+      "lastAttemptAt": "2026-10-23T16:28:33.172Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "andlyu/blupe-remote-yam",
+        "postUrl": "https://x.com/i/web/status/2104806935782646167",
+        "url": "https://playground.blupe.io/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104806935782646167",
+          "postId": "2104806935782646167",
+          "postedAt": "2026-09-29T05:34:13.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://playground.blupe.io/",
+        "attemptedAt": "2026-10-23T16:28:36.663Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-23T16:28:36.663Z",
+        "lastWorkingAt": "2026-10-23T16:28:36.663Z",
+        "target": "https://playground.blupe.io/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-30T16:28:36.663Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/dedc0f73189c02ef116b83bc.jpg",
+          "kind": "demo",
+          "url": "https://playground.blupe.io/",
+          "capturedAt": "2026-10-23T16:28:36.663Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-23T16:28:36.663Z",
+      "previewCheck": {
+        "url": "https://playground.blupe.io/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-23T16:28:36.663Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-30T16:28:36.663Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "WanzhenLi/FinDocs-RAG",
+      "name": "FinDocs-RAG",
+      "description": "Explore this public GitHub project.",
+      "category": "AI & machine learning",
+      "language": "Python",
+      "stars": 100,
+      "forks": 7,
+      "created": "2025-11-09T18:08:35Z",
+      "updated": "2025-11-12T02:12:51Z",
+      "branch": "main",
+      "homepage": "http://findocs.online/",
+      "topics": [],
+      "demo": "https://www.findocs.online/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-23T16:28:23.817Z",
+      "lastAvailableAt": "2026-10-23T16:28:23.817Z",
+      "lastAttemptAt": "2026-10-23T16:28:23.817Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "WanzhenLi/FinDocs-RAG",
+        "postUrl": "https://x.com/i/web/status/2104779946552160587",
+        "url": "https://www.findocs.online/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104779946552160587",
+          "postId": "2104779946552160587",
+          "postedAt": "2026-09-29T03:46:58.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "AI & machine learning",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://www.findocs.online/",
+        "attemptedAt": "2026-10-23T16:28:28.238Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-23T16:28:28.238Z",
+        "lastWorkingAt": "2026-10-23T16:28:28.238Z",
+        "target": "https://www.findocs.online/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-30T16:28:28.238Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/49dd4cd8193c29a41fd27c81.jpg",
+          "kind": "demo",
+          "url": "https://www.findocs.online/",
+          "capturedAt": "2026-10-23T16:28:28.238Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-23T16:28:28.238Z",
+      "previewCheck": {
+        "url": "https://www.findocs.online/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-23T16:28:28.238Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-30T16:28:28.239Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Sounio-lang/sounio",
+      "name": "sounio",
+      "description": "An epistemic systems language for scientific computing — uncertainty, units and effects, with a self-hosted compiler and libraries spanning physics, pharmacology and quantum computing.",
+      "category": "Developer tools",
+      "language": "Lean",
+      "stars": 12,
+      "forks": 3,
+      "created": "2025-12-24T22:39:51Z",
+      "updated": "2026-10-23T16:27:07Z",
+      "license": "Apache-2.0",
+      "branch": "main",
+      "homepage": "https://www.souniolang.org",
+      "topics": [
+        "algebraic-effects",
+        "compiler",
+        "egraph",
+        "epistemic-computing",
+        "formal-verification",
+        "non-associative-algebra",
+        "octonions",
+        "programming-language",
+        "scientific-computing",
+        "self-hosting",
+        "systems-programming",
+        "uncertainty-propagation"
+      ],
+      "demo": "https://www.souniolang.org/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-23T16:28:37.344Z",
+      "lastAvailableAt": "2026-10-23T16:28:37.344Z",
+      "lastAttemptAt": "2026-10-23T16:28:37.344Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "Sounio-lang/sounio",
+        "postUrl": "https://x.com/i/web/status/2104757045132251487",
+        "url": "https://www.souniolang.org/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104757045132251487",
+          "postId": "2104757045132251487",
+          "postedAt": "2026-09-29T02:15:58.000Z"
+        }
+      ],
+      "subjects": [
+        "Science",
+        "Self-hosted apps"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "Science",
+          "Self-hosted apps"
+        ],
+        "evidence": [
+          {
+            "subject": "Science",
+            "source": "metadata",
+            "match": "scientific"
+          },
+          {
+            "subject": "Self-hosted apps",
+            "source": "metadata",
+            "match": "self hosted"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://www.souniolang.org/",
+        "attemptedAt": "2026-10-23T16:28:41.032Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-23T16:28:41.032Z",
+        "lastWorkingAt": "2026-10-23T16:28:41.032Z",
+        "target": "https://www.souniolang.org/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-30T16:28:41.032Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/6ce3877e8e78e12b55dc555d.jpg",
+          "kind": "demo",
+          "url": "https://www.souniolang.org/",
+          "capturedAt": "2026-10-23T16:28:41.032Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-23T16:28:41.032Z",
+      "previewCheck": {
+        "url": "https://www.souniolang.org/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-23T16:28:41.032Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-30T16:28:41.033Z"
       },
       "sourceCategories": [
         "As Seen On X.com"

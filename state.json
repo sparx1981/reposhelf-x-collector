@@ -54460,7 +54460,7 @@
     "abhishek085/microlog": {
       "full": "abhishek085/microlog",
       "firstSeenAt": "2026-10-18T08:29:46.247Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -54479,7 +54479,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-23T11:37:49.408Z"
+      "lastSeenAt": "2026-10-23T11:37:49.408Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-30T16:29:24.157Z"
     },
     "oodle-ai/oodle-onboarding": {
       "full": "oodle-ai/oodle-onboarding",
@@ -54510,7 +54512,7 @@
     "sameernaik2021/farm-management-web-app-claude-ai": {
       "full": "sameernaik2021/farm-management-web-app-claude-ai",
       "firstSeenAt": "2026-10-18T08:29:54.122Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -54529,7 +54531,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:29:54.122Z"
+      "lastSeenAt": "2026-10-18T08:29:54.122Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-30T16:29:25.042Z"
     },
     "vinyl-davyl/hermes": {
       "full": "Vinyl-Davyl/hermes",
@@ -54809,7 +54813,7 @@
     "openhands/openhands": {
       "full": "OpenHands/OpenHands",
       "firstSeenAt": "2026-10-18T08:29:54.122Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -54828,7 +54832,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-18T08:29:54.122Z"
+      "lastSeenAt": "2026-10-18T08:29:54.122Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-30T16:29:25.636Z"
     },
     "spatie/bloom": {
       "full": "spatie/bloom",
@@ -57068,7 +57074,7 @@
     "go-kruda/kruda": {
       "full": "go-kruda/kruda",
       "firstSeenAt": "2026-10-18T11:03:32.335Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -57087,7 +57093,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-23T16:27:06.318Z"
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-30T16:29:26.349Z"
     },
     "r1patil/cardiograph-ai": {
       "full": "R1patil/CardioGraph-AI",
@@ -63646,7 +63654,7 @@
     "lowkyfooldev/still": {
       "full": "LowkyFoolDev/still",
       "firstSeenAt": "2026-10-20T11:08:21.375Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -63665,7 +63673,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:08:21.375Z"
+      "lastSeenAt": "2026-10-20T11:08:21.375Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-30T16:29:14.544Z"
     },
     "scrapingbee/scrapingbee-hydration": {
       "full": "ScrapingBee/scrapingbee-hydration",
@@ -64589,7 +64599,7 @@
     "juaniquillo/resume": {
       "full": "juaniquillo/resume",
       "firstSeenAt": "2026-10-20T11:35:21.628Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -64608,7 +64618,84 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:35:21.628Z"
+      "lastSeenAt": "2026-10-20T11:35:21.628Z",
+      "entry": {
+        "availability": "available",
+        "full": "juaniquillo/resume",
+        "name": "resume",
+        "description": "A professional resume management system designed to help you take full control of your career narrative",
+        "category": "Design",
+        "language": "PHP",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-03-13T00:55:41Z",
+        "updated": "2026-10-21T15:02:17Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://resume-manager.laravel.cloud",
+        "topics": [],
+        "demo": "https://resume-manager.laravel.cloud/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-23T16:29:15.303Z",
+        "lastAvailableAt": "2026-10-23T16:29:15.303Z",
+        "lastAttemptAt": "2026-10-23T16:29:15.303Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105010419374977276",
+            "postId": "2105010419374977276",
+            "postedAt": "2026-09-29T19:02:47.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://resume-manager.laravel.cloud/",
+          "attemptedAt": "2026-10-23T16:29:19.313Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-23T16:29:19.313Z",
+          "lastWorkingAt": "2026-10-23T16:29:19.313Z",
+          "target": "https://resume-manager.laravel.cloud/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-30T16:29:19.313Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/2766b2f1e4eee1415e904de8.jpg",
+            "kind": "demo",
+            "url": "https://resume-manager.laravel.cloud/",
+            "capturedAt": "2026-10-23T16:29:19.313Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-23T16:29:19.313Z",
+        "previewCheck": {
+          "url": "https://resume-manager.laravel.cloud/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-23T16:29:19.313Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-30T16:29:19.314Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T04:29:19.315Z",
+      "checkedAt": "2026-10-23T16:29:19.315Z",
+      "firstAcceptedAt": "2026-10-23T16:29:19.315Z"
     },
     "erickyegon/within-reach": {
       "full": "erickyegon/within-reach",
@@ -65290,7 +65377,7 @@
     "suranjaychandra/jev-state": {
       "full": "suranjaychandra/jev-state",
       "firstSeenAt": "2026-10-20T11:35:21.628Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -65323,7 +65410,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-22T03:55:07.238Z"
+      "lastSeenAt": "2026-10-22T03:55:07.238Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-30T16:29:20.137Z"
     },
     "polozad/hardcraft-dist": {
       "full": "polozad/hardcraft-dist",
@@ -68881,7 +68970,7 @@
     "naotsun19b/unrealaiintegrationplatform-document": {
       "full": "Naotsun19B/UnrealAIIntegrationPlatform-Document",
       "firstSeenAt": "2026-10-22T11:51:30.182Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -68900,7 +68989,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-22T11:51:30.182Z"
+      "lastSeenAt": "2026-10-22T11:51:30.182Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-30T16:29:20.704Z"
     },
     "here2serveu/agent-cost-check": {
       "full": "Here2ServeU/agent-cost-check",
@@ -69160,7 +69251,7 @@
     "alubiama/aerodrome-mcp-base": {
       "full": "Alubiama/aerodrome-mcp-base",
       "firstSeenAt": "2026-10-22T11:51:30.182Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -69179,7 +69270,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-22T11:51:30.182Z"
+      "lastSeenAt": "2026-10-22T11:51:30.182Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-30T16:29:21.736Z"
     },
     "sergiosgatidis/chexanatomy": {
       "full": "sergiosgatidis/CheXanatomy",
@@ -70669,7 +70762,7 @@
     "vercel-labs/book-inventory": {
       "full": "vercel-labs/book-inventory",
       "firstSeenAt": "2026-10-23T11:38:05.314Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -70686,12 +70779,88 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-23T11:38:05.314Z"
+      "lastSeenAt": "2026-10-23T11:38:05.314Z",
+      "entry": {
+        "availability": "available",
+        "full": "vercel-labs/book-inventory",
+        "name": "book-inventory",
+        "description": "Explore this public GitHub project.",
+        "category": "Business",
+        "language": "TypeScript",
+        "stars": 1419,
+        "forks": 198,
+        "created": "2024-04-15T16:35:03Z",
+        "updated": "2025-12-12T04:32:40Z",
+        "branch": "main",
+        "homepage": "https://next-books-search.vercel.app/",
+        "topics": [],
+        "demo": "https://next-books-search.vercel.app/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-23T16:28:41.836Z",
+        "lastAvailableAt": "2026-10-23T16:28:41.836Z",
+        "lastAttemptAt": "2026-10-23T16:28:41.836Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2094435535582289925",
+            "postId": "2094435535582289925",
+            "postedAt": "2026-08-31T14:41:59.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Business",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://next-books-search.vercel.app/",
+          "attemptedAt": "2026-10-23T16:28:46.358Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-23T16:28:46.358Z",
+          "lastWorkingAt": "2026-10-23T16:28:46.358Z",
+          "target": "https://next-books-search.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-30T16:28:46.358Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/e4660b3db8878c9313fb35a0.jpg",
+            "kind": "demo",
+            "url": "https://next-books-search.vercel.app/",
+            "capturedAt": "2026-10-23T16:28:46.358Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-23T16:28:46.358Z",
+        "previewCheck": {
+          "url": "https://next-books-search.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-23T16:28:46.358Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-30T16:28:46.359Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T04:28:46.360Z",
+      "checkedAt": "2026-10-23T16:28:46.360Z",
+      "firstAcceptedAt": "2026-10-23T16:28:46.360Z"
     },
     "nextjs/next-books": {
       "full": "nextjs/next-books",
       "firstSeenAt": "2026-10-23T11:38:05.314Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -70708,12 +70877,103 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-23T11:38:05.314Z"
+      "lastSeenAt": "2026-10-23T11:38:05.314Z",
+      "entry": {
+        "availability": "available",
+        "full": "nextjs/next-books",
+        "name": "next-books",
+        "description": "Browse two million Goodreads books with Next.js 16.3 Instant Navigations.",
+        "category": "Design",
+        "language": "TypeScript",
+        "stars": 35,
+        "forks": 16,
+        "created": "2026-08-26T20:21:58Z",
+        "updated": "2026-10-14T00:48:16Z",
+        "branch": "main",
+        "homepage": "https://next-books.dev",
+        "topics": [
+          "app-router",
+          "cache-components",
+          "drizzle",
+          "instant-navigations",
+          "nextjs",
+          "partial-prefetching",
+          "postgres",
+          "react19",
+          "rsc",
+          "streaming",
+          "tailwindcss",
+          "view-transitions"
+        ],
+        "demo": "https://www.next-books.dev/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-23T16:28:47.181Z",
+        "lastAvailableAt": "2026-10-23T16:28:47.181Z",
+        "lastAttemptAt": "2026-10-23T16:28:47.181Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2094435535582289925",
+            "postId": "2094435535582289925",
+            "postedAt": "2026-08-31T14:41:59.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [
+            "Streaming"
+          ],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://www.next-books.dev/",
+          "attemptedAt": "2026-10-23T16:29:06.384Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-23T16:29:06.384Z",
+          "lastWorkingAt": "2026-10-23T16:29:06.384Z",
+          "target": "https://www.next-books.dev/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-30T16:29:06.384Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/1581e94dcfece962cf2b953f.jpg",
+            "kind": "demo",
+            "url": "https://www.next-books.dev/",
+            "capturedAt": "2026-10-23T16:29:06.384Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-23T16:29:06.384Z",
+        "previewCheck": {
+          "url": "https://www.next-books.dev/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-23T16:29:06.384Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-30T16:29:06.385Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T04:29:06.386Z",
+      "checkedAt": "2026-10-23T16:29:06.386Z",
+      "firstAcceptedAt": "2026-10-23T16:29:06.386Z"
     },
     "vercel-labs/next-books": {
       "full": "vercel-labs/next-books",
       "firstSeenAt": "2026-10-23T11:38:05.314Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -70730,7 +70990,9 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-23T11:38:05.314Z"
+      "lastSeenAt": "2026-10-23T11:38:05.314Z",
+      "reason": "temporary_error",
+      "nextAttemptAt": "2026-10-23T22:29:06.785Z"
     },
     "emmanuellsensai/anonymous-whispers": {
       "full": "Emmanuellsensai/anonymous-whispers",
@@ -71790,7 +72052,7 @@
     "volcengine/openviking": {
       "full": "volcengine/OpenViking",
       "firstSeenAt": "2026-10-23T11:38:05.314Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -71809,7 +72071,113 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-23T11:38:05.314Z"
+      "lastSeenAt": "2026-10-23T11:38:05.314Z",
+      "entry": {
+        "availability": "available",
+        "full": "volcengine/OpenViking",
+        "name": "OpenViking",
+        "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+        "category": "Developer tools",
+        "language": "Python",
+        "stars": 40678,
+        "forks": 3288,
+        "created": "2026-01-05T07:11:17Z",
+        "updated": "2026-10-23T16:17:11Z",
+        "license": "AGPL-3.0",
+        "branch": "main",
+        "homepage": "https://openviking.ai",
+        "topics": [
+          "agent-context",
+          "agent-memory",
+          "agent-plugins",
+          "agentic-rag",
+          "context-database",
+          "dsh-plugin",
+          "knowledge-base",
+          "memory",
+          "memory-management",
+          "self-evolving",
+          "vector-database"
+        ],
+        "demo": "https://studio.openviking.ai/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-23T16:29:07.496Z",
+        "lastAvailableAt": "2026-10-23T16:29:07.496Z",
+        "lastAttemptAt": "2026-10-23T16:29:07.496Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2093298711182950682",
+            "postId": "2093298711182950682",
+            "postedAt": "2026-08-28T11:24:39.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents",
+          "Writing & documents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "MCP servers & agents",
+            "Writing & documents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "AI Agents"
+            },
+            {
+              "subject": "Writing & documents",
+              "source": "metadata",
+              "match": "knowledge base"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://studio.openviking.ai/",
+          "attemptedAt": "2026-10-23T16:29:13.676Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-23T16:29:13.676Z",
+          "lastWorkingAt": "2026-10-23T16:29:13.676Z",
+          "target": "https://studio.openviking.ai/filesystem?upload=false",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-30T16:29:13.676Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/8a8bbd401ea5e2f755f84c2b.jpg",
+            "kind": "demo",
+            "url": "https://studio.openviking.ai/",
+            "capturedAt": "2026-10-23T16:29:13.676Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-23T16:29:13.676Z",
+        "previewCheck": {
+          "url": "https://studio.openviking.ai/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-23T16:29:13.676Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-30T16:29:13.676Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T04:29:13.678Z",
+      "checkedAt": "2026-10-23T16:29:13.678Z",
+      "firstAcceptedAt": "2026-10-23T16:29:13.678Z"
     },
     "admuad/technocore-studio": {
       "full": "Admuad/technocore-studio",
@@ -71922,7 +72290,7 @@
     "pangular-inspector/devtools": {
       "full": "pangular-inspector/devtools",
       "firstSeenAt": "2026-10-23T16:27:17.834Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -71939,12 +72307,14 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-23T16:27:17.834Z"
+      "lastSeenAt": "2026-10-23T16:27:17.834Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-30T16:29:22.336Z"
     },
     "santoshyadavdev/angular-devtools": {
       "full": "santoshyadavdev/angular-devtools",
       "firstSeenAt": "2026-10-23T16:27:17.834Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -71961,12 +72331,14 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-23T16:27:17.834Z"
+      "lastSeenAt": "2026-10-23T16:27:17.834Z",
+      "reason": "temporary_error",
+      "nextAttemptAt": "2026-10-23T22:29:22.644Z"
     },
     "gaurav-meena95/form-filling-agent": {
       "full": "Gaurav-meena95/form-filling-agent",
       "firstSeenAt": "2026-10-23T16:27:17.834Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -72005,12 +72377,88 @@
           "repository": "Gaurav-meena95/form-filling-agent"
         }
       ],
-      "lastSeenAt": "2026-10-23T16:27:17.834Z"
+      "lastSeenAt": "2026-10-23T16:27:17.834Z",
+      "entry": {
+        "availability": "available",
+        "full": "Gaurav-meena95/form-filling-agent",
+        "name": "form-filling-agent",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-04-17T13:46:24Z",
+        "updated": "2026-10-18T05:13:10Z",
+        "branch": "main",
+        "homepage": "https://form-filling-agent.vercel.app",
+        "topics": [],
+        "demo": "https://drive.google.com/file/d/1z9_G9OeqY-JHOL130gmrqb-q1CaoWbPv/view?usp=sharing",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-23T16:28:29.046Z",
+        "lastAvailableAt": "2026-10-23T16:28:29.046Z",
+        "lastAttemptAt": "2026-10-23T16:28:29.046Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104812026858279337",
+            "postId": "2104812026858279337",
+            "postedAt": "2026-09-29T05:54:27.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://drive.google.com/file/d/1z9_G9OeqY-JHOL130gmrqb-q1CaoWbPv/view?usp=sharing",
+          "attemptedAt": "2026-10-23T16:28:32.437Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-23T16:28:32.437Z",
+          "lastWorkingAt": "2026-10-23T16:28:32.437Z",
+          "target": "https://drive.google.com/file/d/1z9_G9OeqY-JHOL130gmrqb-q1CaoWbPv/view",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-30T16:28:32.437Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/74a7b068ae8ca6d51439ee84.jpg",
+            "kind": "demo",
+            "url": "https://drive.google.com/file/d/1z9_G9OeqY-JHOL130gmrqb-q1CaoWbPv/view?usp=sharing",
+            "capturedAt": "2026-10-23T16:28:32.437Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-23T16:28:32.437Z",
+        "previewCheck": {
+          "url": "https://drive.google.com/file/d/1z9_G9OeqY-JHOL130gmrqb-q1CaoWbPv/view?usp=sharing",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-23T16:28:32.437Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-30T16:28:32.438Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T04:28:32.439Z",
+      "checkedAt": "2026-10-23T16:28:32.439Z",
+      "firstAcceptedAt": "2026-10-23T16:28:32.439Z"
     },
     "andlyu/blupe-remote-yam": {
       "full": "andlyu/blupe-remote-yam",
       "firstSeenAt": "2026-10-23T16:27:17.834Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -72037,7 +72485,95 @@
           "repository": "andlyu/blupe-remote-yam"
         }
       ],
-      "lastSeenAt": "2026-10-23T16:27:17.834Z"
+      "lastSeenAt": "2026-10-23T16:27:17.834Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "andlyu/blupe-remote-yam",
+        "postUrl": "https://x.com/i/web/status/2104806935782646167",
+        "url": "https://playground.blupe.io/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "andlyu/blupe-remote-yam",
+        "name": "blupe-remote-yam",
+        "description": "Run Astra on BluPe’s shared YAM robot arms from your computer.",
+        "category": "Other",
+        "language": "Python",
+        "stars": 3,
+        "forks": 2,
+        "created": "2026-09-07T08:32:16Z",
+        "updated": "2026-10-23T08:27:21Z",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://playground.blupe.io/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-23T16:28:33.172Z",
+        "lastAvailableAt": "2026-10-23T16:28:33.172Z",
+        "lastAttemptAt": "2026-10-23T16:28:33.172Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "andlyu/blupe-remote-yam",
+          "postUrl": "https://x.com/i/web/status/2104806935782646167",
+          "url": "https://playground.blupe.io/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104806935782646167",
+            "postId": "2104806935782646167",
+            "postedAt": "2026-09-29T05:34:13.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://playground.blupe.io/",
+          "attemptedAt": "2026-10-23T16:28:36.663Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-23T16:28:36.663Z",
+          "lastWorkingAt": "2026-10-23T16:28:36.663Z",
+          "target": "https://playground.blupe.io/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-30T16:28:36.663Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/dedc0f73189c02ef116b83bc.jpg",
+            "kind": "demo",
+            "url": "https://playground.blupe.io/",
+            "capturedAt": "2026-10-23T16:28:36.663Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-23T16:28:36.663Z",
+        "previewCheck": {
+          "url": "https://playground.blupe.io/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-23T16:28:36.663Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-30T16:28:36.663Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T04:28:36.664Z",
+      "checkedAt": "2026-10-23T16:28:36.664Z",
+      "firstAcceptedAt": "2026-10-23T16:28:36.664Z"
     },
     "vinaytiwaribuilds/vouch": {
       "full": "vinaytiwaribuilds/vouch",
@@ -72088,7 +72624,7 @@
     "vialtryai/vialtry-aitruth": {
       "full": "vialtryai/vialtry-aitruth",
       "firstSeenAt": "2026-10-23T16:27:17.834Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -72107,12 +72643,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-23T16:27:17.834Z"
+      "lastSeenAt": "2026-10-23T16:27:17.834Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-30T16:29:23.361Z"
     },
     "wanzhenli/findocs-rag": {
       "full": "WanzhenLi/FinDocs-RAG",
       "firstSeenAt": "2026-10-23T16:27:17.834Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -72145,12 +72683,100 @@
           "repository": "WanzhenLi/FinDocs-RAG"
         }
       ],
-      "lastSeenAt": "2026-10-23T16:27:17.834Z"
+      "lastSeenAt": "2026-10-23T16:27:17.834Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "WanzhenLi/FinDocs-RAG",
+        "postUrl": "https://x.com/i/web/status/2104779946552160587",
+        "url": "https://www.findocs.online/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "WanzhenLi/FinDocs-RAG",
+        "name": "FinDocs-RAG",
+        "description": "Explore this public GitHub project.",
+        "category": "AI & machine learning",
+        "language": "Python",
+        "stars": 100,
+        "forks": 7,
+        "created": "2025-11-09T18:08:35Z",
+        "updated": "2025-11-12T02:12:51Z",
+        "branch": "main",
+        "homepage": "http://findocs.online/",
+        "topics": [],
+        "demo": "https://www.findocs.online/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-23T16:28:23.817Z",
+        "lastAvailableAt": "2026-10-23T16:28:23.817Z",
+        "lastAttemptAt": "2026-10-23T16:28:23.817Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "WanzhenLi/FinDocs-RAG",
+          "postUrl": "https://x.com/i/web/status/2104779946552160587",
+          "url": "https://www.findocs.online/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104779946552160587",
+            "postId": "2104779946552160587",
+            "postedAt": "2026-09-29T03:46:58.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://www.findocs.online/",
+          "attemptedAt": "2026-10-23T16:28:28.238Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-23T16:28:28.238Z",
+          "lastWorkingAt": "2026-10-23T16:28:28.238Z",
+          "target": "https://www.findocs.online/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-30T16:28:28.238Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/49dd4cd8193c29a41fd27c81.jpg",
+            "kind": "demo",
+            "url": "https://www.findocs.online/",
+            "capturedAt": "2026-10-23T16:28:28.238Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-23T16:28:28.238Z",
+        "previewCheck": {
+          "url": "https://www.findocs.online/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-23T16:28:28.238Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-30T16:28:28.239Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T04:28:28.240Z",
+      "checkedAt": "2026-10-23T16:28:28.240Z",
+      "firstAcceptedAt": "2026-10-23T16:28:28.240Z"
     },
     "sounio-lang/sounio": {
-      "full": "sounio-lang/sounio",
+      "full": "Sounio-lang/sounio",
       "firstSeenAt": "2026-10-23T16:27:17.834Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -72183,7 +72809,126 @@
           "repository": "sounio-lang/sounio"
         }
       ],
-      "lastSeenAt": "2026-10-23T16:27:17.834Z"
+      "lastSeenAt": "2026-10-23T16:27:17.834Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "Sounio-lang/sounio",
+        "postUrl": "https://x.com/i/web/status/2104757045132251487",
+        "url": "https://www.souniolang.org/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "Sounio-lang/sounio",
+        "name": "sounio",
+        "description": "An epistemic systems language for scientific computing — uncertainty, units and effects, with a self-hosted compiler and libraries spanning physics, pharmacology and quantum computing.",
+        "category": "Developer tools",
+        "language": "Lean",
+        "stars": 12,
+        "forks": 3,
+        "created": "2025-12-24T22:39:51Z",
+        "updated": "2026-10-23T16:27:07Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": "https://www.souniolang.org",
+        "topics": [
+          "algebraic-effects",
+          "compiler",
+          "egraph",
+          "epistemic-computing",
+          "formal-verification",
+          "non-associative-algebra",
+          "octonions",
+          "programming-language",
+          "scientific-computing",
+          "self-hosting",
+          "systems-programming",
+          "uncertainty-propagation"
+        ],
+        "demo": "https://www.souniolang.org/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-23T16:28:37.344Z",
+        "lastAvailableAt": "2026-10-23T16:28:37.344Z",
+        "lastAttemptAt": "2026-10-23T16:28:37.344Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "Sounio-lang/sounio",
+          "postUrl": "https://x.com/i/web/status/2104757045132251487",
+          "url": "https://www.souniolang.org/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104757045132251487",
+            "postId": "2104757045132251487",
+            "postedAt": "2026-09-29T02:15:58.000Z"
+          }
+        ],
+        "subjects": [
+          "Science",
+          "Self-hosted apps"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Science",
+            "Self-hosted apps"
+          ],
+          "evidence": [
+            {
+              "subject": "Science",
+              "source": "metadata",
+              "match": "scientific"
+            },
+            {
+              "subject": "Self-hosted apps",
+              "source": "metadata",
+              "match": "self hosted"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://www.souniolang.org/",
+          "attemptedAt": "2026-10-23T16:28:41.032Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-23T16:28:41.032Z",
+          "lastWorkingAt": "2026-10-23T16:28:41.032Z",
+          "target": "https://www.souniolang.org/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-30T16:28:41.032Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/6ce3877e8e78e12b55dc555d.jpg",
+            "kind": "demo",
+            "url": "https://www.souniolang.org/",
+            "capturedAt": "2026-10-23T16:28:41.032Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-23T16:28:41.032Z",
+        "previewCheck": {
+          "url": "https://www.souniolang.org/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-23T16:28:41.032Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-30T16:28:41.033Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T04:28:41.034Z",
+      "checkedAt": "2026-10-23T16:28:41.034Z",
+      "firstAcceptedAt": "2026-10-23T16:28:41.034Z"
     }
   },
   "lastRun": {
@@ -73350,7 +74095,7 @@
       "posts": 522,
       "uniquePosts": 303,
       "newCandidates": 185,
-      "validationAttempts": 187,
+      "validationAttempts": 190,
       "accepted": 61
     },
     "2c0438e5283099cf": {
@@ -73358,8 +74103,8 @@
       "posts": 251,
       "uniquePosts": 248,
       "newCandidates": 282,
-      "validationAttempts": 287,
-      "accepted": 109
+      "validationAttempts": 291,
+      "accepted": 112
     },
     "ac3eb65e96558e14": {
       "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
@@ -73382,8 +74127,8 @@
       "posts": 542,
       "uniquePosts": 252,
       "newCandidates": 241,
-      "validationAttempts": 224,
-      "accepted": 104
+      "validationAttempts": 237,
+      "accepted": 109
     }
   },
   "demoSeeds": {
@@ -73837,7 +74582,7 @@
         "replies": 1,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-23T12:01:37.915Z",
+      "nextAttemptAt": "2026-10-24T16:28:22.754Z",
       "reason": "temporary_error"
     },
     "https://elon-musk12.github.io/Elon-X-capital/": {
@@ -74064,6 +74809,6 @@
   "lastDemoDiscovery": {
     "checked": 1,
     "resolved": 0,
-    "at": "2026-10-23T11:38:50.895Z"
+    "at": "2026-10-23T16:28:22.802Z"
   }
 }
