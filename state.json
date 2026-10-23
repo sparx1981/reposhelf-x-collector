@@ -93,7 +93,8 @@
       },
       "recent": {
         "start": "2026-10-16T16:27:59.869Z",
-        "end": "2026-10-18T11:02:57.298Z"
+        "end": "2026-10-18T11:02:57.298Z",
+        "nextToken": "b26v89c19zqg8o3juzlvzk6s0xvihebaz8dowyeto5uv1"
       }
     }
   },
@@ -54003,11 +54004,11 @@
       "demoLinks": [
         {
           "url": "https://getkimo.tech/",
-          "postUrl": "https://x.com/i/web/status/2111676414890000857",
+          "postUrl": "https://x.com/i/web/status/2111633513132781791",
           "repository": "naman-sharma12345/kimo"
         }
       ],
-      "lastSeenAt": "2026-10-23T11:37:49.408Z",
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "naman-sharma12345/kimo",
@@ -54467,7 +54468,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-23T11:37:49.408Z",
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-28T11:49:22.591Z"
     },
@@ -55989,7 +55990,7 @@
           "repository": "amir-afianian/pyamir.io"
         }
       ],
-      "lastSeenAt": "2026-10-22T11:51:21.222Z",
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
       "entry": {
         "availability": "available",
         "full": "amir-afianian/pyamir.io",
@@ -56133,7 +56134,7 @@
           "repository": "nisargpatel7042lva/pythia"
         }
       ],
-      "lastSeenAt": "2026-10-22T11:51:21.222Z",
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
       "entry": {
         "availability": "available",
         "full": "nisargpatel7042lva/pythia",
@@ -56259,7 +56260,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-22T11:51:21.222Z",
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
       "entry": {
         "availability": "available",
         "full": "heygen-com/hyperframes",
@@ -56389,7 +56390,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-22T11:51:21.222Z",
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-26T07:23:08.614Z"
     },
@@ -56423,7 +56424,7 @@
           "repository": "0xdopewilly/blackout"
         }
       ],
-      "lastSeenAt": "2026-10-22T11:51:21.222Z",
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "0xdopewilly/blackout",
@@ -56534,7 +56535,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-22T11:51:21.222Z",
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
       "entry": {
         "availability": "available",
         "full": "boykopovar/AnyPS5",
@@ -56651,7 +56652,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-22T11:51:21.222Z",
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-26T07:23:03.291Z"
     },
@@ -56685,7 +56686,7 @@
           "repository": "tumio-ltd/focusflow"
         }
       ],
-      "lastSeenAt": "2026-10-22T11:51:21.222Z",
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
       "reusedEvidence": true,
       "entry": {
         "full": "tumio-ltd/focusflow",
@@ -56950,7 +56951,7 @@
           "repository": "hackerjose25/Arkiv-Hack"
         }
       ],
-      "lastSeenAt": "2026-10-22T11:51:21.222Z",
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
       "entry": {
         "availability": "available",
         "full": "hackerjose25/Arkiv-Hack",
@@ -57051,7 +57052,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-22T11:51:21.222Z"
+      "lastSeenAt": "2026-10-23T16:27:06.318Z"
     },
     "r1patil/cardiograph-ai": {
       "full": "R1patil/CardioGraph-AI",
@@ -57083,7 +57084,7 @@
           "repository": "R1patil/CardioGraph-AI"
         }
       ],
-      "lastSeenAt": "2026-10-22T11:51:21.222Z",
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
       "entry": {
         "availability": "available",
         "full": "R1patil/CardioGraph-AI",
@@ -57188,7 +57189,7 @@
           "repository": "google-research/harness2"
         }
       ],
-      "lastSeenAt": "2026-10-22T11:51:21.222Z",
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "google-research/harness2",
@@ -57301,7 +57302,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-22T11:51:21.222Z"
+      "lastSeenAt": "2026-10-23T16:27:06.318Z"
     },
     "solidfdn/judgment-transfer": {
       "full": "solidfdn/judgment-transfer",
@@ -57325,7 +57326,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-22T11:51:21.222Z",
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
       "reusedEvidence": true,
       "entry": {
         "repositoryId": 1418419604,
@@ -57488,7 +57489,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-22T11:51:21.222Z",
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
       "entry": {
         "availability": "available",
         "full": "Riehnbean/xrpl-token-guard",
@@ -57633,7 +57634,7 @@
           "repository": "mohrt/c64"
         }
       ],
-      "lastSeenAt": "2026-10-22T11:51:21.222Z",
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
       "entry": {
         "availability": "available",
         "full": "mohrt/c64",
@@ -60918,7 +60919,7 @@
           "repository": "miracle352/fastforward-billing"
         }
       ],
-      "lastSeenAt": "2026-10-22T11:51:21.222Z",
+      "lastSeenAt": "2026-10-23T16:27:06.318Z",
       "entry": {
         "availability": "available",
         "full": "miracle352/fastforward-billing",
@@ -72925,23 +72926,6 @@
     "2095053409594302534",
     "2094930043713773645",
     "2094912057711706516",
-    "2111774119326810367",
-    "2111761648872747475",
-    "2111745599691534568",
-    "2111744412061462748",
-    "2111740777433125103",
-    "2111736543601889300",
-    "2111721214834303396",
-    "2111719381684408608",
-    "2111694447897653653",
-    "2111681932560122293",
-    "2111681465385632151",
-    "2111680197267476659",
-    "2111663396466971034",
-    "2111648293944205526",
-    "2111644443803791536",
-    "2111633513132781791",
-    "2111618314174931378",
     "2104934652217532507",
     "2104933987328123022",
     "2104931796446261463",
@@ -72990,7 +72974,6 @@
     "2111659870273650692",
     "2111659525417705477",
     "2111651003762463108",
-    "2111650341377003550",
     "2105267151518986368",
     "2105266928311042328",
     "2105266576048173495",
@@ -73022,7 +73005,25 @@
     "2093720743184048635",
     "2093356443181125777",
     "2093298711182950682",
-    "2093142794634224066"
+    "2093142794634224066",
+    "2111774119326810367",
+    "2111761648872747475",
+    "2111745599691534568",
+    "2111744412061462748",
+    "2111740777433125103",
+    "2111736543601889300",
+    "2111721214834303396",
+    "2111719381684408608",
+    "2111694447897653653",
+    "2111681932560122293",
+    "2111681465385632151",
+    "2111680197267476659",
+    "2111663396466971034",
+    "2111650341377003550",
+    "2111648293944205526",
+    "2111644443803791536",
+    "2111633513132781791",
+    "2111618314174931378"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -73059,7 +73060,7 @@
     },
     "a0153cbebcc5cf46": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
-      "posts": 508,
+      "posts": 526,
       "uniquePosts": 239,
       "newCandidates": 232,
       "validationAttempts": 224,
