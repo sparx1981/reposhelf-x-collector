@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-24T06:32:24.712Z",
+  "updatedAt": "2026-10-24T11:01:15.679Z",
   "runtimeRevision": "ed71211be3a262dd1b928f3740f110b041b3708e",
   "checked": 20,
   "repositories": [
@@ -1781,6 +1781,155 @@
     },
     {
       "availability": "available",
+      "full": "Kevin-Liu-01/Claude-of-Tanks",
+      "name": "Claude-of-Tanks",
+      "description": "A World of Tanks-style armored combat simulator built directly with Three.js and Vite: 220 vehicles, 33 destructible battlefields, and 13 modes, with plate-level armor, ballistics, modules, spotting, and physics. Play in your browser on desktop or mobile. Built end-to-end by a multi-agent Claude/Codex pipeline.",
+      "category": "Developer tools",
+      "language": "TypeScript",
+      "stars": 504,
+      "forks": 103,
+      "created": "2026-07-29T17:14:28Z",
+      "updated": "2026-10-24T11:00:08Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://cot.kevinliu.studio",
+      "topics": [
+        "3d-game",
+        "browser-game",
+        "claude",
+        "game",
+        "gamedev",
+        "javascript",
+        "mobile-game",
+        "multi-agent",
+        "procedural-generation",
+        "tank-game",
+        "threejs",
+        "vite",
+        "webgl",
+        "world-of-tanks"
+      ],
+      "demo": "https://cot.kevinliu.studio/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-24T11:00:32.130Z",
+      "lastAvailableAt": "2026-10-24T11:00:32.130Z",
+      "lastAttemptAt": "2026-10-24T11:00:32.130Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "Kevin-Liu-01/Claude-of-Tanks",
+        "postUrl": "https://x.com/i/web/status/2105125977303187506",
+        "url": "https://cot.kevinliu.studio/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2094193506080481581",
+          "postId": "2094193506080481581",
+          "postedAt": "2026-08-30T22:40:14.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105125977303187506",
+          "postId": "2105125977303187506",
+          "postedAt": "2026-09-30T02:41:58.000Z"
+        }
+      ],
+      "subjects": [
+        "Games & game development",
+        "Simulation & physics",
+        "Mobile",
+        "Science",
+        "MCP servers & agents",
+        "3D & graphics"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "Games & game development",
+          "Simulation & physics",
+          "Mobile",
+          "Science",
+          "MCP servers & agents",
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "Games & game development",
+            "source": "metadata",
+            "match": "3d game"
+          },
+          {
+            "subject": "Simulation & physics",
+            "source": "metadata",
+            "match": "simulator"
+          },
+          {
+            "subject": "Mobile",
+            "source": "metadata",
+            "match": "mobile"
+          },
+          {
+            "subject": "Science",
+            "source": "metadata",
+            "match": "physics"
+          },
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "multi agent"
+          },
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "3d"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://cot.kevinliu.studio/",
+        "attemptedAt": "2026-10-24T11:00:38.636Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-24T11:00:38.636Z",
+        "lastWorkingAt": "2026-10-24T11:00:38.636Z",
+        "target": "https://cot.kevinliu.studio/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-31T11:00:38.636Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/3b7f2a2c509b31c9ceb8902f.jpg",
+          "kind": "demo",
+          "url": "https://cot.kevinliu.studio/",
+          "capturedAt": "2026-10-24T11:00:38.636Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-24T11:00:38.636Z",
+      "previewCheck": {
+        "url": "https://cot.kevinliu.studio/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-24T11:00:38.636Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-31T11:00:38.637Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
       "full": "mertcookimg/Open_Duck_Mini_Viewer",
       "name": "Open_Duck_Mini_Viewer",
       "description": "Open_Duck_Mini_Viewer",
@@ -3216,6 +3365,81 @@
     },
     {
       "availability": "available",
+      "full": "transkatgirl/universal-weave-demo",
+      "name": "universal-weave-demo",
+      "description": "Vibe coded demos for the universal-weave crate.",
+      "category": "Developer tools",
+      "language": "Rust",
+      "stars": 1,
+      "forks": 0,
+      "created": "2026-08-02T13:29:29Z",
+      "updated": "2026-09-10T13:30:46Z",
+      "branch": "master",
+      "homepage": "",
+      "topics": [],
+      "demo": "https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-24T11:00:59.995Z",
+      "lastAvailableAt": "2026-10-24T11:00:59.995Z",
+      "lastAttemptAt": "2026-10-24T11:00:59.995Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2092935250469167429",
+          "postId": "2092935250469167429",
+          "postedAt": "2026-08-27T11:20:23.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/",
+        "attemptedAt": "2026-10-24T11:01:10.882Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-24T11:01:10.882Z",
+        "lastWorkingAt": "2026-10-24T11:01:10.882Z",
+        "target": "https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-31T11:01:10.882Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/b77af802438476759dddbea3.jpg",
+          "kind": "demo",
+          "url": "https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/",
+          "capturedAt": "2026-10-24T11:01:10.882Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-24T11:01:10.882Z",
+      "previewCheck": {
+        "url": "https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-24T11:01:10.882Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-31T11:01:10.883Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
       "full": "yutori-ai/yutori-mcp",
       "name": "yutori-mcp",
       "description": "Yutori MCP",
@@ -3683,6 +3907,230 @@
       ]
     },
     {
+      "repositoryId": 1165361576,
+      "availability": "available",
+      "full": "cactus-compute/needle",
+      "name": "needle",
+      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, ASR, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+      "category": "Developer tools",
+      "language": "Python",
+      "stars": 14213,
+      "forks": 982,
+      "created": "2026-02-24T04:50:47Z",
+      "updated": "2026-10-19T12:06:59Z",
+      "license": "Apache-2.0",
+      "branch": "main",
+      "homepage": "https://cactuscompute.com",
+      "topics": [
+        "cactus",
+        "edge-ai",
+        "foundation-model",
+        "function-calling",
+        "llm",
+        "on-device-ai",
+        "tinyml",
+        "tool-calling"
+      ],
+      "demo": "https://afshinm.github.io/cactus-needle/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-23T05:19:35.962Z",
+      "lastAttemptAt": "2026-10-23T05:19:35.962Z",
+      "lastAvailableAt": "2026-10-23T05:19:35.962Z",
+      "metrics": [
+        {
+          "at": "2026-10-21T00:41:48.342Z",
+          "stars": 14145,
+          "forks": 1003
+        },
+        {
+          "at": "2026-10-23T05:19:35.962Z",
+          "stars": 14213,
+          "forks": 982
+        }
+      ],
+      "technologies": [
+        "Python"
+      ],
+      "overview": {
+        "kind": "readme",
+        "version": 1,
+        "paragraphs": [
+          "A foundation model for mobiles, wearables, robots, smart home, automotive and microcontrollers. The whole model is a single 8-29 MB binary built on our Simple Attention Network, and we trade general chat capacity to beat models 10x its size on mobile tool calls and match 2-3x bigger models on extraction.",
+          "Needle 3 is a Laddered Simple Attention Network: a Monarch Hadamard MLP in place of the FFN, GQA attention with causal conv taps, engram n-gram memory read by gather, and multi-lane hyper-connections, trained so that every depth from 2 to 20 layers is a deployable model. Most of its parameters sit in the engram, so the 121M model does the arithmetic of a 50M one. A byte-level grammar compiled from your schemas constrains every token, and every response carries a calibrated confidence score from a learned head. The architecture diagram is on the release page."
+        ],
+        "features": [
+          "Tool calls: given the functions your app exposes, Needle picks the right ones and fills every argument from what the user said. Ask for two things and you get two calls in order; ask for something no tool covers and you…",
+          "Structured extraction: declare a shape, hand over messy text, get typed fields back: an invoice, a booking, a notification, a form. The decode grammar guarantees the output parses, and extraction generalises to…",
+          "Text embedding: the same model returns a vector for a sentence, so an app can search, match and route locally.",
+          "Speech: Whistle, our speech-to-text model, shares Needle's container and engine. One build gives Needle audio input: the clip goes in, the tool calls come out."
+        ],
+        "sourceUrl": "https://github.com/cactus-compute/needle/blob/main/README.md",
+        "fingerprint": "ab0bb22eae3f778940d932b9852f66aeafdbe9da1ce06610f9b794ea5bf2fa34",
+        "extractedAt": "2026-10-21T00:41:48.467Z"
+      },
+      "overviewCheckedAt": "2026-10-21T00:41:48.467Z",
+      "projectInsights": {
+        "version": 1,
+        "whatItDoes": {
+          "text": "A foundation model for mobiles, wearables, robots, smart home, automotive and microcontrollers. The whole model is a single 8-29 MB binary built on our Simple Attention Network, and we trade general chat capacity to beat models 10x its size on mobile tool calls and match 2-3x bigger models on extraction.",
+          "sourceUrl": "https://github.com/cactus-compute/needle/blob/main/README.md"
+        },
+        "audience": [],
+        "requirements": [],
+        "fingerprint": "ab0bb22eae3f778940d932b9852f66aeafdbe9da1ce06610f9b794ea5bf2fa34",
+        "sourceUrl": "https://github.com/cactus-compute/needle/blob/main/README.md",
+        "checkedAt": "2026-10-21T00:41:48.467Z"
+      },
+      "overviewRepoUpdated": "2026-10-19T12:06:59Z",
+      "readmeSnapshot": {
+        "version": 1,
+        "status": "saved",
+        "sourceUrl": "https://github.com/cactus-compute/needle/blob/main/README.md",
+        "checkedAt": "2026-10-21T00:44:27.753Z",
+        "hash": "ab0bb22eae3f778940d932b9852f66aeafdbe9da1ce06610f9b794ea5bf2fa34",
+        "originalBytes": 13260,
+        "storedBytes": 13260,
+        "truncated": false
+      },
+      "lastDemoCheckedAt": "2026-10-21T00:41:48.342Z",
+      "enrichmentAttemptAt": "2026-10-21T00:43:13.309Z",
+      "latestRelease": null,
+      "releaseCheckedAt": "2026-10-21T00:43:13.309Z",
+      "screenshots": [
+        {
+          "src": "previews/1df2eb8fa5414104cb2a1fae.jpg",
+          "kind": "demo",
+          "capturedAt": "2026-10-21T00:57:15.238Z",
+          "url": "https://afshinm.github.io/cactus-needle/",
+          "variants": [
+            {
+              "src": "previews/variants/1df2eb8fa5414104cb2a1fae-320.webp",
+              "width": 320,
+              "height": 200
+            },
+            {
+              "src": "previews/variants/1df2eb8fa5414104cb2a1fae-640.webp",
+              "width": 640,
+              "height": 400
+            },
+            {
+              "src": "previews/variants/1df2eb8fa5414104cb2a1fae-960.webp",
+              "width": 960,
+              "height": 600
+            }
+          ]
+        }
+      ],
+      "agentContextAttemptAt": "2026-10-21T00:44:27.232Z",
+      "agentContext": {
+        "version": 1,
+        "checkedAt": "2026-10-21T00:44:28.187Z",
+        "documents": [
+          {
+            "name": "pyproject.toml",
+            "sourceUrl": "https://github.com/cactus-compute/needle/blob/main/pyproject.toml",
+            "hash": "ecb648b2c1de390f73d3e74e8e9de8324ae474ebd8ccc5f56cd8cef7f8b4f7a0",
+            "originalBytes": 1229,
+            "truncated": false
+          },
+          {
+            "name": "requirements.txt",
+            "sourceUrl": "https://github.com/cactus-compute/needle/blob/main/requirements.txt",
+            "hash": "1e3262fd9a636a32e24d6bd3a716d931692d03877e2f2003fe8d646a2d0d6565",
+            "originalBytes": 39,
+            "truncated": false
+          },
+          {
+            "name": "LICENSE",
+            "sourceUrl": "https://github.com/cactus-compute/needle/blob/main/LICENSE",
+            "hash": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+            "originalBytes": 11358,
+            "truncated": false
+          }
+        ]
+      },
+      "agentContextRepoUpdated": "2026-10-19T12:06:59Z",
+      "subjects": [
+        "Automation & workflows",
+        "Automotive"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "Automation & workflows",
+          "Automotive"
+        ],
+        "evidence": [
+          {
+            "subject": "Automation & workflows",
+            "source": "metadata",
+            "match": "Automation"
+          },
+          {
+            "subject": "Automotive",
+            "source": "metadata",
+            "match": "cars"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [
+          "Home automation",
+          "Apple",
+          "Mobile",
+          "MCP servers & agents",
+          "Image, audio & video AI",
+          "Maths & algorithms",
+          "Data & dashboards",
+          "Music & audio"
+        ],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://afshinm.github.io/cactus-needle/",
+        "attemptedAt": "2026-10-21T00:57:15.238Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-21T00:57:15.238Z",
+        "lastWorkingAt": "2026-10-21T00:57:15.238Z",
+        "target": "https://afshinm.github.io/cactus-needle/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-28T00:57:15.238Z"
+      },
+      "previewAttemptAt": "2026-10-21T00:57:15.238Z",
+      "previewCheck": {
+        "url": "https://afshinm.github.io/cactus-needle/",
+        "attemptedAt": "2026-10-21T00:57:15.238Z",
+        "consecutiveFailures": 0,
+        "status": "captured",
+        "reason": null,
+        "nextCheckAt": "2026-10-28T00:57:15.238Z"
+      },
+      "qualityPriority": false,
+      "repositoryAliases": [],
+      "repositoryEtag": "W/\"f3001032ea24e60e79d6d57f8d96fe12afd45ee37ff47d63588f278eadb7c747\"",
+      "repositoryEtagFor": "cactus-compute/needle",
+      "spaces": [],
+      "communityPosts": [],
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2092319174790185028",
+          "postId": "2092319174790185028",
+          "postedAt": "2026-08-25T18:32:19.000Z"
+        }
+      ],
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
       "availability": "available",
       "full": "kyutai-labs/pocket-tts",
       "name": "pocket-tts",
@@ -3753,6 +4201,163 @@
         "attemptedAt": "2026-10-24T06:32:22.581Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-31T06:32:22.581Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "wessamhamid/canadachat",
+      "name": "canadachat",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": null,
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-29T22:49:50Z",
+      "updated": "2026-09-30T02:46:16Z",
+      "license": null,
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://canadachat.ca/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-24T11:00:39.642Z",
+      "lastAvailableAt": "2026-10-24T11:00:39.642Z",
+      "lastAttemptAt": "2026-10-24T11:00:39.642Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "wessamhamid/canadachat",
+        "postUrl": "https://x.com/i/web/status/2105137049317876058",
+        "url": "https://canadachat.ca/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105137049317876058",
+          "postId": "2105137049317876058",
+          "postedAt": "2026-09-30T03:25:58.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://canadachat.ca/",
+        "attemptedAt": "2026-10-24T11:00:43.850Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-24T11:00:43.850Z",
+        "lastWorkingAt": "2026-10-24T11:00:43.850Z",
+        "target": "https://canadachat.ca/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-31T11:00:43.850Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/f39a6fea7dc4c315998e9f03.jpg",
+          "kind": "demo",
+          "url": "https://canadachat.ca/",
+          "capturedAt": "2026-10-24T11:00:43.850Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-24T11:00:43.850Z",
+      "previewCheck": {
+        "url": "https://canadachat.ca/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-24T11:00:43.850Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-31T11:00:43.851Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Eternalbes/eternal-beings-contracts",
+      "name": "eternal-beings-contracts",
+      "description": "Eternalbeings instance",
+      "category": "Other",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "created": "2026-07-14T15:59:27Z",
+      "updated": "2026-10-09T00:32:24Z",
+      "branch": "main",
+      "homepage": "https://eternalbeings.space/example",
+      "topics": [],
+      "demo": "https://eternalbeings.space/world-demo/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-24T11:00:52.232Z",
+      "lastAvailableAt": "2026-10-24T11:00:52.232Z",
+      "lastAttemptAt": "2026-10-24T11:00:52.232Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105085356710437099",
+          "postId": "2105085356710437099",
+          "postedAt": "2026-09-30T00:00:34.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://eternalbeings.space/world-demo/",
+        "attemptedAt": "2026-10-24T11:00:58.980Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-24T11:00:58.980Z",
+        "lastWorkingAt": "2026-10-24T11:00:58.980Z",
+        "target": "https://eternalbeings.space/world-demo/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-10-31T11:00:58.980Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/df14e694dc3ea3776fdea862.jpg",
+          "kind": "demo",
+          "url": "https://eternalbeings.space/world-demo/",
+          "capturedAt": "2026-10-24T11:00:58.980Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-24T11:00:58.980Z",
+      "previewCheck": {
+        "url": "https://eternalbeings.space/world-demo/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-24T11:00:58.980Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-10-31T11:00:58.981Z"
       },
       "sourceCategories": [
         "As Seen On X.com"

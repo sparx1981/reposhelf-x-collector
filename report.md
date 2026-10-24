@@ -1,17 +1,17 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-24T06:32:24.712Z
+Checked: 2026-10-24T11:01:15.679Z
 
-Quality-ready repositories: **39**
+Quality-ready repositories: **44**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 522 | 303 | 185 | 61 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 266 | 263 | 306 | 119 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 555 | 317 | 197 | 63 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 266 | 263 | 306 | 122 |
 | (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 20 |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 240 | 31 | 24 | 8 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 251 | 31 | 24 | 8 |
 | url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 575 | 267 | 253 | 114 |
 
 Acceptance totals are attributed to the first discovery query; these are not controlled experiments.
@@ -37,6 +37,7 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [vercel-labs/book-inventory](https://github.com/vercel-labs/book-inventory) | [Try demo](https://next-books-search.vercel.app/) | [Screenshot](previews/e4660b3db8878c9313fb35a0.jpg) | [Source](https://x.com/i/web/status/2094435535582289925) |
 | [nextjs/next-books](https://github.com/nextjs/next-books) | [Try demo](https://www.next-books.dev/) | [Screenshot](previews/1581e94dcfece962cf2b953f.jpg) | [Source](https://x.com/i/web/status/2094435535582289925) |
 | [Emmanuellsensai/anonymous-whispers](https://github.com/Emmanuellsensai/anonymous-whispers) | [Try demo](https://anonymous-whispers.vercel.app/) | [Screenshot](previews/37f1516b752fdde669ff65db.jpg) | [Source](https://x.com/i/web/status/2094366855792062756) |
+| [Kevin-Liu-01/Claude-of-Tanks](https://github.com/Kevin-Liu-01/Claude-of-Tanks) | [Try demo](https://cot.kevinliu.studio/) | [Screenshot](previews/3b7f2a2c509b31c9ceb8902f.jpg) | [Source](https://x.com/i/web/status/2094193506080481581) |
 | [mertcookimg/Open_Duck_Mini_Viewer](https://github.com/mertcookimg/Open_Duck_Mini_Viewer) | [Try demo](https://mertcookimg.github.io/Open_Duck_Mini_Viewer/) | [Screenshot](previews/62245a4d1d31fbd4c4b9e707.jpg) | [Source](https://x.com/i/web/status/2093977576452821462) |
 | [PINTO0309/High-Angle_Robust_Fast_FaceAlignment](https://github.com/PINTO0309/High-Angle_Robust_Fast_FaceAlignment) | [Try demo](https://onnxruntime.ai/docs/tutorials/web/) | [Screenshot](previews/82012b2af28e353a23c2a92c.jpg) | [Source](https://x.com/i/web/status/2093720743184048635) |
 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | [Try demo](https://studio.openviking.ai/) | [Screenshot](previews/8a8bbd401ea5e2f755f84c2b.jpg) | [Source](https://x.com/i/web/status/2093298711182950682) |
@@ -51,11 +52,15 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [glaforge/devoxx-ai-schedule](https://github.com/glaforge/devoxx-ai-schedule) | [Try demo](https://glaforge.dev/posts/2026/09/28/crafting-a-devoxx-schedule-with-gemini-langchain4j-and-micronaut/) | [Screenshot](previews/66545c84457a631fe7e06d5a.jpg) | [Source](https://x.com/i/web/status/2104539020109689002) |
 | [Coding-Meet/Shader-Animation-CMP](https://github.com/Coding-Meet/Shader-Animation-CMP) | [Try demo](https://coding-meet.github.io/Shader-Animation-CMP/) | [Screenshot](previews/769166d5b2bdfec71f1f6cfc.jpg) | [Source](https://x.com/i/web/status/2104533894045503791) |
 | [KAIST-Visual-AI-Group/CDM](https://github.com/KAIST-Visual-AI-Group/CDM) | [Try demo](https://cdm-smc.github.io/) | [Screenshot](previews/18867220ccc8267632efacfe.jpg) | [Source](https://x.com/i/web/status/2093044703826743314) |
+| [transkatgirl/universal-weave-demo](https://github.com/transkatgirl/universal-weave-demo) | [Try demo](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/) | [Screenshot](previews/b77af802438476759dddbea3.jpg) | [Source](https://x.com/i/web/status/2092935250469167429) |
 | [yutori-ai/yutori-mcp](https://github.com/yutori-ai/yutori-mcp) | [Try demo](https://yutori.com/n2) | [Screenshot](previews/b35355b7ad47436244cd1b34.jpg) | [Source](https://x.com/i/web/status/2092647749460353251) |
 | [dongyh20/Demo-ICL](https://github.com/dongyh20/Demo-ICL) | [Try demo](https://arxiv.org/abs/2602.08439) | [Screenshot](previews/3b1b45f0ba005bc781bf9e78.jpg) | [Source](https://x.com/i/web/status/2092613044878835992) |
 | [aloisdeniel/flutter_device_preview](https://github.com/aloisdeniel/flutter_device_preview) | [Try demo](https://aloisdeniel.github.io/flutter_device_preview/) | [Screenshot](previews/3a0c885fc8a7b810ad7f4ab3.jpg) | [Source](https://x.com/i/web/status/2092585221019304264) |
 | [ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent) | [Try demo](https://huggingface.co/collections/apodex/apodex-11) | [Screenshot](previews/b3a211b35aea349438b61dbf.jpg) | [Source](https://x.com/i/web/status/2092514007051899160) |
 | [Must-be-Ash/masterkey](https://github.com/Must-be-Ash/masterkey) | [Try demo](https://www.masterkey.sh/) | [Screenshot](previews/ad7583a7b45e59c7fd8ef1f1.jpg) | [Source](https://x.com/i/web/status/2092372554640224657) |
+| [cactus-compute/needle](https://github.com/cactus-compute/needle) | [Try demo](https://afshinm.github.io/cactus-needle/) | [Screenshot](previews/1df2eb8fa5414104cb2a1fae.jpg) | [Source](https://x.com/i/web/status/2092319174790185028) |
 | [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) | [Try demo](https://kyutai.org/pocket-tts) | [Screenshot](previews/93939a5c00b29022b4c8f264.jpg) | [Source](https://x.com/i/web/status/2092266105989673235) |
+| [wessamhamid/canadachat](https://github.com/wessamhamid/canadachat) | [Try demo](https://canadachat.ca/) | [Screenshot](previews/f39a6fea7dc4c315998e9f03.jpg) | [Source](https://x.com/i/web/status/2105137049317876058) |
+| [Eternalbes/eternal-beings-contracts](https://github.com/Eternalbes/eternal-beings-contracts) | [Try demo](https://eternalbeings.space/world-demo/) | [Screenshot](previews/df14e694dc3ea3776fdea862.jpg) | [Source](https://x.com/i/web/status/2105085356710437099) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.
