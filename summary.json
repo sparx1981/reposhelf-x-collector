@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "runId": "40070426943",
-  "checkedAt": "2026-10-24T06:30:20.890Z",
+  "checkedAt": "2026-10-24T06:30:25.155Z",
   "collection": {
-    "at": "2026-10-23T16:27:36.685Z",
-    "postsRead": 49,
-    "newCandidates": 9,
-    "candidateCount": 858,
+    "at": "2026-10-24T06:30:25.117Z",
+    "postsRead": 48,
+    "newCandidates": 36,
+    "candidateCount": 894,
     "stopped": null,
     "postLimit": 50,
     "queries": [
@@ -19,14 +19,14 @@
       {
         "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
         "endpoint": "all",
-        "postsRead": 16,
-        "newCandidates": 9
+        "postsRead": 15,
+        "newCandidates": 12
       },
       {
-        "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-        "endpoint": "recent",
+        "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+        "endpoint": "all",
         "postsRead": 15,
-        "newCandidates": 0
+        "newCandidates": 24
       }
     ]
   },
