@@ -89,7 +89,7 @@
         "start": "2026-07-11T17:41:57.699Z",
         "end": "2026-10-02T17:41:57.699Z",
         "done": false,
-        "nextToken": "b26v89c19zqg8o3juzixh75bxx41rl4wmxy1428lcmr25"
+        "nextToken": "b26v89c19zqg8o3juzixh2uzd0isjp9ys08lp5mapyc8t"
       },
       "recent": {
         "start": "2026-10-17T06:30:56.892Z",
@@ -28798,6 +28798,13 @@
           "url": "https://x.com/i/web/status/2105120890807885884",
           "postId": "2105120890807885884",
           "postedAt": "2026-09-30T02:21:46.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104735081109831847",
+          "postId": "2104735081109831847",
+          "postedAt": "2026-09-29T00:48:42.000Z"
         }
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
@@ -28809,7 +28816,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-20T11:08:21.375Z",
+      "lastSeenAt": "2026-10-24T06:30:11.364Z",
       "entry": {
         "availability": "available",
         "full": "laoxin99/cognitive-bridge-v0-public",
@@ -29881,6 +29888,13 @@
           "url": "https://x.com/i/web/status/2102786378282987591",
           "postId": "2102786378282987591",
           "postedAt": "2026-09-23T15:45:15.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104753555991150985",
+          "postId": "2104753555991150985",
+          "postedAt": "2026-09-29T02:02:06.000Z"
         }
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
@@ -29900,7 +29914,7 @@
           "repository": "Aureliengmz/clearwater"
         }
       ],
-      "lastSeenAt": "2026-10-10T19:34:02.252Z",
+      "lastSeenAt": "2026-10-24T06:30:11.364Z",
       "entry": {
         "availability": "available",
         "full": "Aureliengmz/clearwater",
@@ -72784,6 +72798,13 @@
           "url": "https://x.com/i/web/status/2104757045132251487",
           "postId": "2104757045132251487",
           "postedAt": "2026-09-29T02:15:58.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104723118321197298",
+          "postId": "2104723118321197298",
+          "postedAt": "2026-09-29T00:01:09.000Z"
         }
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
@@ -72805,11 +72826,11 @@
         },
         {
           "url": "https://souniolang.org/",
-          "postUrl": "https://x.com/i/web/status/2104757045132251487",
+          "postUrl": "https://x.com/i/web/status/2104723118321197298",
           "repository": "sounio-lang/sounio"
         }
       ],
-      "lastSeenAt": "2026-10-23T16:27:17.834Z",
+      "lastSeenAt": "2026-10-24T06:30:11.364Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "Sounio-lang/sounio",
@@ -72929,6 +72950,370 @@
       "nextAttemptAt": "2026-10-25T04:28:41.034Z",
       "checkedAt": "2026-10-23T16:28:41.034Z",
       "firstAcceptedAt": "2026-10-23T16:28:41.034Z"
+    },
+    "mars-tw/open-seo-advisor-skill": {
+      "full": "mars-tw/open-seo-advisor-skill",
+      "firstSeenAt": "2026-10-24T06:30:11.364Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104755812207862208",
+          "postId": "2104755812207862208",
+          "postedAt": "2026-09-29T02:11:04.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://www.facebook.com/fang.shi.xuan.696541/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://www.facebook.com/fang.shi.xuan.696541/",
+          "postUrl": "https://x.com/i/web/status/2104755812207862208",
+          "repository": "mars-tw/open-seo-advisor-skill"
+        }
+      ],
+      "lastSeenAt": "2026-10-24T06:30:11.364Z"
+    },
+    "edungee/portfolio-editor": {
+      "full": "edungee/portfolio-editor",
+      "firstSeenAt": "2026-10-24T06:30:11.364Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104740056283890040",
+          "postId": "2104740056283890040",
+          "postedAt": "2026-09-29T01:08:28.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-24T06:30:11.364Z"
+    },
+    "egma-ai/jev-code-reviewer": {
+      "full": "egma-ai/jev-code-reviewer",
+      "firstSeenAt": "2026-10-24T06:30:11.364Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104734181083267374",
+          "postId": "2104734181083267374",
+          "postedAt": "2026-09-29T00:45:07.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-24T06:30:11.364Z"
+    },
+    "aliyun/ai-agent-handbook": {
+      "full": "aliyun/ai-agent-handbook",
+      "firstSeenAt": "2026-10-24T06:30:11.364Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104733781412454751",
+          "postId": "2104733781412454751",
+          "postedAt": "2026-09-29T00:43:32.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-24T06:30:11.364Z"
+    },
+    "stasdodesign/agentic-ui-kit": {
+      "full": "stasdodesign/agentic-ui-kit",
+      "firstSeenAt": "2026-10-24T06:30:11.364Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104727116537561478",
+          "postId": "2104727116537561478",
+          "postedAt": "2026-09-29T00:17:03.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-24T06:30:11.364Z"
+    },
+    "0xkinno/unitseal": {
+      "full": "0xkinno/unitseal",
+      "firstSeenAt": "2026-10-24T06:30:11.364Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104722980349562961",
+          "postId": "2104722980349562961",
+          "postedAt": "2026-09-29T00:00:37.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 2,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://unitseal-app.vercel.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://unitseal-app.vercel.app/",
+          "postUrl": "https://x.com/i/web/status/2104722980349562961",
+          "repository": "0xkinno/unitseal"
+        }
+      ],
+      "lastSeenAt": "2026-10-24T06:30:11.364Z"
+    },
+    "shabaraba/vibing.nvim": {
+      "full": "shabaraba/vibing.nvim",
+      "firstSeenAt": "2026-10-24T06:30:11.364Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104552068405199311",
+          "postId": "2104552068405199311",
+          "postedAt": "2026-09-28T12:41:28.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-24T06:30:11.364Z"
+    },
+    "vishal8shah/services-australia-demo": {
+      "full": "vishal8shah/Services-Australia-demo",
+      "firstSeenAt": "2026-10-24T06:30:11.364Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104542201376297152",
+          "postId": "2104542201376297152",
+          "postedAt": "2026-09-28T12:02:15.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://vishal8shah.github.io/payment-finder/",
+        "https://vishal8shah.github.io/payment-finder",
+        "https://vishal8shah.github.io/payment-finder/film/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://vishal8shah.github.io/payment-finder/",
+          "postUrl": "https://x.com/i/web/status/2104542201376297152",
+          "repository": "vishal8shah/Services-Australia-demo"
+        },
+        {
+          "url": "https://vishal8shah.github.io/payment-finder",
+          "postUrl": "https://x.com/i/web/status/2104542201376297152",
+          "repository": "vishal8shah/Services-Australia-demo"
+        },
+        {
+          "url": "https://vishal8shah.github.io/payment-finder/film/",
+          "postUrl": "https://x.com/i/web/status/2104542201376297152",
+          "repository": "vishal8shah/Services-Australia-demo"
+        }
+      ],
+      "lastSeenAt": "2026-10-24T06:30:11.364Z"
+    },
+    "glaforge/devoxx-ai-schedule": {
+      "full": "glaforge/devoxx-ai-schedule",
+      "firstSeenAt": "2026-10-24T06:30:11.364Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104539020109689002",
+          "postId": "2104539020109689002",
+          "postedAt": "2026-09-28T11:49:37.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 6,
+        "reposts": 1,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://glaforge.dev/posts/2026/09/28/crafting-a-devoxx-schedule-with-gemini-langchain4j-and-micronaut/",
+        "https://devoxx-ai-schedule.cloud.run/index.html",
+        "https://devoxx-ai-schedule.cloud.run/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://glaforge.dev/posts/2026/09/28/crafting-a-devoxx-schedule-with-gemini-langchain4j-and-micronaut/",
+          "postUrl": "https://x.com/i/web/status/2104539020109689002",
+          "repository": "glaforge/devoxx-ai-schedule"
+        },
+        {
+          "url": "https://devoxx-ai-schedule.cloud.run/index.html",
+          "postUrl": "https://x.com/i/web/status/2104539020109689002",
+          "repository": "glaforge/devoxx-ai-schedule"
+        },
+        {
+          "url": "https://devoxx-ai-schedule.cloud.run/",
+          "postUrl": "https://x.com/i/web/status/2104539020109689002",
+          "repository": "glaforge/devoxx-ai-schedule"
+        }
+      ],
+      "lastSeenAt": "2026-10-24T06:30:11.364Z"
+    },
+    "coding-meet/shader-animation-cmp": {
+      "full": "Coding-Meet/Shader-Animation-CMP",
+      "firstSeenAt": "2026-10-24T06:30:11.364Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104533894045503791",
+          "postId": "2104533894045503791",
+          "postedAt": "2026-09-28T11:29:15.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://proandroiddev.com/how-to-implement-shaders-in-compose-multiplatform-android-ios-desktop-web-c86a36dd9666",
+        "https://medium.com/proandroiddev/how-to-implement-shaders-in-compose-multiplatform-android-ios-desktop-web-c86a36dd9666",
+        "https://coding-meet.github.io/Shader-Animation-CMP/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://proandroiddev.com/how-to-implement-shaders-in-compose-multiplatform-android-ios-desktop-web-c86a36dd9666",
+          "postUrl": "https://x.com/i/web/status/2104533894045503791",
+          "repository": "Coding-Meet/Shader-Animation-CMP"
+        },
+        {
+          "url": "https://medium.com/proandroiddev/how-to-implement-shaders-in-compose-multiplatform-android-ios-desktop-web-c86a36dd9666",
+          "postUrl": "https://x.com/i/web/status/2104533894045503791",
+          "repository": "Coding-Meet/Shader-Animation-CMP"
+        },
+        {
+          "url": "https://coding-meet.github.io/Shader-Animation-CMP/",
+          "postUrl": "https://x.com/i/web/status/2104533894045503791",
+          "repository": "Coding-Meet/Shader-Animation-CMP"
+        }
+      ],
+      "lastSeenAt": "2026-10-24T06:30:11.364Z"
+    },
+    "pilotwaffle/torq-pamba": {
+      "full": "pilotwaffle/Torq-Pamba",
+      "firstSeenAt": "2026-10-24T06:30:11.364Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104532411795361850",
+          "postId": "2104532411795361850",
+          "postedAt": "2026-09-28T11:23:21.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-24T06:30:11.364Z"
+    },
+    "cat5dog2/seo-intelligence-platform": {
+      "full": "Cat5Dog2/seo-intelligence-platform",
+      "firstSeenAt": "2026-10-24T06:30:11.364Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104528831331844534",
+          "postId": "2104528831331844534",
+          "postedAt": "2026-09-28T11:09:08.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-24T06:30:11.364Z"
     }
   },
   "lastRun": {
@@ -74092,7 +74477,22 @@
     "2111648293944205526",
     "2111644443803791536",
     "2111633513132781791",
-    "2111618314174931378"
+    "2111618314174931378",
+    "2104755812207862208",
+    "2104753555991150985",
+    "2104740056283890040",
+    "2104735081109831847",
+    "2104734181083267374",
+    "2104733781412454751",
+    "2104727116537561478",
+    "2104723118321197298",
+    "2104722980349562961",
+    "2104552068405199311",
+    "2104542201376297152",
+    "2104539020109689002",
+    "2104533894045503791",
+    "2104532411795361850",
+    "2104528831331844534"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -74129,9 +74529,9 @@
     },
     "a0153cbebcc5cf46": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
-      "posts": 560,
-      "uniquePosts": 252,
-      "newCandidates": 241,
+      "posts": 575,
+      "uniquePosts": 267,
+      "newCandidates": 253,
       "validationAttempts": 237,
       "accepted": 109
     }
