@@ -72963,7 +72963,7 @@
     "mars-tw/open-seo-advisor-skill": {
       "full": "mars-tw/open-seo-advisor-skill",
       "firstSeenAt": "2026-10-24T06:30:11.364Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -72990,7 +72990,96 @@
           "repository": "mars-tw/open-seo-advisor-skill"
         }
       ],
-      "lastSeenAt": "2026-10-24T06:30:11.364Z"
+      "lastSeenAt": "2026-10-24T06:30:11.364Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "mars-tw/open-seo-advisor-skill",
+        "postUrl": "https://x.com/i/web/status/2104755812207862208",
+        "url": "https://www.facebook.com/fang.shi.xuan.696541/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "mars-tw/open-seo-advisor-skill",
+        "name": "open-seo-advisor-skill",
+        "description": "開源、可攜、不綁定單一廠商的全域 SEO 顧問技能 - 蒸餾 SEO 權威方法論，協助任何產業做 SEO 健檢、修復、內容產出",
+        "category": "Other",
+        "language": "Python",
+        "stars": 351,
+        "forks": 36,
+        "created": "2026-07-01T09:14:06Z",
+        "updated": "2026-09-23T03:07:06Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://www.facebook.com/fang.shi.xuan.696541/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-24T06:32:06.278Z",
+        "lastAvailableAt": "2026-10-24T06:32:06.278Z",
+        "lastAttemptAt": "2026-10-24T06:32:06.278Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "mars-tw/open-seo-advisor-skill",
+          "postUrl": "https://x.com/i/web/status/2104755812207862208",
+          "url": "https://www.facebook.com/fang.shi.xuan.696541/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104755812207862208",
+            "postId": "2104755812207862208",
+            "postedAt": "2026-09-29T02:11:04.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://www.facebook.com/fang.shi.xuan.696541/",
+          "attemptedAt": "2026-10-24T06:32:09.984Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-24T06:32:09.984Z",
+          "lastWorkingAt": "2026-10-24T06:32:09.984Z",
+          "target": "https://www.facebook.com/fang.shi.xuan.696541/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-31T06:32:09.984Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/ee7c6649322d5073f482eb07.jpg",
+            "kind": "demo",
+            "url": "https://www.facebook.com/fang.shi.xuan.696541/",
+            "capturedAt": "2026-10-24T06:32:09.984Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-24T06:32:09.984Z",
+        "previewCheck": {
+          "url": "https://www.facebook.com/fang.shi.xuan.696541/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-24T06:32:09.984Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-31T06:32:09.984Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T18:32:09.985Z",
+      "checkedAt": "2026-10-24T06:32:09.985Z",
+      "firstAcceptedAt": "2026-10-24T06:32:09.985Z"
     },
     "edungee/portfolio-editor": {
       "full": "edungee/portfolio-editor",
@@ -73091,7 +73180,7 @@
     "0xkinno/unitseal": {
       "full": "0xkinno/unitseal",
       "firstSeenAt": "2026-10-24T06:30:11.364Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -73118,7 +73207,96 @@
           "repository": "0xkinno/unitseal"
         }
       ],
-      "lastSeenAt": "2026-10-24T06:30:11.364Z"
+      "lastSeenAt": "2026-10-24T06:30:11.364Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "0xkinno/unitseal",
+        "postUrl": "https://x.com/i/web/status/2104722980349562961",
+        "url": "https://unitseal-app.vercel.app/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "0xkinno/unitseal",
+        "name": "unitseal",
+        "description": "State-Bound Execution for Robinhood Chain Stock Tokens",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-28T19:56:40Z",
+        "updated": "2026-09-29T00:11:30Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://unitseal-app.vercel.app/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-24T06:32:02.376Z",
+        "lastAvailableAt": "2026-10-24T06:32:02.376Z",
+        "lastAttemptAt": "2026-10-24T06:32:02.376Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "0xkinno/unitseal",
+          "postUrl": "https://x.com/i/web/status/2104722980349562961",
+          "url": "https://unitseal-app.vercel.app/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104722980349562961",
+            "postId": "2104722980349562961",
+            "postedAt": "2026-09-29T00:00:37.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://unitseal-app.vercel.app/",
+          "attemptedAt": "2026-10-24T06:32:05.769Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-24T06:32:05.769Z",
+          "lastWorkingAt": "2026-10-24T06:32:05.769Z",
+          "target": "https://unitseal-app.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-31T06:32:05.769Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/b566a338c0e5ed557071fc14.jpg",
+            "kind": "demo",
+            "url": "https://unitseal-app.vercel.app/",
+            "capturedAt": "2026-10-24T06:32:05.769Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-24T06:32:05.769Z",
+        "previewCheck": {
+          "url": "https://unitseal-app.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-24T06:32:05.769Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-31T06:32:05.770Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T18:32:05.771Z",
+      "checkedAt": "2026-10-24T06:32:05.771Z",
+      "firstAcceptedAt": "2026-10-24T06:32:05.771Z"
     },
     "shabaraba/vibing.nvim": {
       "full": "shabaraba/vibing.nvim",
@@ -73147,7 +73325,7 @@
     "vishal8shah/services-australia-demo": {
       "full": "vishal8shah/Services-Australia-demo",
       "firstSeenAt": "2026-10-24T06:30:11.364Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -73186,12 +73364,97 @@
           "repository": "vishal8shah/Services-Australia-demo"
         }
       ],
-      "lastSeenAt": "2026-10-24T06:30:11.364Z"
+      "lastSeenAt": "2026-10-24T06:30:11.364Z",
+      "entry": {
+        "availability": "available",
+        "full": "vishal8shah/Services-Australia-demo",
+        "name": "Services-Australia-demo",
+        "description": "Say what's happening in your own language and see which Australian government payments apply, with the official page behind every line. Unofficial prototype built with Claude.",
+        "category": "AI & machine learning",
+        "language": "Python",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-18T12:22:37Z",
+        "updated": "2026-09-27T14:19:58Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://vishal8shah.github.io/payment-finder/",
+        "topics": [
+          "accessibility",
+          "anthropic",
+          "australia",
+          "claude",
+          "govtech",
+          "multilingual",
+          "rag"
+        ],
+        "demo": "https://vishal8shah.github.io/payment-finder/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-24T06:32:10.660Z",
+        "lastAvailableAt": "2026-10-24T06:32:10.660Z",
+        "lastAttemptAt": "2026-10-24T06:32:10.660Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104542201376297152",
+            "postId": "2104542201376297152",
+            "postedAt": "2026-09-28T12:02:15.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://vishal8shah.github.io/payment-finder/",
+          "attemptedAt": "2026-10-24T06:32:13.914Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-24T06:32:13.914Z",
+          "lastWorkingAt": "2026-10-24T06:32:13.914Z",
+          "target": "https://vishal8shah.github.io/payment-finder/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-31T06:32:13.914Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/44eecf8571a582907a70303e.jpg",
+            "kind": "demo",
+            "url": "https://vishal8shah.github.io/payment-finder/",
+            "capturedAt": "2026-10-24T06:32:13.914Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-24T06:32:13.914Z",
+        "previewCheck": {
+          "url": "https://vishal8shah.github.io/payment-finder/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-24T06:32:13.914Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-31T06:32:13.914Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T18:32:13.915Z",
+      "checkedAt": "2026-10-24T06:32:13.915Z",
+      "firstAcceptedAt": "2026-10-24T06:32:13.915Z"
     },
     "glaforge/devoxx-ai-schedule": {
       "full": "glaforge/devoxx-ai-schedule",
       "firstSeenAt": "2026-10-24T06:30:11.364Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -73230,12 +73493,101 @@
           "repository": "glaforge/devoxx-ai-schedule"
         }
       ],
-      "lastSeenAt": "2026-10-24T06:30:11.364Z"
+      "lastSeenAt": "2026-10-24T06:30:11.364Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "glaforge/devoxx-ai-schedule",
+        "postUrl": "https://x.com/i/web/status/2104539020109689002",
+        "url": "https://glaforge.dev/posts/2026/09/28/crafting-a-devoxx-schedule-with-gemini-langchain4j-and-micronaut/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "glaforge/devoxx-ai-schedule",
+        "name": "devoxx-ai-schedule",
+        "description": "AI-powered personalized conference schedule curator for Devoxx Belgium built with Micronaut, Java 25, LangChain4j, and Google Gemini",
+        "category": "AI & machine learning",
+        "language": "Java",
+        "stars": 0,
+        "forks": 1,
+        "created": "2026-09-16T12:09:46Z",
+        "updated": "2026-10-07T08:21:52Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://glaforge.dev/posts/2026/09/28/crafting-a-devoxx-schedule-with-gemini-langchain4j-and-micronaut/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-24T06:31:25.127Z",
+        "lastAvailableAt": "2026-10-24T06:31:25.127Z",
+        "lastAttemptAt": "2026-10-24T06:31:25.127Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "glaforge/devoxx-ai-schedule",
+          "postUrl": "https://x.com/i/web/status/2104539020109689002",
+          "url": "https://glaforge.dev/posts/2026/09/28/crafting-a-devoxx-schedule-with-gemini-langchain4j-and-micronaut/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104539020109689002",
+            "postId": "2104539020109689002",
+            "postedAt": "2026-09-28T11:49:37.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://glaforge.dev/posts/2026/09/28/crafting-a-devoxx-schedule-with-gemini-langchain4j-and-micronaut/",
+          "attemptedAt": "2026-10-24T06:31:28.650Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-24T06:31:28.650Z",
+          "lastWorkingAt": "2026-10-24T06:31:28.650Z",
+          "target": "https://glaforge.dev/posts/2026/09/28/crafting-a-devoxx-schedule-with-gemini-langchain4j-and-micronaut/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-31T06:31:28.650Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/66545c84457a631fe7e06d5a.jpg",
+            "kind": "demo",
+            "url": "https://glaforge.dev/posts/2026/09/28/crafting-a-devoxx-schedule-with-gemini-langchain4j-and-micronaut/",
+            "capturedAt": "2026-10-24T06:31:28.650Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-24T06:31:28.650Z",
+        "previewCheck": {
+          "url": "https://glaforge.dev/posts/2026/09/28/crafting-a-devoxx-schedule-with-gemini-langchain4j-and-micronaut/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-24T06:31:28.650Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-31T06:31:28.651Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T18:31:28.651Z",
+      "checkedAt": "2026-10-24T06:31:28.651Z",
+      "firstAcceptedAt": "2026-10-24T06:31:28.651Z"
     },
     "coding-meet/shader-animation-cmp": {
       "full": "Coding-Meet/Shader-Animation-CMP",
       "firstSeenAt": "2026-10-24T06:30:11.364Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -73274,7 +73626,153 @@
           "repository": "Coding-Meet/Shader-Animation-CMP"
         }
       ],
-      "lastSeenAt": "2026-10-24T06:30:11.364Z"
+      "lastSeenAt": "2026-10-24T06:30:11.364Z",
+      "entry": {
+        "availability": "available",
+        "full": "Coding-Meet/Shader-Animation-CMP",
+        "name": "Shader-Animation-CMP",
+        "description": "How to Implement Shaders in Compose Multiplatform (Android, iOS, Desktop & Web)",
+        "category": "Design",
+        "language": "Kotlin",
+        "stars": 61,
+        "forks": 0,
+        "created": "2026-04-07T12:07:51Z",
+        "updated": "2026-05-15T05:40:59Z",
+        "branch": "main",
+        "homepage": "https://coding-meet.github.io/Shader-Animation-CMP/",
+        "topics": [
+          "agsl",
+          "android",
+          "compose-desktop",
+          "compose-multiplatform",
+          "ios",
+          "jetpack-compose",
+          "jvm",
+          "kmp",
+          "kotlin",
+          "kotlin-multiplatform",
+          "multiplatform",
+          "shaders",
+          "skia",
+          "sksl",
+          "wasm",
+          "wasm-example",
+          "wasm-js"
+        ],
+        "demo": "https://coding-meet.github.io/Shader-Animation-CMP/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-24T06:32:14.642Z",
+        "lastAvailableAt": "2026-10-24T06:32:14.642Z",
+        "lastAttemptAt": "2026-10-24T06:32:14.642Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104533894045503791",
+            "postId": "2104533894045503791",
+            "postedAt": "2026-09-28T11:29:15.000Z"
+          }
+        ],
+        "subjects": [
+          "Animation & motion",
+          "Android",
+          "Apple",
+          "Mobile",
+          "3D & graphics"
+        ],
+        "platforms": [
+          "Android",
+          "iOS & iPadOS"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "Animation & motion",
+            "Android",
+            "Apple",
+            "Mobile",
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "Animation & motion",
+              "source": "metadata",
+              "match": "Animation"
+            },
+            {
+              "subject": "Android",
+              "source": "metadata",
+              "match": "Android"
+            },
+            {
+              "subject": "Apple",
+              "source": "metadata",
+              "match": "iOS"
+            },
+            {
+              "subject": "Mobile",
+              "source": "metadata",
+              "match": "Android"
+            },
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "Shader"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "Android",
+              "source": "metadata",
+              "match": "Android"
+            },
+            {
+              "platform": "iOS & iPadOS",
+              "source": "metadata",
+              "match": "iOS"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://coding-meet.github.io/Shader-Animation-CMP/",
+          "attemptedAt": "2026-10-24T06:32:17.645Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-24T06:32:17.645Z",
+          "lastWorkingAt": "2026-10-24T06:32:17.645Z",
+          "target": "https://coding-meet.github.io/Shader-Animation-CMP/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-31T06:32:17.645Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/769166d5b2bdfec71f1f6cfc.jpg",
+            "kind": "demo",
+            "url": "https://coding-meet.github.io/Shader-Animation-CMP/",
+            "capturedAt": "2026-10-24T06:32:17.645Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-24T06:32:17.645Z",
+        "previewCheck": {
+          "url": "https://coding-meet.github.io/Shader-Animation-CMP/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-24T06:32:17.645Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-31T06:32:17.645Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T18:32:17.646Z",
+      "checkedAt": "2026-10-24T06:32:17.646Z",
+      "firstAcceptedAt": "2026-10-24T06:32:17.646Z"
     },
     "pilotwaffle/torq-pamba": {
       "full": "pilotwaffle/Torq-Pamba",
@@ -73327,7 +73825,7 @@
     "kaist-visual-ai-group/cdm": {
       "full": "KAIST-Visual-AI-Group/CDM",
       "firstSeenAt": "2026-10-24T06:30:20.854Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -73354,7 +73852,98 @@
           "repository": "KAIST-Visual-AI-Group/CDM"
         }
       ],
-      "lastSeenAt": "2026-10-24T06:30:20.854Z"
+      "lastSeenAt": "2026-10-24T06:30:20.854Z",
+      "entry": {
+        "availability": "available",
+        "full": "KAIST-Visual-AI-Group/CDM",
+        "name": "CDM",
+        "description": "[NeurIPS 2026] Official implementation of Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion",
+        "category": "AI & machine learning",
+        "language": "Python",
+        "stars": 15,
+        "forks": 1,
+        "created": "2026-05-22T00:59:44Z",
+        "updated": "2026-10-01T14:58:40Z",
+        "license": null,
+        "branch": "main",
+        "homepage": "https://cdm-smc.github.io/",
+        "topics": [
+          "diffusion-models",
+          "generative-ai",
+          "inference"
+        ],
+        "demo": "https://cdm-smc.github.io/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-24T06:31:09.007Z",
+        "lastAvailableAt": "2026-10-24T06:31:09.007Z",
+        "lastAttemptAt": "2026-10-24T06:31:09.007Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2093044703826743314",
+            "postId": "2093044703826743314",
+            "postedAt": "2026-08-27T18:35:18.000Z"
+          }
+        ],
+        "subjects": [
+          "Image, audio & video AI"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [
+            "Image, audio & video AI"
+          ],
+          "evidence": [
+            {
+              "subject": "Image, audio & video AI",
+              "source": "metadata",
+              "match": "diffusion models"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://cdm-smc.github.io/",
+          "attemptedAt": "2026-10-24T06:31:16.034Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-24T06:31:16.034Z",
+          "lastWorkingAt": "2026-10-24T06:31:16.034Z",
+          "target": "https://cdm-smc.github.io/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-31T06:31:16.034Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/18867220ccc8267632efacfe.jpg",
+            "kind": "demo",
+            "url": "https://cdm-smc.github.io/",
+            "capturedAt": "2026-10-24T06:31:16.034Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-24T06:31:16.034Z",
+        "previewCheck": {
+          "url": "https://cdm-smc.github.io/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-24T06:31:16.034Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-31T06:31:16.036Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T18:31:16.128Z",
+      "checkedAt": "2026-10-24T06:31:16.128Z",
+      "firstAcceptedAt": "2026-10-24T06:31:16.128Z"
     },
     "transkatgirl/universal-weave-demo": {
       "full": "transkatgirl/universal-weave-demo",
@@ -73383,7 +73972,7 @@
     "linxuhao/aitelier": {
       "full": "linxuhao/AItelier",
       "firstSeenAt": "2026-10-24T06:30:20.854Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -73400,12 +73989,14 @@
         "replies": 16,
         "quotes": 1
       },
-      "lastSeenAt": "2026-10-24T06:30:20.854Z"
+      "lastSeenAt": "2026-10-24T06:30:20.854Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-31T06:32:18.221Z"
     },
     "linxuhao/jinyong-heroes": {
       "full": "linxuhao/jinyong-heroes",
       "firstSeenAt": "2026-10-24T06:30:20.854Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -73422,7 +74013,9 @@
         "replies": 16,
         "quotes": 1
       },
-      "lastSeenAt": "2026-10-24T06:30:20.854Z"
+      "lastSeenAt": "2026-10-24T06:30:20.854Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-31T06:32:18.811Z"
     },
     "lyrixx/async-messenger-mercure": {
       "full": "lyrixx/async-messenger-mercure",
@@ -73451,7 +74044,7 @@
     "yutori-ai/yutori-mcp": {
       "full": "yutori-ai/yutori-mcp",
       "firstSeenAt": "2026-10-24T06:30:20.854Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -73496,12 +74089,123 @@
           "repository": "yutori-ai/yutori-mcp"
         }
       ],
-      "lastSeenAt": "2026-10-24T06:30:20.854Z"
+      "lastSeenAt": "2026-10-24T06:30:20.854Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "yutori-ai/yutori-mcp",
+        "postUrl": "https://x.com/i/web/status/2092647749460353251",
+        "url": "https://yutori.com/n2"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "yutori-ai/yutori-mcp",
+        "name": "yutori-mcp",
+        "description": "Yutori MCP",
+        "category": "AI & machine learning",
+        "language": "Python",
+        "stars": 25,
+        "forks": 6,
+        "created": "2026-01-04T04:34:01Z",
+        "updated": "2026-10-03T04:09:15Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": "https://yutori.com/api",
+        "topics": [
+          "agentic-ai",
+          "agentic-workflow",
+          "ai-agents",
+          "browser-automation"
+        ],
+        "demo": "https://yutori.com/n2",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-24T06:31:33.521Z",
+        "lastAvailableAt": "2026-10-24T06:31:33.521Z",
+        "lastAttemptAt": "2026-10-24T06:31:33.521Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "yutori-ai/yutori-mcp",
+          "postUrl": "https://x.com/i/web/status/2092647749460353251",
+          "url": "https://yutori.com/n2"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2092647749460353251",
+            "postId": "2092647749460353251",
+            "postedAt": "2026-08-26T16:17:57.000Z"
+          }
+        ],
+        "subjects": [
+          "Automation & workflows",
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [
+            "Automation & workflows",
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "Automation & workflows",
+              "source": "metadata",
+              "match": "workflow"
+            },
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "mcp"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://yutori.com/n2",
+          "attemptedAt": "2026-10-24T06:31:37.280Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-24T06:31:37.280Z",
+          "lastWorkingAt": "2026-10-24T06:31:37.280Z",
+          "target": "https://yutori.com/n2",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-31T06:31:37.280Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/b35355b7ad47436244cd1b34.jpg",
+            "kind": "demo",
+            "url": "https://yutori.com/n2",
+            "capturedAt": "2026-10-24T06:31:37.280Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-24T06:31:37.280Z",
+        "previewCheck": {
+          "url": "https://yutori.com/n2",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-24T06:31:37.280Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-31T06:31:37.281Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T18:31:37.281Z",
+      "checkedAt": "2026-10-24T06:31:37.281Z",
+      "firstAcceptedAt": "2026-10-24T06:31:37.281Z"
     },
     "jasonbudd/xtrade": {
       "full": "JasonBudd/xtrade",
       "firstSeenAt": "2026-10-24T06:30:20.854Z",
-      "status": "queued",
+      "status": "rejected",
       "sources": [
         {
           "kind": "x",
@@ -73528,12 +74232,14 @@
           "repository": "JasonBudd/xtrade"
         }
       ],
-      "lastSeenAt": "2026-10-24T06:30:20.854Z"
+      "lastSeenAt": "2026-10-24T06:30:20.854Z",
+      "reason": "repository_unavailable",
+      "nextAttemptAt": "2026-10-24T12:31:24.467Z"
     },
     "dongyh20/demo-icl": {
       "full": "dongyh20/Demo-ICL",
       "firstSeenAt": "2026-10-24T06:30:20.854Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -73560,12 +74266,88 @@
           "repository": "dongyh20/Demo-ICL"
         }
       ],
-      "lastSeenAt": "2026-10-24T06:30:20.854Z"
+      "lastSeenAt": "2026-10-24T06:30:20.854Z",
+      "entry": {
+        "availability": "available",
+        "full": "dongyh20/Demo-ICL",
+        "name": "Demo-ICL",
+        "description": "Demo-ICL: In-Context Learning for Procedural Video Knowledge Acquisition",
+        "category": "Education",
+        "language": "Python",
+        "stars": 47,
+        "forks": 0,
+        "created": "2026-02-08T12:14:15Z",
+        "updated": "2026-03-03T06:50:29Z",
+        "branch": "master",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://arxiv.org/abs/2602.08439",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-24T06:31:16.777Z",
+        "lastAvailableAt": "2026-10-24T06:31:16.777Z",
+        "lastAttemptAt": "2026-10-24T06:31:16.777Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2092613044878835992",
+            "postId": "2092613044878835992",
+            "postedAt": "2026-08-26T14:00:03.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Education",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://arxiv.org/abs/2602.08439",
+          "attemptedAt": "2026-10-24T06:31:20.124Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-24T06:31:20.124Z",
+          "lastWorkingAt": "2026-10-24T06:31:20.124Z",
+          "target": "https://arxiv.org/abs/2602.08439",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-31T06:31:20.124Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/3b1b45f0ba005bc781bf9e78.jpg",
+            "kind": "demo",
+            "url": "https://arxiv.org/abs/2602.08439",
+            "capturedAt": "2026-10-24T06:31:20.124Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-24T06:31:20.124Z",
+        "previewCheck": {
+          "url": "https://arxiv.org/abs/2602.08439",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-24T06:31:20.124Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-31T06:31:20.125Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T18:31:20.126Z",
+      "checkedAt": "2026-10-24T06:31:20.126Z",
+      "firstAcceptedAt": "2026-10-24T06:31:20.126Z"
     },
     "aloisdeniel/flutter_device_preview": {
       "full": "aloisdeniel/flutter_device_preview",
       "firstSeenAt": "2026-10-24T06:30:20.854Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -73598,12 +74380,104 @@
           "repository": "aloisdeniel/flutter_device_preview"
         }
       ],
-      "lastSeenAt": "2026-10-24T06:30:20.854Z"
+      "lastSeenAt": "2026-10-24T06:30:20.854Z",
+      "entry": {
+        "availability": "available",
+        "full": "aloisdeniel/flutter_device_preview",
+        "name": "flutter_device_preview",
+        "description": "Approximate how your app looks and performs on another device.",
+        "category": "Developer tools",
+        "language": "JavaScript",
+        "stars": 2407,
+        "forks": 395,
+        "created": "2019-05-27T05:51:42Z",
+        "updated": "2026-08-25T13:48:47Z",
+        "license": "MIT",
+        "branch": "master",
+        "homepage": "https://aloisdeniel.github.io/flutter_device_preview/",
+        "topics": [
+          "device",
+          "flutter",
+          "preview",
+          "tool"
+        ],
+        "demo": "https://aloisdeniel.github.io/flutter_device_preview/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-24T06:31:58.503Z",
+        "lastAvailableAt": "2026-10-24T06:31:58.503Z",
+        "lastAttemptAt": "2026-10-24T06:31:58.503Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2092585221019304264",
+            "postId": "2092585221019304264",
+            "postedAt": "2026-08-26T12:09:29.000Z"
+          }
+        ],
+        "subjects": [
+          "Mobile"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Mobile"
+          ],
+          "evidence": [
+            {
+              "subject": "Mobile",
+              "source": "metadata",
+              "match": "flutter"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://aloisdeniel.github.io/flutter_device_preview/",
+          "attemptedAt": "2026-10-24T06:32:01.683Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-24T06:32:01.683Z",
+          "lastWorkingAt": "2026-10-24T06:32:01.683Z",
+          "target": "https://aloisdeniel.github.io/flutter_device_preview/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-31T06:32:01.683Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/3a0c885fc8a7b810ad7f4ab3.jpg",
+            "kind": "demo",
+            "url": "https://aloisdeniel.github.io/flutter_device_preview/",
+            "capturedAt": "2026-10-24T06:32:01.683Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-24T06:32:01.683Z",
+        "previewCheck": {
+          "url": "https://aloisdeniel.github.io/flutter_device_preview/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-24T06:32:01.683Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-31T06:32:01.683Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T18:32:01.684Z",
+      "checkedAt": "2026-10-24T06:32:01.684Z",
+      "firstAcceptedAt": "2026-10-24T06:32:01.684Z"
     },
     "manavarya09/design-extract": {
       "full": "Manavarya09/design-extract",
       "firstSeenAt": "2026-10-24T06:30:20.854Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -73622,12 +74496,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-24T06:30:20.854Z"
+      "lastSeenAt": "2026-10-24T06:30:20.854Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-31T06:32:23.038Z"
     },
     "apodexai/frontieragent": {
       "full": "ApodexAI/FrontierAgent",
       "firstSeenAt": "2026-10-24T06:30:20.854Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -73660,12 +74536,135 @@
           "repository": "ApodexAI/FrontierAgent"
         }
       ],
-      "lastSeenAt": "2026-10-24T06:30:20.854Z"
+      "lastSeenAt": "2026-10-24T06:30:20.854Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "ApodexAI/FrontierAgent",
+        "postUrl": "https://x.com/i/web/status/2092514007051899160",
+        "url": "https://huggingface.co/collections/apodex/apodex-11"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "ApodexAI/FrontierAgent",
+        "name": "FrontierAgent",
+        "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+        "category": "Developer tools",
+        "language": "Python",
+        "stars": 5318,
+        "forks": 318,
+        "created": "2026-08-22T05:07:35Z",
+        "updated": "2026-10-24T04:27:56Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": "https://www.apodex.ai",
+        "topics": [
+          "agent-orchestration",
+          "agentic-ai",
+          "agentic-framework",
+          "ai-agents",
+          "harness",
+          "multi-agent",
+          "terminal-agent",
+          "tui"
+        ],
+        "demo": "https://huggingface.co/collections/apodex/apodex-11",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-24T06:31:20.737Z",
+        "lastAvailableAt": "2026-10-24T06:31:20.737Z",
+        "lastAttemptAt": "2026-10-24T06:31:20.737Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "ApodexAI/FrontierAgent",
+          "postUrl": "https://x.com/i/web/status/2092514007051899160",
+          "url": "https://huggingface.co/collections/apodex/apodex-11"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2092514007051899160",
+            "postId": "2092514007051899160",
+            "postedAt": "2026-08-26T07:26:30.000Z"
+          }
+        ],
+        "subjects": [
+          "Apple",
+          "MCP servers & agents"
+        ],
+        "platforms": [
+          "macOS"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Apple",
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "Apple",
+              "source": "metadata",
+              "match": "macOS"
+            },
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "agent"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "macOS",
+              "source": "metadata",
+              "match": "macOS"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://huggingface.co/collections/apodex/apodex-11",
+          "attemptedAt": "2026-10-24T06:31:24.103Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-24T06:31:24.103Z",
+          "lastWorkingAt": "2026-10-24T06:31:24.103Z",
+          "target": "https://huggingface.co/collections/apodex/apodex-11",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-31T06:31:24.103Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/b3a211b35aea349438b61dbf.jpg",
+            "kind": "demo",
+            "url": "https://huggingface.co/collections/apodex/apodex-11",
+            "capturedAt": "2026-10-24T06:31:24.103Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-24T06:31:24.103Z",
+        "previewCheck": {
+          "url": "https://huggingface.co/collections/apodex/apodex-11",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-24T06:31:24.103Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-31T06:31:24.104Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T18:31:24.105Z",
+      "checkedAt": "2026-10-24T06:31:24.105Z",
+      "firstAcceptedAt": "2026-10-24T06:31:24.105Z"
     },
     "must-be-ash/masterkey": {
       "full": "Must-be-Ash/masterkey",
       "firstSeenAt": "2026-10-24T06:30:20.854Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -73692,12 +74691,101 @@
           "repository": "Must-be-Ash/masterkey"
         }
       ],
-      "lastSeenAt": "2026-10-24T06:30:20.854Z"
+      "lastSeenAt": "2026-10-24T06:30:20.854Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "Must-be-Ash/masterkey",
+        "postUrl": "https://x.com/i/web/status/2092372554640224657",
+        "url": "https://www.masterkey.sh/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "Must-be-Ash/masterkey",
+        "name": "masterkey",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 21,
+        "forks": 5,
+        "created": "2026-06-02T02:45:05Z",
+        "updated": "2026-08-25T21:51:04Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://masterkey.sh",
+        "topics": [],
+        "demo": "https://www.masterkey.sh/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-24T06:31:29.308Z",
+        "lastAvailableAt": "2026-10-24T06:31:29.308Z",
+        "lastAttemptAt": "2026-10-24T06:31:29.308Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "Must-be-Ash/masterkey",
+          "postUrl": "https://x.com/i/web/status/2092372554640224657",
+          "url": "https://www.masterkey.sh/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2092372554640224657",
+            "postId": "2092372554640224657",
+            "postedAt": "2026-08-25T22:04:26.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://www.masterkey.sh/",
+          "attemptedAt": "2026-10-24T06:31:32.887Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-24T06:31:32.887Z",
+          "lastWorkingAt": "2026-10-24T06:31:32.887Z",
+          "target": "https://www.masterkey.sh/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-31T06:31:32.887Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/ad7583a7b45e59c7fd8ef1f1.jpg",
+            "kind": "demo",
+            "url": "https://www.masterkey.sh/",
+            "capturedAt": "2026-10-24T06:31:32.887Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-24T06:31:32.887Z",
+        "previewCheck": {
+          "url": "https://www.masterkey.sh/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-24T06:31:32.887Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-31T06:31:32.888Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T18:31:32.888Z",
+      "checkedAt": "2026-10-24T06:31:32.888Z",
+      "firstAcceptedAt": "2026-10-24T06:31:32.888Z"
     },
     "builderz-labs/mission-control": {
       "full": "builderz-labs/mission-control",
       "firstSeenAt": "2026-10-24T06:30:20.854Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -73714,12 +74802,14 @@
         "replies": 13,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-24T06:30:20.854Z"
+      "lastSeenAt": "2026-10-24T06:30:20.854Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-31T06:32:23.617Z"
     },
     "0xnyk/awesome-hermes-agent": {
       "full": "0xNyk/awesome-hermes-agent",
       "firstSeenAt": "2026-10-24T06:30:20.854Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -73736,12 +74826,14 @@
         "replies": 13,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-24T06:30:20.854Z"
+      "lastSeenAt": "2026-10-24T06:30:20.854Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-31T06:32:24.089Z"
     },
     "0xnyk/council-of-high-intelligence": {
       "full": "0xNyk/council-of-high-intelligence",
       "firstSeenAt": "2026-10-24T06:30:20.854Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -73758,7 +74850,9 @@
         "replies": 13,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-24T06:30:20.854Z"
+      "lastSeenAt": "2026-10-24T06:30:20.854Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-10-31T06:32:24.689Z"
     },
     "xai-org/grok-build": {
       "full": "xai-org/grok-build",
@@ -73917,7 +75011,7 @@
     "kyutai-labs/pocket-tts": {
       "full": "kyutai-labs/pocket-tts",
       "firstSeenAt": "2026-10-24T06:30:20.854Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -73936,12 +75030,89 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-24T06:30:20.854Z"
+      "lastSeenAt": "2026-10-24T06:30:20.854Z",
+      "entry": {
+        "availability": "available",
+        "full": "kyutai-labs/pocket-tts",
+        "name": "pocket-tts",
+        "description": "A TTS that fits in your CPU (and pocket)",
+        "category": "Other",
+        "language": "Python",
+        "stars": 10037,
+        "forks": 1069,
+        "created": "2026-01-07T17:33:32Z",
+        "updated": "2026-10-22T18:24:31Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://kyutai.org/pocket-tts",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-24T06:32:19.302Z",
+        "lastAvailableAt": "2026-10-24T06:32:19.302Z",
+        "lastAttemptAt": "2026-10-24T06:32:19.302Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2092266105989673235",
+            "postId": "2092266105989673235",
+            "postedAt": "2026-08-25T15:01:26.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://kyutai.org/pocket-tts",
+          "attemptedAt": "2026-10-24T06:32:22.581Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-24T06:32:22.581Z",
+          "lastWorkingAt": "2026-10-24T06:32:22.581Z",
+          "target": "https://kyutai.org/blog/2026-01-13-pocket-tts/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-31T06:32:22.581Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/93939a5c00b29022b4c8f264.jpg",
+            "kind": "demo",
+            "url": "https://kyutai.org/pocket-tts",
+            "capturedAt": "2026-10-24T06:32:22.581Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-24T06:32:22.581Z",
+        "previewCheck": {
+          "url": "https://kyutai.org/pocket-tts",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-24T06:32:22.581Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-10-31T06:32:22.581Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-25T18:32:22.582Z",
+      "checkedAt": "2026-10-24T06:32:22.582Z",
+      "firstAcceptedAt": "2026-10-24T06:32:22.582Z"
     },
     "miaai-lab/ox-alpha-beutiful-html": {
       "full": "MiaAI-Lab/Ox-Alpha-Beutiful-HTML",
       "firstSeenAt": "2026-10-24T06:30:20.854Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -73968,7 +75139,96 @@
           "repository": "MiaAI-Lab/Ox-Alpha-Beutiful-HTML"
         }
       ],
-      "lastSeenAt": "2026-10-24T06:30:20.854Z"
+      "lastSeenAt": "2026-10-24T06:30:20.854Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "MiaAI-Lab/Ox-Alpha-Beutiful-HTML",
+        "postUrl": "https://x.com/i/web/status/2092200589748801755",
+        "url": "https://miaai-lab.github.io/Ox-Alpha-Beutiful-HTML/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "MiaAI-Lab/Ox-Alpha-Beutiful-HTML",
+        "name": "Ox-Alpha-Beutiful-HTML",
+        "description": "Beautiful single-file WebGL HTML generated by Ox Alpha",
+        "category": "Design",
+        "language": "HTML",
+        "stars": 3,
+        "forks": 0,
+        "created": "2026-08-25T10:25:03Z",
+        "updated": "2026-08-25T10:26:23Z",
+        "branch": "main",
+        "homepage": "https://mia-ai.net",
+        "topics": [],
+        "demo": "https://miaai-lab.github.io/Ox-Alpha-Beutiful-HTML/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-24T06:31:37.885Z",
+        "lastAvailableAt": "2026-10-24T06:31:37.885Z",
+        "lastAttemptAt": "2026-10-24T06:31:37.885Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "MiaAI-Lab/Ox-Alpha-Beutiful-HTML",
+          "postUrl": "https://x.com/i/web/status/2092200589748801755",
+          "url": "https://miaai-lab.github.io/Ox-Alpha-Beutiful-HTML/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2092200589748801755",
+            "postId": "2092200589748801755",
+            "postedAt": "2026-08-25T10:41:06.000Z"
+          }
+        ],
+        "subjects": [
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "WebGL"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://miaai-lab.github.io/Ox-Alpha-Beutiful-HTML/",
+          "attemptedAt": "2026-10-24T06:31:57.807Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-24T06:31:57.807Z",
+          "lastWorkingAt": "2026-10-24T06:31:57.807Z",
+          "target": "https://miaai-lab.github.io/Ox-Alpha-Beutiful-HTML/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-31T06:31:57.807Z"
+        },
+        "previewAttemptAt": "2026-10-24T06:31:57.807Z",
+        "previewCheck": {
+          "url": "https://miaai-lab.github.io/Ox-Alpha-Beutiful-HTML/",
+          "status": "retry",
+          "reason": "screenshot_error",
+          "attemptedAt": "2026-10-24T06:31:57.807Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-31T06:31:57.807Z"
+        }
+      },
+      "reason": "screenshot_error",
+      "nextAttemptAt": "2026-10-31T06:31:57.807Z",
+      "checkedAt": "2026-10-24T06:31:57.807Z"
     }
   },
   "lastRun": {
@@ -75178,8 +76438,8 @@
       "posts": 266,
       "uniquePosts": 263,
       "newCandidates": 306,
-      "validationAttempts": 291,
-      "accepted": 112
+      "validationAttempts": 306,
+      "accepted": 119
     },
     "ac3eb65e96558e14": {
       "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
@@ -75202,8 +76462,8 @@
       "posts": 575,
       "uniquePosts": 267,
       "newCandidates": 253,
-      "validationAttempts": 237,
-      "accepted": 109
+      "validationAttempts": 242,
+      "accepted": 114
     }
   },
   "demoSeeds": {
