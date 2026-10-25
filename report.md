@@ -1,45 +1,35 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-24T11:01:15.679Z
+Checked: 2026-10-25T11:30:18.785Z
 
-Quality-ready repositories: **44**
+Quality-ready repositories: **46**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 555 | 317 | 197 | 63 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 266 | 263 | 306 | 122 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 281 | 278 | 322 | 126 |
 | (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 20 |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 251 | 31 | 24 | 8 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 575 | 267 | 253 | 114 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 609 | 298 | 279 | 123 |
 
 Acceptance totals are attributed to the first discovery query; these are not controlled experiments.
 
 | Repository | Demo | Screenshot | Source post |
 | --- | --- | --- | --- |
-| [ashutosh-rath02/pxr](https://github.com/ashutosh-rath02/pxr) | [Try demo](https://ashutosh-rath02.github.io/pxr/) | [Screenshot](previews/f84724dc5b2a3aff51c5ddd9.jpg) | [Source](https://x.com/i/web/status/2105352756706041932) |
 | [juaniquillo/resume](https://github.com/juaniquillo/resume) | [Try demo](https://resume-manager.laravel.cloud/) | [Screenshot](previews/2766b2f1e4eee1415e904de8.jpg) | [Source](https://x.com/i/web/status/2105010419374977276) |
-| [screenpipe/river-ai-screenpipe-training](https://github.com/screenpipe/river-ai-screenpipe-training) | [Try demo](https://screenpipe.com/enterprise) | [Screenshot](previews/23a3af40f2615f7e9a651c56.jpg) | [Source](https://x.com/i/web/status/2104934652217532507) |
-| [onlyoneAlexia/armorcodex-demo](https://github.com/onlyoneAlexia/armorcodex-demo) | [Try demo](https://drive.google.com/file/d/1hvfsXIjudgef4NQDlBLtSciLIKz0ypre/view?usp=drivesdk) | [Screenshot](previews/c45b32ebf912a5f41b9932ea.jpg) | [Source](https://x.com/i/web/status/2104931796446261463) |
-| [Gm1654/jev-decisionops](https://github.com/Gm1654/jev-decisionops) | [Try demo](https://jev-decisionops.vercel.app/) | [Screenshot](previews/02ebbf05e40f80a56a193199.jpg) | [Source](https://x.com/i/web/status/2104931784626688325) |
-| [tomtom87/Portage](https://github.com/tomtom87/Portage) | [Try demo](https://portage.readthedocs.io/en/latest/) | [Screenshot](previews/1aa8dad2fb4142e4bac701c7.jpg) | [Source](https://x.com/i/web/status/2104873020116643992) |
-| [V-harshith/kiro-university-2026](https://github.com/V-harshith/kiro-university-2026) | [Try demo](https://schema.org/) | [Screenshot](previews/407c2000734e655a3e67a360.jpg) | [Source](https://x.com/i/web/status/2104841584638587318) |
-| [Bharathcoorg/nammakyc](https://github.com/Bharathcoorg/nammakyc) | [Try demo](https://bharathcoorg.github.io/nammakyc/) | [Screenshot](previews/a4b9b8333ca9601c4330137c.jpg) | [Source](https://x.com/i/web/status/2104840667197522150) |
 | [susankarkarmakar-pixel/Susan-AI](https://github.com/susankarkarmakar-pixel/Susan-AI) | [Try demo](https://susan-ai.vercel.app/) | [Screenshot](previews/fbb1708aecd8f0df6fb616ec.jpg) | [Source](https://x.com/i/web/status/2105258523768816090) |
 | [arya7113/empathetic-response-ai](https://github.com/arya7113/empathetic-response-ai) | [Try demo](https://huggingface.co/spaces/arya7113/empathetic-response-ai) | [Screenshot](previews/94caf5bc83c04a6196a43c2f.jpg) | [Source](https://x.com/i/web/status/2105244651158688047) |
 | [abrarbinrofique/Vault-Flow](https://github.com/abrarbinrofique/Vault-Flow) | [Try demo](https://vaultflow-phi.vercel.app/) | [Screenshot](previews/e8b4b6bed534c5e3315ed694.jpg) | [Source](https://x.com/i/web/status/2105227777989644766) |
 | [Fidan03/anchor](https://github.com/Fidan03/anchor) | [Try demo](https://anchor-mu-dun.vercel.app/) | [Screenshot](previews/67d26af1098d5eb85b815d07.jpg) | [Source](https://x.com/i/web/status/2105206013880148296) |
 | [Reverie0123/crush-monitor-universal](https://github.com/Reverie0123/crush-monitor-universal) | [Try demo](https://reverie0123.github.io/crush-monitor-universal/) | [Screenshot](previews/5373cb8b558b6d1d6468d51d.jpg) | [Source](https://x.com/i/web/status/2105196896063205492) |
 | [magicblock-labs/leveraged-prediction](https://github.com/magicblock-labs/leveraged-prediction) | [Try demo](https://leveraged-prediction.vercel.app/) | [Screenshot](previews/ea5f6f69f7990a4ec15ebf7e.jpg) | [Source](https://x.com/i/web/status/2094787635952939169) |
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | [Try demo](https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo) | [Screenshot](previews/c0347e318fc54aed409c1bf1.jpg) | [Source](https://x.com/i/web/status/2094683183644303566) |
 | [bundui/tourcn](https://github.com/bundui/tourcn) | [Try demo](https://tourcn.vercel.app/) | [Screenshot](previews/92299df2a319735c080794de.jpg) | [Source](https://x.com/i/web/status/2094487533887295539) |
 | [vercel-labs/book-inventory](https://github.com/vercel-labs/book-inventory) | [Try demo](https://next-books-search.vercel.app/) | [Screenshot](previews/e4660b3db8878c9313fb35a0.jpg) | [Source](https://x.com/i/web/status/2094435535582289925) |
 | [nextjs/next-books](https://github.com/nextjs/next-books) | [Try demo](https://www.next-books.dev/) | [Screenshot](previews/1581e94dcfece962cf2b953f.jpg) | [Source](https://x.com/i/web/status/2094435535582289925) |
 | [Emmanuellsensai/anonymous-whispers](https://github.com/Emmanuellsensai/anonymous-whispers) | [Try demo](https://anonymous-whispers.vercel.app/) | [Screenshot](previews/37f1516b752fdde669ff65db.jpg) | [Source](https://x.com/i/web/status/2094366855792062756) |
 | [Kevin-Liu-01/Claude-of-Tanks](https://github.com/Kevin-Liu-01/Claude-of-Tanks) | [Try demo](https://cot.kevinliu.studio/) | [Screenshot](previews/3b7f2a2c509b31c9ceb8902f.jpg) | [Source](https://x.com/i/web/status/2094193506080481581) |
-| [mertcookimg/Open_Duck_Mini_Viewer](https://github.com/mertcookimg/Open_Duck_Mini_Viewer) | [Try demo](https://mertcookimg.github.io/Open_Duck_Mini_Viewer/) | [Screenshot](previews/62245a4d1d31fbd4c4b9e707.jpg) | [Source](https://x.com/i/web/status/2093977576452821462) |
-| [PINTO0309/High-Angle_Robust_Fast_FaceAlignment](https://github.com/PINTO0309/High-Angle_Robust_Fast_FaceAlignment) | [Try demo](https://onnxruntime.ai/docs/tutorials/web/) | [Screenshot](previews/82012b2af28e353a23c2a92c.jpg) | [Source](https://x.com/i/web/status/2093720743184048635) |
 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | [Try demo](https://studio.openviking.ai/) | [Screenshot](previews/8a8bbd401ea5e2f755f84c2b.jpg) | [Source](https://x.com/i/web/status/2093298711182950682) |
 | [Admuad/technocore-studio](https://github.com/Admuad/technocore-studio) | [Try demo](https://technocore-studio-ten.vercel.app/) | [Screenshot](previews/560cc8cd7778b3199f15b75f.jpg) | [Source](https://x.com/i/web/status/2093142794634224066) |
 | [Gaurav-meena95/form-filling-agent](https://github.com/Gaurav-meena95/form-filling-agent) | [Try demo](https://drive.google.com/file/d/1z9_G9OeqY-JHOL130gmrqb-q1CaoWbPv/view?usp=sharing) | [Screenshot](previews/74a7b068ae8ca6d51439ee84.jpg) | [Source](https://x.com/i/web/status/2104812026858279337) |
@@ -58,9 +48,21 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [aloisdeniel/flutter_device_preview](https://github.com/aloisdeniel/flutter_device_preview) | [Try demo](https://aloisdeniel.github.io/flutter_device_preview/) | [Screenshot](previews/3a0c885fc8a7b810ad7f4ab3.jpg) | [Source](https://x.com/i/web/status/2092585221019304264) |
 | [ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent) | [Try demo](https://huggingface.co/collections/apodex/apodex-11) | [Screenshot](previews/b3a211b35aea349438b61dbf.jpg) | [Source](https://x.com/i/web/status/2092514007051899160) |
 | [Must-be-Ash/masterkey](https://github.com/Must-be-Ash/masterkey) | [Try demo](https://www.masterkey.sh/) | [Screenshot](previews/ad7583a7b45e59c7fd8ef1f1.jpg) | [Source](https://x.com/i/web/status/2092372554640224657) |
-| [cactus-compute/needle](https://github.com/cactus-compute/needle) | [Try demo](https://afshinm.github.io/cactus-needle/) | [Screenshot](previews/1df2eb8fa5414104cb2a1fae.jpg) | [Source](https://x.com/i/web/status/2092319174790185028) |
 | [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) | [Try demo](https://kyutai.org/pocket-tts) | [Screenshot](previews/93939a5c00b29022b4c8f264.jpg) | [Source](https://x.com/i/web/status/2092266105989673235) |
 | [wessamhamid/canadachat](https://github.com/wessamhamid/canadachat) | [Try demo](https://canadachat.ca/) | [Screenshot](previews/f39a6fea7dc4c315998e9f03.jpg) | [Source](https://x.com/i/web/status/2105137049317876058) |
 | [Eternalbes/eternal-beings-contracts](https://github.com/Eternalbes/eternal-beings-contracts) | [Try demo](https://eternalbeings.space/world-demo/) | [Screenshot](previews/df14e694dc3ea3776fdea862.jpg) | [Source](https://x.com/i/web/status/2105085356710437099) |
+| [LeonardoBottonaUniTn/llmberjack](https://github.com/LeonardoBottonaUniTn/llmberjack) | [Try demo](https://aclanthology.org/2026.emnlp-demos.14/) | [Screenshot](previews/a43c07e6fb0442d1d66b023a.jpg) | [Source](https://x.com/i/web/status/2114289645098041764) |
+| [victorhez/ascertain](https://github.com/victorhez/ascertain) | [Try demo](https://ascertain.vercel.app/) | [Screenshot](previews/733db72bbdcb276b95ed8373.jpg) | [Source](https://x.com/i/web/status/2114284807874118017) |
+| [Sumit884-byte/rsume-site](https://github.com/Sumit884-byte/rsume-site) | [Try demo](https://rsume-site.vercel.app/) | [Screenshot](previews/96baa1478b24da49a0741be3.jpg) | [Source](https://x.com/i/web/status/2114277975780991389) |
+| [HackersHostel/AgentWebUI](https://github.com/HackersHostel/AgentWebUI) | [Try demo](https://agentwebui.hackershostel.com/) | [Screenshot](previews/6920ecea04c1bf4b89f4a5bd.jpg) | [Source](https://x.com/i/web/status/2114269485867921589) |
+| [XHToken/Spark-X2.6](https://github.com/XHToken/Spark-X2.6) | [Try demo](https://huggingface.co/XHToken/Spark-X2.6-4B) | [Screenshot](previews/1981c958a382fd8183561af2.jpg) | [Source](https://x.com/i/web/status/2114262882980679731) |
+| [yazinsai/tilawa](https://github.com/yazinsai/tilawa) | [Try demo](https://tilawa.dev/) | [Screenshot](previews/ec197fdd2a04e5162b1b1fe2.jpg) | [Source](https://x.com/i/web/status/2104526089381134812) |
+| [Push9828/postlens](https://github.com/Push9828/postlens) | [Try demo](https://postlens-beige.vercel.app/) | [Screenshot](previews/3d6ef0be4e6691db931d87dd.jpg) | [Source](https://x.com/i/web/status/2104520292156776916) |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | [Try demo](https://aiengineeringfromscratch.com/index.html) | [Screenshot](previews/2fe557721be7835e6470d618.jpg) | [Source](https://x.com/i/web/status/2104483718262091816) |
+| [AhmedA-afk/relay_itsm](https://github.com/AhmedA-afk/relay_itsm) | [Try demo](https://relay-itsm-gamma.vercel.app/) | [Screenshot](previews/12af409749fe27091f6e7a49.jpg) | [Source](https://x.com/i/web/status/2104475345290473902) |
+| [LWL-HyperTrade/hypertrade](https://github.com/LWL-HyperTrade/hypertrade) | [Try demo](https://play.google.com/store/apps/details?id=com.hypertrade.app) | [Screenshot](previews/78d76d10f9618d1b0a8c5af1.jpg) | [Source](https://x.com/i/web/status/2091480559369277460) |
+| [yui540/css-animations](https://github.com/yui540/css-animations) | [Try demo](https://yui540.com/) | [Screenshot](previews/27b2afcad896006aa553ad60.jpg) | [Source](https://x.com/i/web/status/2091464300552396850) |
+| [iamtechartist/Circuit-Board-City](https://github.com/iamtechartist/Circuit-Board-City) | [Try demo](https://iamtechartist.github.io/Circuit-Board-City/) | [Screenshot](previews/2397c152f7ef61d7d327c93f.jpg) | [Source](https://x.com/i/web/status/2091447026261336459) |
+| [AshleyLab/OpenMHC](https://github.com/AshleyLab/OpenMHC) | [Try demo](https://huggingface.co/spaces/MyHeartCounts/OpenMHC) | [Screenshot](previews/8f69c4b65532094ece16e06a.jpg) | [Source](https://x.com/i/web/status/2091319461089562847) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.

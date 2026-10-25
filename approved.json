@@ -1,93 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-24T11:01:15.679Z",
+  "updatedAt": "2026-10-25T11:30:18.785Z",
   "runtimeRevision": "ed71211be3a262dd1b928f3740f110b041b3708e",
   "checked": 20,
   "repositories": [
-    {
-      "availability": "available",
-      "full": "ashutosh-rath02/pxr",
-      "name": "pxr",
-      "description": "Deterministic action admission for embedded systems. Rust no_std, fixed memory, resource leases, local supervision, and a C/C++ interface.",
-      "category": "Developer tools",
-      "language": "Rust",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-09-30T15:43:02Z",
-      "updated": "2026-10-01T08:01:56Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "https://ashutosh-rath02.github.io/pxr/",
-      "topics": [
-        "embedded",
-        "embedded-rust",
-        "firmware",
-        "no-std",
-        "physical-ai",
-        "robotics",
-        "rust"
-      ],
-      "demo": "https://ashutosh-rath02.github.io/pxr/",
-      "color": "#323057",
-      "ink": "#d6caff",
-      "lastCheckedAt": "2026-10-22T12:02:10.861Z",
-      "lastAvailableAt": "2026-10-22T12:02:10.861Z",
-      "lastAttemptAt": "2026-10-22T12:02:10.861Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105352756706041932",
-          "postId": "2105352756706041932",
-          "postedAt": "2026-09-30T17:43:07.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://ashutosh-rath02.github.io/pxr/",
-        "attemptedAt": "2026-10-22T12:02:14.310Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-22T12:02:14.310Z",
-        "lastWorkingAt": "2026-10-22T12:02:14.310Z",
-        "target": "https://ashutosh-rath02.github.io/pxr/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-29T12:02:14.310Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/f84724dc5b2a3aff51c5ddd9.jpg",
-          "kind": "demo",
-          "url": "https://ashutosh-rath02.github.io/pxr/",
-          "capturedAt": "2026-10-22T12:02:14.310Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-22T12:02:14.310Z",
-      "previewCheck": {
-        "url": "https://ashutosh-rath02.github.io/pxr/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-22T12:02:14.310Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-29T12:02:14.311Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
     {
       "availability": "available",
       "full": "juaniquillo/resume",
@@ -159,544 +75,6 @@
         "attemptedAt": "2026-10-23T16:29:19.313Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-30T16:29:19.314Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "screenpipe/river-ai-screenpipe-training",
-      "name": "river-ai-screenpipe-training",
-      "description": "Train a personal or company AI from reviewed AI chats and Screenpipe context using River. Agent skills, dataset preparation, and evaluation.",
-      "category": "AI & machine learning",
-      "language": "Python",
-      "stars": 1,
-      "forks": 0,
-      "created": "2026-09-28T18:05:15Z",
-      "updated": "2026-09-28T18:30:32Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://screenpipe.com/enterprise",
-      "color": "#302e55",
-      "ink": "#dbd2ff",
-      "lastCheckedAt": "2026-10-22T12:01:39.190Z",
-      "lastAvailableAt": "2026-10-22T12:01:39.190Z",
-      "lastAttemptAt": "2026-10-22T12:01:39.190Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "screenpipe/river-ai-screenpipe-training",
-        "postUrl": "https://x.com/i/web/status/2104934652217532507",
-        "url": "https://screenpipe.com/enterprise"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2104934652217532507",
-          "postId": "2104934652217532507",
-          "postedAt": "2026-09-29T14:01:43.000Z"
-        }
-      ],
-      "subjects": [
-        "MCP servers & agents"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "AI & machine learning",
-        "subjects": [
-          "MCP servers & agents"
-        ],
-        "evidence": [
-          {
-            "subject": "MCP servers & agents",
-            "source": "metadata",
-            "match": "Agent"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://screenpipe.com/enterprise",
-        "attemptedAt": "2026-10-22T12:01:42.648Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-22T12:01:42.648Z",
-        "lastWorkingAt": "2026-10-22T12:01:42.648Z",
-        "target": "https://screenpipe.com/enterprise",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-29T12:01:42.648Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/23a3af40f2615f7e9a651c56.jpg",
-          "kind": "demo",
-          "url": "https://screenpipe.com/enterprise",
-          "capturedAt": "2026-10-22T12:01:42.648Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-22T12:01:42.648Z",
-      "previewCheck": {
-        "url": "https://screenpipe.com/enterprise",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-22T12:01:42.648Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-29T12:01:42.649Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "onlyoneAlexia/armorcodex-demo",
-      "name": "armorcodex-demo",
-      "description": "ArmorCodex demo for the ArmorIQ Video Contest: one command install, policy from chat, blocking a command before it runs, and dashboard logging.",
-      "category": "Developer tools",
-      "language": null,
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-09-29T11:45:27Z",
-      "updated": "2026-09-29T12:58:30Z",
-      "branch": "main",
-      "homepage": "",
-      "topics": [],
-      "demo": "https://drive.google.com/file/d/1hvfsXIjudgef4NQDlBLtSciLIKz0ypre/view?usp=drivesdk",
-      "color": "#193546",
-      "ink": "#a6d6e8",
-      "lastCheckedAt": "2026-10-22T12:01:43.693Z",
-      "lastAvailableAt": "2026-10-22T12:01:43.693Z",
-      "lastAttemptAt": "2026-10-22T12:01:43.693Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "onlyoneAlexia/armorcodex-demo",
-        "postUrl": "https://x.com/i/web/status/2104931796446261463",
-        "url": "https://drive.google.com/file/d/1hvfsXIjudgef4NQDlBLtSciLIKz0ypre/view?usp=drivesdk"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2104931796446261463",
-          "postId": "2104931796446261463",
-          "postedAt": "2026-09-29T13:50:22.000Z"
-        }
-      ],
-      "subjects": [
-        "Data & dashboards"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [
-          "Data & dashboards"
-        ],
-        "evidence": [
-          {
-            "subject": "Data & dashboards",
-            "source": "metadata",
-            "match": "dashboard"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://drive.google.com/file/d/1hvfsXIjudgef4NQDlBLtSciLIKz0ypre/view?usp=drivesdk",
-        "attemptedAt": "2026-10-22T12:01:47.144Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-22T12:01:47.144Z",
-        "lastWorkingAt": "2026-10-22T12:01:47.144Z",
-        "target": "https://drive.google.com/file/d/1hvfsXIjudgef4NQDlBLtSciLIKz0ypre/view",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-29T12:01:47.144Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/c45b32ebf912a5f41b9932ea.jpg",
-          "kind": "demo",
-          "url": "https://drive.google.com/file/d/1hvfsXIjudgef4NQDlBLtSciLIKz0ypre/view?usp=drivesdk",
-          "capturedAt": "2026-10-22T12:01:47.144Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-22T12:01:47.144Z",
-      "previewCheck": {
-        "url": "https://drive.google.com/file/d/1hvfsXIjudgef4NQDlBLtSciLIKz0ypre/view?usp=drivesdk",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-22T12:01:47.144Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-29T12:01:47.144Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "Gm1654/jev-decisionops",
-      "name": "jev-decisionops",
-      "description": "Explore this public GitHub project.",
-      "category": "Other",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-09-26T17:48:32Z",
-      "updated": "2026-09-26T20:12:29Z",
-      "branch": "main",
-      "homepage": "https://jev-decisionops.vercel.app",
-      "topics": [],
-      "demo": "https://jev-decisionops.vercel.app/",
-      "color": "#63362a",
-      "ink": "#f8c7a8",
-      "lastCheckedAt": "2026-10-22T12:01:48.287Z",
-      "lastAvailableAt": "2026-10-22T12:01:48.287Z",
-      "lastAttemptAt": "2026-10-22T12:01:48.287Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2104931784626688325",
-          "postId": "2104931784626688325",
-          "postedAt": "2026-09-29T13:50:19.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://jev-decisionops.vercel.app/",
-        "attemptedAt": "2026-10-22T12:01:51.933Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-22T12:01:51.933Z",
-        "lastWorkingAt": "2026-10-22T12:01:51.933Z",
-        "target": "https://jev-decisionops.vercel.app/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-29T12:01:51.933Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/02ebbf05e40f80a56a193199.jpg",
-          "kind": "demo",
-          "url": "https://jev-decisionops.vercel.app/",
-          "capturedAt": "2026-10-22T12:01:51.933Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-22T12:01:51.933Z",
-      "previewCheck": {
-        "url": "https://jev-decisionops.vercel.app/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-22T12:01:51.933Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-29T12:01:51.934Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "tomtom87/Portage",
-      "name": "Portage",
-      "description": "Let your agent go to the store (chill, you approve every payment 😃). CLI, Claude Code plugin and Ruby gems for MCP/UCP.",
-      "category": "Business",
-      "language": "Ruby",
-      "stars": 2,
-      "forks": 0,
-      "created": "2026-08-14T01:01:12Z",
-      "updated": "2026-10-22T06:01:04Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "https://portage.readthedocs.io",
-      "topics": [
-        "agentic-commerce",
-        "ai-agents",
-        "bigcommerce",
-        "claude-code",
-        "claude-code-plugin",
-        "cli-tool",
-        "ecommerce",
-        "etsy",
-        "homebrew",
-        "instagram",
-        "magento",
-        "mcp",
-        "ruby",
-        "rubygems",
-        "shopify",
-        "ucp",
-        "webmcp",
-        "wix",
-        "woocommerce"
-      ],
-      "demo": "https://portage.readthedocs.io/en/latest/",
-      "color": "#63362a",
-      "ink": "#f8c7a8",
-      "lastCheckedAt": "2026-10-22T12:01:52.979Z",
-      "lastAvailableAt": "2026-10-22T12:01:52.979Z",
-      "lastAttemptAt": "2026-10-22T12:01:52.979Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "tomtom87/Portage",
-        "postUrl": "https://x.com/i/web/status/2104873020116643992",
-        "url": "https://portage.readthedocs.io/en/latest/"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2104873020116643992",
-          "postId": "2104873020116643992",
-          "postedAt": "2026-09-29T09:56:49.000Z"
-        }
-      ],
-      "subjects": [
-        "MCP servers & agents"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Business",
-        "subjects": [
-          "MCP servers & agents"
-        ],
-        "evidence": [
-          {
-            "subject": "MCP servers & agents",
-            "source": "metadata",
-            "match": "agent"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://portage.readthedocs.io/en/latest/",
-        "attemptedAt": "2026-10-22T12:01:56.532Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-22T12:01:56.532Z",
-        "lastWorkingAt": "2026-10-22T12:01:56.532Z",
-        "target": "https://portage.readthedocs.io/en/latest/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-29T12:01:56.532Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/1aa8dad2fb4142e4bac701c7.jpg",
-          "kind": "demo",
-          "url": "https://portage.readthedocs.io/en/latest/",
-          "capturedAt": "2026-10-22T12:01:56.532Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-22T12:01:56.532Z",
-      "previewCheck": {
-        "url": "https://portage.readthedocs.io/en/latest/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-22T12:01:56.532Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-29T12:01:56.533Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "V-harshith/kiro-university-2026",
-      "name": "kiro-university-2026",
-      "description": "Kiro University Challenge 2026 submission - spec-driven build with Kiro (specs, steering, hooks, property-based tests, powers, MCP, custom agents)",
-      "category": "AI & machine learning",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-09-23T08:43:08Z",
-      "updated": "2026-09-25T19:32:27Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://schema.org/",
-      "color": "#25392f",
-      "ink": "#d1e5c5",
-      "lastCheckedAt": "2026-10-22T12:01:57.564Z",
-      "lastAvailableAt": "2026-10-22T12:01:57.564Z",
-      "lastAttemptAt": "2026-10-22T12:01:57.564Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "V-harshith/kiro-university-2026",
-        "postUrl": "https://x.com/i/web/status/2104841584638587318",
-        "url": "https://schema.org/"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2104841584638587318",
-          "postId": "2104841584638587318",
-          "postedAt": "2026-09-29T07:51:54.000Z"
-        }
-      ],
-      "subjects": [
-        "MCP servers & agents"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "AI & machine learning",
-        "subjects": [
-          "MCP servers & agents"
-        ],
-        "evidence": [
-          {
-            "subject": "MCP servers & agents",
-            "source": "metadata",
-            "match": "MCP"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://schema.org/",
-        "attemptedAt": "2026-10-22T12:02:00.830Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-22T12:02:00.830Z",
-        "lastWorkingAt": "2026-10-22T12:02:00.830Z",
-        "target": "https://schema.org/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-29T12:02:00.830Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/407c2000734e655a3e67a360.jpg",
-          "kind": "demo",
-          "url": "https://schema.org/",
-          "capturedAt": "2026-10-22T12:02:00.830Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-22T12:02:00.830Z",
-      "previewCheck": {
-        "url": "https://schema.org/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-22T12:02:00.830Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-29T12:02:00.831Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "Bharathcoorg/nammakyc",
-      "name": "nammakyc",
-      "description": "Explore this public GitHub project.",
-      "category": "Other",
-      "language": "TypeScript",
-      "stars": 1,
-      "forks": 0,
-      "created": "2026-09-26T11:00:02Z",
-      "updated": "2026-09-28T19:46:52Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://bharathcoorg.github.io/nammakyc/",
-      "color": "#63362a",
-      "ink": "#f8c7a8",
-      "lastCheckedAt": "2026-10-22T12:02:02.038Z",
-      "lastAvailableAt": "2026-10-22T12:02:02.038Z",
-      "lastAttemptAt": "2026-10-22T12:02:02.038Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2104840667197522150",
-          "postId": "2104840667197522150",
-          "postedAt": "2026-09-29T07:48:15.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://bharathcoorg.github.io/nammakyc/",
-        "attemptedAt": "2026-10-22T12:02:06.702Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-22T12:02:06.702Z",
-        "lastWorkingAt": "2026-10-22T12:02:06.702Z",
-        "target": "https://bharathcoorg.github.io/nammakyc/demo/index.html",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-29T12:02:06.702Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/a4b9b8333ca9601c4330137c.jpg",
-          "kind": "demo",
-          "url": "https://bharathcoorg.github.io/nammakyc/",
-          "capturedAt": "2026-10-22T12:02:06.702Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-22T12:02:06.702Z",
-      "previewCheck": {
-        "url": "https://bharathcoorg.github.io/nammakyc/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-22T12:02:06.702Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-10-29T12:02:06.704Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
@@ -1195,264 +573,6 @@
       ]
     },
     {
-      "full": "OpenBMB/VoxCPM",
-      "name": "VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "category": "Design",
-      "language": "Python",
-      "stars": 39931,
-      "forks": 4546,
-      "created": "2025-09-16T03:41:49Z",
-      "updated": "2026-10-08T03:26:41Z",
-      "license": "Apache-2.0",
-      "branch": "main",
-      "homepage": "https://voxcpm.com",
-      "topics": [
-        "audio",
-        "deeplearning",
-        "minicpm",
-        "multilingual",
-        "python",
-        "pytorch",
-        "speech",
-        "speech-synthesis",
-        "text-to-speech",
-        "tts",
-        "tts-model",
-        "voice-cloning",
-        "voice-design",
-        "voxcpm"
-      ],
-      "demo": "https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo",
-      "color": "#323057",
-      "ink": "#d6caff",
-      "availability": "available",
-      "lastCheckedAt": "2026-10-22T21:51:27.501Z",
-      "lastAttemptAt": "2026-10-22T21:51:27.501Z",
-      "lastAvailableAt": "2026-10-22T21:51:27.501Z",
-      "lastDemoCheckedAt": "2026-10-22T21:51:27.501Z",
-      "metrics": [
-        {
-          "at": "2026-10-03T21:18:08.008Z",
-          "stars": 38287,
-          "forks": 4328
-        },
-        {
-          "at": "2026-10-04T05:48:30.042Z",
-          "stars": 38293,
-          "forks": 4329
-        },
-        {
-          "at": "2026-10-05T16:57:06.613Z",
-          "stars": 38328,
-          "forks": 4333
-        },
-        {
-          "at": "2026-10-07T18:40:51.968Z",
-          "stars": 38383,
-          "forks": 4337
-        },
-        {
-          "at": "2026-10-08T09:24:52.086Z",
-          "stars": 38401,
-          "forks": 4339
-        },
-        {
-          "at": "2026-10-10T19:01:52.552Z",
-          "stars": 38513,
-          "forks": 4351
-        },
-        {
-          "at": "2026-10-15T13:02:44.216Z",
-          "stars": 39348,
-          "forks": 4464
-        },
-        {
-          "at": "2026-10-19T13:42:26.000Z",
-          "stars": 39578,
-          "forks": 4486
-        },
-        {
-          "at": "2026-10-21T19:40:07.968Z",
-          "stars": 39662,
-          "forks": 4500
-        },
-        {
-          "at": "2026-10-22T21:51:27.501Z",
-          "stars": 39931,
-          "forks": 4546
-        }
-      ],
-      "technologies": [
-        "Python"
-      ],
-      "enrichmentAttemptAt": "2026-10-05T15:57:30.114Z",
-      "latestRelease": {
-        "name": "v2.0.3: fine-tuning validation, runtime stability, and streaming improvements",
-        "tag": "2.0.3",
-        "publishedAt": "2026-05-11T11:59:20Z",
-        "url": "https://github.com/OpenBMB/VoxCPM/releases/tag/2.0.3"
-      },
-      "releaseCheckedAt": "2026-10-05T15:57:30.114Z",
-      "screenshots": [
-        {
-          "src": "previews/c0347e318fc54aed409c1bf1.jpg",
-          "kind": "demo",
-          "capturedAt": "2026-10-22T12:08:10.815Z",
-          "url": "https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo",
-          "variants": [
-            {
-              "src": "previews/variants/c0347e318fc54aed409c1bf1-320.webp",
-              "width": 320,
-              "height": 200
-            },
-            {
-              "src": "previews/variants/c0347e318fc54aed409c1bf1-640.webp",
-              "width": 640,
-              "height": 400
-            },
-            {
-              "src": "previews/variants/c0347e318fc54aed409c1bf1-960.webp",
-              "width": 960,
-              "height": 600
-            }
-          ]
-        }
-      ],
-      "overviewAttemptAt": "2026-10-03T06:01:24.447Z",
-      "overview": {
-        "kind": "readme",
-        "version": 1,
-        "paragraphs": [
-          "👋 Join our community for discussion and support!",
-          "VoxCPM is a tokenizer-free Text-to-Speech system that directly generates continuous speech representations via an end-to-end diffusion autoregressive architecture, bypassing discrete tokenization to achieve highly natural and expressive synthesis.",
-          "VoxCPM2 is the latest major release — a 2B parameter model trained on over 2 million hours of multilingual speech data, now supporting 30 languages, Voice Design, Controllable Voice Cloning, and 48kHz studio-quality audio output. Built on a MiniCPM-4 backbone."
-        ],
-        "features": [
-          "🌍 30-Language Multilingual — Input text in any of the 30 supported languages and synthesize directly, no language tag needed",
-          "🎨 Voice Design — Create a brand-new voice from a natural-language description alone (gender, age, tone, emotion, pace …), no reference audio required",
-          "🎛️ Controllable Cloning — Clone any voice from a short reference clip, with optional style guidance to steer emotion, pace, and expression while preserving the original timbre",
-          "🎙️ Ultimate Cloning — Reproduce every vocal nuance: provide both reference audio and its transcript, and the model continues seamlessly from the reference, faithfully preserving every vocal detail — timbre, rhythm,…",
-          "🔊 48kHz High-Quality Audio — Accepts 16kHz reference audio and directly outputs 48kHz studio-quality audio via AudioVAE V2's asymmetric encode/decode design, with built-in super-resolution — no external upsampler needed"
-        ],
-        "sourceUrl": "https://github.com/OpenBMB/VoxCPM/blob/main/README.md",
-        "fingerprint": "f670fdf5f3faea03a71f717d25057b3bc100742edd9feb24d375443b091cc61f",
-        "extractedAt": "2026-10-03T06:01:35.236Z"
-      },
-      "overviewCheckedAt": "2026-10-22T21:51:27.684Z",
-      "overviewRepoUpdated": "2026-10-08T03:26:41Z",
-      "previewAttemptAt": "2026-10-22T12:08:10.815Z",
-      "demoHealth": {
-        "url": "https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo",
-        "attemptedAt": "2026-10-22T12:08:10.815Z",
-        "status": "working",
-        "checkedAt": "2026-10-22T12:08:10.815Z",
-        "lastWorkingAt": "2026-10-22T12:08:10.815Z",
-        "target": "https://huggingface.co/spaces/openbmb/VoxCPM-Demo",
-        "failureCount": 0,
-        "nextCheckAt": "2026-10-29T12:08:10.815Z",
-        "probeVersion": 3,
-        "consecutiveTemporaryFailures": 0
-      },
-      "projectInsights": {
-        "version": 1,
-        "whatItDoes": {
-          "text": "👋 Join our community for discussion and support!",
-          "sourceUrl": "https://github.com/OpenBMB/VoxCPM/blob/main/README.md"
-        },
-        "audience": [],
-        "requirements": [],
-        "fingerprint": "f670fdf5f3faea03a71f717d25057b3bc100742edd9feb24d375443b091cc61f",
-        "sourceUrl": "https://github.com/OpenBMB/VoxCPM/blob/main/README.md",
-        "checkedAt": "2026-10-22T21:51:27.685Z"
-      },
-      "agentContextAttemptAt": "2026-10-03T14:17:55.676Z",
-      "readmeSnapshot": {
-        "version": 1,
-        "status": "saved",
-        "sourceUrl": "https://github.com/OpenBMB/VoxCPM/blob/main/README.md",
-        "checkedAt": "2026-10-22T21:51:27.687Z",
-        "hash": "f670fdf5f3faea03a71f717d25057b3bc100742edd9feb24d375443b091cc61f",
-        "originalBytes": 42395,
-        "storedBytes": 42395,
-        "truncated": false
-      },
-      "agentContext": {
-        "version": 1,
-        "checkedAt": "2026-10-03T14:17:57.006Z",
-        "documents": [
-          {
-            "name": "pyproject.toml",
-            "sourceUrl": "https://github.com/OpenBMB/VoxCPM/blob/main/pyproject.toml",
-            "hash": "6d4b8d4f6e4d96525611718ba686bc4025db9b027a53abeeb0bc4721cb97bf78",
-            "originalBytes": 2142,
-            "truncated": false
-          },
-          {
-            "name": "LICENSE",
-            "sourceUrl": "https://github.com/OpenBMB/VoxCPM/blob/main/LICENSE",
-            "hash": "4f10acc209addacfad28293315c74c4cd648f771ee1263a748f1781d1e0265e4",
-            "originalBytes": 11298,
-            "truncated": false
-          }
-        ]
-      },
-      "agentContextRepoUpdated": "2026-09-30T03:52:48Z",
-      "qualityPriority": false,
-      "subjects": [
-        "Image, audio & video AI"
-      ],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Design",
-        "subjects": [
-          "Image, audio & video AI"
-        ],
-        "evidence": [
-          {
-            "subject": "Image, audio & video AI",
-            "source": "metadata",
-            "match": "TTS"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [
-          "Apple",
-          "Streaming"
-        ],
-        "reviewRequired": true
-      },
-      "platforms": [],
-      "repositoryEtag": "W/\"f227960031a3a4dcad0f8ba5433fbfcc05e0c372557bc42e6002876ee711d056\"",
-      "repositoryEtagFor": "OpenBMB/VoxCPM",
-      "previewCheck": {
-        "url": "https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo",
-        "attemptedAt": "2026-10-22T12:08:10.815Z",
-        "consecutiveFailures": 0,
-        "status": "captured",
-        "reason": null,
-        "nextCheckAt": "2026-10-29T12:08:10.815Z"
-      },
-      "repositoryId": 1057664813,
-      "repositoryAliases": [],
-      "spaces": [],
-      "communityPosts": [],
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2094683183644303566",
-          "postId": "2094683183644303566",
-          "postedAt": "2026-09-01T07:06:02.000Z"
-        }
-      ],
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
       "availability": "available",
       "full": "bundui/tourcn",
       "name": "tourcn",
@@ -1924,340 +1044,6 @@
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-31T11:00:38.637Z"
       },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "mertcookimg/Open_Duck_Mini_Viewer",
-      "name": "Open_Duck_Mini_Viewer",
-      "description": "Open_Duck_Mini_Viewer",
-      "category": "Other",
-      "language": "TypeScript",
-      "stars": 74,
-      "forks": 9,
-      "created": "2026-05-05T08:27:21Z",
-      "updated": "2026-10-22T05:40:48Z",
-      "license": "Apache-2.0",
-      "branch": "main",
-      "homepage": "https://mertcookimg.github.io/Open_Duck_Mini_Viewer/",
-      "topics": [],
-      "demo": "https://mertcookimg.github.io/Open_Duck_Mini_Viewer/",
-      "color": "#302e55",
-      "ink": "#dbd2ff",
-      "lastCheckedAt": "2026-10-22T14:20:33.950Z",
-      "lastAttemptAt": "2026-10-22T14:20:33.950Z",
-      "lastAvailableAt": "2026-10-22T14:20:33.950Z",
-      "metrics": [
-        {
-          "at": "2026-10-09T18:00:57.907Z",
-          "stars": 73,
-          "forks": 9
-        },
-        {
-          "at": "2026-10-13T04:14:50.532Z",
-          "stars": 73,
-          "forks": 9
-        },
-        {
-          "at": "2026-10-17T12:30:41.002Z",
-          "stars": 73,
-          "forks": 9
-        },
-        {
-          "at": "2026-10-20T17:36:46.371Z",
-          "stars": 74,
-          "forks": 9
-        },
-        {
-          "at": "2026-10-22T14:20:33.950Z",
-          "stars": 74,
-          "forks": 9
-        }
-      ],
-      "technologies": [
-        "React",
-        "Three.js"
-      ],
-      "overview": {
-        "kind": "readme",
-        "version": 1,
-        "paragraphs": [
-          "IEEE Spectrum Video Friday, Open Duck Mini Viewer has been featured on IEEE Spectrum Video Friday, “Your weekly selection of awesome robot videos”!!!",
-          "A browser-only GUI for the Open Duck Mini V2 bipedal duck robot. Walk, pose, and inspect the duck in 3D — all in the browser, no Python, no hardware required.",
-          "🌐 Live demo: (after you push; auto-deployed by GitHub Actions on every push to main)"
-        ],
-        "features": [
-          "🕹 Drive it with a virtual joystick or WASD / QE",
-          "🎬 Trigger motions — home, stand, bow, wave, headbang",
-          "🎚 Pose-edit any joint with sliders, grouped by body part — just",
-          "🎨 Paint any part in 3D — click parts on the model to recolour",
-          "🔍 Inspect the CAD — explode parts, wireframe, X-ray"
-        ],
-        "sourceUrl": "https://github.com/mertcookimg/Open_Duck_Mini_Viewer/blob/main/README.md",
-        "fingerprint": "196f9eb98c024e7559d73b0f23dca889b9831c05082f92c2cff065cc18216bfb",
-        "extractedAt": "2026-10-22T14:20:34.067Z"
-      },
-      "overviewCheckedAt": "2026-10-22T14:20:34.067Z",
-      "projectInsights": {
-        "version": 1,
-        "whatItDoes": {
-          "text": "IEEE Spectrum Video Friday, Open Duck Mini Viewer has been featured on IEEE Spectrum Video Friday, “Your weekly selection of awesome robot videos”!!!",
-          "sourceUrl": "https://github.com/mertcookimg/Open_Duck_Mini_Viewer/blob/main/README.md"
-        },
-        "audience": [],
-        "requirements": [],
-        "fingerprint": "196f9eb98c024e7559d73b0f23dca889b9831c05082f92c2cff065cc18216bfb",
-        "sourceUrl": "https://github.com/mertcookimg/Open_Duck_Mini_Viewer/blob/main/README.md",
-        "checkedAt": "2026-10-22T14:20:34.067Z"
-      },
-      "overviewRepoUpdated": "2026-10-22T05:40:48Z",
-      "readmeSnapshot": {
-        "version": 1,
-        "status": "saved",
-        "sourceUrl": "https://github.com/mertcookimg/Open_Duck_Mini_Viewer/blob/main/README.md",
-        "checkedAt": "2026-10-22T14:20:34.067Z",
-        "hash": "196f9eb98c024e7559d73b0f23dca889b9831c05082f92c2cff065cc18216bfb",
-        "originalBytes": 9846,
-        "storedBytes": 9846,
-        "truncated": false
-      },
-      "lastDemoCheckedAt": "2026-10-22T14:20:33.950Z",
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [
-          "Architecture & building design",
-          "Automation & workflows",
-          "Apple",
-          "3D & graphics"
-        ],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://mertcookimg.github.io/Open_Duck_Mini_Viewer/",
-        "attemptedAt": "2026-10-23T01:31:12.402Z",
-        "probeVersion": 3,
-        "status": "working",
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-30T01:31:12.402Z",
-        "checkedAt": "2026-10-23T01:31:12.402Z",
-        "lastWorkingAt": "2026-10-23T01:31:12.402Z",
-        "target": "https://mertcookimg.github.io/Open_Duck_Mini_Viewer/",
-        "failureCount": 0
-      },
-      "previewAttemptAt": "2026-10-22T18:17:34.815Z",
-      "previewCheck": {
-        "url": "https://mertcookimg.github.io/Open_Duck_Mini_Viewer/",
-        "attemptedAt": "2026-10-22T18:17:34.815Z",
-        "consecutiveFailures": 3,
-        "status": "retry",
-        "reason": "network_or_timeout",
-        "nextCheckAt": "2026-10-23T18:17:34.815Z"
-      },
-      "qualityPriority": false,
-      "providerAttemptAt": "2026-10-09T22:41:21.787Z",
-      "screenshots": [
-        {
-          "src": "previews/62245a4d1d31fbd4c4b9e707.jpg",
-          "kind": "demo",
-          "capturedAt": "2026-10-12T04:18:41.995Z",
-          "url": "https://mertcookimg.github.io/Open_Duck_Mini_Viewer/"
-        }
-      ],
-      "repositoryId": 1229627932,
-      "repositoryAliases": [],
-      "repositoryEtag": "W/\"4d426864823a8a9bbdda60493e7434d7e103704b78e9e3b2551d40918ea8e19c\"",
-      "repositoryEtagFor": "mertcookimg/Open_Duck_Mini_Viewer",
-      "enrichmentAttemptAt": "2026-10-18T05:03:03.056Z",
-      "latestRelease": null,
-      "releaseCheckedAt": "2026-10-18T05:03:03.056Z",
-      "spaces": [],
-      "communityPosts": [],
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2093977576452821462",
-          "postId": "2093977576452821462",
-          "postedAt": "2026-08-30T08:22:13.000Z"
-        }
-      ],
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "PINTO0309/High-Angle_Robust_Fast_FaceAlignment",
-      "name": "High-Angle_Robust_Fast_FaceAlignment",
-      "description": "HRFFA: High-Angle Robust Fast Face Alignment. Whole-head face alignment dataset & training pipeline.",
-      "category": "Other",
-      "language": "Python",
-      "stars": 199,
-      "forks": 29,
-      "created": "2026-08-20T22:52:54Z",
-      "updated": "2026-10-09T01:54:33Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "",
-      "topics": [
-        "face-alignment",
-        "facial-landmark-detection",
-        "head-alignment",
-        "head-detection"
-      ],
-      "demo": "https://onnxruntime.ai/docs/tutorials/web/",
-      "color": "#323057",
-      "ink": "#d6caff",
-      "lastCheckedAt": "2026-10-23T01:04:46.311Z",
-      "lastAttemptAt": "2026-10-23T01:04:46.311Z",
-      "lastAvailableAt": "2026-10-23T01:04:46.311Z",
-      "metrics": [
-        {
-          "at": "2026-10-11T04:29:50.066Z",
-          "stars": 189,
-          "forks": 29
-        },
-        {
-          "at": "2026-10-17T02:58:25.303Z",
-          "stars": 192,
-          "forks": 29
-        },
-        {
-          "at": "2026-10-20T23:08:30.097Z",
-          "stars": 199,
-          "forks": 29
-        },
-        {
-          "at": "2026-10-23T01:04:46.311Z",
-          "stars": 199,
-          "forks": 29
-        }
-      ],
-      "technologies": [
-        "Python"
-      ],
-      "overview": {
-        "kind": "readme",
-        "version": 1,
-        "paragraphs": [
-          "A training, distillation and ONNX deployment pipeline for whole-head face alignment that stays robust at extreme head poses while remaining light enough for CPU inference.",
-          "Left: teacher vitl-320 on nine looking-up × profile tiles with a roll of 0–320° composited onto each tile. Right: student vitt-256 on measured pitch extremes (+86° to −89°) with roll. Predictions only."
-        ],
-        "features": [
-          "Face alignment on head crops, not face crops. Conventional face-alignment papers assume a tightly cropped face region; this is a special-purpose model that works on a crop of the whole head instead. The architecture is…",
-          "For head crops that include looking up / looking down (measured pitch beyond ±85°), in-plane rotation over the full 360° roll, and profile views (yaw ±90°), the models output 68 / 98 / 29 landmarks plus a 3-class…",
-          "The teacher is a DINOv3 ViT-L/16 (320×320); the students are a ViT-T/16 (256 and 96 input) and a PP-HGNetV2-B0 based CNN (256 and 96 input). Students are trained by online distillation from the teacher and exported to…",
-          "Of the total inference time, 25 ms is spent on CUDA inference for DEIMv2-Wholebody49-S, while the remainder is spent on FaceAlignment inference.",
-          "WebGPU + YOLOv9-MIT Demo"
-        ],
-        "sourceUrl": "https://github.com/PINTO0309/High-Angle_Robust_Fast_FaceAlignment/blob/main/README.md",
-        "fingerprint": "fa76e962742acd9a80ca20013c2a4f5ebb10cf9ef6ce0ca6d67ef6d25b8d7dc1",
-        "extractedAt": "2026-10-11T04:29:50.227Z"
-      },
-      "overviewCheckedAt": "2026-10-11T04:29:50.227Z",
-      "projectInsights": {
-        "version": 1,
-        "whatItDoes": {
-          "text": "A training, distillation and ONNX deployment pipeline for whole-head face alignment that stays robust at extreme head poses while remaining light enough for CPU inference.",
-          "sourceUrl": "https://github.com/PINTO0309/High-Angle_Robust_Fast_FaceAlignment/blob/main/README.md"
-        },
-        "audience": [],
-        "requirements": [],
-        "fingerprint": "fa76e962742acd9a80ca20013c2a4f5ebb10cf9ef6ce0ca6d67ef6d25b8d7dc1",
-        "sourceUrl": "https://github.com/PINTO0309/High-Angle_Robust_Fast_FaceAlignment/blob/main/README.md",
-        "checkedAt": "2026-10-11T04:29:50.228Z"
-      },
-      "overviewRepoUpdated": "2026-10-09T01:54:33Z",
-      "readmeSnapshot": {
-        "version": 1,
-        "status": "saved",
-        "sourceUrl": "https://github.com/PINTO0309/High-Angle_Robust_Fast_FaceAlignment/blob/main/README.md",
-        "checkedAt": "2026-10-11T04:29:50.230Z",
-        "hash": "fa76e962742acd9a80ca20013c2a4f5ebb10cf9ef6ce0ca6d67ef6d25b8d7dc1",
-        "originalBytes": 47819,
-        "storedBytes": 47819,
-        "truncated": false
-      },
-      "lastDemoCheckedAt": "2026-10-11T04:29:50.066Z",
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [
-          "Maths & algorithms",
-          "3D & graphics"
-        ],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://onnxruntime.ai/docs/tutorials/web/",
-        "attemptedAt": "2026-10-18T05:15:56.351Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-18T05:15:56.351Z",
-        "lastWorkingAt": "2026-10-18T05:15:56.351Z",
-        "target": "https://onnxruntime.ai/docs/tutorials/web/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-25T05:15:56.351Z"
-      },
-      "previewAttemptAt": "2026-10-18T05:15:56.351Z",
-      "previewCheck": {
-        "url": "https://onnxruntime.ai/docs/tutorials/web/",
-        "attemptedAt": "2026-10-18T05:15:56.351Z",
-        "consecutiveFailures": 0,
-        "status": "captured",
-        "reason": null,
-        "nextCheckAt": "2026-10-25T05:15:56.351Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/82012b2af28e353a23c2a92c.jpg",
-          "kind": "demo",
-          "capturedAt": "2026-10-18T05:15:56.351Z",
-          "url": "https://onnxruntime.ai/docs/tutorials/web/"
-        }
-      ],
-      "qualityPriority": false,
-      "enrichmentAttemptAt": "2026-10-11T06:15:37.675Z",
-      "latestRelease": {
-        "name": "weights",
-        "tag": "weights",
-        "publishedAt": "2026-08-29T13:04:05Z",
-        "url": "https://github.com/PINTO0309/High-Angle_Robust_Fast_FaceAlignment/releases/tag/weights"
-      },
-      "releaseCheckedAt": "2026-10-11T06:15:37.675Z",
-      "repositoryId": 1341204426,
-      "repositoryAliases": [],
-      "repositoryEtag": "W/\"b1f4eac66109eed93ee57cde9e699935650b82290e6978ed7f3ddaf56398fbad\"",
-      "repositoryEtagFor": "PINTO0309/High-Angle_Robust_Fast_FaceAlignment",
-      "spaces": [],
-      "communityPosts": [],
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2093720743184048635",
-          "postId": "2093720743184048635",
-          "postedAt": "2026-08-29T15:21:39.000Z"
-        }
-      ],
       "sourceCategories": [
         "As Seen On X.com"
       ]
@@ -3907,230 +2693,6 @@
       ]
     },
     {
-      "repositoryId": 1165361576,
-      "availability": "available",
-      "full": "cactus-compute/needle",
-      "name": "needle",
-      "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, ASR, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
-      "category": "Developer tools",
-      "language": "Python",
-      "stars": 14213,
-      "forks": 982,
-      "created": "2026-02-24T04:50:47Z",
-      "updated": "2026-10-19T12:06:59Z",
-      "license": "Apache-2.0",
-      "branch": "main",
-      "homepage": "https://cactuscompute.com",
-      "topics": [
-        "cactus",
-        "edge-ai",
-        "foundation-model",
-        "function-calling",
-        "llm",
-        "on-device-ai",
-        "tinyml",
-        "tool-calling"
-      ],
-      "demo": "https://afshinm.github.io/cactus-needle/",
-      "color": "#63362a",
-      "ink": "#f8c7a8",
-      "lastCheckedAt": "2026-10-23T05:19:35.962Z",
-      "lastAttemptAt": "2026-10-23T05:19:35.962Z",
-      "lastAvailableAt": "2026-10-23T05:19:35.962Z",
-      "metrics": [
-        {
-          "at": "2026-10-21T00:41:48.342Z",
-          "stars": 14145,
-          "forks": 1003
-        },
-        {
-          "at": "2026-10-23T05:19:35.962Z",
-          "stars": 14213,
-          "forks": 982
-        }
-      ],
-      "technologies": [
-        "Python"
-      ],
-      "overview": {
-        "kind": "readme",
-        "version": 1,
-        "paragraphs": [
-          "A foundation model for mobiles, wearables, robots, smart home, automotive and microcontrollers. The whole model is a single 8-29 MB binary built on our Simple Attention Network, and we trade general chat capacity to beat models 10x its size on mobile tool calls and match 2-3x bigger models on extraction.",
-          "Needle 3 is a Laddered Simple Attention Network: a Monarch Hadamard MLP in place of the FFN, GQA attention with causal conv taps, engram n-gram memory read by gather, and multi-lane hyper-connections, trained so that every depth from 2 to 20 layers is a deployable model. Most of its parameters sit in the engram, so the 121M model does the arithmetic of a 50M one. A byte-level grammar compiled from your schemas constrains every token, and every response carries a calibrated confidence score from a learned head. The architecture diagram is on the release page."
-        ],
-        "features": [
-          "Tool calls: given the functions your app exposes, Needle picks the right ones and fills every argument from what the user said. Ask for two things and you get two calls in order; ask for something no tool covers and you…",
-          "Structured extraction: declare a shape, hand over messy text, get typed fields back: an invoice, a booking, a notification, a form. The decode grammar guarantees the output parses, and extraction generalises to…",
-          "Text embedding: the same model returns a vector for a sentence, so an app can search, match and route locally.",
-          "Speech: Whistle, our speech-to-text model, shares Needle's container and engine. One build gives Needle audio input: the clip goes in, the tool calls come out."
-        ],
-        "sourceUrl": "https://github.com/cactus-compute/needle/blob/main/README.md",
-        "fingerprint": "ab0bb22eae3f778940d932b9852f66aeafdbe9da1ce06610f9b794ea5bf2fa34",
-        "extractedAt": "2026-10-21T00:41:48.467Z"
-      },
-      "overviewCheckedAt": "2026-10-21T00:41:48.467Z",
-      "projectInsights": {
-        "version": 1,
-        "whatItDoes": {
-          "text": "A foundation model for mobiles, wearables, robots, smart home, automotive and microcontrollers. The whole model is a single 8-29 MB binary built on our Simple Attention Network, and we trade general chat capacity to beat models 10x its size on mobile tool calls and match 2-3x bigger models on extraction.",
-          "sourceUrl": "https://github.com/cactus-compute/needle/blob/main/README.md"
-        },
-        "audience": [],
-        "requirements": [],
-        "fingerprint": "ab0bb22eae3f778940d932b9852f66aeafdbe9da1ce06610f9b794ea5bf2fa34",
-        "sourceUrl": "https://github.com/cactus-compute/needle/blob/main/README.md",
-        "checkedAt": "2026-10-21T00:41:48.467Z"
-      },
-      "overviewRepoUpdated": "2026-10-19T12:06:59Z",
-      "readmeSnapshot": {
-        "version": 1,
-        "status": "saved",
-        "sourceUrl": "https://github.com/cactus-compute/needle/blob/main/README.md",
-        "checkedAt": "2026-10-21T00:44:27.753Z",
-        "hash": "ab0bb22eae3f778940d932b9852f66aeafdbe9da1ce06610f9b794ea5bf2fa34",
-        "originalBytes": 13260,
-        "storedBytes": 13260,
-        "truncated": false
-      },
-      "lastDemoCheckedAt": "2026-10-21T00:41:48.342Z",
-      "enrichmentAttemptAt": "2026-10-21T00:43:13.309Z",
-      "latestRelease": null,
-      "releaseCheckedAt": "2026-10-21T00:43:13.309Z",
-      "screenshots": [
-        {
-          "src": "previews/1df2eb8fa5414104cb2a1fae.jpg",
-          "kind": "demo",
-          "capturedAt": "2026-10-21T00:57:15.238Z",
-          "url": "https://afshinm.github.io/cactus-needle/",
-          "variants": [
-            {
-              "src": "previews/variants/1df2eb8fa5414104cb2a1fae-320.webp",
-              "width": 320,
-              "height": 200
-            },
-            {
-              "src": "previews/variants/1df2eb8fa5414104cb2a1fae-640.webp",
-              "width": 640,
-              "height": 400
-            },
-            {
-              "src": "previews/variants/1df2eb8fa5414104cb2a1fae-960.webp",
-              "width": 960,
-              "height": 600
-            }
-          ]
-        }
-      ],
-      "agentContextAttemptAt": "2026-10-21T00:44:27.232Z",
-      "agentContext": {
-        "version": 1,
-        "checkedAt": "2026-10-21T00:44:28.187Z",
-        "documents": [
-          {
-            "name": "pyproject.toml",
-            "sourceUrl": "https://github.com/cactus-compute/needle/blob/main/pyproject.toml",
-            "hash": "ecb648b2c1de390f73d3e74e8e9de8324ae474ebd8ccc5f56cd8cef7f8b4f7a0",
-            "originalBytes": 1229,
-            "truncated": false
-          },
-          {
-            "name": "requirements.txt",
-            "sourceUrl": "https://github.com/cactus-compute/needle/blob/main/requirements.txt",
-            "hash": "1e3262fd9a636a32e24d6bd3a716d931692d03877e2f2003fe8d646a2d0d6565",
-            "originalBytes": 39,
-            "truncated": false
-          },
-          {
-            "name": "LICENSE",
-            "sourceUrl": "https://github.com/cactus-compute/needle/blob/main/LICENSE",
-            "hash": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
-            "originalBytes": 11358,
-            "truncated": false
-          }
-        ]
-      },
-      "agentContextRepoUpdated": "2026-10-19T12:06:59Z",
-      "subjects": [
-        "Automation & workflows",
-        "Automotive"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [
-          "Automation & workflows",
-          "Automotive"
-        ],
-        "evidence": [
-          {
-            "subject": "Automation & workflows",
-            "source": "metadata",
-            "match": "Automation"
-          },
-          {
-            "subject": "Automotive",
-            "source": "metadata",
-            "match": "cars"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [
-          "Home automation",
-          "Apple",
-          "Mobile",
-          "MCP servers & agents",
-          "Image, audio & video AI",
-          "Maths & algorithms",
-          "Data & dashboards",
-          "Music & audio"
-        ],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://afshinm.github.io/cactus-needle/",
-        "attemptedAt": "2026-10-21T00:57:15.238Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-21T00:57:15.238Z",
-        "lastWorkingAt": "2026-10-21T00:57:15.238Z",
-        "target": "https://afshinm.github.io/cactus-needle/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-10-28T00:57:15.238Z"
-      },
-      "previewAttemptAt": "2026-10-21T00:57:15.238Z",
-      "previewCheck": {
-        "url": "https://afshinm.github.io/cactus-needle/",
-        "attemptedAt": "2026-10-21T00:57:15.238Z",
-        "consecutiveFailures": 0,
-        "status": "captured",
-        "reason": null,
-        "nextCheckAt": "2026-10-28T00:57:15.238Z"
-      },
-      "qualityPriority": false,
-      "repositoryAliases": [],
-      "repositoryEtag": "W/\"f3001032ea24e60e79d6d57f8d96fe12afd45ee37ff47d63588f278eadb7c747\"",
-      "repositoryEtagFor": "cactus-compute/needle",
-      "spaces": [],
-      "communityPosts": [],
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2092319174790185028",
-          "postId": "2092319174790185028",
-          "postedAt": "2026-08-25T18:32:19.000Z"
-        }
-      ],
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
       "availability": "available",
       "full": "kyutai-labs/pocket-tts",
       "name": "pocket-tts",
@@ -4358,6 +2920,1148 @@
         "attemptedAt": "2026-10-24T11:00:58.980Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-10-31T11:00:58.981Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "LeonardoBottonaUniTn/llmberjack",
+      "name": "llmberjack",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "Vue",
+      "stars": 0,
+      "forks": 0,
+      "created": "2025-08-07T12:23:14Z",
+      "updated": "2026-07-10T15:56:07Z",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://aclanthology.org/2026.emnlp-demos.14/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-25T11:30:07.404Z",
+      "lastAvailableAt": "2026-10-25T11:30:07.404Z",
+      "lastAttemptAt": "2026-10-25T11:30:07.404Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "LeonardoBottonaUniTn/llmberjack",
+        "postUrl": "https://x.com/i/web/status/2114289645098041764",
+        "url": "https://aclanthology.org/2026.emnlp-demos.14/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2114289645098041764",
+          "postId": "2114289645098041764",
+          "postedAt": "2026-10-25T09:35:07.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://aclanthology.org/2026.emnlp-demos.14/",
+        "attemptedAt": "2026-10-25T11:30:11.057Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-25T11:30:11.057Z",
+        "lastWorkingAt": "2026-10-25T11:30:11.057Z",
+        "target": "https://aclanthology.org/2026.emnlp-demos.14/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-01T11:30:11.057Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/a43c07e6fb0442d1d66b023a.jpg",
+          "kind": "demo",
+          "url": "https://aclanthology.org/2026.emnlp-demos.14/",
+          "capturedAt": "2026-10-25T11:30:11.057Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-25T11:30:11.057Z",
+      "previewCheck": {
+        "url": "https://aclanthology.org/2026.emnlp-demos.14/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-25T11:30:11.057Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-01T11:30:11.058Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "victorhez/ascertain",
+      "name": "ascertain",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-10-09T21:38:43Z",
+      "updated": "2026-10-15T22:36:22Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://ascertain.vercel.app",
+      "topics": [],
+      "demo": "https://ascertain.vercel.app/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-25T11:28:31.824Z",
+      "lastAvailableAt": "2026-10-25T11:28:31.824Z",
+      "lastAttemptAt": "2026-10-25T11:28:31.824Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2114284807874118017",
+          "postId": "2114284807874118017",
+          "postedAt": "2026-10-25T09:15:54.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://ascertain.vercel.app/",
+        "attemptedAt": "2026-10-25T11:28:35.134Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-25T11:28:35.134Z",
+        "lastWorkingAt": "2026-10-25T11:28:35.134Z",
+        "target": "https://ascertain.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-01T11:28:35.134Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/733db72bbdcb276b95ed8373.jpg",
+          "kind": "demo",
+          "url": "https://ascertain.vercel.app/",
+          "capturedAt": "2026-10-25T11:28:35.134Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-25T11:28:35.134Z",
+      "previewCheck": {
+        "url": "https://ascertain.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-25T11:28:35.134Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-01T11:28:35.135Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Sumit884-byte/rsume-site",
+      "name": "rsume-site",
+      "description": "Glassmorphic bento-grid portfolio built with React, Vite, Tailwind CSS, and Framer Motion.",
+      "category": "Design",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2025-08-22T11:59:17Z",
+      "updated": "2026-10-25T11:08:22Z",
+      "branch": "main",
+      "homepage": "https://rsume-site.vercel.app",
+      "topics": [],
+      "demo": "https://rsume-site.vercel.app/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-25T11:30:11.782Z",
+      "lastAvailableAt": "2026-10-25T11:30:11.782Z",
+      "lastAttemptAt": "2026-10-25T11:30:11.782Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2114277975780991389",
+          "postId": "2114277975780991389",
+          "postedAt": "2026-10-25T08:48:45.000Z"
+        }
+      ],
+      "subjects": [
+        "Portfolios & personal sites"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "Portfolios & personal sites"
+        ],
+        "evidence": [
+          {
+            "subject": "Portfolios & personal sites",
+            "source": "metadata",
+            "match": "portfolio"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://rsume-site.vercel.app/",
+        "attemptedAt": "2026-10-25T11:30:15.248Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-25T11:30:15.248Z",
+        "lastWorkingAt": "2026-10-25T11:30:15.248Z",
+        "target": "https://rsume-site.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-01T11:30:15.248Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/96baa1478b24da49a0741be3.jpg",
+          "kind": "demo",
+          "url": "https://rsume-site.vercel.app/",
+          "capturedAt": "2026-10-25T11:30:15.248Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-25T11:30:15.248Z",
+      "previewCheck": {
+        "url": "https://rsume-site.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-25T11:30:15.248Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-01T11:30:15.249Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "HackersHostel/AgentWebUI",
+      "name": "AgentWebUI",
+      "description": "The lightest web UI for OpenAI-compatible model APIs and ACP agents.",
+      "category": "Developer tools",
+      "language": "JavaScript",
+      "stars": 25,
+      "forks": 5,
+      "created": "2026-10-22T11:59:24Z",
+      "updated": "2026-10-25T10:43:38Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "agentwebui.hackershostel.com",
+      "topics": [
+        "hacktoberfest",
+        "hacktoberfest2026"
+      ],
+      "demo": "https://agentwebui.hackershostel.com/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-25T11:28:41.494Z",
+      "lastAvailableAt": "2026-10-25T11:28:41.494Z",
+      "lastAttemptAt": "2026-10-25T11:28:41.494Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "HackersHostel/AgentWebUI",
+        "postUrl": "https://x.com/i/web/status/2114269485867921589",
+        "url": "https://agentwebui.hackershostel.com/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2114269485867921589",
+          "postId": "2114269485867921589",
+          "postedAt": "2026-10-25T08:15:01.000Z"
+        }
+      ],
+      "subjects": [
+        "MCP servers & agents"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "evidence": [
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "agents"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://agentwebui.hackershostel.com/",
+        "attemptedAt": "2026-10-25T11:28:45.067Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-25T11:28:45.067Z",
+        "lastWorkingAt": "2026-10-25T11:28:45.067Z",
+        "target": "https://agentwebui.hackershostel.com/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-01T11:28:45.067Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/6920ecea04c1bf4b89f4a5bd.jpg",
+          "kind": "demo",
+          "url": "https://agentwebui.hackershostel.com/",
+          "capturedAt": "2026-10-25T11:28:45.067Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-25T11:28:45.067Z",
+      "previewCheck": {
+        "url": "https://agentwebui.hackershostel.com/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-25T11:28:45.067Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-01T11:28:45.067Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "XHToken/Spark-X2.6",
+      "name": "Spark-X2.6",
+      "description": "Spark-x2.6 open model series. Pushing the Limits of Agentic Capabilities in On-Device Models",
+      "category": "AI & machine learning",
+      "language": null,
+      "stars": 845,
+      "forks": 116,
+      "created": "2026-08-24T06:36:40Z",
+      "updated": "2026-10-20T19:43:42Z",
+      "license": "Apache-2.0",
+      "branch": "X2.6",
+      "homepage": "https://xhtoken.ai/",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "ai-model",
+        "huggingface",
+        "llamacpp",
+        "llm",
+        "llms",
+        "mlx",
+        "mlx-lm",
+        "modelscope",
+        "ollama",
+        "sglang",
+        "spark",
+        "sparkllm",
+        "transformer",
+        "vllm"
+      ],
+      "demo": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-25T11:28:37.289Z",
+      "lastAvailableAt": "2026-10-25T11:28:37.289Z",
+      "lastAttemptAt": "2026-10-25T11:28:37.289Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "XHToken/Spark-X2.6",
+        "postUrl": "https://x.com/i/web/status/2114262882980679731",
+        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2114262882980679731",
+          "postId": "2114262882980679731",
+          "postedAt": "2026-10-25T07:48:47.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2114261975836623270",
+          "postId": "2114261975836623270",
+          "postedAt": "2026-10-25T07:45:10.000Z"
+        }
+      ],
+      "subjects": [
+        "MCP servers & agents"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "AI & machine learning",
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "evidence": [
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "Agentic"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+        "attemptedAt": "2026-10-25T11:28:40.755Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-25T11:28:40.755Z",
+        "lastWorkingAt": "2026-10-25T11:28:40.755Z",
+        "target": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-01T11:28:40.755Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/1981c958a382fd8183561af2.jpg",
+          "kind": "demo",
+          "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+          "capturedAt": "2026-10-25T11:28:40.755Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-25T11:28:40.755Z",
+      "previewCheck": {
+        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-25T11:28:40.755Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-01T11:28:40.756Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "yazinsai/tilawa",
+      "name": "tilawa",
+      "description": "Offline Quran verse recognition — identify surah and ayah from audio. (Formerly offline-tarteel; renamed to Tilawa.)",
+      "category": "Other",
+      "language": "Python",
+      "stars": 344,
+      "forks": 45,
+      "created": "2026-02-25T11:00:36Z",
+      "updated": "2026-10-04T08:22:08Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://tilawa.dev",
+      "topics": [],
+      "demo": "https://tilawa.dev/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-25T11:28:56.830Z",
+      "lastAvailableAt": "2026-10-25T11:28:56.830Z",
+      "lastAttemptAt": "2026-10-25T11:28:56.830Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "yazinsai/tilawa",
+        "postUrl": "https://x.com/i/web/status/2104526089381134812",
+        "url": "https://tilawa.dev/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104526089381134812",
+          "postId": "2104526089381134812",
+          "postedAt": "2026-09-28T10:58:14.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://tilawa.dev/",
+        "attemptedAt": "2026-10-25T11:29:00.295Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-25T11:29:00.295Z",
+        "lastWorkingAt": "2026-10-25T11:29:00.295Z",
+        "target": "https://tilawa.dev/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-01T11:29:00.295Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/ec197fdd2a04e5162b1b1fe2.jpg",
+          "kind": "demo",
+          "url": "https://tilawa.dev/",
+          "capturedAt": "2026-10-25T11:29:00.295Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-25T11:29:00.295Z",
+      "previewCheck": {
+        "url": "https://tilawa.dev/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-25T11:29:00.295Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-01T11:29:00.296Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Push9828/postlens",
+      "name": "postlens",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-24T13:35:13Z",
+      "updated": "2026-09-25T06:36:30Z",
+      "branch": "main",
+      "homepage": "https://postlens-beige.vercel.app",
+      "topics": [],
+      "demo": "https://postlens-beige.vercel.app/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-25T11:30:03.016Z",
+      "lastAvailableAt": "2026-10-25T11:30:03.016Z",
+      "lastAttemptAt": "2026-10-25T11:30:03.016Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104520292156776916",
+          "postId": "2104520292156776916",
+          "postedAt": "2026-09-28T10:35:12.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://postlens-beige.vercel.app/",
+        "attemptedAt": "2026-10-25T11:30:06.573Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-25T11:30:06.573Z",
+        "lastWorkingAt": "2026-10-25T11:30:06.573Z",
+        "target": "https://postlens-beige.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-01T11:30:06.573Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/3d6ef0be4e6691db931d87dd.jpg",
+          "kind": "demo",
+          "url": "https://postlens-beige.vercel.app/",
+          "capturedAt": "2026-10-25T11:30:06.573Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-25T11:30:06.573Z",
+      "previewCheck": {
+        "url": "https://postlens-beige.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-25T11:30:06.573Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-01T11:30:06.574Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "rohitg00/ai-engineering-from-scratch",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "category": "Education",
+      "language": "Python",
+      "stars": 73491,
+      "forks": 12889,
+      "created": "2026-03-18T18:38:02Z",
+      "updated": "2026-10-23T16:14:21Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://aiengineeringfromscratch.com",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "computer-vision",
+        "course",
+        "deep-learning",
+        "dsh",
+        "from-scratch",
+        "generative-ai",
+        "llm",
+        "machine-learning",
+        "mcp",
+        "python",
+        "rea",
+        "reinforcement-learning",
+        "rust",
+        "transformers",
+        "tutorial",
+        "typescript"
+      ],
+      "demo": "https://aiengineeringfromscratch.com/index.html",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-25T11:28:45.860Z",
+      "lastAvailableAt": "2026-10-25T11:28:45.860Z",
+      "lastAttemptAt": "2026-10-25T11:28:45.860Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "rohitg00/ai-engineering-from-scratch",
+        "postUrl": "https://x.com/i/web/status/2104483718262091816",
+        "url": "https://aiengineeringfromscratch.com/index.html"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104483718262091816",
+          "postId": "2104483718262091816",
+          "postedAt": "2026-09-28T08:09:52.000Z"
+        }
+      ],
+      "subjects": [
+        "MCP servers & agents"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Education",
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "evidence": [
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "agents"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://aiengineeringfromscratch.com/index.html",
+        "attemptedAt": "2026-10-25T11:28:49.287Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-25T11:28:49.287Z",
+        "lastWorkingAt": "2026-10-25T11:28:49.287Z",
+        "target": "https://aiengineeringfromscratch.com/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-01T11:28:49.287Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/2fe557721be7835e6470d618.jpg",
+          "kind": "demo",
+          "url": "https://aiengineeringfromscratch.com/index.html",
+          "capturedAt": "2026-10-25T11:28:49.287Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-25T11:28:49.287Z",
+      "previewCheck": {
+        "url": "https://aiengineeringfromscratch.com/index.html",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-25T11:28:49.287Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-01T11:28:49.288Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "AhmedA-afk/relay_itsm",
+      "name": "relay_itsm",
+      "description": "Built for Jev Usecases",
+      "category": "Other",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-22T10:11:25Z",
+      "updated": "2026-09-22T10:26:15Z",
+      "branch": "main",
+      "homepage": "https://relay-itsm-gamma.vercel.app",
+      "topics": [],
+      "demo": "https://relay-itsm-gamma.vercel.app/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-25T11:29:58.042Z",
+      "lastAvailableAt": "2026-10-25T11:29:58.042Z",
+      "lastAttemptAt": "2026-10-25T11:29:58.042Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104475345290473902",
+          "postId": "2104475345290473902",
+          "postedAt": "2026-09-28T07:36:36.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://relay-itsm-gamma.vercel.app/",
+        "attemptedAt": "2026-10-25T11:30:01.941Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-25T11:30:01.941Z",
+        "lastWorkingAt": "2026-10-25T11:30:01.941Z",
+        "target": "https://relay-itsm-gamma.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-01T11:30:01.941Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/12af409749fe27091f6e7a49.jpg",
+          "kind": "demo",
+          "url": "https://relay-itsm-gamma.vercel.app/",
+          "capturedAt": "2026-10-25T11:30:01.941Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-25T11:30:01.941Z",
+      "previewCheck": {
+        "url": "https://relay-itsm-gamma.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-25T11:30:01.941Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-01T11:30:01.942Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "LWL-HyperTrade/hypertrade",
+      "name": "hypertrade",
+      "description": "Open-source Hyperliquid builder app (Expo + FastAPI): Privy wallets, agent signing, gasless relayer, builder fees, localization. Optional AI trading + banking modules.",
+      "category": "Developer tools",
+      "language": "TypeScript",
+      "stars": 4,
+      "forks": 2,
+      "created": "2026-08-23T08:21:19Z",
+      "updated": "2026-10-02T08:35:28Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://hypertrade.exchange",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "expo",
+        "fastapi",
+        "hyperliquid",
+        "open-source",
+        "openai",
+        "pons-v2",
+        "privy",
+        "uniswap-v4"
+      ],
+      "demo": "https://play.google.com/store/apps/details?id=com.hypertrade.app",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-25T11:29:45.166Z",
+      "lastAvailableAt": "2026-10-25T11:29:45.166Z",
+      "lastAttemptAt": "2026-10-25T11:29:45.166Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "LWL-HyperTrade/hypertrade",
+        "postUrl": "https://x.com/i/web/status/2091480559369277460",
+        "url": "https://play.google.com/store/apps/details?id=com.hypertrade.app"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2091480559369277460",
+          "postId": "2091480559369277460",
+          "postedAt": "2026-08-23T10:59:57.000Z"
+        }
+      ],
+      "subjects": [
+        "MCP servers & agents"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "evidence": [
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "agent"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://play.google.com/store/apps/details?id=com.hypertrade.app",
+        "attemptedAt": "2026-10-25T11:29:48.363Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-25T11:29:48.363Z",
+        "lastWorkingAt": "2026-10-25T11:29:48.363Z",
+        "target": "https://play.google.com/store/apps/details?id=com.hypertrade.app",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-01T11:29:48.363Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/78d76d10f9618d1b0a8c5af1.jpg",
+          "kind": "demo",
+          "url": "https://play.google.com/store/apps/details?id=com.hypertrade.app",
+          "capturedAt": "2026-10-25T11:29:48.363Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-25T11:29:48.363Z",
+      "previewCheck": {
+        "url": "https://play.google.com/store/apps/details?id=com.hypertrade.app",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-25T11:29:48.363Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-01T11:29:48.363Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "yui540/css-animations",
+      "name": "css-animations",
+      "description": "自分用のCSSアニメーションの遊び場",
+      "category": "Design",
+      "language": "HTML",
+      "stars": 524,
+      "forks": 28,
+      "created": "2025-02-25T00:58:09Z",
+      "updated": "2026-06-09T04:40:25Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "",
+      "topics": [],
+      "demo": "https://yui540.com/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-25T11:29:53.578Z",
+      "lastAvailableAt": "2026-10-25T11:29:53.578Z",
+      "lastAttemptAt": "2026-10-25T11:29:53.578Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "yui540/css-animations",
+        "postUrl": "https://x.com/i/web/status/2091464300552396850",
+        "url": "https://yui540.com/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2091464300552396850",
+          "postId": "2091464300552396850",
+          "postedAt": "2026-08-23T09:55:21.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://yui540.com/",
+        "attemptedAt": "2026-10-25T11:29:57.143Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-25T11:29:57.143Z",
+        "lastWorkingAt": "2026-10-25T11:29:57.143Z",
+        "target": "https://yui540.com/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-01T11:29:57.143Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/27b2afcad896006aa553ad60.jpg",
+          "kind": "demo",
+          "url": "https://yui540.com/",
+          "capturedAt": "2026-10-25T11:29:57.143Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-25T11:29:57.143Z",
+      "previewCheck": {
+        "url": "https://yui540.com/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-25T11:29:57.143Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-01T11:29:57.143Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "iamtechartist/Circuit-Board-City",
+      "name": "Circuit-Board-City",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "HTML",
+      "stars": 5,
+      "forks": 2,
+      "created": "2026-08-23T08:37:08Z",
+      "updated": "2026-08-23T08:43:00Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://iamtechartist.github.io/Circuit-Board-City/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-25T11:28:50.259Z",
+      "lastAvailableAt": "2026-10-25T11:28:50.259Z",
+      "lastAttemptAt": "2026-10-25T11:28:50.259Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2091447026261336459",
+          "postId": "2091447026261336459",
+          "postedAt": "2026-08-23T08:46:42.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://iamtechartist.github.io/Circuit-Board-City/",
+        "attemptedAt": "2026-10-25T11:28:55.919Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-25T11:28:55.919Z",
+        "lastWorkingAt": "2026-10-25T11:28:55.919Z",
+        "target": "https://iamtechartist.github.io/Circuit-Board-City/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-01T11:28:55.919Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/2397c152f7ef61d7d327c93f.jpg",
+          "kind": "demo",
+          "url": "https://iamtechartist.github.io/Circuit-Board-City/",
+          "capturedAt": "2026-10-25T11:28:55.919Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-25T11:28:55.919Z",
+      "previewCheck": {
+        "url": "https://iamtechartist.github.io/Circuit-Board-City/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-25T11:28:55.919Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-01T11:28:55.920Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "AshleyLab/OpenMHC",
+      "name": "OpenMHC",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "Python",
+      "stars": 100,
+      "forks": 10,
+      "created": "2026-04-28T22:25:36Z",
+      "updated": "2026-09-24T15:56:40Z",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://huggingface.co/spaces/MyHeartCounts/OpenMHC",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-25T11:29:49.243Z",
+      "lastAvailableAt": "2026-10-25T11:29:49.243Z",
+      "lastAttemptAt": "2026-10-25T11:29:49.243Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "AshleyLab/OpenMHC",
+        "postUrl": "https://x.com/i/web/status/2091319461089562847",
+        "url": "https://huggingface.co/spaces/MyHeartCounts/OpenMHC"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2091319461089562847",
+          "postId": "2091319461089562847",
+          "postedAt": "2026-08-23T00:19:49.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://huggingface.co/spaces/MyHeartCounts/OpenMHC",
+        "attemptedAt": "2026-10-25T11:29:52.800Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-25T11:29:52.800Z",
+        "lastWorkingAt": "2026-10-25T11:29:52.800Z",
+        "target": "https://huggingface.co/spaces/MyHeartCounts/OpenMHC",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-01T11:29:52.800Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/8f69c4b65532094ece16e06a.jpg",
+          "kind": "demo",
+          "url": "https://huggingface.co/spaces/MyHeartCounts/OpenMHC",
+          "capturedAt": "2026-10-25T11:29:52.800Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-25T11:29:52.800Z",
+      "previewCheck": {
+        "url": "https://huggingface.co/spaces/MyHeartCounts/OpenMHC",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-25T11:29:52.800Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-01T11:29:52.801Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
