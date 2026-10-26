@@ -91,7 +91,8 @@
       },
       "recent": {
         "start": "2026-10-19T13:01:55.186Z",
-        "end": "2026-10-25T11:26:32.449Z"
+        "end": "2026-10-25T11:26:32.449Z",
+        "nextToken": "b26v89c19zqg8o3juzlx8siw4xhmrn8kjzts7zupkguil"
       }
     }
   },
@@ -76225,14 +76226,14 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 0,
-        "reposts": 0,
+        "likes": 5,
+        "reposts": 1,
         "replies": 0,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-25T11:27:08.633Z"
+      "lastSeenAt": "2026-10-26T13:01:01.612Z"
     },
     "dex0shubham/pith": {
       "full": "dex0shubham/pith",
@@ -76256,7 +76257,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-25T11:27:08.633Z"
+      "lastSeenAt": "2026-10-26T13:01:01.612Z"
     },
     "try-cecilia/factored-hackathon-2026-cecilia": {
       "full": "try-cecilia/factored-hackathon-2026-cecilia",
@@ -76280,7 +76281,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-25T11:27:08.633Z",
+      "lastSeenAt": "2026-10-26T13:01:01.612Z",
       "entry": {
         "availability": "available",
         "full": "try-cecilia/factored-hackathon-2026-cecilia",
@@ -76363,14 +76364,14 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 7,
-        "reposts": 0,
+        "likes": 14,
+        "reposts": 1,
         "replies": 5,
         "quotes": 3
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-25T11:27:08.633Z",
+      "lastSeenAt": "2026-10-26T13:01:01.612Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-01T11:30:16.027Z"
     },
@@ -76396,14 +76397,14 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 2,
+        "likes": 6,
         "reposts": 0,
-        "replies": 0,
+        "replies": 2,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-25T11:27:08.633Z",
+      "lastSeenAt": "2026-10-26T13:01:01.612Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-01T11:30:16.675Z"
     },
@@ -76437,7 +76438,7 @@
           "repository": "LeonardoBottonaUniTn/llmberjack"
         }
       ],
-      "lastSeenAt": "2026-10-25T11:27:08.633Z",
+      "lastSeenAt": "2026-10-26T13:01:01.612Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "LeonardoBottonaUniTn/llmberjack",
@@ -76549,7 +76550,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-25T11:27:08.633Z"
+      "lastSeenAt": "2026-10-26T13:01:01.612Z"
     },
     "victorhez/ascertain": {
       "full": "victorhez/ascertain",
@@ -76566,9 +76567,9 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 10,
-        "reposts": 3,
-        "replies": 2,
+        "likes": 36,
+        "reposts": 7,
+        "replies": 4,
         "quotes": 0
       },
       "demoHints": [
@@ -76581,7 +76582,7 @@
           "repository": "victorhez/ascertain"
         }
       ],
-      "lastSeenAt": "2026-10-25T11:27:08.633Z",
+      "lastSeenAt": "2026-10-26T13:01:01.612Z",
       "entry": {
         "availability": "available",
         "full": "victorhez/ascertain",
@@ -76690,7 +76691,7 @@
           "repository": "Sumit884-byte/rsume-site"
         }
       ],
-      "lastSeenAt": "2026-10-25T11:27:08.633Z",
+      "lastSeenAt": "2026-10-26T13:01:01.612Z",
       "entry": {
         "availability": "available",
         "full": "Sumit884-byte/rsume-site",
@@ -76814,7 +76815,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-25T11:27:08.633Z",
+      "lastSeenAt": "2026-10-26T13:01:01.612Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-01T11:30:17.461Z"
     },
@@ -76848,7 +76849,7 @@
           "repository": "HackersHostel/AgentWebUI"
         }
       ],
-      "lastSeenAt": "2026-10-25T11:27:08.633Z",
+      "lastSeenAt": "2026-10-26T13:01:01.612Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "HackersHostel/AgentWebUI",
@@ -76967,7 +76968,7 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 2,
+        "likes": 5,
         "reposts": 0,
         "replies": 3,
         "quotes": 0
@@ -76982,7 +76983,7 @@
           "repository": "komal720/WanderList"
         }
       ],
-      "lastSeenAt": "2026-10-25T11:27:08.633Z",
+      "lastSeenAt": "2026-10-26T13:01:01.612Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "komal720/WanderList",
@@ -77095,7 +77096,7 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 2,
+        "likes": 3,
         "reposts": 0,
         "replies": 1,
         "quotes": 0
@@ -77110,7 +77111,7 @@
           "repository": "XHToken/Spark-X2.6"
         }
       ],
-      "lastSeenAt": "2026-10-25T11:27:08.633Z",
+      "lastSeenAt": "2026-10-26T13:01:01.612Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "XHToken/Spark-X2.6",
@@ -80164,24 +80165,6 @@
     "2111488268894396766",
     "2111471362598736271",
     "2111430362689597935",
-    "2114313369738235905",
-    "2114307035265438194",
-    "2114302090298437777",
-    "2114300747781451808",
-    "2114291863758799302",
-    "2114291596602556499",
-    "2114289980764029102",
-    "2114289645098041764",
-    "2114288675941122261",
-    "2114284807874118017",
-    "2114277975780991389",
-    "2114275601519690087",
-    "2114275477863231948",
-    "2114269485867921589",
-    "2114266839400460366",
-    "2114262882980679731",
-    "2114261975836623270",
-    "2114253891475055047",
     "2104526089381134812",
     "2104524244688253376",
     "2104523560106471617",
@@ -80212,7 +80195,25 @@
     "2091464300552396850",
     "2091447026261336459",
     "2091319461089562847",
-    "2091246897281569056"
+    "2091246897281569056",
+    "2114313369738235905",
+    "2114307035265438194",
+    "2114302090298437777",
+    "2114300747781451808",
+    "2114291863758799302",
+    "2114291596602556499",
+    "2114289980764029102",
+    "2114289645098041764",
+    "2114288675941122261",
+    "2114284807874118017",
+    "2114277975780991389",
+    "2114275601519690087",
+    "2114275477863231948",
+    "2114269485867921589",
+    "2114266839400460366",
+    "2114262882980679731",
+    "2114261975836623270",
+    "2114253891475055047"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -80249,7 +80250,7 @@
     },
     "a0153cbebcc5cf46": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
-      "posts": 609,
+      "posts": 627,
       "uniquePosts": 298,
       "newCandidates": 279,
       "validationAttempts": 259,
