@@ -76230,7 +76230,7 @@
     "zipengwu365/tomc": {
       "full": "ZipengWu365/TOMC",
       "firstSeenAt": "2026-10-25T11:27:08.633Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -76256,7 +76256,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-26T13:01:01.612Z"
+      "lastSeenAt": "2026-10-26T13:01:01.612Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-02T13:03:13.503Z"
     },
     "dex0shubham/pith": {
       "full": "dex0shubham/pith",
@@ -76554,7 +76556,7 @@
     "kongdayan/decky-agent-remote": {
       "full": "kongdayan/decky-agent-remote",
       "firstSeenAt": "2026-10-25T11:27:08.633Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -76573,7 +76575,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-26T13:01:01.612Z"
+      "lastSeenAt": "2026-10-26T13:01:01.612Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-02T13:03:17.979Z"
     },
     "victorhez/ascertain": {
       "full": "victorhez/ascertain",
@@ -77979,7 +77983,7 @@
     "chaosmigu/sonic-mania-32x": {
       "full": "ChaosMigu/Sonic-Mania-32x",
       "firstSeenAt": "2026-10-25T11:27:26.873Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -77998,7 +78002,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-25T11:27:26.873Z"
+      "lastSeenAt": "2026-10-25T11:27:26.873Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-02T13:03:17.026Z"
     },
     "edwardchennnn/memex-agent": {
       "full": "Edwardchennnn/MemeX-Agent",
@@ -78162,7 +78168,7 @@
     "img2threejs/img2threejs": {
       "full": "img2threejs/img2threejs",
       "firstSeenAt": "2026-10-25T11:27:26.873Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -78181,7 +78187,280 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-25T11:27:26.873Z"
+      "lastSeenAt": "2026-10-25T11:27:26.873Z",
+      "reusedEvidence": true,
+      "entry": {
+        "availability": "available",
+        "full": "img2threejs/img2threejs",
+        "name": "img2threejs",
+        "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+        "category": "Design",
+        "language": "Python",
+        "stars": 19269,
+        "forks": 1618,
+        "created": "2026-07-15T02:58:39Z",
+        "updated": "2026-10-21T08:27:20Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": "https://img2threejs.io",
+        "topics": [
+          "3d",
+          "ai-agents",
+          "claude-code",
+          "computer-graphics",
+          "generative",
+          "image-to-3d",
+          "procedural-generation",
+          "threejs",
+          "typescript",
+          "webgl"
+        ],
+        "demo": "https://img2threejs.io/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-26T05:02:50.848Z",
+        "lastAttemptAt": "2026-10-26T05:02:50.848Z",
+        "lastAvailableAt": "2026-10-26T05:02:50.848Z",
+        "metrics": [
+          {
+            "at": "2026-10-05T19:23:30.403Z",
+            "stars": 17539,
+            "forks": 1465
+          },
+          {
+            "at": "2026-10-07T20:14:09.917Z",
+            "stars": 17650,
+            "forks": 1474
+          },
+          {
+            "at": "2026-10-08T16:05:39.385Z",
+            "stars": 17713,
+            "forks": 1485
+          },
+          {
+            "at": "2026-10-11T00:24:48.868Z",
+            "stars": 17880,
+            "forks": 1507
+          },
+          {
+            "at": "2026-10-16T21:33:33.325Z",
+            "stars": 18242,
+            "forks": 1586
+          },
+          {
+            "at": "2026-10-18T13:31:53.879Z",
+            "stars": 18344,
+            "forks": 1678
+          },
+          {
+            "at": "2026-10-21T10:53:42.090Z",
+            "stars": 18550,
+            "forks": 1563
+          },
+          {
+            "at": "2026-10-23T21:46:46.198Z",
+            "stars": 19048,
+            "forks": 1597
+          },
+          {
+            "at": "2026-10-26T05:02:50.848Z",
+            "stars": 19269,
+            "forks": 1618
+          }
+        ],
+        "technologies": [
+          "Three.js",
+          "Python"
+        ],
+        "overview": {
+          "kind": "readme",
+          "version": 1,
+          "paragraphs": [
+            "Rebuild the object in a reference image as a code-only, procedural Three.js model.",
+            "Quality-gated, animation-ready, and deliberately token-efficient — reconstruction-by-code, not photogrammetry, mesh extraction, or downloaded art packs.",
+            "Reference images reconstructed in code as animation-ready Three.js models, running live in the browser."
+          ],
+          "features": [
+            "Scripts enforce, the model judges. The Python scripts handle validation, gating, spec authoring, PBR extraction, comparison-sheet packaging, and pipeline state. They never score visuals. The model's tokens go to one…",
+            "Zero dependencies, zero install churn. Every script is pure Python 3.10+ standard library. No pip, no PIL, no numpy, no Playwright. PNG read/write is done with struct and zlib. Nothing to install means nothing to debug…",
+            "Pass-gated generation. The code generator emits only the currently unlocked build pass. The model does not regenerate or re-read the entire model on every iteration — each step is small and scoped.",
+            "Fail fast, before codegen. A strict-quality gate blocks shallow specs before a single line of Three.js is generated, so you never spend tokens rendering a model that was underspecified from the start.",
+            "One image per review. Each pass is judged from exactly one packaged comparison sheet (reference beside render), not a scattering of screenshots."
+          ],
+          "sourceUrl": "https://github.com/img2threejs/img2threejs/blob/main/README.md",
+          "fingerprint": "0468a056e4fe479d9358003f5a198e6753ef4dc0c0202067aebc12d1d0f4cf11",
+          "extractedAt": "2026-10-23T21:46:46.242Z"
+        },
+        "overviewCheckedAt": "2026-10-23T21:46:46.242Z",
+        "projectInsights": {
+          "version": 1,
+          "whatItDoes": {
+            "text": "Rebuild the object in a reference image as a code-only, procedural Three.js model.",
+            "sourceUrl": "https://github.com/img2threejs/img2threejs/blob/main/README.md"
+          },
+          "audience": [],
+          "requirements": [
+            {
+              "kind": "account",
+              "status": "required",
+              "text": "Private environment plugin: needs a GitHub account with access to its repository and working Git credentials.",
+              "sourceUrl": "https://github.com/img2threejs/img2threejs/blob/main/README.md"
+            },
+            {
+              "kind": "paid_service",
+              "status": "required",
+              "text": "A cost ceiling — Stay at low effort and skip the presentation composer; I only need the evaluation render.",
+              "sourceUrl": "https://github.com/img2threejs/img2threejs/blob/main/README.md"
+            }
+          ],
+          "fingerprint": "0468a056e4fe479d9358003f5a198e6753ef4dc0c0202067aebc12d1d0f4cf11",
+          "sourceUrl": "https://github.com/img2threejs/img2threejs/blob/main/README.md",
+          "checkedAt": "2026-10-23T21:46:46.243Z"
+        },
+        "overviewRepoUpdated": "2026-10-21T08:27:20Z",
+        "readmeSnapshot": {
+          "version": 1,
+          "status": "saved",
+          "sourceUrl": "https://github.com/img2threejs/img2threejs/blob/main/README.md",
+          "checkedAt": "2026-10-23T21:46:46.245Z",
+          "hash": "0468a056e4fe479d9358003f5a198e6753ef4dc0c0202067aebc12d1d0f4cf11",
+          "originalBytes": 44486,
+          "storedBytes": 44486,
+          "truncated": false
+        },
+        "lastDemoCheckedAt": "2026-10-23T21:46:46.198Z",
+        "enrichmentAttemptAt": "2026-10-05T19:23:40.719Z",
+        "latestRelease": {
+          "name": "2.0.0: The Plugin Update",
+          "tag": "v2.0.0",
+          "publishedAt": "2026-09-06T02:33:15Z",
+          "url": "https://github.com/img2threejs/img2threejs/releases/tag/v2.0.0"
+        },
+        "releaseCheckedAt": "2026-10-05T19:23:40.719Z",
+        "screenshots": [
+          {
+            "src": "previews/bc2c9aefe5d588bca3efa37a.jpg",
+            "kind": "demo",
+            "capturedAt": "2026-10-21T13:33:22.935Z",
+            "url": "https://img2threejs.io/",
+            "variants": [
+              {
+                "src": "previews/variants/bc2c9aefe5d588bca3efa37a-320.webp",
+                "width": 320,
+                "height": 200
+              },
+              {
+                "src": "previews/variants/bc2c9aefe5d588bca3efa37a-640.webp",
+                "width": 640,
+                "height": 400
+              },
+              {
+                "src": "previews/variants/bc2c9aefe5d588bca3efa37a-960.webp",
+                "width": 960,
+                "height": 600
+              }
+            ]
+          }
+        ],
+        "agentContextAttemptAt": "2026-10-05T19:24:23.176Z",
+        "agentContext": {
+          "version": 1,
+          "checkedAt": "2026-10-05T19:24:25.772Z",
+          "documents": [
+            {
+              "name": "LICENSE",
+              "sourceUrl": "https://github.com/img2threejs/img2threejs/blob/main/LICENSE",
+              "hash": "4595055948a67e91177115c57e154804046878e77ff223de22accc880012827a",
+              "originalBytes": 11337,
+              "truncated": false
+            }
+          ]
+        },
+        "agentContextRepoUpdated": "2026-10-05T04:08:48Z",
+        "demoHealth": {
+          "url": "https://img2threejs.io/",
+          "attemptedAt": "2026-10-21T13:33:22.935Z",
+          "probeVersion": 3,
+          "status": "working",
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-10-28T13:33:22.935Z",
+          "checkedAt": "2026-10-21T13:33:22.935Z",
+          "lastWorkingAt": "2026-10-21T13:33:22.935Z",
+          "target": "https://img2threejs.io/",
+          "failureCount": 0
+        },
+        "previewAttemptAt": "2026-10-21T13:33:22.935Z",
+        "previewCheck": {
+          "url": "https://img2threejs.io/",
+          "attemptedAt": "2026-10-21T13:33:22.935Z",
+          "consecutiveFailures": 0,
+          "status": "captured",
+          "reason": null,
+          "nextCheckAt": "2026-10-28T13:33:22.935Z"
+        },
+        "subjects": [
+          "Animation & motion",
+          "MCP servers & agents",
+          "3D & graphics"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "Animation & motion",
+            "MCP servers & agents",
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "Animation & motion",
+              "source": "metadata",
+              "match": "animation"
+            },
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "ai agents"
+            },
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "3D"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [
+            "Games & game development",
+            "Automation & workflows",
+            "Maths & algorithms"
+          ],
+          "reviewRequired": true
+        },
+        "qualityPriority": false,
+        "platforms": [],
+        "repositoryEtag": "W/\"13af3e8fac59da8bf5c7860f0f2120f42d81ca348318cfc9916ff084d677de24\"",
+        "repositoryEtagFor": "img2threejs/img2threejs",
+        "overviewAttemptAt": "2026-10-07T23:33:23.287Z",
+        "repositoryId": 1301140808,
+        "repositoryAliases": [],
+        "spaces": [],
+        "communityPosts": [],
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2091881864743281026",
+            "postId": "2091881864743281026",
+            "postedAt": "2026-08-24T13:34:36.000Z"
+          }
+        ]
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-28T01:03:15.458Z",
+      "checkedAt": "2026-10-26T13:03:15.458Z",
+      "firstAcceptedAt": "2026-10-26T13:03:15.458Z"
     },
     "timmikeladze/reflectdb": {
       "full": "TimMikeladze/reflectdb",
@@ -78967,7 +79246,7 @@
     "vendurehq/vendure": {
       "full": "vendurehq/vendure",
       "firstSeenAt": "2026-10-26T13:01:10.912Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -79000,7 +79279,110 @@
           "repository": "vendurehq/vendure"
         }
       ],
-      "lastSeenAt": "2026-10-26T13:01:10.912Z"
+      "lastSeenAt": "2026-10-26T13:01:10.912Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "vendurehq/vendure",
+        "postUrl": "https://x.com/i/web/status/2104461460328059194",
+        "url": "https://docs.vendure.io/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "vendurehq/vendure",
+        "name": "vendure",
+        "description": "Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL",
+        "category": "Business",
+        "language": "TypeScript",
+        "stars": 8544,
+        "forks": 1536,
+        "created": "2018-06-11T14:29:20Z",
+        "updated": "2026-10-26T13:02:32Z",
+        "license": null,
+        "branch": "master",
+        "homepage": "https://www.vendure.io",
+        "topics": [
+          "ecommerce",
+          "ecommerce-api",
+          "ecommerce-framework",
+          "ecommerce-platform",
+          "graphql",
+          "graphql-commerce",
+          "headless",
+          "headless-commerce",
+          "nestjs",
+          "nodejs",
+          "nodejs-ecommerce",
+          "react",
+          "shopping-cart"
+        ],
+        "demo": "https://docs.vendure.io/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-26T13:02:58.540Z",
+        "lastAvailableAt": "2026-10-26T13:02:58.540Z",
+        "lastAttemptAt": "2026-10-26T13:02:58.540Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "vendurehq/vendure",
+          "postUrl": "https://x.com/i/web/status/2104461460328059194",
+          "url": "https://docs.vendure.io/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104461460328059194",
+            "postId": "2104461460328059194",
+            "postedAt": "2026-09-28T06:41:25.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Business",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://docs.vendure.io/",
+          "attemptedAt": "2026-10-26T13:03:02.208Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-26T13:03:02.208Z",
+          "lastWorkingAt": "2026-10-26T13:03:02.208Z",
+          "target": "https://docs.vendure.io/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-02T13:03:02.208Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/b4e6f26b700d1ad67463d893.jpg",
+            "kind": "demo",
+            "url": "https://docs.vendure.io/",
+            "capturedAt": "2026-10-26T13:03:02.208Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-26T13:03:02.208Z",
+        "previewCheck": {
+          "url": "https://docs.vendure.io/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-26T13:03:02.208Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-02T13:03:02.209Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-28T01:03:02.210Z",
+      "checkedAt": "2026-10-26T13:03:02.210Z",
+      "firstAcceptedAt": "2026-10-26T13:03:02.210Z"
     },
     "tingly-dev/tingly-box": {
       "full": "tingly-dev/tingly-box",
@@ -79029,7 +79411,7 @@
     "kon-rad/ethtokyo2026": {
       "full": "kon-rad/ethtokyo2026",
       "firstSeenAt": "2026-10-26T13:01:10.912Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -79056,12 +79438,91 @@
           "repository": "kon-rad/ethtokyo2026"
         }
       ],
-      "lastSeenAt": "2026-10-26T13:01:10.912Z"
+      "lastSeenAt": "2026-10-26T13:01:10.912Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "kon-rad/ethtokyo2026",
+        "postUrl": "https://x.com/i/web/status/2104448087158874113",
+        "url": "https://ethglobal.com/showcase/aicity-g4o8g"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "kon-rad/ethtokyo2026",
+        "name": "ethtokyo2026",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-26T11:55:53Z",
+        "updated": "2026-09-27T04:05:44Z",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://ethglobal.com/showcase/aicity-g4o8g",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-26T13:02:47.528Z",
+        "lastAvailableAt": "2026-10-26T13:02:47.528Z",
+        "lastAttemptAt": "2026-10-26T13:02:47.528Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "kon-rad/ethtokyo2026",
+          "postUrl": "https://x.com/i/web/status/2104448087158874113",
+          "url": "https://ethglobal.com/showcase/aicity-g4o8g"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104448087158874113",
+            "postId": "2104448087158874113",
+            "postedAt": "2026-09-28T05:48:17.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://ethglobal.com/showcase/aicity-g4o8g",
+          "attemptedAt": "2026-10-26T13:02:48.186Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "challenge",
+            "at": "2026-10-26T13:02:48.186Z"
+          },
+          "nextCheckAt": "2026-10-26T15:02:48.186Z"
+        },
+        "previewAttemptAt": "2026-10-26T13:02:48.186Z",
+        "previewCheck": {
+          "url": "https://ethglobal.com/showcase/aicity-g4o8g",
+          "status": "retry",
+          "reason": "challenge",
+          "attemptedAt": "2026-10-26T13:02:48.186Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-26T15:02:48.186Z"
+        }
+      },
+      "reason": "challenge",
+      "nextAttemptAt": "2026-10-26T15:02:48.186Z",
+      "checkedAt": "2026-10-26T13:02:48.186Z"
     },
     "jakeb-5/motion-graphic-skill": {
       "full": "JakeB-5/motion-graphic-skill",
       "firstSeenAt": "2026-10-26T13:01:10.912Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -79088,7 +79549,109 @@
           "repository": "JakeB-5/motion-graphic-skill"
         }
       ],
-      "lastSeenAt": "2026-10-26T13:01:10.912Z"
+      "lastSeenAt": "2026-10-26T13:01:10.912Z",
+      "entry": {
+        "availability": "available",
+        "full": "JakeB-5/motion-graphic-skill",
+        "name": "motion-graphic-skill",
+        "description": "Claude Code skill: brief + references → beat-synced single-file canvas motion graphic (HTML) with synthesized sound, mobile player and automated verification.",
+        "category": "Design",
+        "language": "HTML",
+        "stars": 6,
+        "forks": 2,
+        "created": "2026-09-28T02:54:57Z",
+        "updated": "2026-10-03T16:52:41Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [
+          "animation",
+          "canvas",
+          "claude-code",
+          "claude-skill",
+          "kinetic-typography",
+          "motion-graphics",
+          "web-audio"
+        ],
+        "demo": "https://jakeb-5.github.io/motion-graphic-skill/skills/motion-graphic/assets/engine.html",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-26T13:02:49.001Z",
+        "lastAvailableAt": "2026-10-26T13:02:49.001Z",
+        "lastAttemptAt": "2026-10-26T13:02:49.001Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104429965802713299",
+            "postId": "2104429965802713299",
+            "postedAt": "2026-09-28T04:36:16.000Z"
+          }
+        ],
+        "subjects": [
+          "Animation & motion",
+          "Mobile"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "Animation & motion",
+            "Mobile"
+          ],
+          "evidence": [
+            {
+              "subject": "Animation & motion",
+              "source": "metadata",
+              "match": "animation"
+            },
+            {
+              "subject": "Mobile",
+              "source": "metadata",
+              "match": "mobile"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://jakeb-5.github.io/motion-graphic-skill/skills/motion-graphic/assets/engine.html",
+          "attemptedAt": "2026-10-26T13:02:52.691Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-26T13:02:52.691Z",
+          "lastWorkingAt": "2026-10-26T13:02:52.691Z",
+          "target": "https://jakeb-5.github.io/motion-graphic-skill/skills/motion-graphic/assets/engine.html",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-02T13:02:52.691Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/a66d091b5830b7d945985b6c.jpg",
+            "kind": "demo",
+            "url": "https://jakeb-5.github.io/motion-graphic-skill/skills/motion-graphic/assets/engine.html",
+            "capturedAt": "2026-10-26T13:02:52.691Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-26T13:02:52.691Z",
+        "previewCheck": {
+          "url": "https://jakeb-5.github.io/motion-graphic-skill/skills/motion-graphic/assets/engine.html",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-26T13:02:52.691Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-02T13:02:52.692Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-28T01:02:52.692Z",
+      "checkedAt": "2026-10-26T13:02:52.692Z",
+      "firstAcceptedAt": "2026-10-26T13:02:52.692Z"
     },
     "blue-b/spokenlog": {
       "full": "Blue-B/SpokenLog",
@@ -79117,7 +79680,7 @@
     "poad/laya-ts-example": {
       "full": "poad/laya-ts-example",
       "firstSeenAt": "2026-10-26T13:01:10.912Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -79144,12 +79707,91 @@
           "repository": "poad/laya-ts-example"
         }
       ],
-      "lastSeenAt": "2026-10-26T13:01:10.912Z"
+      "lastSeenAt": "2026-10-26T13:01:10.912Z",
+      "entry": {
+        "availability": "available",
+        "full": "poad/laya-ts-example",
+        "name": "laya-ts-example",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-27T14:08:52Z",
+        "updated": "2026-10-26T12:49:33Z",
+        "branch": "main",
+        "homepage": "",
+        "topics": [
+          "laya",
+          "solid"
+        ],
+        "demo": "https://laya-ai.com/runtimes/nodejs",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-26T13:02:53.675Z",
+        "lastAvailableAt": "2026-10-26T13:02:53.675Z",
+        "lastAttemptAt": "2026-10-26T13:02:53.675Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104421414833136061",
+            "postId": "2104421414833136061",
+            "postedAt": "2026-09-28T04:02:18.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://laya-ai.com/runtimes/nodejs",
+          "attemptedAt": "2026-10-26T13:02:57.631Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-26T13:02:57.631Z",
+          "lastWorkingAt": "2026-10-26T13:02:57.631Z",
+          "target": "https://laya-ai.com/runtimes/nodejs",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-02T13:02:57.631Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/5b69c7cd7d1c77f2a37cefec.jpg",
+            "kind": "demo",
+            "url": "https://laya-ai.com/runtimes/nodejs",
+            "capturedAt": "2026-10-26T13:02:57.631Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-26T13:02:57.631Z",
+        "previewCheck": {
+          "url": "https://laya-ai.com/runtimes/nodejs",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-26T13:02:57.631Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-02T13:02:57.632Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-28T01:02:57.633Z",
+      "checkedAt": "2026-10-26T13:02:57.633Z",
+      "firstAcceptedAt": "2026-10-26T13:02:57.633Z"
     },
     "oskarcode/docagent-jev-comparison": {
       "full": "oskarcode/docagent-jev-comparison",
       "firstSeenAt": "2026-10-26T13:01:10.912Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -79176,7 +79818,96 @@
           "repository": "oskarcode/docagent-jev-comparison"
         }
       ],
-      "lastSeenAt": "2026-10-26T13:01:10.912Z"
+      "lastSeenAt": "2026-10-26T13:01:10.912Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "oskarcode/docagent-jev-comparison",
+        "postUrl": "https://x.com/i/web/status/2104405788760719527",
+        "url": "https://jev.oskarcode.com/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "oskarcode/docagent-jev-comparison",
+        "name": "docagent-jev-comparison",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-19T16:46:10Z",
+        "updated": "2026-09-29T17:48:08Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://jev.oskarcode.com/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-26T13:03:03.264Z",
+        "lastAvailableAt": "2026-10-26T13:03:03.264Z",
+        "lastAttemptAt": "2026-10-26T13:03:03.264Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "oskarcode/docagent-jev-comparison",
+          "postUrl": "https://x.com/i/web/status/2104405788760719527",
+          "url": "https://jev.oskarcode.com/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104405788760719527",
+            "postId": "2104405788760719527",
+            "postedAt": "2026-09-28T03:00:12.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://jev.oskarcode.com/",
+          "attemptedAt": "2026-10-26T13:03:06.917Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-26T13:03:06.917Z",
+          "lastWorkingAt": "2026-10-26T13:03:06.917Z",
+          "target": "https://jev.oskarcode.com/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-02T13:03:06.917Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/2b970f5b2010f2e6301f0a37.jpg",
+            "kind": "demo",
+            "url": "https://jev.oskarcode.com/",
+            "capturedAt": "2026-10-26T13:03:06.917Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-26T13:03:06.917Z",
+        "previewCheck": {
+          "url": "https://jev.oskarcode.com/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-26T13:03:06.917Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-02T13:03:06.918Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-28T01:03:06.919Z",
+      "checkedAt": "2026-10-26T13:03:06.919Z",
+      "firstAcceptedAt": "2026-10-26T13:03:06.919Z"
     },
     "juliancz-a/deadlock-playground": {
       "full": "juliancz-a/deadlock-playground",
@@ -79205,7 +79936,7 @@
     "abrahamalgorithm/snappdf": {
       "full": "AbrahamAlgorithm/snappdf",
       "firstSeenAt": "2026-10-26T13:01:20.017Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -79232,12 +79963,118 @@
           "repository": "AbrahamAlgorithm/snappdf"
         }
       ],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z"
+      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "AbrahamAlgorithm/snappdf",
+        "postUrl": "https://x.com/i/web/status/2114673181810442595",
+        "url": "https://snappdf.abrahamalgorithm.tech/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "AbrahamAlgorithm/snappdf",
+        "name": "snappdf",
+        "description": "Privacy-first PDF tools that run 100% in the browser",
+        "category": "Developer tools",
+        "language": "TypeScript",
+        "stars": 23,
+        "forks": 2,
+        "created": "2026-10-19T11:15:21Z",
+        "updated": "2026-10-23T19:50:04Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://snappdf.abrahamalgorithm.tech",
+        "topics": [],
+        "demo": "https://snappdf.abrahamalgorithm.tech/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-26T13:02:16.131Z",
+        "lastAvailableAt": "2026-10-26T13:02:16.131Z",
+        "lastAttemptAt": "2026-10-26T13:02:16.131Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "AbrahamAlgorithm/snappdf",
+          "postUrl": "https://x.com/i/web/status/2114673181810442595",
+          "url": "https://snappdf.abrahamalgorithm.tech/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2114673181810442595",
+            "postId": "2114673181810442595",
+            "postedAt": "2026-10-26T10:59:09.000Z"
+          }
+        ],
+        "subjects": [
+          "Writing & documents",
+          "Privacy & security"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Writing & documents",
+            "Privacy & security"
+          ],
+          "evidence": [
+            {
+              "subject": "Writing & documents",
+              "source": "metadata",
+              "match": "PDF tools"
+            },
+            {
+              "subject": "Privacy & security",
+              "source": "metadata",
+              "match": "Privacy first"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://snappdf.abrahamalgorithm.tech/",
+          "attemptedAt": "2026-10-26T13:02:19.598Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-26T13:02:19.598Z",
+          "lastWorkingAt": "2026-10-26T13:02:19.598Z",
+          "target": "https://snappdf.abrahamalgorithm.tech/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-02T13:02:19.598Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/68812eee9ff84fb0c56c0e4f.jpg",
+            "kind": "demo",
+            "url": "https://snappdf.abrahamalgorithm.tech/",
+            "capturedAt": "2026-10-26T13:02:19.598Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-26T13:02:19.598Z",
+        "previewCheck": {
+          "url": "https://snappdf.abrahamalgorithm.tech/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-26T13:02:19.598Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-02T13:02:19.599Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-28T01:02:19.601Z",
+      "checkedAt": "2026-10-26T13:02:19.601Z",
+      "firstAcceptedAt": "2026-10-26T13:02:19.601Z"
     },
     "samg-coder/bakedvoxellighting": {
       "full": "SamG-Coder/BakedVoxelLighting",
       "firstSeenAt": "2026-10-26T13:01:20.017Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -79271,12 +80108,98 @@
           "repository": "SamG-Coder/BakedVoxelLighting"
         }
       ],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z"
+      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "entry": {
+        "availability": "available",
+        "full": "SamG-Coder/BakedVoxelLighting",
+        "name": "BakedVoxelLighting",
+        "description": "Desktop Three.js woodland with browser GPU baking, indexed streaming, vegetation HLOD and a 24-minute day/night cycle",
+        "category": "Other",
+        "language": "JavaScript",
+        "stars": 24,
+        "forks": 7,
+        "created": "2026-10-24T02:48:12Z",
+        "updated": "2026-10-26T10:05:55Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://samg-coder.github.io/BakedVoxelLighting/",
+        "topics": [],
+        "demo": "https://samg-coder.github.io/BakedVoxelLighting/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-26T13:02:20.550Z",
+        "lastAvailableAt": "2026-10-26T13:02:20.550Z",
+        "lastAttemptAt": "2026-10-26T13:02:20.550Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2114664832947695695",
+            "postId": "2114664832947695695",
+            "postedAt": "2026-10-26T10:25:59.000Z"
+          },
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2113889415718416484",
+            "postId": "2113889415718416484",
+            "postedAt": "2026-10-24T07:04:45.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [
+            "Streaming"
+          ],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://samg-coder.github.io/BakedVoxelLighting/",
+          "attemptedAt": "2026-10-26T13:02:41.218Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-26T13:02:41.218Z",
+          "lastWorkingAt": "2026-10-26T13:02:41.218Z",
+          "target": "https://samg-coder.github.io/BakedVoxelLighting/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-02T13:02:41.218Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/1f43fa8f5ed6053a3880dcd7.jpg",
+            "kind": "demo",
+            "url": "https://samg-coder.github.io/BakedVoxelLighting/",
+            "capturedAt": "2026-10-26T13:02:41.218Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-26T13:02:41.218Z",
+        "previewCheck": {
+          "url": "https://samg-coder.github.io/BakedVoxelLighting/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-26T13:02:41.218Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-02T13:02:41.219Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-28T01:02:41.220Z",
+      "checkedAt": "2026-10-26T13:02:41.220Z",
+      "firstAcceptedAt": "2026-10-26T13:02:41.220Z"
     },
     "dannymac180/skills": {
       "full": "DannyMac180/skills",
       "firstSeenAt": "2026-10-26T13:01:20.017Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -79295,12 +80218,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z"
+      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-02T13:03:09.076Z"
     },
     "ebony-vinyl/dsh-our-free-model": {
       "full": "Ebony-Vinyl/dsh-our-free-model",
       "firstSeenAt": "2026-10-26T13:01:20.017Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -79319,12 +80244,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z"
+      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-02T13:03:07.926Z"
     },
     "tannermidd/pi-pocket": {
       "full": "TannerMidd/pi-pocket",
       "firstSeenAt": "2026-10-26T13:01:20.017Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -79343,12 +80270,298 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z"
+      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "reusedEvidence": true,
+      "entry": {
+        "availability": "available",
+        "full": "TannerMidd/pi-pocket",
+        "name": "pi-pocket",
+        "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
+        "category": "AI & machine learning",
+        "language": "TypeScript",
+        "stars": 662,
+        "forks": 61,
+        "created": "2026-10-04T02:29:57Z",
+        "updated": "2026-10-26T04:36:13Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://tannermidd.github.io/pi-pocket/",
+        "topics": [
+          "ai-agent",
+          "coding-agent",
+          "mobile",
+          "multiplayer",
+          "omarchy",
+          "pi",
+          "pi-durable",
+          "pwa",
+          "self-hosted"
+        ],
+        "demo": "https://tannermidd.github.io/pi-pocket/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-26T05:06:10.128Z",
+        "lastAttemptAt": "2026-10-26T05:06:10.128Z",
+        "lastAvailableAt": "2026-10-26T05:06:10.128Z",
+        "metrics": [
+          {
+            "at": "2026-10-05T19:22:01.682Z",
+            "stars": 97,
+            "forks": 4
+          },
+          {
+            "at": "2026-10-07T20:12:49.426Z",
+            "stars": 190,
+            "forks": 11
+          },
+          {
+            "at": "2026-10-09T22:04:22.220Z",
+            "stars": 311,
+            "forks": 21
+          },
+          {
+            "at": "2026-10-10T05:43:39.580Z",
+            "stars": 311,
+            "forks": 22
+          },
+          {
+            "at": "2026-10-11T04:29:35.659Z",
+            "stars": 333,
+            "forks": 22
+          },
+          {
+            "at": "2026-10-15T21:45:53.542Z",
+            "stars": 412,
+            "forks": 32
+          },
+          {
+            "at": "2026-10-18T22:44:35.632Z",
+            "stars": 485,
+            "forks": 41
+          },
+          {
+            "at": "2026-10-20T19:38:40.582Z",
+            "stars": 542,
+            "forks": 49
+          },
+          {
+            "at": "2026-10-22T23:29:07.115Z",
+            "stars": 586,
+            "forks": 55
+          },
+          {
+            "at": "2026-10-25T21:14:08.028Z",
+            "stars": 648,
+            "forks": 61
+          },
+          {
+            "at": "2026-10-26T05:06:10.128Z",
+            "stars": 662,
+            "forks": 61
+          }
+        ],
+        "technologies": [],
+        "overview": {
+          "kind": "readme",
+          "version": 1,
+          "paragraphs": [
+            "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable.",
+            "Runs on your own machine or directly on your phone. No cloud VM."
+          ],
+          "features": [
+            "Durable. Every model call, tool call, and subagent is stored as it happens. Restart the server mid-run, and the work continues.",
+            "Multiplayer. Share a live session with presence, a side chat Pi does not see, invites, and roles.",
+            "Made for phones. Push notifications, dictation, sharing into Pi from other apps, and a home-screen app.",
+            "PiP. An assistant that starts, follows, and reports on your other sessions, and watches GitHub for you.",
+            "Your models. Pi's own providers, sign-ins, skills, and prompt templates, with the model chosen per session."
+          ],
+          "sourceUrl": "https://github.com/TannerMidd/pi-pocket/blob/main/README.md",
+          "fingerprint": "3d3ca7ade46e1576e66fd55c6acda1a189f4f58f55db5434122613d48786e377",
+          "extractedAt": "2026-10-25T21:14:08.423Z"
+        },
+        "overviewCheckedAt": "2026-10-26T05:06:10.242Z",
+        "projectInsights": {
+          "version": 1,
+          "whatItDoes": {
+            "text": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable.",
+            "sourceUrl": "https://github.com/TannerMidd/pi-pocket/blob/main/README.md"
+          },
+          "audience": [
+            {
+              "text": "Made for phones. Push notifications, dictation, sharing into Pi from other apps, and a home-screen app.",
+              "sourceUrl": "https://github.com/TannerMidd/pi-pocket/blob/main/README.md"
+            }
+          ],
+          "requirements": [
+            {
+              "kind": "account",
+              "status": "required",
+              "text": "Sign in to a provider with Pi first (pi, then /login), or later from the app's Providers sheet.",
+              "sourceUrl": "https://github.com/TannerMidd/pi-pocket/blob/main/README.md"
+            },
+            {
+              "kind": "account",
+              "status": "required",
+              "text": "The launcher asks how your devices should connect, then prints a sign-in link and a QR code.",
+              "sourceUrl": "https://github.com/TannerMidd/pi-pocket/blob/main/README.md"
+            }
+          ],
+          "fingerprint": "3d3ca7ade46e1576e66fd55c6acda1a189f4f58f55db5434122613d48786e377",
+          "sourceUrl": "https://github.com/TannerMidd/pi-pocket/blob/main/README.md",
+          "checkedAt": "2026-10-26T05:06:10.242Z"
+        },
+        "overviewRepoUpdated": "2026-10-26T04:36:13Z",
+        "readmeSnapshot": {
+          "version": 1,
+          "status": "saved",
+          "sourceUrl": "https://github.com/TannerMidd/pi-pocket/blob/main/README.md",
+          "checkedAt": "2026-10-26T05:06:10.243Z",
+          "hash": "3d3ca7ade46e1576e66fd55c6acda1a189f4f58f55db5434122613d48786e377",
+          "originalBytes": 6812,
+          "storedBytes": 6812,
+          "truncated": false
+        },
+        "lastDemoCheckedAt": "2026-10-26T05:06:10.128Z",
+        "demoHealth": {
+          "url": "https://tannermidd.github.io/pi-pocket/",
+          "attemptedAt": "2026-10-26T05:24:18.934Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-26T05:24:18.934Z",
+          "lastWorkingAt": "2026-10-26T05:24:18.934Z",
+          "target": "https://tannermidd.github.io/pi-pocket/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-02T05:24:18.934Z"
+        },
+        "previewAttemptAt": "2026-10-26T05:24:18.935Z",
+        "previewCheck": {
+          "url": "https://tannermidd.github.io/pi-pocket/",
+          "attemptedAt": "2026-10-26T05:24:18.935Z",
+          "consecutiveFailures": 0,
+          "status": "captured",
+          "reason": null,
+          "nextCheckAt": "2026-11-02T05:24:18.935Z"
+        },
+        "subjects": [
+          "Mobile",
+          "MCP servers & agents",
+          "Browser extensions & PWAs",
+          "Self-hosted apps"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [
+            "Mobile",
+            "MCP servers & agents",
+            "Browser extensions & PWAs",
+            "Self-hosted apps"
+          ],
+          "evidence": [
+            {
+              "subject": "Mobile",
+              "source": "metadata",
+              "match": "mobile"
+            },
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "agents"
+            },
+            {
+              "subject": "Browser extensions & PWAs",
+              "source": "metadata",
+              "match": "pwa"
+            },
+            {
+              "subject": "Self-hosted apps",
+              "source": "metadata",
+              "match": "self hosted"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [
+            "Android",
+            "Apple",
+            "Templates & UI components"
+          ],
+          "reviewRequired": true
+        },
+        "qualityPriority": false,
+        "platforms": [],
+        "repositoryEtag": "W/\"3c4cae0747f456d6ffc0580dc550c3a790040edbc81fa05228824ff87ee8e2e4\"",
+        "repositoryEtagFor": "TannerMidd/pi-pocket",
+        "overviewAttemptAt": "2026-10-07T20:16:29.552Z",
+        "enrichmentAttemptAt": "2026-10-08T09:27:08.589Z",
+        "latestRelease": {
+          "name": "Pi Pocket 0.11.0",
+          "tag": "v0.11.0",
+          "publishedAt": "2026-10-07T23:20:28Z",
+          "url": "https://github.com/TannerMidd/pi-pocket/releases/tag/v0.11.0"
+        },
+        "releaseCheckedAt": "2026-10-08T09:27:08.589Z",
+        "screenshots": [
+          {
+            "src": "previews/cdd6fe014cf91ba146f44468.jpg",
+            "kind": "demo",
+            "capturedAt": "2026-10-26T05:24:18.935Z",
+            "url": "https://tannermidd.github.io/pi-pocket/"
+          }
+        ],
+        "demoLinkRepair": {
+          "previous": "https://x.com/badlogicgames/status/2106452296087302173",
+          "url": "https://tannermidd.github.io/pi-pocket/",
+          "checkedAt": "2026-10-26T05:24:18.934Z",
+          "source": "Repository README"
+        },
+        "repositoryId": 1403805593,
+        "agentContextAttemptAt": "2026-10-20T21:40:13.128Z",
+        "agentContext": {
+          "version": 1,
+          "checkedAt": "2026-10-20T21:40:16.944Z",
+          "documents": [
+            {
+              "name": "package.json",
+              "sourceUrl": "https://github.com/TannerMidd/pi-pocket/blob/main/package.json",
+              "hash": "1b79d5a70faf8565e269aa054f2b85659af5257ca22b5bbd2e868765e00c7a9d",
+              "originalBytes": 1902,
+              "truncated": false
+            },
+            {
+              "name": "LICENSE",
+              "sourceUrl": "https://github.com/TannerMidd/pi-pocket/blob/main/LICENSE",
+              "hash": "41384dc5cf15ef69653ce54c918e0e90e6771eec108ab080ab02021f56b07ebe",
+              "originalBytes": 1073,
+              "truncated": false
+            }
+          ]
+        },
+        "agentContextRepoUpdated": "2026-10-20T14:12:57Z",
+        "repositoryAliases": [],
+        "spaces": [],
+        "communityPosts": [],
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2114195235475730799",
+            "postId": "2114195235475730799",
+            "postedAt": "2026-10-25T03:19:58.000Z"
+          }
+        ]
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-28T01:03:11.353Z",
+      "checkedAt": "2026-10-26T13:03:11.353Z",
+      "firstAcceptedAt": "2026-10-26T13:03:11.353Z"
     },
     "tomismeta/octra-sqlite": {
       "full": "tomismeta/octra-sqlite",
       "firstSeenAt": "2026-10-26T13:01:20.017Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -79375,12 +80588,122 @@
           "repository": "tomismeta/octra-sqlite"
         }
       ],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z"
+      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "tomismeta/octra-sqlite",
+        "postUrl": "https://x.com/i/web/status/2114074936209990077",
+        "url": "https://crates.io/crates/octra-sqlite"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "tomismeta/octra-sqlite",
+        "name": "octra-sqlite",
+        "description": "Real SQLite inside an Octra Circle, with a Rust CLI and client library",
+        "category": "Developer tools",
+        "language": "Rust",
+        "stars": 6,
+        "forks": 2,
+        "created": "2026-06-25T20:30:00Z",
+        "updated": "2026-10-22T22:25:40Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "",
+        "topics": [
+          "blockchain",
+          "database",
+          "octra",
+          "rust",
+          "sql",
+          "sqlite",
+          "sqlite-vfs",
+          "vfs",
+          "wasm",
+          "webassembly"
+        ],
+        "demo": "https://crates.io/crates/octra-sqlite",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-26T13:02:42.478Z",
+        "lastAvailableAt": "2026-10-26T13:02:42.478Z",
+        "lastAttemptAt": "2026-10-26T13:02:42.478Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "tomismeta/octra-sqlite",
+          "postUrl": "https://x.com/i/web/status/2114074936209990077",
+          "url": "https://crates.io/crates/octra-sqlite"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2114074936209990077",
+            "postId": "2114074936209990077",
+            "postedAt": "2026-10-24T19:21:57.000Z"
+          }
+        ],
+        "subjects": [
+          "Crypto & blockchain"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Crypto & blockchain"
+          ],
+          "evidence": [
+            {
+              "subject": "Crypto & blockchain",
+              "source": "metadata",
+              "match": "blockchain"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://crates.io/crates/octra-sqlite",
+          "attemptedAt": "2026-10-26T13:02:46.351Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-26T13:02:46.351Z",
+          "lastWorkingAt": "2026-10-26T13:02:46.351Z",
+          "target": "https://crates.io/crates/octra-sqlite",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-02T13:02:46.351Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/7bf1cdc0316747495dd86ac9.jpg",
+            "kind": "demo",
+            "url": "https://crates.io/crates/octra-sqlite",
+            "capturedAt": "2026-10-26T13:02:46.351Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-26T13:02:46.351Z",
+        "previewCheck": {
+          "url": "https://crates.io/crates/octra-sqlite",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-26T13:02:46.351Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-02T13:02:46.353Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-28T01:02:46.354Z",
+      "checkedAt": "2026-10-26T13:02:46.354Z",
+      "firstAcceptedAt": "2026-10-26T13:02:46.354Z"
     },
     "tokio-rs/topcoat": {
       "full": "tokio-rs/topcoat",
       "firstSeenAt": "2026-10-26T13:01:20.017Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -79399,12 +80722,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z"
+      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-02T13:03:10.756Z"
     },
     "maxliu22/motion2mixamorig": {
       "full": "MaxLiu22/Motion2MixamoRig",
       "firstSeenAt": "2026-10-26T13:01:20.017Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -79423,12 +80748,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z"
+      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-02T13:03:09.893Z"
     },
     "aurthurm/goose-web": {
       "full": "aurthurm/goose-web",
       "firstSeenAt": "2026-10-26T13:01:20.017Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -79447,12 +80774,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z"
+      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-02T13:03:12.706Z"
     },
     "dazdenii/cleanyourtv-studio": {
       "full": "dazdenii/cleanyourtv-studio",
       "firstSeenAt": "2026-10-26T13:01:20.017Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -79469,12 +80798,14 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-26T13:01:20.017Z"
+      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-02T13:03:14.282Z"
     },
     "gathin23/cleanyourtv": {
       "full": "Gathin23/cleanyourtv",
       "firstSeenAt": "2026-10-26T13:01:20.017Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -79491,7 +80822,9 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-26T13:01:20.017Z"
+      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-02T13:03:15.093Z"
     }
   },
   "lastRun": {
@@ -80809,8 +82142,8 @@
       "posts": 281,
       "uniquePosts": 278,
       "newCandidates": 322,
-      "validationAttempts": 322,
-      "accepted": 126
+      "validationAttempts": 324,
+      "accepted": 127
     },
     "ac3eb65e96558e14": {
       "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
@@ -80825,16 +82158,16 @@
       "posts": 264,
       "uniquePosts": 43,
       "newCandidates": 35,
-      "validationAttempts": 26,
-      "accepted": 8
+      "validationAttempts": 37,
+      "accepted": 12
     },
     "a0153cbebcc5cf46": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "posts": 640,
       "uniquePosts": 309,
       "newCandidates": 287,
-      "validationAttempts": 259,
-      "accepted": 123
+      "validationAttempts": 266,
+      "accepted": 127
     }
   },
   "demoSeeds": {
@@ -81156,7 +82489,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-25T08:30:46.359Z",
+      "nextAttemptAt": "2026-11-02T13:02:11.908Z",
       "reason": "no_repository_link"
     },
     "https://lgs1920.github.io/timeline": {
@@ -81200,7 +82533,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-25T08:30:47.076Z",
+      "nextAttemptAt": "2026-11-02T13:02:13.160Z",
       "reason": "no_repository_link"
     },
     "https://kucha-5.github.io/Project-Zero-web-version/": {
@@ -81222,7 +82555,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-25T08:30:47.659Z",
+      "nextAttemptAt": "2026-11-02T13:02:13.814Z",
       "reason": "no_repository_link"
     },
     "https://kucha11451.itch.io/project-zero-mobile-version": {
@@ -81244,7 +82577,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-25T08:30:47.862Z",
+      "nextAttemptAt": "2026-11-02T13:02:14.200Z",
       "reason": "no_repository_link"
     },
     "https://kucha-5.github.io/PZ-Mobile-version/": {
@@ -81266,7 +82599,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-25T08:30:48.165Z",
+      "nextAttemptAt": "2026-11-02T13:02:14.571Z",
       "reason": "no_repository_link"
     },
     "https://elon-musk12.github.io/My-personal-AI/": {
@@ -81535,6 +82868,6 @@
   "lastDemoDiscovery": {
     "checked": 5,
     "resolved": 0,
-    "at": "2026-10-25T11:28:30.608Z"
+    "at": "2026-10-26T13:02:14.951Z"
   }
 }
