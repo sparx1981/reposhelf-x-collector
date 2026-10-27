@@ -1,15 +1,15 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-26T13:03:18.015Z
+Checked: 2026-10-27T02:28:44.150Z
 
-Quality-ready repositories: **22**
+Quality-ready repositories: **32**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
-| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 555 | 317 | 197 | 63 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 281 | 278 | 322 | 127 |
+| url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 589 | 351 | 229 | 68 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 296 | 293 | 347 | 132 |
 | (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 20 |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 264 | 43 | 35 | 12 |
 | url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 640 | 309 | 287 | 127 |
@@ -40,5 +40,15 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [SamG-Coder/BakedVoxelLighting](https://github.com/SamG-Coder/BakedVoxelLighting) | [Try demo](https://samg-coder.github.io/BakedVoxelLighting/) | [Screenshot](previews/1f43fa8f5ed6053a3880dcd7.jpg) | [Source](https://x.com/i/web/status/2114664832947695695) |
 | [TannerMidd/pi-pocket](https://github.com/TannerMidd/pi-pocket) | [Try demo](https://tannermidd.github.io/pi-pocket/) | [Screenshot](previews/cdd6fe014cf91ba146f44468.jpg) | [Source](https://x.com/i/web/status/2114195235475730799) |
 | [tomismeta/octra-sqlite](https://github.com/tomismeta/octra-sqlite) | [Try demo](https://crates.io/crates/octra-sqlite) | [Screenshot](previews/7bf1cdc0316747495dd86ac9.jpg) | [Source](https://x.com/i/web/status/2114074936209990077) |
+| [klahrich/replyslip](https://github.com/klahrich/replyslip) | [Try demo](https://replyslip.com/?ref=x) | [Screenshot](previews/0c13da4e2d7c2a591205f175.jpg) | [Source](https://x.com/i/web/status/2114864885511110672) |
+| [rfb/fm1-time-signal-source](https://github.com/rfb/fm1-time-signal-source) | [Try demo](https://rfb.github.io/fm1-time-signal-source/) | [Screenshot](previews/1e40df3b4d323218e7f0512c.jpg) | [Source](https://x.com/i/web/status/2114859049846243503) |
+| [armendzekjiri/brainitive](https://github.com/armendzekjiri/brainitive) | [Try demo](https://www.brainitive.app/) | [Screenshot](previews/5f1049515580a945976dc0cc.jpg) | [Source](https://x.com/i/web/status/2114846116420452790) |
+| [ramenprotokol/arrhythmia-lab](https://github.com/ramenprotokol/arrhythmia-lab) | [Try demo](https://arrhythmia-lab.pages.dev/) | [Screenshot](previews/1cb5f57df127296490cd800f.jpg) | [Source](https://x.com/i/web/status/2105077332486898008) |
+| [zebradotsol/zebra-labs](https://github.com/zebradotsol/zebra-labs) | [Try demo](https://www.zebraz.fun/) | [Screenshot](previews/a62a85e8f488b6144248fa71.jpg) | [Source](https://x.com/i/web/status/2105039438627696776) |
+| [matsuoka-601/Particles4All](https://github.com/matsuoka-601/Particles4All) | [Try demo](https://particles4all.netlify.app/) | [Screenshot](previews/ad53c5c34d7dd6dd588c4339.jpg) | [Source](https://x.com/i/web/status/2091032503343857841) |
+| [radames/relight-three-js-transformers-js](https://github.com/radames/relight-three-js-transformers-js) | [Try demo](https://radames.github.io/relight-three-js-transformers-js/) | [Screenshot](previews/bdd3459fe01b34470368be37.jpg) | [Source](https://x.com/i/web/status/2090704142813794771) |
+| [DBraun/SynAPSE](https://github.com/DBraun/SynAPSE) | [Try demo](https://dbraun.github.io/SynAPSE) | [Screenshot](previews/1a1e75e79c9aec6ac097638f.jpg) | [Source](https://x.com/i/web/status/2090499012302700745) |
+| [furkankly/rataflow](https://github.com/furkankly/rataflow) | [Try demo](https://rataflow.furkankly.dev/) | [Screenshot](previews/6594aa54cf720b1e0b8aeca4.jpg) | [Source](https://x.com/i/web/status/2090475360487878996) |
+| [youngcrypton/ProofFlow](https://github.com/youngcrypton/ProofFlow) | [Try demo](https://proofflow-inky.vercel.app/) | [Screenshot](previews/6256c5580aa76bc88129069a.jpg) | [Source](https://x.com/i/web/status/2090138024906473764) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.

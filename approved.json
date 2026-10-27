@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-26T13:03:18.015Z",
+  "updatedAt": "2026-10-27T02:28:44.150Z",
   "runtimeRevision": "ed71211be3a262dd1b928f3740f110b041b3708e",
   "checked": 20,
   "repositories": [
@@ -2340,6 +2340,932 @@
         "attemptedAt": "2026-10-26T13:02:46.351Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-11-02T13:02:46.353Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "klahrich/replyslip",
+      "name": "replyslip",
+      "description": "Open-source relay for sending tasks between AI agents over MCP, with every result checked against a JSON Schema. Works with Claude Code, Codex and any MCP agent. Free hosted plan at replyslip.com.",
+      "category": "Productivity",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-10-24T13:25:17Z",
+      "updated": "2026-10-26T23:53:12Z",
+      "license": "AGPL-3.0",
+      "branch": "main",
+      "homepage": "https://replyslip.com",
+      "topics": [
+        "a2a",
+        "agent-communication",
+        "agent-orchestration",
+        "agent-to-agent",
+        "agentic-ai",
+        "ai-agent-tools",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "herdr",
+        "json-schema",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "multi-agent",
+        "multi-agent-systems",
+        "nextjs",
+        "structured-output",
+        "typescript"
+      ],
+      "demo": "https://replyslip.com/?ref=x",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-27T02:28:26.796Z",
+      "lastAvailableAt": "2026-10-27T02:28:26.796Z",
+      "lastAttemptAt": "2026-10-27T02:28:26.796Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "klahrich/replyslip",
+        "postUrl": "https://x.com/i/web/status/2114864885511110672",
+        "url": "https://replyslip.com/?ref=x"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2114864885511110672",
+          "postId": "2114864885511110672",
+          "postedAt": "2026-10-26T23:40:55.000Z"
+        }
+      ],
+      "subjects": [
+        "MCP servers & agents"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Productivity",
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "evidence": [
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "AI agents"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://replyslip.com/?ref=x",
+        "attemptedAt": "2026-10-27T02:28:30.156Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-27T02:28:30.156Z",
+        "lastWorkingAt": "2026-10-27T02:28:30.156Z",
+        "target": "https://replyslip.com/?ref=x",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:30.156Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/0c13da4e2d7c2a591205f175.jpg",
+          "kind": "demo",
+          "url": "https://replyslip.com/?ref=x",
+          "capturedAt": "2026-10-27T02:28:30.156Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-27T02:28:30.156Z",
+      "previewCheck": {
+        "url": "https://replyslip.com/?ref=x",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-27T02:28:30.156Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:30.156Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "rfb/fm1-time-signal-source",
+      "name": "fm1-time-signal-source",
+      "description": "Implemented a time signal source on the mvave fm1",
+      "category": "Other",
+      "language": "C",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-10-25T19:50:07Z",
+      "updated": "2026-10-25T20:24:48Z",
+      "license": null,
+      "branch": "tone-source",
+      "homepage": "https://rfb.github.io/fm1-time-signal-source/",
+      "topics": [
+        "firmware",
+        "fm1",
+        "m-vave",
+        "timezone"
+      ],
+      "demo": "https://rfb.github.io/fm1-time-signal-source/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-27T02:27:56.549Z",
+      "lastAvailableAt": "2026-10-27T02:27:56.549Z",
+      "lastAttemptAt": "2026-10-27T02:27:56.549Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2114859049846243503",
+          "postId": "2114859049846243503",
+          "postedAt": "2026-10-26T23:17:44.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://rfb.github.io/fm1-time-signal-source/",
+        "attemptedAt": "2026-10-27T02:27:59.704Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-27T02:27:59.704Z",
+        "lastWorkingAt": "2026-10-27T02:27:59.704Z",
+        "target": "https://rfb.github.io/fm1-time-signal-source/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-03T02:27:59.704Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/1e40df3b4d323218e7f0512c.jpg",
+          "kind": "demo",
+          "url": "https://rfb.github.io/fm1-time-signal-source/",
+          "capturedAt": "2026-10-27T02:27:59.704Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-27T02:27:59.704Z",
+      "previewCheck": {
+        "url": "https://rfb.github.io/fm1-time-signal-source/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-27T02:27:59.704Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-03T02:27:59.705Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "armendzekjiri/brainitive",
+      "name": "brainitive",
+      "description": "Open-source project workspace: Kanban & Scrum boards, docs & wiki, Excalidraw whiteboards and Gantt plans in one app. MCP server for Claude/ChatGPT. Self-host with Docker (AGPL-3.0).",
+      "category": "Design",
+      "language": "PHP",
+      "stars": 34,
+      "forks": 0,
+      "created": "2026-02-23T17:37:51Z",
+      "updated": "2026-10-27T01:31:35Z",
+      "license": "AGPL-3.0",
+      "branch": "main",
+      "homepage": "https://www.brainitive.app/",
+      "topics": [],
+      "demo": "https://www.brainitive.app/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-27T02:28:30.768Z",
+      "lastAvailableAt": "2026-10-27T02:28:30.768Z",
+      "lastAttemptAt": "2026-10-27T02:28:30.768Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "armendzekjiri/brainitive",
+        "postUrl": "https://x.com/i/web/status/2114846116420452790",
+        "url": "https://www.brainitive.app/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2114846116420452790",
+          "postId": "2114846116420452790",
+          "postedAt": "2026-10-26T22:26:20.000Z"
+        }
+      ],
+      "subjects": [
+        "MCP servers & agents",
+        "Self-hosted apps"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "MCP servers & agents",
+          "Self-hosted apps"
+        ],
+        "evidence": [
+          {
+            "subject": "MCP servers & agents",
+            "source": "metadata",
+            "match": "MCP"
+          },
+          {
+            "subject": "Self-hosted apps",
+            "source": "metadata",
+            "match": "Self host"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://www.brainitive.app/",
+        "attemptedAt": "2026-10-27T02:28:34.840Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-27T02:28:34.840Z",
+        "lastWorkingAt": "2026-10-27T02:28:34.840Z",
+        "target": "https://www.brainitive.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:34.840Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/5f1049515580a945976dc0cc.jpg",
+          "kind": "demo",
+          "url": "https://www.brainitive.app/",
+          "capturedAt": "2026-10-27T02:28:34.840Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-27T02:28:34.840Z",
+      "previewCheck": {
+        "url": "https://www.brainitive.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-27T02:28:34.840Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:34.840Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "ramenprotokol/arrhythmia-lab",
+      "name": "arrhythmia-lab",
+      "description": "A live 3D heart on your GPU: start a spiral wave, watch it break into fibrillation, and shock it back, with a computed 12-lead ECG. Free, in the browser. Educational only.",
+      "category": "Education",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-28T23:19:01Z",
+      "updated": "2026-09-29T22:51:39Z",
+      "license": null,
+      "branch": "main",
+      "homepage": "https://arrhythmia-lab.pages.dev",
+      "topics": [
+        "ai-assisted-development",
+        "cardiac-electrophysiology",
+        "cardiology",
+        "cloudflare-pages",
+        "ecg",
+        "electrocardiogram",
+        "heart-simulation",
+        "medical-education",
+        "spiral-waves",
+        "typescript",
+        "webgpu",
+        "wgsl"
+      ],
+      "demo": "https://arrhythmia-lab.pages.dev/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-27T02:28:22.935Z",
+      "lastAvailableAt": "2026-10-27T02:28:22.935Z",
+      "lastAttemptAt": "2026-10-27T02:28:22.935Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105077332486898008",
+          "postId": "2105077332486898008",
+          "postedAt": "2026-09-29T23:28:41.000Z"
+        }
+      ],
+      "subjects": [
+        "Simulation & physics",
+        "3D & graphics"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Education",
+        "subjects": [
+          "Simulation & physics",
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "Simulation & physics",
+            "source": "metadata",
+            "match": "simulation"
+          },
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "3D"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://arrhythmia-lab.pages.dev/",
+        "attemptedAt": "2026-10-27T02:28:26.240Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-27T02:28:26.240Z",
+        "lastWorkingAt": "2026-10-27T02:28:26.240Z",
+        "target": "https://arrhythmia-lab.pages.dev/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:26.240Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/1cb5f57df127296490cd800f.jpg",
+          "kind": "demo",
+          "url": "https://arrhythmia-lab.pages.dev/",
+          "capturedAt": "2026-10-27T02:28:26.240Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-27T02:28:26.240Z",
+      "previewCheck": {
+        "url": "https://arrhythmia-lab.pages.dev/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-27T02:28:26.240Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:26.240Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "zebradotsol/zebra-labs",
+      "name": "zebra-labs",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "Rust",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-27T13:08:03Z",
+      "updated": "2026-09-27T20:49:31Z",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://www.zebraz.fun/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-27T02:28:35.521Z",
+      "lastAvailableAt": "2026-10-27T02:28:35.521Z",
+      "lastAttemptAt": "2026-10-27T02:28:35.521Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "zebradotsol/zebra-labs",
+        "postUrl": "https://x.com/i/web/status/2105039438627696776",
+        "url": "https://www.zebraz.fun/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105039438627696776",
+          "postId": "2105039438627696776",
+          "postedAt": "2026-09-29T20:58:06.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://www.zebraz.fun/",
+        "attemptedAt": "2026-10-27T02:28:38.917Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-27T02:28:38.917Z",
+        "lastWorkingAt": "2026-10-27T02:28:38.917Z",
+        "target": "https://www.zebraz.fun/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:38.917Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/a62a85e8f488b6144248fa71.jpg",
+          "kind": "demo",
+          "url": "https://www.zebraz.fun/",
+          "capturedAt": "2026-10-27T02:28:38.917Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-27T02:28:38.917Z",
+      "previewCheck": {
+        "url": "https://www.zebraz.fun/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-27T02:28:38.917Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:38.917Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "matsuoka-601/Particles4All",
+      "name": "Particles4All",
+      "description": "Unified particle solver for fluid and rigid bodies based on Position Based Dynamics",
+      "category": "Design",
+      "language": "JavaScript",
+      "stars": 106,
+      "forks": 6,
+      "created": "2026-08-20T16:25:07Z",
+      "updated": "2026-08-24T14:00:36Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://particles4all.netlify.app/",
+      "topics": [
+        "computer-graphics",
+        "fluid-simulation",
+        "position-based-dynamics",
+        "position-based-fluids",
+        "simulation",
+        "webgpu"
+      ],
+      "demo": "https://particles4all.netlify.app/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-27T02:28:00.243Z",
+      "lastAvailableAt": "2026-10-27T02:28:00.243Z",
+      "lastAttemptAt": "2026-10-27T02:28:00.243Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2091032503343857841",
+          "postId": "2091032503343857841",
+          "postedAt": "2026-08-22T05:19:32.000Z"
+        }
+      ],
+      "subjects": [
+        "Simulation & physics",
+        "3D & graphics"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "Simulation & physics",
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "Simulation & physics",
+            "source": "metadata",
+            "match": "simulation"
+          },
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "webgpu"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://particles4all.netlify.app/",
+        "attemptedAt": "2026-10-27T02:28:04.357Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-27T02:28:04.357Z",
+        "lastWorkingAt": "2026-10-27T02:28:04.357Z",
+        "target": "https://particles4all.netlify.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:04.357Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/ad53c5c34d7dd6dd588c4339.jpg",
+          "kind": "demo",
+          "url": "https://particles4all.netlify.app/",
+          "capturedAt": "2026-10-27T02:28:04.357Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-27T02:28:04.357Z",
+      "previewCheck": {
+        "url": "https://particles4all.netlify.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-27T02:28:04.357Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:04.358Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "radames/relight-three-js-transformers-js",
+      "name": "relight-three-js-transformers-js",
+      "description": "Explore this public GitHub project.",
+      "category": "Education",
+      "language": "TypeScript",
+      "stars": 13,
+      "forks": 3,
+      "created": "2026-08-20T23:21:46Z",
+      "updated": "2026-08-21T07:29:15Z",
+      "branch": "main",
+      "homepage": "https://radames.github.io/relight-three-js-transformers-js/",
+      "topics": [
+        "computer-vision",
+        "depth-anything",
+        "depth-estimation",
+        "machine-learning",
+        "onnx",
+        "relighting",
+        "threejs",
+        "transformers-js",
+        "tsl",
+        "webgpu"
+      ],
+      "demo": "https://radames.github.io/relight-three-js-transformers-js/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-27T02:28:05.065Z",
+      "lastAvailableAt": "2026-10-27T02:28:05.065Z",
+      "lastAttemptAt": "2026-10-27T02:28:05.065Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2090704142813794771",
+          "postId": "2090704142813794771",
+          "postedAt": "2026-08-21T07:34:45.000Z"
+        }
+      ],
+      "subjects": [
+        "3D & graphics"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Education",
+        "subjects": [
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "three js"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://radames.github.io/relight-three-js-transformers-js/",
+        "attemptedAt": "2026-10-27T02:28:08.372Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-27T02:28:08.372Z",
+        "lastWorkingAt": "2026-10-27T02:28:08.372Z",
+        "target": "https://radames.github.io/relight-three-js-transformers-js/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:08.372Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/bdd3459fe01b34470368be37.jpg",
+          "kind": "demo",
+          "url": "https://radames.github.io/relight-three-js-transformers-js/",
+          "capturedAt": "2026-10-27T02:28:08.372Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-27T02:28:08.372Z",
+      "previewCheck": {
+        "url": "https://radames.github.io/relight-three-js-transformers-js/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-27T02:28:08.372Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:08.373Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "DBraun/SynAPSE",
+      "name": "SynAPSE",
+      "description": "Joint embeddings of FM synthesizer parameters and audio",
+      "category": "Other",
+      "language": "Python",
+      "stars": 16,
+      "forks": 0,
+      "created": "2026-03-19T14:55:27Z",
+      "updated": "2026-08-27T18:25:48Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "http://dirt.design/SynAPSE/",
+      "topics": [],
+      "demo": "https://dbraun.github.io/SynAPSE",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-27T02:28:18.203Z",
+      "lastAvailableAt": "2026-10-27T02:28:18.203Z",
+      "lastAttemptAt": "2026-10-27T02:28:18.203Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2090499012302700745",
+          "postId": "2090499012302700745",
+          "postedAt": "2026-08-20T17:59:38.000Z"
+        }
+      ],
+      "subjects": [
+        "Music & audio"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [
+          "Music & audio"
+        ],
+        "evidence": [
+          {
+            "subject": "Music & audio",
+            "source": "metadata",
+            "match": "synthesizer"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://dbraun.github.io/SynAPSE",
+        "attemptedAt": "2026-10-27T02:28:22.246Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-27T02:28:22.246Z",
+        "lastWorkingAt": "2026-10-27T02:28:22.246Z",
+        "target": "http://dirt.design/SynAPSE/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:22.246Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/1a1e75e79c9aec6ac097638f.jpg",
+          "kind": "demo",
+          "url": "https://dbraun.github.io/SynAPSE",
+          "capturedAt": "2026-10-27T02:28:22.246Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-27T02:28:22.246Z",
+      "previewCheck": {
+        "url": "https://dbraun.github.io/SynAPSE",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-27T02:28:22.246Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:22.247Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "furkankly/rataflow",
+      "name": "rataflow",
+      "description": "Interactive node-based UIs for the terminal.",
+      "category": "Developer tools",
+      "language": "Rust",
+      "stars": 190,
+      "forks": 5,
+      "created": "2026-08-18T09:15:21Z",
+      "updated": "2026-10-22T11:51:20Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://rataflow.furkankly.dev",
+      "topics": [
+        "flow",
+        "graph",
+        "ratatui",
+        "tui",
+        "visualization"
+      ],
+      "demo": "https://rataflow.furkankly.dev/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-27T02:28:08.954Z",
+      "lastAvailableAt": "2026-10-27T02:28:08.954Z",
+      "lastAttemptAt": "2026-10-27T02:28:08.954Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "furkankly/rataflow",
+        "postUrl": "https://x.com/i/web/status/2090475360487878996",
+        "url": "https://rataflow.furkankly.dev/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2090475360487878996",
+          "postId": "2090475360487878996",
+          "postedAt": "2026-08-20T16:25:39.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://rataflow.furkankly.dev/",
+        "attemptedAt": "2026-10-27T02:28:13.266Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-27T02:28:13.266Z",
+        "lastWorkingAt": "2026-10-27T02:28:13.266Z",
+        "target": "https://rataflow.furkankly.dev/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:13.266Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/6594aa54cf720b1e0b8aeca4.jpg",
+          "kind": "demo",
+          "url": "https://rataflow.furkankly.dev/",
+          "capturedAt": "2026-10-27T02:28:13.266Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-27T02:28:13.266Z",
+      "previewCheck": {
+        "url": "https://rataflow.furkankly.dev/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-27T02:28:13.266Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:13.266Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "youngcrypton/ProofFlow",
+      "name": "ProofFlow",
+      "description": "AI powered trust execution protocol for autonomous commerce built on X Layer.",
+      "category": "Business",
+      "language": "TypeScript",
+      "stars": 1,
+      "forks": 0,
+      "created": "2026-08-07T17:47:03Z",
+      "updated": "2026-10-22T14:57:07Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://proofflow-inky.vercel.app",
+      "topics": [],
+      "demo": "https://proofflow-inky.vercel.app/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-27T02:28:14.022Z",
+      "lastAvailableAt": "2026-10-27T02:28:14.022Z",
+      "lastAttemptAt": "2026-10-27T02:28:14.022Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2090138024906473764",
+          "postId": "2090138024906473764",
+          "postedAt": "2026-08-19T18:05:12.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Business",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://proofflow-inky.vercel.app/",
+        "attemptedAt": "2026-10-27T02:28:17.577Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-27T02:28:17.577Z",
+        "lastWorkingAt": "2026-10-27T02:28:17.577Z",
+        "target": "https://proofflow-inky.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:17.577Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/6256c5580aa76bc88129069a.jpg",
+          "kind": "demo",
+          "url": "https://proofflow-inky.vercel.app/",
+          "capturedAt": "2026-10-27T02:28:17.577Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-27T02:28:17.577Z",
+      "previewCheck": {
+        "url": "https://proofflow-inky.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-27T02:28:17.577Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-03T02:28:17.578Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
