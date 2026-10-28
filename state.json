@@ -79,7 +79,8 @@
       },
       "recent": {
         "start": "2026-10-21T12:54:18.050Z",
-        "end": "2026-10-26T13:00:44.970Z"
+        "end": "2026-10-26T13:00:44.970Z",
+        "nextToken": "b26v89c19zqg8o3juzlwtzqiinukc8paa4momxy8a66il"
       }
     },
     "a0153cbebcc5cf46": {
@@ -76671,7 +76672,7 @@
           "repository": "victorhez/ascertain"
         }
       ],
-      "lastSeenAt": "2026-10-28T12:53:01.651Z",
+      "lastSeenAt": "2026-10-28T12:53:24.139Z",
       "entry": {
         "availability": "available",
         "full": "victorhez/ascertain",
@@ -80010,10 +80011,10 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 10,
-        "reposts": 4,
-        "replies": 1,
-        "quotes": 0
+        "likes": 15,
+        "reposts": 6,
+        "replies": 2,
+        "quotes": 1
       },
       "demoHints": [
         "https://snappdf.abrahamalgorithm.tech/"
@@ -80025,7 +80026,7 @@
           "repository": "AbrahamAlgorithm/snappdf"
         }
       ],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "lastSeenAt": "2026-10-28T12:53:24.139Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "AbrahamAlgorithm/snappdf",
@@ -80166,11 +80167,11 @@
       "demoLinks": [
         {
           "url": "https://samg-coder.github.io/BakedVoxelLighting/",
-          "postUrl": "https://x.com/i/web/status/2113889415718416484",
+          "postUrl": "https://x.com/i/web/status/2114664832947695695",
           "repository": "SamG-Coder/BakedVoxelLighting"
         }
       ],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "lastSeenAt": "2026-10-28T12:53:24.139Z",
       "entry": {
         "availability": "available",
         "full": "SamG-Coder/BakedVoxelLighting",
@@ -80273,14 +80274,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 18,
+        "likes": 29,
         "reposts": 1,
         "replies": 0,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "lastSeenAt": "2026-10-28T12:53:24.139Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-02T13:03:09.076Z"
     },
@@ -80299,14 +80300,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 292,
-        "reposts": 27,
+        "likes": 304,
+        "reposts": 29,
         "replies": 15,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "lastSeenAt": "2026-10-28T12:53:24.139Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-02T13:03:07.926Z"
     },
@@ -80332,7 +80333,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "lastSeenAt": "2026-10-28T12:53:24.139Z",
       "reusedEvidence": true,
       "entry": {
         "availability": "available",
@@ -80650,7 +80651,7 @@
           "repository": "tomismeta/octra-sqlite"
         }
       ],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "lastSeenAt": "2026-10-28T12:53:24.139Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "tomismeta/octra-sqlite",
@@ -80777,14 +80778,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 77,
+        "likes": 79,
         "reposts": 10,
-        "replies": 3,
+        "replies": 4,
         "quotes": 1
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "lastSeenAt": "2026-10-28T12:53:24.139Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-02T13:03:10.756Z"
     },
@@ -80810,7 +80811,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "lastSeenAt": "2026-10-28T12:53:24.139Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-02T13:03:09.893Z"
     },
@@ -80836,7 +80837,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-26T13:01:20.017Z",
+      "lastSeenAt": "2026-10-28T12:53:24.139Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-02T13:03:12.706Z"
     },
@@ -83648,6 +83649,62 @@
       "demoHints": [],
       "demoLinks": [],
       "lastSeenAt": "2026-10-28T12:53:12.930Z"
+    },
+    "nickytonline/pomerium-quest": {
+      "full": "nickytonline/pomerium-quest",
+      "firstSeenAt": "2026-10-28T12:53:24.139Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2114697283552121159",
+          "postId": "2114697283552121159",
+          "postedAt": "2026-10-26T12:34:56.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 11,
+        "reposts": 1,
+        "replies": 3,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-28T12:53:24.139Z"
+    },
+    "jenzylove/keel": {
+      "full": "jenzylove/keel",
+      "firstSeenAt": "2026-10-28T12:53:24.139Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2114640544777326602",
+          "postId": "2114640544777326602",
+          "postedAt": "2026-10-26T08:49:28.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 12,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://keel-psi-seven.vercel.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://keel-psi-seven.vercel.app/",
+          "postUrl": "https://x.com/i/web/status/2114640544777326602",
+          "repository": "jenzylove/keel"
+        }
+      ],
+      "lastSeenAt": "2026-10-28T12:53:24.139Z"
     }
   },
   "lastRun": {
@@ -84933,16 +84990,6 @@
     "2104405788760719527",
     "2104397749424898424",
     "2104397724472762643",
-    "2114673181810442595",
-    "2114664832947695695",
-    "2114549066764058764",
-    "2114331404708491304",
-    "2114195235475730799",
-    "2114074936209990077",
-    "2114052123256365410",
-    "2113988753215865000",
-    "2113983022412546274",
-    "2113899576230822161",
     "2113891269998948803",
     "2113889415718416484",
     "2114902484808557044",
@@ -85002,7 +85049,6 @@
     "2114289980764029102",
     "2114289645098041764",
     "2114288675941122261",
-    "2114284807874118017",
     "2114277975780991389",
     "2114275601519690087",
     "2114275477863231948",
@@ -85027,7 +85073,20 @@
     "2104317063737295262",
     "2104299846584959026",
     "2104297458788393325",
-    "2104294634889302389"
+    "2104294634889302389",
+    "2114697283552121159",
+    "2114673181810442595",
+    "2114664832947695695",
+    "2114640544777326602",
+    "2114549066764058764",
+    "2114331404708491304",
+    "2114284807874118017",
+    "2114195235475730799",
+    "2114074936209990077",
+    "2114052123256365410",
+    "2113988753215865000",
+    "2113983022412546274",
+    "2113899576230822161"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -85056,9 +85115,9 @@
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 264,
-      "uniquePosts": 43,
-      "newCandidates": 35,
+      "posts": 277,
+      "uniquePosts": 45,
+      "newCandidates": 37,
       "validationAttempts": 37,
       "accepted": 12
     },
