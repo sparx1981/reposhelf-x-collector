@@ -62432,7 +62432,7 @@
     "h5i-dev/h5i-app-bench": {
       "full": "h5i-dev/h5i-app-bench",
       "firstSeenAt": "2026-10-19T13:13:34.900Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -62456,12 +62456,14 @@
         "replies": 0,
         "quotes": 1
       },
-      "lastSeenAt": "2026-10-27T02:26:58.842Z"
+      "lastSeenAt": "2026-10-27T02:26:58.842Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-05T13:02:18.282Z"
     },
     "h5i-dev/i5h": {
       "full": "h5i-dev/i5h",
       "firstSeenAt": "2026-10-19T13:13:34.900Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -62485,7 +62487,9 @@
         "replies": 0,
         "quotes": 1
       },
-      "lastSeenAt": "2026-10-27T02:26:58.842Z"
+      "lastSeenAt": "2026-10-27T02:26:58.842Z",
+      "reason": "temporary_error",
+      "nextAttemptAt": "2026-10-29T19:02:18.582Z"
     },
     "maruakshay/miii-cli": {
       "full": "maruakshay/miii-cli",
@@ -78103,7 +78107,7 @@
     "gmgnai/skillmarket-demos": {
       "full": "GMGNAI/skillmarket-demos",
       "firstSeenAt": "2026-10-25T11:27:26.873Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -78120,7 +78124,9 @@
         "replies": 9,
         "quotes": 1
       },
-      "lastSeenAt": "2026-10-25T11:27:26.873Z"
+      "lastSeenAt": "2026-10-25T11:27:26.873Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-05T13:02:11.950Z"
     },
     "andrewwoan/codrops-demo-for-threejs-conference": {
       "full": "andrewwoan/codrops-demo-for-threejs-conference",
@@ -82709,7 +82715,7 @@
     "galfrevn/reel": {
       "full": "galfrevn/reel",
       "firstSeenAt": "2026-10-27T02:27:09.172Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -82728,7 +82734,164 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-27T02:27:09.172Z"
+      "lastSeenAt": "2026-10-27T02:27:09.172Z",
+      "reusedEvidence": true,
+      "entry": {
+        "repositoryId": 1338905690,
+        "availability": "available",
+        "full": "galfrevn/reel",
+        "name": "reel",
+        "description": "Record your terminal once and let your agent edit it into a polished demo in seconds 📼",
+        "category": "Developer tools",
+        "language": "Rust",
+        "stars": 13,
+        "forks": 1,
+        "created": "2026-08-18T23:03:12Z",
+        "updated": "2026-08-21T16:18:36Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://galfrevn.github.io/reel/",
+        "topics": [
+          "cli",
+          "gif",
+          "recording",
+          "rust",
+          "screencast",
+          "terminal",
+          "tui",
+          "webm"
+        ],
+        "demo": "https://galfrevn.github.io/reel/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-27T22:40:23.181Z",
+        "lastAttemptAt": "2026-10-27T22:40:23.181Z",
+        "lastAvailableAt": "2026-10-27T22:40:23.181Z",
+        "metrics": [
+          {
+            "at": "2026-10-25T09:49:03.698Z",
+            "stars": 13,
+            "forks": 1
+          },
+          {
+            "at": "2026-10-27T22:40:23.181Z",
+            "stars": 13,
+            "forks": 1
+          }
+        ],
+        "technologies": [
+          "Rust"
+        ],
+        "overview": {
+          "kind": "readme",
+          "version": 1,
+          "paragraphs": [
+            "Record a terminal session once, then treat it as a timeline you can cut, speed-ramp, zoom, caption, restyle, and score with sound — re-rendering in milliseconds without ever re-running the underlying program.",
+            "Plenty of tools will get a terminal session onto disk and back out as pixels. reel is about the half that comes after: post-production. The recording is frozen; the edit is a text file you keep changing.",
+            "A real Claude Code session, recorded once and then cut, annotated, speed-ramped and scored by reel — from one edit script. The WebM carries procedural sound; GIF can't."
+          ],
+          "features": [],
+          "sourceUrl": "https://github.com/galfrevn/reel/blob/main/README.md",
+          "fingerprint": "efb6edec2fa69ceb561b13c5439a6817173af3cadd4ce07e689d42b83b00709e",
+          "extractedAt": "2026-10-25T09:49:03.792Z"
+        },
+        "overviewCheckedAt": "2026-10-25T09:49:03.792Z",
+        "projectInsights": {
+          "version": 1,
+          "whatItDoes": {
+            "text": "Record a terminal session once, then treat it as a timeline you can cut, speed-ramp, zoom, caption, restyle, and score with sound — re-rendering in milliseconds without ever re-running the underlying program.",
+            "sourceUrl": "https://github.com/galfrevn/reel/blob/main/README.md"
+          },
+          "audience": [],
+          "requirements": [
+            {
+              "kind": "account",
+              "status": "documented",
+              "text": "Publishing your own is a PR with a TOML file — no accounts, no infrastructure.",
+              "sourceUrl": "https://github.com/galfrevn/reel/blob/main/README.md"
+            }
+          ],
+          "fingerprint": "efb6edec2fa69ceb561b13c5439a6817173af3cadd4ce07e689d42b83b00709e",
+          "sourceUrl": "https://github.com/galfrevn/reel/blob/main/README.md",
+          "checkedAt": "2026-10-25T09:49:03.792Z"
+        },
+        "overviewRepoUpdated": "2026-08-21T16:18:36Z",
+        "readmeSnapshot": {
+          "version": 1,
+          "status": "saved",
+          "sourceUrl": "https://github.com/galfrevn/reel/blob/main/README.md",
+          "checkedAt": "2026-10-25T09:49:03.793Z",
+          "hash": "efb6edec2fa69ceb561b13c5439a6817173af3cadd4ce07e689d42b83b00709e",
+          "originalBytes": 10750,
+          "storedBytes": 10750,
+          "truncated": false
+        },
+        "lastDemoCheckedAt": "2026-10-25T09:49:03.698Z",
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [
+            "Games & game development",
+            "MCP servers & agents"
+          ],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://galfrevn.github.io/reel/",
+          "attemptedAt": "2026-10-25T10:06:10.590Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-25T10:06:10.590Z",
+          "lastWorkingAt": "2026-10-25T10:06:10.590Z",
+          "target": "https://galfrevn.github.io/reel/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-01T10:06:10.590Z"
+        },
+        "previewAttemptAt": "2026-10-25T10:06:10.590Z",
+        "previewCheck": {
+          "url": "https://galfrevn.github.io/reel/",
+          "attemptedAt": "2026-10-25T10:06:10.590Z",
+          "consecutiveFailures": 0,
+          "status": "captured",
+          "reason": null,
+          "nextCheckAt": "2026-11-01T10:06:10.590Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/d3d3c86804faea1ec9b0b156.jpg",
+            "kind": "demo",
+            "capturedAt": "2026-10-25T10:06:10.590Z",
+            "url": "https://galfrevn.github.io/reel/"
+          }
+        ],
+        "qualityPriority": false,
+        "repositoryAliases": [],
+        "repositoryEtag": "W/\"d49df2a3a141ce4e6137c1c82156c41637cd05fe4a5d2b851902c93a1dea31a1\"",
+        "repositoryEtagFor": "galfrevn/reel",
+        "spaces": [],
+        "communityPosts": [],
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2090564763830911160",
+            "postId": "2090564763830911160",
+            "postedAt": "2026-08-20T22:20:55.000Z"
+          }
+        ]
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-31T01:02:12.135Z",
+      "checkedAt": "2026-10-29T13:02:12.135Z",
+      "firstAcceptedAt": "2026-10-29T13:02:12.135Z"
     },
     "opensensenova/sensenova-u1": {
       "full": "OpenSenseNova/SenseNova-U1",
@@ -83400,7 +83563,7 @@
     "colyseus/defold-platformer-game": {
       "full": "colyseus/defold-platformer-game",
       "firstSeenAt": "2026-10-27T02:27:09.172Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -83419,7 +83582,94 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-27T02:27:09.172Z"
+      "lastSeenAt": "2026-10-27T02:27:09.172Z",
+      "entry": {
+        "availability": "available",
+        "full": "colyseus/defold-platformer-game",
+        "name": "defold-platformer-game",
+        "description": "Fork of Defold's Platformer Multiplayer Game Sample using Colyseus 0.18",
+        "category": "Other",
+        "language": "Lua",
+        "stars": 2,
+        "forks": 0,
+        "created": "2026-08-19T15:32:50Z",
+        "updated": "2026-08-19T22:50:03Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://colyseus.io/defold-platformer-game/",
+        "topics": [],
+        "demo": "https://defold.com/manuals/bob/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-29T13:02:13.991Z",
+        "lastAvailableAt": "2026-10-29T13:02:13.991Z",
+        "lastAttemptAt": "2026-10-29T13:02:13.991Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2090153998594539575",
+            "postId": "2090153998594539575",
+            "postedAt": "2026-08-19T19:08:41.000Z"
+          }
+        ],
+        "subjects": [
+          "Games & game development"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "Games & game development"
+          ],
+          "evidence": [
+            {
+              "subject": "Games & game development",
+              "source": "metadata",
+              "match": "game"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://defold.com/manuals/bob/",
+          "attemptedAt": "2026-10-29T13:02:17.374Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-29T13:02:17.374Z",
+          "lastWorkingAt": "2026-10-29T13:02:17.374Z",
+          "target": "https://defold.com/manuals/bob/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-05T13:02:17.374Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/fa45490d625098f5ade830c9.jpg",
+            "kind": "demo",
+            "url": "https://defold.com/manuals/bob/",
+            "capturedAt": "2026-10-29T13:02:17.374Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-29T13:02:17.374Z",
+        "previewCheck": {
+          "url": "https://defold.com/manuals/bob/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-29T13:02:17.374Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-05T13:02:17.375Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-31T01:02:17.376Z",
+      "checkedAt": "2026-10-29T13:02:17.376Z",
+      "firstAcceptedAt": "2026-10-29T13:02:17.376Z"
     },
     "youngcrypton/proofflow": {
       "full": "youngcrypton/ProofFlow",
@@ -84466,7 +84716,7 @@
     "dragosniamtu/wpf-liquid-glass-effect": {
       "full": "dragosniamtu/WPF-Liquid-Glass-Effect",
       "firstSeenAt": "2026-10-29T12:59:40.016Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -84493,12 +84743,111 @@
           "repository": "dragosniamtu/WPF-Liquid-Glass-Effect"
         }
       ],
-      "lastSeenAt": "2026-10-29T12:59:40.016Z"
+      "lastSeenAt": "2026-10-29T12:59:40.016Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "dragosniamtu/WPF-Liquid-Glass-Effect",
+        "postUrl": "https://x.com/i/web/status/2104291437470704030",
+        "url": "https://www.nuget.org/packages/XamlTemplates.FX.Wpf/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "dragosniamtu/WPF-Liquid-Glass-Effect",
+        "name": "WPF-Liquid-Glass-Effect",
+        "description": " WPF Liquid Glass Effect  A WPF demo that recreates an Apple-inspired Liquid Glass window effect on Windows using acrylic blur, desktop capture, and a pixel shader.",
+        "category": "Other",
+        "language": "C#",
+        "stars": 31,
+        "forks": 4,
+        "created": "2026-05-02T09:37:05Z",
+        "updated": "2026-09-27T18:34:22Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://www.nuget.org/packages/XamlTemplates.FX.Wpf/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-29T13:01:52.394Z",
+        "lastAvailableAt": "2026-10-29T13:01:52.394Z",
+        "lastAttemptAt": "2026-10-29T13:01:52.394Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "dragosniamtu/WPF-Liquid-Glass-Effect",
+          "postUrl": "https://x.com/i/web/status/2104291437470704030",
+          "url": "https://www.nuget.org/packages/XamlTemplates.FX.Wpf/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104291437470704030",
+            "postId": "2104291437470704030",
+            "postedAt": "2026-09-27T19:25:49.000Z"
+          }
+        ],
+        "subjects": [
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "shader"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://www.nuget.org/packages/XamlTemplates.FX.Wpf/",
+          "attemptedAt": "2026-10-29T13:01:55.923Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-29T13:01:55.923Z",
+          "lastWorkingAt": "2026-10-29T13:01:55.923Z",
+          "target": "https://www.nuget.org/packages/XamlTemplates.FX.Wpf/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-05T13:01:55.923Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/ddaf911b795742610fcd5671.jpg",
+            "kind": "demo",
+            "url": "https://www.nuget.org/packages/XamlTemplates.FX.Wpf/",
+            "capturedAt": "2026-10-29T13:01:55.923Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-29T13:01:55.923Z",
+        "previewCheck": {
+          "url": "https://www.nuget.org/packages/XamlTemplates.FX.Wpf/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-29T13:01:55.923Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-05T13:01:55.924Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-31T01:01:55.925Z",
+      "checkedAt": "2026-10-29T13:01:55.925Z",
+      "firstAcceptedAt": "2026-10-29T13:01:55.925Z"
     },
     "nimblegate/nimblegate": {
       "full": "nimblegate/nimblegate",
       "firstSeenAt": "2026-10-29T12:59:40.016Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -84525,12 +84874,120 @@
           "repository": "nimblegate/nimblegate"
         }
       ],
-      "lastSeenAt": "2026-10-29T12:59:40.016Z"
+      "lastSeenAt": "2026-10-29T12:59:40.016Z",
+      "entry": {
+        "availability": "available",
+        "full": "nimblegate/nimblegate",
+        "name": "nimblegate",
+        "description": "Git push guardrails for AI agents: block unsafe pushes consistently, forward safe ones, record every decision. Self-hosted.",
+        "category": "Developer tools",
+        "language": "Go",
+        "stars": 3,
+        "forks": 0,
+        "created": "2026-06-24T11:19:11Z",
+        "updated": "2026-10-29T05:21:38Z",
+        "license": null,
+        "branch": "main",
+        "homepage": "https://nimblegate.com",
+        "topics": [
+          "ai-agents",
+          "ai-safety",
+          "code-review",
+          "devops",
+          "gateway",
+          "git",
+          "git-hooks",
+          "golang",
+          "guardrails",
+          "llm",
+          "security",
+          "self-hosted",
+          "supply-chain-security"
+        ],
+        "demo": "https://demo.nimblegate.com/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-29T13:01:56.677Z",
+        "lastAvailableAt": "2026-10-29T13:01:56.677Z",
+        "lastAttemptAt": "2026-10-29T13:01:56.677Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104287910380106129",
+            "postId": "2104287910380106129",
+            "postedAt": "2026-09-27T19:11:48.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents",
+          "Self-hosted apps"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "MCP servers & agents",
+            "Self-hosted apps"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "AI agents"
+            },
+            {
+              "subject": "Self-hosted apps",
+              "source": "metadata",
+              "match": "Self hosted"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://demo.nimblegate.com/",
+          "attemptedAt": "2026-10-29T13:02:00.588Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-29T13:02:00.588Z",
+          "lastWorkingAt": "2026-10-29T13:02:00.588Z",
+          "target": "https://demo.nimblegate.com/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-05T13:02:00.588Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/cd31e73af006b716a59ef8e7.jpg",
+            "kind": "demo",
+            "url": "https://demo.nimblegate.com/",
+            "capturedAt": "2026-10-29T13:02:00.588Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-29T13:02:00.588Z",
+        "previewCheck": {
+          "url": "https://demo.nimblegate.com/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-29T13:02:00.588Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-05T13:02:00.589Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-31T01:02:00.590Z",
+      "checkedAt": "2026-10-29T13:02:00.590Z",
+      "firstAcceptedAt": "2026-10-29T13:02:00.590Z"
     },
     "kojiozono/dbverse": {
       "full": "KojiOzono/dbverse",
       "firstSeenAt": "2026-10-29T12:59:40.016Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -84557,12 +85014,111 @@
           "repository": "KojiOzono/dbverse"
         }
       ],
-      "lastSeenAt": "2026-10-29T12:59:40.016Z"
+      "lastSeenAt": "2026-10-29T12:59:40.016Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "KojiOzono/dbverse",
+        "postUrl": "https://x.com/i/web/status/2104280279909343564",
+        "url": "https://dbverse.vlabos.com/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "KojiOzono/dbverse",
+        "name": "dbverse",
+        "description": "Database viewer with 3D ER diagram and Text-to-SQL",
+        "category": "Developer tools",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-22T22:52:24Z",
+        "updated": "2026-09-25T04:50:02Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://dbverse.vlabos.com/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-29T13:01:41.670Z",
+        "lastAvailableAt": "2026-10-29T13:01:41.670Z",
+        "lastAttemptAt": "2026-10-29T13:01:41.670Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "KojiOzono/dbverse",
+          "postUrl": "https://x.com/i/web/status/2104280279909343564",
+          "url": "https://dbverse.vlabos.com/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104280279909343564",
+            "postId": "2104280279909343564",
+            "postedAt": "2026-09-27T18:41:29.000Z"
+          }
+        ],
+        "subjects": [
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "3D"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://dbverse.vlabos.com/",
+          "attemptedAt": "2026-10-29T13:01:51.666Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-29T13:01:51.666Z",
+          "lastWorkingAt": "2026-10-29T13:01:51.666Z",
+          "target": "https://dbverse.vlabos.com/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-05T13:01:51.666Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/81299752daeb56f8c9e9b5c9.jpg",
+            "kind": "demo",
+            "url": "https://dbverse.vlabos.com/",
+            "capturedAt": "2026-10-29T13:01:51.666Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-29T13:01:51.666Z",
+        "previewCheck": {
+          "url": "https://dbverse.vlabos.com/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-29T13:01:51.666Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-05T13:01:51.667Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-31T01:01:51.668Z",
+      "checkedAt": "2026-10-29T13:01:51.668Z",
+      "firstAcceptedAt": "2026-10-29T13:01:51.668Z"
     },
     "miladjoodi/captchakit": {
       "full": "MiladJoodi/CaptchaKit",
       "firstSeenAt": "2026-10-29T12:59:40.016Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -84595,7 +85151,108 @@
           "repository": "MiladJoodi/CaptchaKit"
         }
       ],
-      "lastSeenAt": "2026-10-29T12:59:40.016Z"
+      "lastSeenAt": "2026-10-29T12:59:40.016Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "MiladJoodi/CaptchaKit",
+        "postUrl": "https://x.com/i/web/status/2104273316072616013",
+        "url": "https://captchakit.netlify.app/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "MiladJoodi/CaptchaKit",
+        "name": "CaptchaKit",
+        "description": "Self-hosted CAPTCHA for React and Next.js — no database, Redis, or external provider.",
+        "category": "Design",
+        "language": "TypeScript",
+        "stars": 36,
+        "forks": 0,
+        "created": "2026-09-25T18:04:04Z",
+        "updated": "2026-09-25T18:38:24Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://www.npmjs.com/package/captchakit",
+        "topics": [
+          "frontend",
+          "javascript",
+          "nextjs",
+          "npm",
+          "npm-package",
+          "react",
+          "reactjs",
+          "tailwind",
+          "tailwindcss",
+          "typescript"
+        ],
+        "demo": "https://captchakit.netlify.app/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-29T13:01:34.433Z",
+        "lastAvailableAt": "2026-10-29T13:01:34.433Z",
+        "lastAttemptAt": "2026-10-29T13:01:34.433Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "MiladJoodi/CaptchaKit",
+          "postUrl": "https://x.com/i/web/status/2104273316072616013",
+          "url": "https://captchakit.netlify.app/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104273316072616013",
+            "postId": "2104273316072616013",
+            "postedAt": "2026-09-27T18:13:48.000Z"
+          }
+        ],
+        "subjects": [
+          "Self-hosted apps"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "Self-hosted apps"
+          ],
+          "evidence": [
+            {
+              "subject": "Self-hosted apps",
+              "source": "metadata",
+              "match": "Self hosted"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://captchakit.netlify.app/",
+          "attemptedAt": "2026-10-29T13:01:40.826Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "access_restricted",
+            "at": "2026-10-29T13:01:40.826Z"
+          },
+          "nextCheckAt": "2026-10-29T15:01:40.826Z"
+        },
+        "previewAttemptAt": "2026-10-29T13:01:40.826Z",
+        "previewCheck": {
+          "url": "https://captchakit.netlify.app/",
+          "status": "retry",
+          "reason": "access_restricted",
+          "attemptedAt": "2026-10-29T13:01:40.826Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-29T15:01:40.826Z"
+        }
+      },
+      "reason": "access_restricted",
+      "nextAttemptAt": "2026-10-29T15:01:40.826Z",
+      "checkedAt": "2026-10-29T13:01:40.827Z"
     },
     "beatapi/beatdesign": {
       "full": "BeatAPI/BeatDesign",
@@ -84672,7 +85329,7 @@
     "regantih/gridsignal": {
       "full": "Regantih/gridsignal",
       "firstSeenAt": "2026-10-29T12:59:40.016Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -84705,12 +85362,99 @@
           "repository": "Regantih/gridsignal"
         }
       ],
-      "lastSeenAt": "2026-10-29T12:59:40.016Z"
+      "lastSeenAt": "2026-10-29T12:59:40.016Z",
+      "entry": {
+        "availability": "available",
+        "full": "Regantih/gridsignal",
+        "name": "gridsignal",
+        "description": "Keeps a home-battery fleet's grid commitment when devices fail, priced on real ERCOT data. Human-approved recovery. Base Power x AITX Hackathon 2026",
+        "category": "Other",
+        "language": "Python",
+        "stars": 1,
+        "forks": 0,
+        "created": "2026-09-25T23:54:42Z",
+        "updated": "2026-09-28T14:32:52Z",
+        "branch": "main",
+        "homepage": "https://dashboardpy-shrqjtlddw5ewwevwderjagridsignal-control-room.streamlit.app/",
+        "topics": [
+          "battery-storage",
+          "energy",
+          "ercot",
+          "hackathon",
+          "multi-agent",
+          "orchestration",
+          "python",
+          "streamlit",
+          "texas",
+          "virtual-power-plant"
+        ],
+        "demo": "https://dashboardpy-shrqjtlddw5ewwevwderjagridsignal-control-room.streamlit.app/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-29T13:02:01.512Z",
+        "lastAvailableAt": "2026-10-29T13:02:01.512Z",
+        "lastAttemptAt": "2026-10-29T13:02:01.512Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104239648696385969",
+            "postId": "2104239648696385969",
+            "postedAt": "2026-09-27T16:00:01.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://dashboardpy-shrqjtlddw5ewwevwderjagridsignal-control-room.streamlit.app/",
+          "attemptedAt": "2026-10-29T13:02:06.921Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-29T13:02:06.921Z",
+          "lastWorkingAt": "2026-10-29T13:02:06.921Z",
+          "target": "https://dashboardpy-shrqjtlddw5ewwevwderjagridsignal-control-room.streamlit.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-05T13:02:06.921Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/b2ef2ae99bb0a0ad31863ed5.jpg",
+            "kind": "demo",
+            "url": "https://dashboardpy-shrqjtlddw5ewwevwderjagridsignal-control-room.streamlit.app/",
+            "capturedAt": "2026-10-29T13:02:06.921Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-29T13:02:06.921Z",
+        "previewCheck": {
+          "url": "https://dashboardpy-shrqjtlddw5ewwevwderjagridsignal-control-room.streamlit.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-29T13:02:06.921Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-05T13:02:06.922Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-31T01:02:06.923Z",
+      "checkedAt": "2026-10-29T13:02:06.923Z",
+      "firstAcceptedAt": "2026-10-29T13:02:06.923Z"
     },
     "kushagarwal2910-lang/chalkie": {
       "full": "kushagarwal2910-lang/chalkie",
       "firstSeenAt": "2026-10-29T12:59:40.016Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -84737,7 +85481,87 @@
           "repository": "kushagarwal2910-lang/chalkie"
         }
       ],
-      "lastSeenAt": "2026-10-29T12:59:40.016Z"
+      "lastSeenAt": "2026-10-29T12:59:40.016Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "kushagarwal2910-lang/chalkie",
+        "postUrl": "https://x.com/i/web/status/2104235132697850208",
+        "url": "https://chalkie.onrender.com/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "kushagarwal2910-lang/chalkie",
+        "name": "chalkie",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 2,
+        "forks": 0,
+        "created": "2026-09-23T03:41:59Z",
+        "updated": "2026-10-05T10:03:01Z",
+        "license": "GPL-3.0",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://chalkie.onrender.com/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-29T13:01:32.560Z",
+        "lastAvailableAt": "2026-10-29T13:01:32.560Z",
+        "lastAttemptAt": "2026-10-29T13:01:32.560Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "kushagarwal2910-lang/chalkie",
+          "postUrl": "https://x.com/i/web/status/2104235132697850208",
+          "url": "https://chalkie.onrender.com/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104235132697850208",
+            "postId": "2104235132697850208",
+            "postedAt": "2026-09-27T15:42:05.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://chalkie.onrender.com/",
+          "attemptedAt": "2026-10-29T13:01:33.635Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "http_503",
+            "at": "2026-10-29T13:01:33.635Z"
+          },
+          "nextCheckAt": "2026-10-29T15:01:33.635Z"
+        },
+        "previewAttemptAt": "2026-10-29T13:01:33.635Z",
+        "previewCheck": {
+          "url": "https://chalkie.onrender.com/",
+          "status": "retry",
+          "reason": "http_503",
+          "attemptedAt": "2026-10-29T13:01:33.635Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-29T15:01:33.635Z"
+        }
+      },
+      "reason": "http_503",
+      "nextAttemptAt": "2026-10-29T15:01:33.635Z",
+      "checkedAt": "2026-10-29T13:01:33.636Z"
     },
     "hato-se/sb-php-dashboard": {
       "full": "hato-se/SB-php-dashboard",
@@ -84766,7 +85590,7 @@
     "kengocodes/math_class-2": {
       "full": "kengocodes/math_class-2",
       "firstSeenAt": "2026-10-29T12:59:51.871Z",
-      "status": "queued",
+      "status": "rejected",
       "sources": [
         {
           "kind": "x",
@@ -84793,12 +85617,14 @@
           "repository": "kengocodes/math_class-2"
         }
       ],
-      "lastSeenAt": "2026-10-29T12:59:51.871Z"
+      "lastSeenAt": "2026-10-29T12:59:51.871Z",
+      "reason": "repository_unavailable",
+      "nextAttemptAt": "2026-10-29T19:00:53.554Z"
     },
     "nebusec/cybermeowfia": {
       "full": "NebuSec/CyberMeowfia",
       "firstSeenAt": "2026-10-29T12:59:51.871Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -84817,7 +85643,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-29T12:59:51.871Z"
+      "lastSeenAt": "2026-10-29T12:59:51.871Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-05T13:02:12.836Z"
     },
     "democracyearth/ubi2": {
       "full": "DemocracyEarth/ubi2",
@@ -84870,7 +85698,7 @@
     "iamtechartist/eiffel-tower-district": {
       "full": "iamtechartist/eiffel-tower-district",
       "firstSeenAt": "2026-10-29T12:59:51.871Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -84897,12 +85725,80 @@
           "repository": "iamtechartist/eiffel-tower-district"
         }
       ],
-      "lastSeenAt": "2026-10-29T12:59:51.871Z"
+      "lastSeenAt": "2026-10-29T12:59:51.871Z",
+      "entry": {
+        "availability": "available",
+        "full": "iamtechartist/eiffel-tower-district",
+        "name": "eiffel-tower-district",
+        "description": "A procedural Three.js reconstruction of Paris’s Eiffel Tower district, built from real geographic data with interactive day and night modes.",
+        "category": "Other",
+        "language": "HTML",
+        "stars": 4,
+        "forks": 2,
+        "created": "2026-08-01T18:08:37Z",
+        "updated": "2026-08-01T18:12:10Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://iamtechartist.github.io/eiffel-tower-district/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-29T13:01:04.425Z",
+        "lastAvailableAt": "2026-10-29T13:01:04.425Z",
+        "lastAttemptAt": "2026-10-29T13:01:04.425Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2089664574769295740",
+            "postId": "2089664574769295740",
+            "postedAt": "2026-08-18T10:43:53.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://iamtechartist.github.io/eiffel-tower-district/",
+          "attemptedAt": "2026-10-29T13:01:31.652Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "network_or_timeout",
+            "at": "2026-10-29T13:01:31.652Z"
+          },
+          "nextCheckAt": "2026-10-29T15:01:31.652Z"
+        },
+        "previewAttemptAt": "2026-10-29T13:01:31.652Z",
+        "previewCheck": {
+          "url": "https://iamtechartist.github.io/eiffel-tower-district/",
+          "status": "retry",
+          "reason": "network_or_timeout",
+          "attemptedAt": "2026-10-29T13:01:31.652Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-29T15:01:31.652Z"
+        }
+      },
+      "reason": "network_or_timeout",
+      "nextAttemptAt": "2026-10-29T15:01:31.652Z",
+      "checkedAt": "2026-10-29T13:01:31.652Z"
     },
     "borkdude/buzz": {
       "full": "borkdude/buzz",
       "firstSeenAt": "2026-10-29T12:59:51.871Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -84929,12 +85825,105 @@
           "repository": "borkdude/buzz"
         }
       ],
-      "lastSeenAt": "2026-10-29T12:59:51.871Z"
+      "lastSeenAt": "2026-10-29T12:59:51.871Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "borkdude/buzz",
+        "postUrl": "https://x.com/i/web/status/2089649813595840887",
+        "url": "https://buzz-whiteboard.michielborkent.nl/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "borkdude/buzz",
+        "name": "buzz",
+        "description": "Cross client-server \"framework\"",
+        "category": "Developer tools",
+        "language": "Clojure",
+        "stars": 36,
+        "forks": 0,
+        "created": "2026-08-13T14:54:28Z",
+        "updated": "2026-10-14T14:41:17Z",
+        "branch": "main",
+        "homepage": "",
+        "topics": [
+          "babashka",
+          "clojure",
+          "reagami",
+          "squint-cljs"
+        ],
+        "demo": "https://buzz-whiteboard.michielborkent.nl/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-29T13:00:55.488Z",
+        "lastAvailableAt": "2026-10-29T13:00:55.488Z",
+        "lastAttemptAt": "2026-10-29T13:00:55.488Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "borkdude/buzz",
+          "postUrl": "https://x.com/i/web/status/2089649813595840887",
+          "url": "https://buzz-whiteboard.michielborkent.nl/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2089649813595840887",
+            "postId": "2089649813595840887",
+            "postedAt": "2026-08-18T09:45:14.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://buzz-whiteboard.michielborkent.nl/",
+          "attemptedAt": "2026-10-29T13:00:59.607Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-29T13:00:59.607Z",
+          "lastWorkingAt": "2026-10-29T13:00:59.607Z",
+          "target": "https://buzz-whiteboard.michielborkent.nl/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-05T13:00:59.607Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/856f3876a6eee3071b7266fe.jpg",
+            "kind": "demo",
+            "url": "https://buzz-whiteboard.michielborkent.nl/",
+            "capturedAt": "2026-10-29T13:00:59.607Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-29T13:00:59.607Z",
+        "previewCheck": {
+          "url": "https://buzz-whiteboard.michielborkent.nl/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-29T13:00:59.607Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-05T13:00:59.608Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-31T01:00:59.609Z",
+      "checkedAt": "2026-10-29T13:00:59.609Z",
+      "firstAcceptedAt": "2026-10-29T13:00:59.609Z"
     },
     "ushironoko/rust-cpu-gpu-book": {
       "full": "ushironoko/rust-cpu-gpu-book",
       "firstSeenAt": "2026-10-29T12:59:51.871Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -84953,12 +85942,88 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-29T12:59:51.871Z"
+      "lastSeenAt": "2026-10-29T12:59:51.871Z",
+      "entry": {
+        "availability": "available",
+        "full": "ushironoko/rust-cpu-gpu-book",
+        "name": "rust-cpu-gpu-book",
+        "description": "RustではじめるCPUとGPU — Webアプリケーション開発者のための、RustでたどるCPU・GPUの教科書 (28章、インタラクティブ実行つき)",
+        "category": "Developer tools",
+        "language": "Rust",
+        "stars": 54,
+        "forks": 5,
+        "created": "2026-08-18T06:06:38Z",
+        "updated": "2026-08-27T06:36:17Z",
+        "branch": "main",
+        "homepage": "https://rust-cpu-gpu-book.void.app/",
+        "topics": [],
+        "demo": "https://play.rust-lang.org/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-29T13:02:07.901Z",
+        "lastAvailableAt": "2026-10-29T13:02:07.901Z",
+        "lastAttemptAt": "2026-10-29T13:02:07.901Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2089601243522220531",
+            "postId": "2089601243522220531",
+            "postedAt": "2026-08-18T06:32:14.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://play.rust-lang.org/",
+          "attemptedAt": "2026-10-29T13:02:11.255Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-29T13:02:11.255Z",
+          "lastWorkingAt": "2026-10-29T13:02:11.255Z",
+          "target": "https://play.rust-lang.org/?version=stable&mode=debug&edition=2024",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-05T13:02:11.255Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/dfa9f71d57224fd2f347733b.jpg",
+            "kind": "demo",
+            "url": "https://play.rust-lang.org/",
+            "capturedAt": "2026-10-29T13:02:11.255Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-29T13:02:11.255Z",
+        "previewCheck": {
+          "url": "https://play.rust-lang.org/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-29T13:02:11.255Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-05T13:02:11.256Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-31T01:02:11.257Z",
+      "checkedAt": "2026-10-29T13:02:11.257Z",
+      "firstAcceptedAt": "2026-10-29T13:02:11.257Z"
     },
     "trungdq88/mechanical-deployables-treejs": {
       "full": "trungdq88/mechanical-deployables-treejs",
       "firstSeenAt": "2026-10-29T12:59:51.871Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -84985,12 +86050,110 @@
           "repository": "trungdq88/mechanical-deployables-treejs"
         }
       ],
-      "lastSeenAt": "2026-10-29T12:59:51.871Z"
+      "lastSeenAt": "2026-10-29T12:59:51.871Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "trungdq88/mechanical-deployables-treejs",
+        "postUrl": "https://x.com/i/web/status/2089572345694564619",
+        "url": "https://trungdq88.github.io/mechanical-deployables-treejs/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "trungdq88/mechanical-deployables-treejs",
+        "name": "mechanical-deployables-treejs",
+        "description": "Prompt for generating 3D models in mechanical deployable style.",
+        "category": "Other",
+        "language": "JavaScript",
+        "stars": 98,
+        "forks": 9,
+        "created": "2026-08-18T04:21:19Z",
+        "updated": "2026-08-26T06:06:39Z",
+        "branch": "main",
+        "homepage": "https://www.survive10waves.com/demo/deployables/",
+        "topics": [],
+        "demo": "https://trungdq88.github.io/mechanical-deployables-treejs/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-29T13:00:43.809Z",
+        "lastAvailableAt": "2026-10-29T13:00:43.809Z",
+        "lastAttemptAt": "2026-10-29T13:00:43.809Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "trungdq88/mechanical-deployables-treejs",
+          "postUrl": "https://x.com/i/web/status/2089572345694564619",
+          "url": "https://trungdq88.github.io/mechanical-deployables-treejs/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2089572345694564619",
+            "postId": "2089572345694564619",
+            "postedAt": "2026-08-18T04:37:24.000Z"
+          }
+        ],
+        "subjects": [
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "3D"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://trungdq88.github.io/mechanical-deployables-treejs/",
+          "attemptedAt": "2026-10-29T13:00:48.675Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-29T13:00:48.675Z",
+          "lastWorkingAt": "2026-10-29T13:00:48.675Z",
+          "target": "https://trungdq88.github.io/mechanical-deployables-treejs/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-05T13:00:48.675Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/e5703dd65572dae60b0e1e10.jpg",
+            "kind": "demo",
+            "url": "https://trungdq88.github.io/mechanical-deployables-treejs/",
+            "capturedAt": "2026-10-29T13:00:48.675Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-29T13:00:48.675Z",
+        "previewCheck": {
+          "url": "https://trungdq88.github.io/mechanical-deployables-treejs/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-29T13:00:48.675Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-05T13:00:48.677Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-31T01:00:48.678Z",
+      "checkedAt": "2026-10-29T13:00:48.678Z",
+      "firstAcceptedAt": "2026-10-29T13:00:48.678Z"
     },
     "ashishgogula/coverflow": {
       "full": "ashishgogula/coverflow",
       "firstSeenAt": "2026-10-29T12:59:51.871Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -85023,7 +86186,130 @@
           "repository": "ashishgogula/coverflow"
         }
       ],
-      "lastSeenAt": "2026-10-29T12:59:51.871Z"
+      "lastSeenAt": "2026-10-29T12:59:51.871Z",
+      "entry": {
+        "availability": "available",
+        "full": "ashishgogula/coverflow",
+        "name": "coverflow",
+        "description": "iOS-like Cover Flow for React. Fluid, physical motion with zero layout shifts. Built with Motion and Tailwind. Part of Planes · useplanes.com",
+        "category": "Design",
+        "language": "TypeScript",
+        "stars": 146,
+        "forks": 3,
+        "created": "2026-01-30T19:45:30Z",
+        "updated": "2026-10-28T10:46:07Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://coverflow.ashishgogula.in/",
+        "topics": [
+          "animation",
+          "interaction-design",
+          "motion-design",
+          "react",
+          "shadcn-ui",
+          "ui-components"
+        ],
+        "demo": "https://coverflow.ashishgogula.in/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-29T13:01:00.359Z",
+        "lastAvailableAt": "2026-10-29T13:01:00.359Z",
+        "lastAttemptAt": "2026-10-29T13:01:00.359Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2089434375402520579",
+            "postId": "2089434375402520579",
+            "postedAt": "2026-08-17T19:29:09.000Z"
+          }
+        ],
+        "subjects": [
+          "Animation & motion",
+          "Apple",
+          "Mobile",
+          "Templates & UI components"
+        ],
+        "platforms": [
+          "iOS & iPadOS"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "Animation & motion",
+            "Apple",
+            "Mobile",
+            "Templates & UI components"
+          ],
+          "evidence": [
+            {
+              "subject": "Animation & motion",
+              "source": "metadata",
+              "match": "animation"
+            },
+            {
+              "subject": "Apple",
+              "source": "metadata",
+              "match": "iOS"
+            },
+            {
+              "subject": "Mobile",
+              "source": "metadata",
+              "match": "iOS"
+            },
+            {
+              "subject": "Templates & UI components",
+              "source": "metadata",
+              "match": "ui components"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "iOS & iPadOS",
+              "source": "metadata",
+              "match": "iOS"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://coverflow.ashishgogula.in/",
+          "attemptedAt": "2026-10-29T13:01:03.698Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-29T13:01:03.698Z",
+          "lastWorkingAt": "2026-10-29T13:01:03.698Z",
+          "target": "https://coverflow.ashishgogula.in/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-05T13:01:03.698Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/c5330a764de3e0cf5245034d.jpg",
+            "kind": "demo",
+            "url": "https://coverflow.ashishgogula.in/",
+            "capturedAt": "2026-10-29T13:01:03.698Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-29T13:01:03.698Z",
+        "previewCheck": {
+          "url": "https://coverflow.ashishgogula.in/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-29T13:01:03.698Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-05T13:01:03.699Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-31T01:01:03.700Z",
+      "checkedAt": "2026-10-29T13:01:03.700Z",
+      "firstAcceptedAt": "2026-10-29T13:01:03.700Z"
     },
     "capawesome-team/awesome-capacitorjs": {
       "full": "capawesome-team/awesome-capacitorjs",
@@ -85140,7 +86426,7 @@
     "john-rocky/litert-models": {
       "full": "john-rocky/LiteRT-Models",
       "firstSeenAt": "2026-10-29T12:59:51.871Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -85167,12 +86453,229 @@
           "repository": "john-rocky/LiteRT-Models"
         }
       ],
-      "lastSeenAt": "2026-10-29T12:59:51.871Z"
+      "lastSeenAt": "2026-10-29T12:59:51.871Z",
+      "reusedEvidence": true,
+      "entry": {
+        "availability": "available",
+        "full": "john-rocky/LiteRT-Models",
+        "name": "LiteRT-Models",
+        "description": "Converted TFLite Model Zoo for Android with LiteRT CompiledModel GPU acceleration",
+        "category": "Education",
+        "language": "Kotlin",
+        "stars": 26,
+        "forks": 3,
+        "created": "2026-04-01T08:20:44Z",
+        "updated": "2026-10-27T09:14:12Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://john-rocky.github.io/",
+        "topics": [
+          "android",
+          "gpu",
+          "litert",
+          "machine-learning",
+          "object-detection",
+          "on-device-ai",
+          "tflite",
+          "yolo"
+        ],
+        "demo": "https://john-rocky.github.io/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-27T14:53:44.395Z",
+        "lastAttemptAt": "2026-10-27T14:53:44.395Z",
+        "lastAvailableAt": "2026-10-27T14:53:44.395Z",
+        "metrics": [
+          {
+            "at": "2026-10-11T07:26:13.897Z",
+            "stars": 26,
+            "forks": 3
+          },
+          {
+            "at": "2026-10-17T07:10:04.098Z",
+            "stars": 26,
+            "forks": 3
+          },
+          {
+            "at": "2026-10-21T00:35:49.639Z",
+            "stars": 26,
+            "forks": 3
+          },
+          {
+            "at": "2026-10-23T03:02:56.888Z",
+            "stars": 26,
+            "forks": 3
+          },
+          {
+            "at": "2026-10-25T07:08:51.313Z",
+            "stars": 26,
+            "forks": 3
+          },
+          {
+            "at": "2026-10-27T14:53:44.395Z",
+            "stars": 26,
+            "forks": 3
+          }
+        ],
+        "technologies": [],
+        "overview": {
+          "kind": "readme",
+          "version": 1,
+          "paragraphs": [
+            "LiteRT is Google's on-device ML runtime for Android and the successor to TensorFlow Lite (renamed 2024-09): PyTorch models are converted with Google's litert-torch into .tflite files that run every op on the phone's GPU through CompiledModel (ML Drift), e.g. DINOv2 ViT-S/14 at 448² runs in 53.6 ms on a Galaxy S26 GPU (npubench, LiteRT 2.2.0, median of 50 runs, 2026-08).",
+            "This repository is the model zoo for that path: 91 converted models (as of 2026-09-08), each with its download, input/output shapes, preprocessing, the conversion script that produced it, and a standalone Android sample app (Kotlin). No MediaPipe and no vendor SDK: the .tflite graphs run on CompiledModel GPU with every op delegated (no CPU fallback), and the four 3B chat models run on LiteRT-LM. The GPU-compatibility rewrites these conversions need are catalogued in docs/LITERTCONVERSIONGUIDE.md and packaged in litertgputoolkit/.",
+            "If you like this repository, please give it a star."
+          ],
+          "features": [],
+          "sourceUrl": "https://github.com/john-rocky/LiteRT-Models/blob/main/README.md",
+          "fingerprint": "f304df1ec4247bff6b93de9dfd95cdf9c23cb154121e2a1fdf71a38a3abbd2bc",
+          "extractedAt": "2026-10-11T07:26:14.034Z"
+        },
+        "overviewCheckedAt": "2026-10-11T07:26:14.034Z",
+        "projectInsights": {
+          "version": 1,
+          "whatItDoes": {
+            "text": "LiteRT is Google's on-device ML runtime for Android and the successor to TensorFlow Lite (renamed 2024-09): PyTorch models are converted with Google's litert-torch into .tflite files that run every op on the phone's GPU through CompiledModel (ML Drift), e.g. DINOv2 ViT-S/14 at 448² runs in 53.6 ms on a Galaxy S26 GPU (npubench, LiteRT 2.2.0, median of 50 runs, 2026-08).",
+            "sourceUrl": "https://github.com/john-rocky/LiteRT-Models/blob/main/README.md"
+          },
+          "audience": [],
+          "requirements": [
+            {
+              "kind": "account",
+              "status": "required",
+              "text": "The anti-fraud building block for face login / e-KYC.",
+              "sourceUrl": "https://github.com/john-rocky/LiteRT-Models/blob/main/README.md"
+            },
+            {
+              "kind": "paid_service",
+              "status": "required",
+              "text": "Three things that are easy to get wrong. (1) Both text streams carry real word tokens, not new-word/pad markers: on a new word the main stream emits the word's first token while the second stream emits NEWWORD, and during the padding frames that follow, the main stream drains the rest of the word while the second stream drains a two-word lookahead. (2) Each codebook lags the…",
+              "sourceUrl": "https://github.com/john-rocky/LiteRT-Models/blob/main/README.md"
+            }
+          ],
+          "fingerprint": "f304df1ec4247bff6b93de9dfd95cdf9c23cb154121e2a1fdf71a38a3abbd2bc",
+          "sourceUrl": "https://github.com/john-rocky/LiteRT-Models/blob/main/README.md",
+          "checkedAt": "2026-10-11T07:26:14.037Z"
+        },
+        "overviewRepoUpdated": "2026-10-11T06:01:16Z",
+        "readmeSnapshot": {
+          "version": 1,
+          "status": "saved",
+          "sourceUrl": "https://github.com/john-rocky/LiteRT-Models/blob/main/README.md",
+          "checkedAt": "2026-10-11T07:26:14.052Z",
+          "hash": "f304df1ec4247bff6b93de9dfd95cdf9c23cb154121e2a1fdf71a38a3abbd2bc",
+          "originalBytes": 277547,
+          "storedBytes": 277547,
+          "truncated": false
+        },
+        "lastDemoCheckedAt": "2026-10-11T07:26:13.897Z",
+        "subjects": [
+          "Android",
+          "Mobile"
+        ],
+        "platforms": [
+          "Android"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Education",
+          "subjects": [
+            "Android",
+            "Mobile"
+          ],
+          "evidence": [
+            {
+              "subject": "Android",
+              "source": "metadata",
+              "match": "Android"
+            },
+            {
+              "subject": "Mobile",
+              "source": "metadata",
+              "match": "Android"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "Android",
+              "source": "metadata",
+              "match": "Android"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [
+            "Apple",
+            "Streaming",
+            "Image, audio & video AI",
+            "Maths & algorithms",
+            "Music & audio"
+          ],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://john-rocky.github.io/",
+          "attemptedAt": "2026-10-27T15:20:32.187Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-27T15:20:32.187Z",
+          "lastWorkingAt": "2026-10-27T15:20:32.187Z",
+          "target": "https://john-rocky.github.io/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-03T15:20:32.187Z"
+        },
+        "previewAttemptAt": "2026-10-27T15:20:32.187Z",
+        "previewCheck": {
+          "url": "https://john-rocky.github.io/",
+          "attemptedAt": "2026-10-27T15:20:32.187Z",
+          "consecutiveFailures": 0,
+          "status": "captured",
+          "reason": null,
+          "nextCheckAt": "2026-11-03T15:20:32.187Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/bc3f56f711bb9bff8ad52c12.jpg",
+            "kind": "demo",
+            "capturedAt": "2026-10-27T15:20:32.187Z",
+            "url": "https://john-rocky.github.io/"
+          }
+        ],
+        "qualityPriority": false,
+        "repositoryId": 1198225865,
+        "repositoryAliases": [],
+        "repositoryEtag": "W/\"1ce2c8dc75430889f879a760ab38d7b89bce32c96536decf20c543971b31e5e7\"",
+        "repositoryEtagFor": "john-rocky/LiteRT-Models",
+        "enrichmentAttemptAt": "2026-10-25T05:07:43.022Z",
+        "latestRelease": {
+          "name": "v3: MoGe-2 Monocular Geometry",
+          "tag": "v3",
+          "publishedAt": "2026-04-08T04:21:56Z",
+          "url": "https://github.com/john-rocky/LiteRT-Models/releases/tag/v3"
+        },
+        "releaseCheckedAt": "2026-10-25T05:07:43.022Z",
+        "spaces": [],
+        "communityPosts": [],
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2088874135388917790",
+            "postId": "2088874135388917790",
+            "postedAt": "2026-08-16T06:22:57.000Z"
+          }
+        ]
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-31T01:00:53.977Z",
+      "checkedAt": "2026-10-29T13:00:53.977Z",
+      "firstAcceptedAt": "2026-10-29T13:00:53.977Z"
     },
     "winchxyz/moon-rover": {
       "full": "winchxyz/moon-rover",
       "firstSeenAt": "2026-10-29T12:59:51.871Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -85199,7 +86702,109 @@
           "repository": "winchxyz/moon-rover"
         }
       ],
-      "lastSeenAt": "2026-10-29T12:59:51.871Z"
+      "lastSeenAt": "2026-10-29T12:59:51.871Z",
+      "entry": {
+        "availability": "available",
+        "full": "winchxyz/moon-rover",
+        "name": "moon-rover",
+        "description": "A 3D lunar rover survey game. WebGL2, no build step, no third-party assets - every texture and sound generated at runtime.",
+        "category": "Design",
+        "language": "JavaScript",
+        "stars": 136,
+        "forks": 30,
+        "created": "2026-08-11T14:14:02Z",
+        "updated": "2026-08-17T07:22:10Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://winchxyz.github.io/moon-rover/",
+        "topics": [
+          "game",
+          "javascript",
+          "moon",
+          "no-build-step",
+          "procedural-generation",
+          "threejs",
+          "webgl"
+        ],
+        "demo": "https://winchxyz.github.io/moon-rover/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-29T13:00:49.607Z",
+        "lastAvailableAt": "2026-10-29T13:00:49.607Z",
+        "lastAttemptAt": "2026-10-29T13:00:49.607Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2088727442714165634",
+            "postId": "2088727442714165634",
+            "postedAt": "2026-08-15T20:40:03.000Z"
+          }
+        ],
+        "subjects": [
+          "Games & game development",
+          "3D & graphics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "Games & game development",
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "Games & game development",
+              "source": "metadata",
+              "match": "game"
+            },
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "3D"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://winchxyz.github.io/moon-rover/",
+          "attemptedAt": "2026-10-29T13:00:53.174Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-29T13:00:53.174Z",
+          "lastWorkingAt": "2026-10-29T13:00:53.174Z",
+          "target": "https://winchxyz.github.io/moon-rover/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-05T13:00:53.174Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/08e9277642f408e29530779a.jpg",
+            "kind": "demo",
+            "url": "https://winchxyz.github.io/moon-rover/",
+            "capturedAt": "2026-10-29T13:00:53.174Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-29T13:00:53.174Z",
+        "previewCheck": {
+          "url": "https://winchxyz.github.io/moon-rover/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-29T13:00:53.174Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-05T13:00:53.175Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-10-31T01:00:53.176Z",
+      "checkedAt": "2026-10-29T13:00:53.176Z",
+      "firstAcceptedAt": "2026-10-29T13:00:53.176Z"
     }
   },
   "lastRun": {
@@ -86619,7 +88224,7 @@
       "posts": 589,
       "uniquePosts": 351,
       "newCandidates": 229,
-      "validationAttempts": 207,
+      "validationAttempts": 209,
       "accepted": 69
     },
     "2c0438e5283099cf": {
@@ -86627,8 +88232,8 @@
       "posts": 311,
       "uniquePosts": 308,
       "newCandidates": 363,
-      "validationAttempts": 346,
-      "accepted": 133
+      "validationAttempts": 358,
+      "accepted": 141
     },
     "ac3eb65e96558e14": {
       "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
@@ -86651,8 +88256,8 @@
       "posts": 703,
       "uniquePosts": 333,
       "newCandidates": 309,
-      "validationAttempts": 272,
-      "accepted": 130
+      "validationAttempts": 278,
+      "accepted": 134
     }
   },
   "demoSeeds": {
@@ -87106,7 +88711,7 @@
         "replies": 1,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-29T12:54:15.741Z",
+      "nextAttemptAt": "2026-10-30T13:00:40.775Z",
       "reason": "temporary_error"
     },
     "https://elon-musk12.github.io/Elon-X-capital/": {
@@ -87282,7 +88887,7 @@
         "replies": 2,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-29T03:55:59.948Z",
+      "nextAttemptAt": "2026-11-05T13:00:40.815Z",
       "reason": "ambiguous_repositories"
     },
     "https://www.okoyedavid.com/": {
@@ -87304,7 +88909,7 @@
         "replies": 2,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-29T03:56:00.756Z",
+      "nextAttemptAt": "2026-11-05T13:00:41.809Z",
       "reason": "ambiguous_repositories"
     },
     "https://okoyedavid.com/": {
@@ -87326,7 +88931,7 @@
         "replies": 2,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-29T03:56:01.223Z",
+      "nextAttemptAt": "2026-11-05T13:00:42.279Z",
       "reason": "ambiguous_repositories"
     },
     "https://tweetsplit.onrender.com/": {
@@ -87354,7 +88959,7 @@
   },
   "lastDemoDiscovery": {
     "checked": 4,
-    "resolved": 1,
-    "at": "2026-10-28T12:54:17.162Z"
+    "resolved": 0,
+    "at": "2026-10-29T13:00:42.671Z"
   }
 }
