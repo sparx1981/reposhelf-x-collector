@@ -93,7 +93,8 @@
       },
       "recent": {
         "start": "2026-10-22T13:00:20.780Z",
-        "end": "2026-10-25T11:26:32.449Z"
+        "end": "2026-10-25T11:26:32.449Z",
+        "nextToken": "b26v89c19zqg8o3juzlx8siw0cc8xray6qscu25scurul"
       }
     }
   },
@@ -76318,7 +76319,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-28T12:53:01.651Z",
+      "lastSeenAt": "2026-10-29T12:59:28.376Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-02T13:03:13.503Z"
     },
@@ -76344,7 +76345,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-28T12:53:01.651Z"
+      "lastSeenAt": "2026-10-29T12:59:28.376Z"
     },
     "try-cecilia/factored-hackathon-2026-cecilia": {
       "full": "try-cecilia/factored-hackathon-2026-cecilia",
@@ -76458,7 +76459,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-28T12:53:01.651Z",
+      "lastSeenAt": "2026-10-29T12:59:28.376Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-01T11:30:16.027Z"
     },
@@ -76491,7 +76492,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-28T12:53:01.651Z",
+      "lastSeenAt": "2026-10-29T12:59:28.376Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-01T11:30:16.675Z"
     },
@@ -76525,7 +76526,7 @@
           "repository": "LeonardoBottonaUniTn/llmberjack"
         }
       ],
-      "lastSeenAt": "2026-10-28T12:53:01.651Z",
+      "lastSeenAt": "2026-10-29T12:59:28.376Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "LeonardoBottonaUniTn/llmberjack",
@@ -76637,7 +76638,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-28T12:53:01.651Z",
+      "lastSeenAt": "2026-10-29T12:59:28.376Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-02T13:03:17.979Z"
     },
@@ -76656,7 +76657,7 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 39,
+        "likes": 40,
         "reposts": 8,
         "replies": 4,
         "quotes": 1
@@ -76671,7 +76672,7 @@
           "repository": "victorhez/ascertain"
         }
       ],
-      "lastSeenAt": "2026-10-28T12:53:24.139Z",
+      "lastSeenAt": "2026-10-29T12:59:28.376Z",
       "entry": {
         "availability": "available",
         "full": "victorhez/ascertain",
@@ -76780,7 +76781,7 @@
           "repository": "Sumit884-byte/rsume-site"
         }
       ],
-      "lastSeenAt": "2026-10-28T12:53:01.651Z",
+      "lastSeenAt": "2026-10-29T12:59:28.376Z",
       "entry": {
         "availability": "available",
         "full": "Sumit884-byte/rsume-site",
@@ -76904,7 +76905,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-28T12:53:01.651Z",
+      "lastSeenAt": "2026-10-29T12:59:28.376Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-01T11:30:17.461Z"
     },
@@ -76938,7 +76939,7 @@
           "repository": "HackersHostel/AgentWebUI"
         }
       ],
-      "lastSeenAt": "2026-10-28T12:53:01.651Z",
+      "lastSeenAt": "2026-10-29T12:59:28.376Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "HackersHostel/AgentWebUI",
@@ -77072,7 +77073,7 @@
           "repository": "komal720/WanderList"
         }
       ],
-      "lastSeenAt": "2026-10-28T12:53:01.651Z",
+      "lastSeenAt": "2026-10-29T12:59:28.376Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "komal720/WanderList",
@@ -77200,7 +77201,7 @@
           "repository": "XHToken/Spark-X2.6"
         }
       ],
-      "lastSeenAt": "2026-10-28T12:53:01.651Z",
+      "lastSeenAt": "2026-10-29T12:59:28.376Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "XHToken/Spark-X2.6",
@@ -83610,7 +83611,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-28T12:53:01.651Z",
+      "lastSeenAt": "2026-10-29T12:59:28.376Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-04T12:54:57.311Z"
     },
@@ -85795,23 +85796,6 @@
     "2090153998594539575",
     "2090138024906473764",
     "2090082016188608841",
-    "2114313369738235905",
-    "2114307035265438194",
-    "2114300747781451808",
-    "2114291863758799302",
-    "2114291596602556499",
-    "2114289980764029102",
-    "2114289645098041764",
-    "2114288675941122261",
-    "2114277975780991389",
-    "2114275601519690087",
-    "2114275477863231948",
-    "2114269485867921589",
-    "2114266839400460366",
-    "2114262882980679731",
-    "2114261975836623270",
-    "2114253891475055047",
-    "2114250270981132295",
     "2104397606982164738",
     "2104391201743163797",
     "2104386381888065952",
@@ -85834,13 +85818,30 @@
     "2114640544777326602",
     "2114549066764058764",
     "2114331404708491304",
-    "2114284807874118017",
     "2114195235475730799",
     "2114074936209990077",
     "2114052123256365410",
     "2113988753215865000",
     "2113983022412546274",
-    "2113899576230822161"
+    "2113899576230822161",
+    "2114313369738235905",
+    "2114307035265438194",
+    "2114300747781451808",
+    "2114291863758799302",
+    "2114291596602556499",
+    "2114289980764029102",
+    "2114289645098041764",
+    "2114288675941122261",
+    "2114284807874118017",
+    "2114277975780991389",
+    "2114275601519690087",
+    "2114275477863231948",
+    "2114269485867921589",
+    "2114266839400460366",
+    "2114262882980679731",
+    "2114261975836623270",
+    "2114253891475055047",
+    "2114250270981132295"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -85877,7 +85878,7 @@
     },
     "a0153cbebcc5cf46": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
-      "posts": 674,
+      "posts": 692,
       "uniquePosts": 323,
       "newCandidates": 299,
       "validationAttempts": 272,
