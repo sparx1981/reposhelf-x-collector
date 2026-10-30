@@ -79,7 +79,8 @@
       },
       "recent": {
         "start": "2026-10-23T12:56:02.861Z",
-        "end": "2026-10-26T13:00:44.970Z"
+        "end": "2026-10-26T13:00:44.970Z",
+        "nextToken": "b26v89c19zqg8o3juzlwtzqiinukc8paa4momxy8a66il"
       }
     },
     "a0153cbebcc5cf46": {
@@ -76682,7 +76683,7 @@
           "repository": "victorhez/ascertain"
         }
       ],
-      "lastSeenAt": "2026-10-29T12:59:28.376Z",
+      "lastSeenAt": "2026-10-30T12:55:08.855Z",
       "entry": {
         "availability": "available",
         "full": "victorhez/ascertain",
@@ -80119,7 +80120,7 @@
           "repository": "AbrahamAlgorithm/snappdf"
         }
       ],
-      "lastSeenAt": "2026-10-28T12:53:24.139Z",
+      "lastSeenAt": "2026-10-30T12:55:08.855Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "AbrahamAlgorithm/snappdf",
@@ -80264,7 +80265,7 @@
           "repository": "SamG-Coder/BakedVoxelLighting"
         }
       ],
-      "lastSeenAt": "2026-10-28T12:53:24.139Z",
+      "lastSeenAt": "2026-10-30T12:55:08.855Z",
       "entry": {
         "availability": "available",
         "full": "SamG-Coder/BakedVoxelLighting",
@@ -80374,7 +80375,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-28T12:53:24.139Z",
+      "lastSeenAt": "2026-10-30T12:55:08.855Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-02T13:03:09.076Z"
     },
@@ -80393,14 +80394,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 304,
+        "likes": 306,
         "reposts": 29,
         "replies": 15,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-28T12:53:24.139Z",
+      "lastSeenAt": "2026-10-30T12:55:08.855Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-02T13:03:07.926Z"
     },
@@ -80426,7 +80427,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-28T12:53:24.139Z",
+      "lastSeenAt": "2026-10-30T12:55:08.855Z",
       "reusedEvidence": true,
       "entry": {
         "availability": "available",
@@ -80744,7 +80745,7 @@
           "repository": "tomismeta/octra-sqlite"
         }
       ],
-      "lastSeenAt": "2026-10-28T12:53:24.139Z",
+      "lastSeenAt": "2026-10-30T12:55:08.855Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "tomismeta/octra-sqlite",
@@ -80878,7 +80879,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-28T12:53:24.139Z",
+      "lastSeenAt": "2026-10-30T12:55:08.855Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-02T13:03:10.756Z"
     },
@@ -80904,7 +80905,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-28T12:53:24.139Z",
+      "lastSeenAt": "2026-10-30T12:55:08.855Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-02T13:03:09.893Z"
     },
@@ -80930,7 +80931,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-28T12:53:24.139Z",
+      "lastSeenAt": "2026-10-30T12:55:08.855Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-02T13:03:12.706Z"
     },
@@ -84494,7 +84495,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-28T12:53:24.139Z",
+      "lastSeenAt": "2026-10-30T12:55:08.855Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-04T12:54:56.585Z"
     },
@@ -84528,7 +84529,7 @@
           "repository": "jenzylove/keel"
         }
       ],
-      "lastSeenAt": "2026-10-28T12:53:24.139Z",
+      "lastSeenAt": "2026-10-30T12:55:08.855Z",
       "entry": {
         "availability": "available",
         "full": "jenzylove/keel",
@@ -88518,18 +88519,6 @@
     "2104299846584959026",
     "2104297458788393325",
     "2104294634889302389",
-    "2114697283552121159",
-    "2114673181810442595",
-    "2114664832947695695",
-    "2114640544777326602",
-    "2114549066764058764",
-    "2114331404708491304",
-    "2114195235475730799",
-    "2114074936209990077",
-    "2114052123256365410",
-    "2113988753215865000",
-    "2113983022412546274",
-    "2113899576230822161",
     "2114313369738235905",
     "2114307035265438194",
     "2114300747781451808",
@@ -88538,7 +88527,6 @@
     "2114289980764029102",
     "2114289645098041764",
     "2114288675941122261",
-    "2114284807874118017",
     "2114277975780991389",
     "2114275601519690087",
     "2114275477863231948",
@@ -88607,7 +88595,20 @@
     "2104977175497621809",
     "2104977102458290244",
     "2104968213213950333",
-    "2104965630055092600"
+    "2104965630055092600",
+    "2114697283552121159",
+    "2114673181810442595",
+    "2114664832947695695",
+    "2114640544777326602",
+    "2114549066764058764",
+    "2114331404708491304",
+    "2114284807874118017",
+    "2114195235475730799",
+    "2114074936209990077",
+    "2114052123256365410",
+    "2113988753215865000",
+    "2113983022412546274",
+    "2113899576230822161"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -88636,7 +88637,7 @@
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 277,
+      "posts": 290,
       "uniquePosts": 45,
       "newCandidates": 37,
       "validationAttempts": 39,
