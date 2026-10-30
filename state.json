@@ -78819,7 +78819,7 @@
     "yashksaini-coder/opportunity-radar": {
       "full": "yashksaini-coder/opportunity-radar",
       "firstSeenAt": "2026-10-25T11:27:26.873Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -78838,7 +78838,79 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-25T11:27:26.873Z"
+      "lastSeenAt": "2026-10-25T11:27:26.873Z",
+      "entry": {
+        "availability": "available",
+        "full": "yashksaini-coder/opportunity-radar",
+        "name": "opportunity-radar",
+        "description": "Self-healing scrapers that watch the web for scholarships, hackathons and internships — and repair themselves when sites change.",
+        "category": "Other",
+        "language": "Python",
+        "stars": 1,
+        "forks": 0,
+        "created": "2026-08-21T18:59:29Z",
+        "updated": "2026-10-30T01:16:28Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://opportunity-radar-v64k.onrender.com/",
+        "topics": [
+          "brightdata",
+          "python",
+          "scrapers"
+        ],
+        "demo": "https://opportunity-radar-v64k.onrender.com/",
+        "color": "#302e55",
+        "ink": "#dbd2ff",
+        "lastCheckedAt": "2026-10-30T12:56:36.210Z",
+        "lastAvailableAt": "2026-10-30T12:56:36.210Z",
+        "lastAttemptAt": "2026-10-30T12:56:36.210Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2091590952112779655",
+            "postId": "2091590952112779655",
+            "postedAt": "2026-08-23T18:18:37.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://opportunity-radar-v64k.onrender.com/",
+          "attemptedAt": "2026-10-30T12:56:37.472Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "http_503",
+            "at": "2026-10-30T12:56:37.472Z"
+          },
+          "nextCheckAt": "2026-10-30T14:56:37.472Z"
+        },
+        "previewAttemptAt": "2026-10-30T12:56:37.472Z",
+        "previewCheck": {
+          "url": "https://opportunity-radar-v64k.onrender.com/",
+          "status": "retry",
+          "reason": "http_503",
+          "attemptedAt": "2026-10-30T12:56:37.472Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-10-30T14:56:37.472Z"
+        }
+      },
+      "reason": "http_503",
+      "nextAttemptAt": "2026-10-30T14:56:37.472Z",
+      "checkedAt": "2026-10-30T12:56:37.472Z"
     },
     "celsowm/megaldoom": {
       "full": "celsowm/megaldoom",
@@ -79379,7 +79451,7 @@
     "2005selene2005-a11y/susu-phone-agent": {
       "full": "2005selene2005-a11y/susu-phone-agent",
       "firstSeenAt": "2026-10-25T11:27:26.873Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -79398,7 +79470,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-25T11:27:26.873Z"
+      "lastSeenAt": "2026-10-25T11:27:26.873Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-06T12:56:38.191Z"
     },
     "vendurehq/vendure": {
       "full": "vendurehq/vendure",
@@ -81102,7 +81176,7 @@
     "hazyresearch/ncm": {
       "full": "HazyResearch/ncm",
       "firstSeenAt": "2026-10-27T02:26:48.396Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -81121,7 +81195,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z"
+      "lastSeenAt": "2026-10-30T12:54:45.849Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-06T12:56:27.072Z"
     },
     "yonto-app/yonto-player-releases": {
       "full": "yonto-app/yonto-player-releases",
@@ -81150,7 +81226,7 @@
     "omacom/try-omarchy": {
       "full": "omacom/try-omarchy",
       "firstSeenAt": "2026-10-27T02:26:48.396Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -81176,7 +81252,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z"
+      "lastSeenAt": "2026-10-30T12:54:45.849Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-06T12:56:39.520Z"
     },
     "walter-grace/cooks": {
       "full": "walter-grace/cooks",
@@ -82268,7 +82346,7 @@
     "gero-labs/gerowallet": {
       "full": "Gero-Labs/gerowallet",
       "firstSeenAt": "2026-10-27T02:26:58.842Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -82287,7 +82365,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-27T02:26:58.842Z"
+      "lastSeenAt": "2026-10-27T02:26:58.842Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-06T12:56:34.774Z"
     },
     "flo5k5/ninfer-v100-sm70": {
       "full": "Flo5k5/ninfer-v100-sm70",
@@ -82726,7 +82806,7 @@
     "toomuchvoltage/highomega-public": {
       "full": "toomuchvoltage/HighOmega-public",
       "firstSeenAt": "2026-10-27T02:27:09.172Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -82745,7 +82825,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-27T02:27:09.172Z"
+      "lastSeenAt": "2026-10-27T02:27:09.172Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-06T12:56:38.965Z"
     },
     "galfrevn/reel": {
       "full": "galfrevn/reel",
@@ -82931,7 +83013,7 @@
     "opensensenova/sensenova-u1": {
       "full": "OpenSenseNova/SenseNova-U1",
       "firstSeenAt": "2026-10-27T02:27:09.172Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -82950,7 +83032,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-27T02:27:09.172Z"
+      "lastSeenAt": "2026-10-27T02:27:09.172Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-06T12:56:40.086Z"
     },
     "dbraun/synapse": {
       "full": "DBraun/SynAPSE",
@@ -83818,7 +83902,7 @@
     "brg444/arkade-runtime": {
       "full": "brg444/arkade-runtime",
       "firstSeenAt": "2026-10-27T02:27:09.172Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -83835,12 +83919,14 @@
         "replies": 2,
         "quotes": 1
       },
-      "lastSeenAt": "2026-10-27T02:27:09.172Z"
+      "lastSeenAt": "2026-10-27T02:27:09.172Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-06T12:56:29.133Z"
     },
     "brg444/arkade-vault-server": {
       "full": "brg444/arkade-vault-server",
       "firstSeenAt": "2026-10-27T02:27:09.172Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -83857,12 +83943,14 @@
         "replies": 2,
         "quotes": 1
       },
-      "lastSeenAt": "2026-10-27T02:27:09.172Z"
+      "lastSeenAt": "2026-10-27T02:27:09.172Z",
+      "reason": "temporary_error",
+      "nextAttemptAt": "2026-10-30T18:56:29.484Z"
     },
     "brg444/arkade-wallet-vault": {
       "full": "brg444/arkade-wallet-vault",
       "firstSeenAt": "2026-10-27T02:27:09.172Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -83879,7 +83967,9 @@
         "replies": 2,
         "quotes": 1
       },
-      "lastSeenAt": "2026-10-27T02:27:09.172Z"
+      "lastSeenAt": "2026-10-27T02:27:09.172Z",
+      "reason": "temporary_error",
+      "nextAttemptAt": "2026-10-30T18:56:29.856Z"
     },
     "droid-deck/droiddeck": {
       "full": "Droid-Deck/DroidDeck",
@@ -86417,7 +86507,7 @@
     "saiyam1814/kiac": {
       "full": "saiyam1814/kiac",
       "firstSeenAt": "2026-10-29T12:59:51.871Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -86434,12 +86524,112 @@
         "replies": 2,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-29T12:59:51.871Z"
+      "lastSeenAt": "2026-10-29T12:59:51.871Z",
+      "entry": {
+        "availability": "available",
+        "full": "saiyam1814/kiac",
+        "name": "kiac",
+        "description": "Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
+        "category": "Developer tools",
+        "language": "Go",
+        "stars": 388,
+        "forks": 27,
+        "created": "2026-06-10T18:10:36Z",
+        "updated": "2026-10-08T11:16:36Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://saiyam1814.github.io/kiac/",
+        "topics": [
+          "apple-silicon",
+          "containers",
+          "kubernetes",
+          "macos"
+        ],
+        "demo": "https://saiyam1814.github.io/kiac/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-10-30T12:56:30.614Z",
+        "lastAvailableAt": "2026-10-30T12:56:30.614Z",
+        "lastAttemptAt": "2026-10-30T12:56:30.614Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2089320326002049077",
+            "postId": "2089320326002049077",
+            "postedAt": "2026-08-17T11:55:58.000Z"
+          }
+        ],
+        "subjects": [
+          "Apple"
+        ],
+        "platforms": [
+          "macOS"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Apple"
+          ],
+          "evidence": [
+            {
+              "subject": "Apple",
+              "source": "metadata",
+              "match": "apple silicon"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "macOS",
+              "source": "metadata",
+              "match": "apple silicon"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://saiyam1814.github.io/kiac/",
+          "attemptedAt": "2026-10-30T12:56:33.794Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-30T12:56:33.794Z",
+          "lastWorkingAt": "2026-10-30T12:56:33.794Z",
+          "target": "https://saiyam1814.github.io/kiac/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-06T12:56:33.794Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/f3ccc170fc411f26e3d751db.jpg",
+            "kind": "demo",
+            "url": "https://saiyam1814.github.io/kiac/",
+            "capturedAt": "2026-10-30T12:56:33.794Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-30T12:56:33.794Z",
+        "previewCheck": {
+          "url": "https://saiyam1814.github.io/kiac/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-30T12:56:33.794Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-06T12:56:33.795Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-01T00:56:33.796Z",
+      "checkedAt": "2026-10-30T12:56:33.796Z",
+      "firstAcceptedAt": "2026-10-30T12:56:33.796Z"
     },
     "theshiphq/memwarden": {
       "full": "theshiphq/memwarden",
       "firstSeenAt": "2026-10-29T12:59:51.871Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -86456,7 +86646,9 @@
         "replies": 2,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-29T12:59:51.871Z"
+      "lastSeenAt": "2026-10-29T12:59:51.871Z",
+      "reason": "temporary_error",
+      "nextAttemptAt": "2026-10-30T18:56:34.141Z"
     },
     "john-rocky/litert-models": {
       "full": "john-rocky/LiteRT-Models",
@@ -86844,7 +87036,7 @@
     "brainstormity/system-one-computer-use": {
       "full": "brainstormity/System-One-Computer-Use",
       "firstSeenAt": "2026-10-30T12:54:45.849Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -86863,12 +87055,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z"
+      "lastSeenAt": "2026-10-30T12:54:45.849Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-06T12:56:26.431Z"
     },
     "valorian0108/rtoken-lab": {
       "full": "Valorian0108/rtoken-lab",
       "firstSeenAt": "2026-10-30T12:54:57.274Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -86895,12 +87089,107 @@
           "repository": "Valorian0108/rtoken-lab"
         }
       ],
-      "lastSeenAt": "2026-10-30T12:54:57.274Z"
+      "lastSeenAt": "2026-10-30T12:54:57.274Z",
+      "entry": {
+        "availability": "available",
+        "full": "Valorian0108/rtoken-lab",
+        "name": "rtoken-lab",
+        "description": "ai research workbench for exploring bitget rToken markets, separate stock closes, and evidence limits without trading",
+        "category": "Developer tools",
+        "language": "TypeScript",
+        "stars": 1,
+        "forks": 0,
+        "created": "2026-09-24T19:23:17Z",
+        "updated": "2026-10-04T05:45:19Z",
+        "branch": "master",
+        "homepage": "https://rtoken-lab.vercel.app",
+        "topics": [
+          "ai-tools",
+          "bitget-api",
+          "cryptocurrency",
+          "rtokens",
+          "stocks",
+          "stocks-api",
+          "stocks-prices",
+          "stocks-tracker"
+        ],
+        "demo": "https://rtoken-lab.vercel.app/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-30T12:56:08.351Z",
+        "lastAvailableAt": "2026-10-30T12:56:08.351Z",
+        "lastAttemptAt": "2026-10-30T12:56:08.351Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2105001543472754895",
+            "postId": "2105001543472754895",
+            "postedAt": "2026-09-29T18:27:31.000Z"
+          }
+        ],
+        "subjects": [
+          "Crypto & blockchain"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "Crypto & blockchain"
+          ],
+          "evidence": [
+            {
+              "subject": "Crypto & blockchain",
+              "source": "metadata",
+              "match": "cryptocurrency"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://rtoken-lab.vercel.app/",
+          "attemptedAt": "2026-10-30T12:56:11.814Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-30T12:56:11.814Z",
+          "lastWorkingAt": "2026-10-30T12:56:11.814Z",
+          "target": "https://rtoken-lab.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-06T12:56:11.814Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/5cef45e774615e85a3171b45.jpg",
+            "kind": "demo",
+            "url": "https://rtoken-lab.vercel.app/",
+            "capturedAt": "2026-10-30T12:56:11.814Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-30T12:56:11.814Z",
+        "previewCheck": {
+          "url": "https://rtoken-lab.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-30T12:56:11.814Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-06T12:56:11.816Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-01T00:56:11.817Z",
+      "checkedAt": "2026-10-30T12:56:11.817Z",
+      "firstAcceptedAt": "2026-10-30T12:56:11.817Z"
     },
     "google-research/rrsi": {
       "full": "google-research/rrsi",
       "firstSeenAt": "2026-10-30T12:54:57.274Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -86933,7 +87222,96 @@
           "repository": "google-research/rrsi"
         }
       ],
-      "lastSeenAt": "2026-10-30T12:54:57.274Z"
+      "lastSeenAt": "2026-10-30T12:54:57.274Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "google-research/rrsi",
+        "postUrl": "https://x.com/i/web/status/2104998031154196576",
+        "url": "https://regularized-rsi.com/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "google-research/rrsi",
+        "name": "rrsi",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "Python",
+        "stars": 1680,
+        "forks": 165,
+        "created": "2026-09-16T04:50:49Z",
+        "updated": "2026-09-23T22:16:25Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://regularized-rsi.com/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-30T12:56:17.014Z",
+        "lastAvailableAt": "2026-10-30T12:56:17.014Z",
+        "lastAttemptAt": "2026-10-30T12:56:17.014Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "google-research/rrsi",
+          "postUrl": "https://x.com/i/web/status/2104998031154196576",
+          "url": "https://regularized-rsi.com/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104998031154196576",
+            "postId": "2104998031154196576",
+            "postedAt": "2026-09-29T18:13:34.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://regularized-rsi.com/",
+          "attemptedAt": "2026-10-30T12:56:20.662Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-30T12:56:20.662Z",
+          "lastWorkingAt": "2026-10-30T12:56:20.662Z",
+          "target": "https://regularized-rsi.com/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-06T12:56:20.662Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/625b76d39a86a25e2de0e49e.jpg",
+            "kind": "demo",
+            "url": "https://regularized-rsi.com/",
+            "capturedAt": "2026-10-30T12:56:20.662Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-30T12:56:20.662Z",
+        "previewCheck": {
+          "url": "https://regularized-rsi.com/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-30T12:56:20.662Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-06T12:56:20.663Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-01T00:56:20.663Z",
+      "checkedAt": "2026-10-30T12:56:20.663Z",
+      "firstAcceptedAt": "2026-10-30T12:56:20.663Z"
     },
     "yash-jain-1/mudb": {
       "full": "yash-jain-1/muDB",
@@ -86986,7 +87364,7 @@
     "maps-research/chord": {
       "full": "MAPS-research/CHORD",
       "firstSeenAt": "2026-10-30T12:54:57.274Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -87019,7 +87397,96 @@
           "repository": "MAPS-research/CHORD"
         }
       ],
-      "lastSeenAt": "2026-10-30T12:54:57.274Z"
+      "lastSeenAt": "2026-10-30T12:54:57.274Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "MAPS-research/CHORD",
+        "postUrl": "https://x.com/i/web/status/2104983849872552071",
+        "url": "https://huggingface.co/mikezhu/chord-qwen3.5-2b-student"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "MAPS-research/CHORD",
+        "name": "CHORD",
+        "description": "Code for CHORD: Coherence-Aware Distributional Evaluation of Open-Ended Text Generation.",
+        "category": "Developer tools",
+        "language": "Python",
+        "stars": 3,
+        "forks": 0,
+        "created": "2026-09-27T00:05:51Z",
+        "updated": "2026-10-07T19:29:28Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": "https://arxiv.org/abs/2609.34240",
+        "topics": [],
+        "demo": "https://huggingface.co/mikezhu/chord-qwen3.5-2b-student",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-10-30T12:56:21.470Z",
+        "lastAvailableAt": "2026-10-30T12:56:21.470Z",
+        "lastAttemptAt": "2026-10-30T12:56:21.470Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "MAPS-research/CHORD",
+          "postUrl": "https://x.com/i/web/status/2104983849872552071",
+          "url": "https://huggingface.co/mikezhu/chord-qwen3.5-2b-student"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104983849872552071",
+            "postId": "2104983849872552071",
+            "postedAt": "2026-09-29T17:17:13.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://huggingface.co/mikezhu/chord-qwen3.5-2b-student",
+          "attemptedAt": "2026-10-30T12:56:25.641Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-30T12:56:25.641Z",
+          "lastWorkingAt": "2026-10-30T12:56:25.641Z",
+          "target": "https://huggingface.co/mikezhu/chord-qwen3.5-2b-student",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-06T12:56:25.641Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/d31b65ee2db63424359a3b2d.jpg",
+            "kind": "demo",
+            "url": "https://huggingface.co/mikezhu/chord-qwen3.5-2b-student",
+            "capturedAt": "2026-10-30T12:56:25.641Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-30T12:56:25.641Z",
+        "previewCheck": {
+          "url": "https://huggingface.co/mikezhu/chord-qwen3.5-2b-student",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-30T12:56:25.641Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-06T12:56:25.642Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-01T00:56:25.643Z",
+      "checkedAt": "2026-10-30T12:56:25.643Z",
+      "firstAcceptedAt": "2026-10-30T12:56:25.643Z"
     },
     "animatek/g1-emu": {
       "full": "animatek/G1-Emu",
@@ -87048,7 +87515,7 @@
     "nobrainer-tech/nobrainer-tech-flow": {
       "full": "nobrainer-tech/nobrainer-tech-flow",
       "firstSeenAt": "2026-10-30T12:54:57.274Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -87067,7 +87534,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:57.274Z"
+      "lastSeenAt": "2026-10-30T12:54:57.274Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-06T12:56:35.526Z"
     },
     "cranewen/local-llm-chat": {
       "full": "cranewen/Local-LLM-Chat",
@@ -87096,7 +87565,7 @@
     "lakeday-org/perch": {
       "full": "lakeday-org/perch",
       "firstSeenAt": "2026-10-30T12:54:57.274Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -87115,12 +87584,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:57.274Z"
+      "lastSeenAt": "2026-10-30T12:54:57.274Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-06T12:56:28.458Z"
     },
     "rahul7686/whistle": {
       "full": "rahul7686/Whistle",
       "firstSeenAt": "2026-10-30T12:54:57.274Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -87147,12 +87618,88 @@
           "repository": "rahul7686/Whistle"
         }
       ],
-      "lastSeenAt": "2026-10-30T12:54:57.274Z"
+      "lastSeenAt": "2026-10-30T12:54:57.274Z",
+      "entry": {
+        "availability": "available",
+        "full": "rahul7686/Whistle",
+        "name": "Whistle",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-25T12:19:20Z",
+        "updated": "2026-09-26T22:09:28Z",
+        "branch": "main",
+        "homepage": "https://whistle-sigma.vercel.app",
+        "topics": [],
+        "demo": "https://drive.google.com/file/d/1GVkgAs8on9pxLmytOX-TbrL8tg2PilrW/view?usp=sharing",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-10-30T12:56:12.736Z",
+        "lastAvailableAt": "2026-10-30T12:56:12.736Z",
+        "lastAttemptAt": "2026-10-30T12:56:12.736Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104968213213950333",
+            "postId": "2104968213213950333",
+            "postedAt": "2026-09-29T16:15:05.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://drive.google.com/file/d/1GVkgAs8on9pxLmytOX-TbrL8tg2PilrW/view?usp=sharing",
+          "attemptedAt": "2026-10-30T12:56:16.169Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-30T12:56:16.169Z",
+          "lastWorkingAt": "2026-10-30T12:56:16.169Z",
+          "target": "https://drive.google.com/file/d/1GVkgAs8on9pxLmytOX-TbrL8tg2PilrW/view",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-06T12:56:16.169Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/1b6c578fffbddaf12c9bdc13.jpg",
+            "kind": "demo",
+            "url": "https://drive.google.com/file/d/1GVkgAs8on9pxLmytOX-TbrL8tg2PilrW/view?usp=sharing",
+            "capturedAt": "2026-10-30T12:56:16.169Z"
+          }
+        ],
+        "previewAttemptAt": "2026-10-30T12:56:16.169Z",
+        "previewCheck": {
+          "url": "https://drive.google.com/file/d/1GVkgAs8on9pxLmytOX-TbrL8tg2PilrW/view?usp=sharing",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-10-30T12:56:16.169Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-06T12:56:16.170Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-01T00:56:16.171Z",
+      "checkedAt": "2026-10-30T12:56:16.171Z",
+      "firstAcceptedAt": "2026-10-30T12:56:16.171Z"
     },
     "sidiora-labs/centra-gideon-agent": {
       "full": "Sidiora-Labs/centra-gideon-agent",
       "firstSeenAt": "2026-10-30T12:54:57.274Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -87171,7 +87718,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:57.274Z"
+      "lastSeenAt": "2026-10-30T12:54:57.274Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-06T12:56:27.787Z"
     }
   },
   "lastRun": {
@@ -88616,16 +89165,16 @@
       "posts": 623,
       "uniquePosts": 366,
       "newCandidates": 241,
-      "validationAttempts": 209,
-      "accepted": 69
+      "validationAttempts": 220,
+      "accepted": 73
     },
     "2c0438e5283099cf": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "posts": 311,
       "uniquePosts": 308,
       "newCandidates": 363,
-      "validationAttempts": 358,
-      "accepted": 141
+      "validationAttempts": 367,
+      "accepted": 142
     },
     "ac3eb65e96558e14": {
       "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
@@ -88672,7 +89221,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-10-30T11:38:48.315Z",
+      "nextAttemptAt": "2026-11-06T12:56:06.126Z",
       "reason": "no_repository_link"
     },
     "https://blackman99.github.io/toolsmoke/docs/": {
@@ -89350,8 +89899,8 @@
     }
   },
   "lastDemoDiscovery": {
-    "checked": 4,
+    "checked": 1,
     "resolved": 0,
-    "at": "2026-10-29T13:00:42.671Z"
+    "at": "2026-10-30T12:56:07.108Z"
   }
 }

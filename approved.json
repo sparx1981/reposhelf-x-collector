@@ -1,353 +1,9 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-29T13:02:18.660Z",
+  "updatedAt": "2026-10-30T12:56:40.125Z",
   "runtimeRevision": "ed71211be3a262dd1b928f3740f110b041b3708e",
   "checked": 20,
   "repositories": [
-    {
-      "availability": "available",
-      "full": "VanGong1999/FDE",
-      "name": "FDE",
-      "description": "更新中｜收集FDE AI前线部署工程师相关全部内容｜从0到1｜ Ontology|AI Agent，Workflows，工作流 ,RAG,知识库，推理优化与部署，vllm与sglang，workflow,graph/loop/conext/prompt工程 ",
-      "category": "AI & machine learning",
-      "language": "HTML",
-      "stars": 309,
-      "forks": 46,
-      "created": "2026-09-22T07:23:58Z",
-      "updated": "2026-10-26T05:06:28Z",
-      "license": null,
-      "branch": "main",
-      "homepage": "https://vangong1999.github.io/FDE/",
-      "topics": [],
-      "demo": "https://vangong1999.github.io/FDE/",
-      "color": "#25392f",
-      "ink": "#d1e5c5",
-      "lastCheckedAt": "2026-10-28T12:54:59.586Z",
-      "lastAvailableAt": "2026-10-28T12:54:59.586Z",
-      "lastAttemptAt": "2026-10-28T12:54:59.586Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2105083703928242661",
-          "postId": "2105083703928242661",
-          "postedAt": "2026-09-29T23:54:00.000Z"
-        }
-      ],
-      "subjects": [
-        "Automation & workflows",
-        "MCP servers & agents"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "AI & machine learning",
-        "subjects": [
-          "Automation & workflows",
-          "MCP servers & agents"
-        ],
-        "evidence": [
-          {
-            "subject": "Automation & workflows",
-            "source": "metadata",
-            "match": "Workflows"
-          },
-          {
-            "subject": "MCP servers & agents",
-            "source": "metadata",
-            "match": "AI Agent"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://vangong1999.github.io/FDE/",
-        "attemptedAt": "2026-10-28T12:55:03.024Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-28T12:55:03.024Z",
-        "lastWorkingAt": "2026-10-28T12:55:03.024Z",
-        "target": "https://vangong1999.github.io/FDE/#/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-11-04T12:55:03.024Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/15ac4d991c2c20905399f98e.jpg",
-          "kind": "demo",
-          "url": "https://vangong1999.github.io/FDE/",
-          "capturedAt": "2026-10-28T12:55:03.024Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-28T12:55:03.024Z",
-      "previewCheck": {
-        "url": "https://vangong1999.github.io/FDE/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-28T12:55:03.024Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-11-04T12:55:03.025Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "repositoryId": 1338905690,
-      "availability": "available",
-      "full": "galfrevn/reel",
-      "name": "reel",
-      "description": "Record your terminal once and let your agent edit it into a polished demo in seconds 📼",
-      "category": "Developer tools",
-      "language": "Rust",
-      "stars": 13,
-      "forks": 1,
-      "created": "2026-08-18T23:03:12Z",
-      "updated": "2026-08-21T16:18:36Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "https://galfrevn.github.io/reel/",
-      "topics": [
-        "cli",
-        "gif",
-        "recording",
-        "rust",
-        "screencast",
-        "terminal",
-        "tui",
-        "webm"
-      ],
-      "demo": "https://galfrevn.github.io/reel/",
-      "color": "#63362a",
-      "ink": "#f8c7a8",
-      "lastCheckedAt": "2026-10-27T22:40:23.181Z",
-      "lastAttemptAt": "2026-10-27T22:40:23.181Z",
-      "lastAvailableAt": "2026-10-27T22:40:23.181Z",
-      "metrics": [
-        {
-          "at": "2026-10-25T09:49:03.698Z",
-          "stars": 13,
-          "forks": 1
-        },
-        {
-          "at": "2026-10-27T22:40:23.181Z",
-          "stars": 13,
-          "forks": 1
-        }
-      ],
-      "technologies": [
-        "Rust"
-      ],
-      "overview": {
-        "kind": "readme",
-        "version": 1,
-        "paragraphs": [
-          "Record a terminal session once, then treat it as a timeline you can cut, speed-ramp, zoom, caption, restyle, and score with sound — re-rendering in milliseconds without ever re-running the underlying program.",
-          "Plenty of tools will get a terminal session onto disk and back out as pixels. reel is about the half that comes after: post-production. The recording is frozen; the edit is a text file you keep changing.",
-          "A real Claude Code session, recorded once and then cut, annotated, speed-ramped and scored by reel — from one edit script. The WebM carries procedural sound; GIF can't."
-        ],
-        "features": [],
-        "sourceUrl": "https://github.com/galfrevn/reel/blob/main/README.md",
-        "fingerprint": "efb6edec2fa69ceb561b13c5439a6817173af3cadd4ce07e689d42b83b00709e",
-        "extractedAt": "2026-10-25T09:49:03.792Z"
-      },
-      "overviewCheckedAt": "2026-10-25T09:49:03.792Z",
-      "projectInsights": {
-        "version": 1,
-        "whatItDoes": {
-          "text": "Record a terminal session once, then treat it as a timeline you can cut, speed-ramp, zoom, caption, restyle, and score with sound — re-rendering in milliseconds without ever re-running the underlying program.",
-          "sourceUrl": "https://github.com/galfrevn/reel/blob/main/README.md"
-        },
-        "audience": [],
-        "requirements": [
-          {
-            "kind": "account",
-            "status": "documented",
-            "text": "Publishing your own is a PR with a TOML file — no accounts, no infrastructure.",
-            "sourceUrl": "https://github.com/galfrevn/reel/blob/main/README.md"
-          }
-        ],
-        "fingerprint": "efb6edec2fa69ceb561b13c5439a6817173af3cadd4ce07e689d42b83b00709e",
-        "sourceUrl": "https://github.com/galfrevn/reel/blob/main/README.md",
-        "checkedAt": "2026-10-25T09:49:03.792Z"
-      },
-      "overviewRepoUpdated": "2026-08-21T16:18:36Z",
-      "readmeSnapshot": {
-        "version": 1,
-        "status": "saved",
-        "sourceUrl": "https://github.com/galfrevn/reel/blob/main/README.md",
-        "checkedAt": "2026-10-25T09:49:03.793Z",
-        "hash": "efb6edec2fa69ceb561b13c5439a6817173af3cadd4ce07e689d42b83b00709e",
-        "originalBytes": 10750,
-        "storedBytes": 10750,
-        "truncated": false
-      },
-      "lastDemoCheckedAt": "2026-10-25T09:49:03.698Z",
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [
-          "Games & game development",
-          "MCP servers & agents"
-        ],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://galfrevn.github.io/reel/",
-        "attemptedAt": "2026-10-25T10:06:10.590Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-25T10:06:10.590Z",
-        "lastWorkingAt": "2026-10-25T10:06:10.590Z",
-        "target": "https://galfrevn.github.io/reel/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-11-01T10:06:10.590Z"
-      },
-      "previewAttemptAt": "2026-10-25T10:06:10.590Z",
-      "previewCheck": {
-        "url": "https://galfrevn.github.io/reel/",
-        "attemptedAt": "2026-10-25T10:06:10.590Z",
-        "consecutiveFailures": 0,
-        "status": "captured",
-        "reason": null,
-        "nextCheckAt": "2026-11-01T10:06:10.590Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/d3d3c86804faea1ec9b0b156.jpg",
-          "kind": "demo",
-          "capturedAt": "2026-10-25T10:06:10.590Z",
-          "url": "https://galfrevn.github.io/reel/"
-        }
-      ],
-      "qualityPriority": false,
-      "repositoryAliases": [],
-      "repositoryEtag": "W/\"d49df2a3a141ce4e6137c1c82156c41637cd05fe4a5d2b851902c93a1dea31a1\"",
-      "repositoryEtagFor": "galfrevn/reel",
-      "spaces": [],
-      "communityPosts": [],
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2090564763830911160",
-          "postId": "2090564763830911160",
-          "postedAt": "2026-08-20T22:20:55.000Z"
-        }
-      ],
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "GorvGoyl/Clone-Wars",
-      "name": "Clone-Wars",
-      "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
-      "category": "Developer tools",
-      "language": null,
-      "stars": 37196,
-      "forks": 3361,
-      "created": "2020-12-02T11:10:16Z",
-      "updated": "2024-08-06T12:31:36Z",
-      "license": "AGPL-3.0",
-      "branch": "main",
-      "homepage": "https://gourav.io/clone-wars",
-      "topics": [
-        "airbnb",
-        "clone",
-        "instagram",
-        "netflix",
-        "reddit",
-        "spotify",
-        "tiktok",
-        "twitter",
-        "whatsapp"
-      ],
-      "demo": "https://demo.matsz.dev/2048/",
-      "color": "#25392f",
-      "ink": "#d1e5c5",
-      "lastCheckedAt": "2026-10-28T12:55:04.628Z",
-      "lastAvailableAt": "2026-10-28T12:55:04.628Z",
-      "lastAttemptAt": "2026-10-28T12:55:04.628Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2090392510338040048",
-          "postId": "2090392510338040048",
-          "postedAt": "2026-08-20T10:56:26.000Z"
-        }
-      ],
-      "subjects": [
-        "Music & audio"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [
-          "Music & audio"
-        ],
-        "evidence": [
-          {
-            "subject": "Music & audio",
-            "source": "metadata",
-            "match": "Spotify"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://demo.matsz.dev/2048/",
-        "attemptedAt": "2026-10-28T12:55:08.770Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-28T12:55:08.770Z",
-        "lastWorkingAt": "2026-10-28T12:55:08.770Z",
-        "target": "https://demo.mat.dev/2048/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-11-04T12:55:08.770Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/f1681ea52a697d905715dade.jpg",
-          "kind": "demo",
-          "url": "https://demo.matsz.dev/2048/",
-          "capturedAt": "2026-10-28T12:55:08.770Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-28T12:55:08.770Z",
-      "previewCheck": {
-        "url": "https://demo.matsz.dev/2048/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-28T12:55:08.770Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-11-04T12:55:08.771Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
     {
       "availability": "available",
       "full": "colyseus/defold-platformer-game",
@@ -429,363 +85,6 @@
         "attemptedAt": "2026-10-29T13:02:17.374Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-11-05T13:02:17.375Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "Pizzylee001/Edgebook",
-      "name": "Edgebook",
-      "description": "Personal forecasting desk for Polymarket prediction markets powered by Nansen API. Tracks calibration, Brier scores, and edge against market price.",
-      "category": "Design",
-      "language": "TypeScript",
-      "stars": 3,
-      "forks": 0,
-      "created": "2026-09-26T13:41:36Z",
-      "updated": "2026-09-28T01:20:41Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "https://edgebook-mauve.vercel.app",
-      "topics": [
-        "brier-score",
-        "forecasting",
-        "meridian-buildathon",
-        "nansen",
-        "nansen-api",
-        "nextjs",
-        "polymarket",
-        "prediction-markets",
-        "react",
-        "tailwindcss"
-      ],
-      "demo": "https://edgebook-mauve.vercel.app/",
-      "color": "#323057",
-      "ink": "#d6caff",
-      "lastCheckedAt": "2026-10-28T12:54:22.497Z",
-      "lastAvailableAt": "2026-10-28T12:54:22.497Z",
-      "lastAttemptAt": "2026-10-28T12:54:22.497Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2104360155769168355",
-          "postId": "2104360155769168355",
-          "postedAt": "2026-09-27T23:58:52.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Design",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://edgebook-mauve.vercel.app/",
-        "attemptedAt": "2026-10-28T12:54:25.916Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-28T12:54:25.916Z",
-        "lastWorkingAt": "2026-10-28T12:54:25.916Z",
-        "target": "https://edgebook-mauve.vercel.app/markets",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-11-04T12:54:25.916Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/65a17b710b10535561e65f24.jpg",
-          "kind": "demo",
-          "url": "https://edgebook-mauve.vercel.app/",
-          "capturedAt": "2026-10-28T12:54:25.916Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-28T12:54:25.916Z",
-      "previewCheck": {
-        "url": "https://edgebook-mauve.vercel.app/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-28T12:54:25.916Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-11-04T12:54:25.917Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "ana-lan/downshift",
-      "name": "downshift",
-      "description": "Cut LLM costs per PR. Finds every LLM call in a Python repo, proves which can safely run on cheaper models with per-call-site evals, and flags cost increases in every pull request. Built with IBM Bob.",
-      "category": "Developer tools",
-      "language": "Python",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-09-25T15:51:15Z",
-      "updated": "2026-09-27T06:59:46Z",
-      "license": "MIT",
-      "branch": "main",
-      "homepage": "https://downshift-llm.vercel.app/",
-      "topics": [
-        "cli",
-        "cost-optimization",
-        "developer-tools",
-        "evals",
-        "finops",
-        "github-actions",
-        "ibm-bob-2",
-        "ibm-bob-hackathon",
-        "llm",
-        "llmops",
-        "nextjs",
-        "ollama",
-        "openai",
-        "python",
-        "static-analysis",
-        "vercel"
-      ],
-      "demo": "https://downshift-llm.vercel.app/",
-      "color": "#302e55",
-      "ink": "#dbd2ff",
-      "lastCheckedAt": "2026-10-28T12:54:48.580Z",
-      "lastAvailableAt": "2026-10-28T12:54:48.580Z",
-      "lastAttemptAt": "2026-10-28T12:54:48.580Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2104297458788393325",
-          "postId": "2104297458788393325",
-          "postedAt": "2026-09-27T19:49:44.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Developer tools",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://downshift-llm.vercel.app/",
-        "attemptedAt": "2026-10-28T12:54:51.804Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-28T12:54:51.804Z",
-        "lastWorkingAt": "2026-10-28T12:54:51.804Z",
-        "target": "https://downshift-llm.vercel.app/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-11-04T12:54:51.804Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/3b3eb4a0b30877c846a4a770.jpg",
-          "kind": "demo",
-          "url": "https://downshift-llm.vercel.app/",
-          "capturedAt": "2026-10-28T12:54:51.804Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-28T12:54:51.804Z",
-      "previewCheck": {
-        "url": "https://downshift-llm.vercel.app/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-28T12:54:51.804Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-11-04T12:54:51.805Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "jenzylove/keel",
-      "name": "keel",
-      "description": "Borrow against your Bitcoin, never redeemed. A drop in strategy for Mezo's MUSD savings vault that lends idle savings to BTC and veBTC holders outside redemptions.",
-      "category": "Finance",
-      "language": "TypeScript",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-10-20T21:46:16Z",
-      "updated": "2026-10-26T00:27:24Z",
-      "license": null,
-      "branch": "main",
-      "homepage": "https://keel-psi-seven.vercel.app",
-      "topics": [
-        "bitcoin",
-        "defi",
-        "foundry",
-        "lending",
-        "mezo",
-        "musd",
-        "nextjs",
-        "solidity",
-        "vebtc"
-      ],
-      "demo": "https://keel-psi-seven.vercel.app/demo",
-      "color": "#193546",
-      "ink": "#a6d6e8",
-      "lastCheckedAt": "2026-10-28T12:54:18.386Z",
-      "lastAvailableAt": "2026-10-28T12:54:18.386Z",
-      "lastAttemptAt": "2026-10-28T12:54:18.386Z",
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2114640544777326602",
-          "postId": "2114640544777326602",
-          "postedAt": "2026-10-26T08:49:28.000Z"
-        }
-      ],
-      "subjects": [
-        "Crypto & blockchain"
-      ],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Finance",
-        "subjects": [
-          "Crypto & blockchain"
-        ],
-        "evidence": [
-          {
-            "subject": "Crypto & blockchain",
-            "source": "metadata",
-            "match": "Bitcoin"
-          }
-        ],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": false
-      },
-      "demoHealth": {
-        "url": "https://keel-psi-seven.vercel.app/demo",
-        "attemptedAt": "2026-10-28T12:54:21.688Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-28T12:54:21.688Z",
-        "lastWorkingAt": "2026-10-28T12:54:21.688Z",
-        "target": "https://keel-psi-seven.vercel.app/demo",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-11-04T12:54:21.688Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/364f292198cdf8224f5e5fa6.jpg",
-          "kind": "demo",
-          "url": "https://keel-psi-seven.vercel.app/demo",
-          "capturedAt": "2026-10-28T12:54:21.688Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-28T12:54:21.688Z",
-      "previewCheck": {
-        "url": "https://keel-psi-seven.vercel.app/demo",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-28T12:54:21.688Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-11-04T12:54:21.689Z"
-      },
-      "sourceCategories": [
-        "As Seen On X.com"
-      ]
-    },
-    {
-      "availability": "available",
-      "full": "itsdeveloperaditya6143-coder/SaaS-Projects",
-      "name": "SaaS-Projects",
-      "description": "Explore this public GitHub project.",
-      "category": "Other",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "created": "2026-09-18T06:39:18Z",
-      "updated": "2026-09-23T09:08:11Z",
-      "branch": "main",
-      "homepage": null,
-      "topics": [],
-      "demo": "https://tweetsplit.onrender.com/",
-      "color": "#193546",
-      "ink": "#a6d6e8",
-      "lastCheckedAt": "2026-10-28T12:54:52.628Z",
-      "lastAvailableAt": "2026-10-28T12:54:52.628Z",
-      "lastAttemptAt": "2026-10-28T12:54:52.628Z",
-      "demoEvidence": {
-        "kind": "x_link",
-        "repository": "itsdeveloperaditya6143-coder/SaaS-Projects",
-        "postUrl": "https://x.com/i/web/status/2104493980155097168",
-        "url": "https://tweetsplit.onrender.com/"
-      },
-      "discoveredVia": [
-        {
-          "kind": "x",
-          "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2104493980155097168",
-          "postId": "2104493980155097168",
-          "postedAt": "2026-09-28T08:50:39.000Z"
-        }
-      ],
-      "subjects": [],
-      "platforms": [],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Other",
-        "subjects": [],
-        "evidence": [],
-        "platformEvidence": [],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://tweetsplit.onrender.com/",
-        "attemptedAt": "2026-10-28T12:54:55.838Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-28T12:54:55.838Z",
-        "lastWorkingAt": "2026-10-28T12:54:55.838Z",
-        "target": "https://tweetsplit.onrender.com/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-11-04T12:54:55.838Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/0731e1d3699a481b1a4a7381.jpg",
-          "kind": "demo",
-          "url": "https://tweetsplit.onrender.com/",
-          "capturedAt": "2026-10-28T12:54:55.838Z"
-        }
-      ],
-      "previewAttemptAt": "2026-10-28T12:54:55.838Z",
-      "previewCheck": {
-        "url": "https://tweetsplit.onrender.com/",
-        "status": "captured",
-        "reason": null,
-        "attemptedAt": "2026-10-28T12:54:55.838Z",
-        "consecutiveFailures": 0,
-        "nextCheckAt": "2026-11-04T12:54:55.838Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
@@ -1544,215 +843,99 @@
     },
     {
       "availability": "available",
-      "full": "john-rocky/LiteRT-Models",
-      "name": "LiteRT-Models",
-      "description": "Converted TFLite Model Zoo for Android with LiteRT CompiledModel GPU acceleration",
-      "category": "Education",
-      "language": "Kotlin",
-      "stars": 26,
-      "forks": 3,
-      "created": "2026-04-01T08:20:44Z",
-      "updated": "2026-10-27T09:14:12Z",
+      "full": "saiyam1814/kiac",
+      "name": "kiac",
+      "description": "Local Kubernetes on Apple's container framework - every node is its own lightweight VM. Metrics, storage, and LoadBalancer included.",
+      "category": "Developer tools",
+      "language": "Go",
+      "stars": 388,
+      "forks": 27,
+      "created": "2026-06-10T18:10:36Z",
+      "updated": "2026-10-08T11:16:36Z",
       "license": "MIT",
       "branch": "main",
-      "homepage": "https://john-rocky.github.io/",
+      "homepage": "https://saiyam1814.github.io/kiac/",
       "topics": [
-        "android",
-        "gpu",
-        "litert",
-        "machine-learning",
-        "object-detection",
-        "on-device-ai",
-        "tflite",
-        "yolo"
+        "apple-silicon",
+        "containers",
+        "kubernetes",
+        "macos"
       ],
-      "demo": "https://john-rocky.github.io/",
-      "color": "#25392f",
-      "ink": "#d1e5c5",
-      "lastCheckedAt": "2026-10-27T14:53:44.395Z",
-      "lastAttemptAt": "2026-10-27T14:53:44.395Z",
-      "lastAvailableAt": "2026-10-27T14:53:44.395Z",
-      "metrics": [
-        {
-          "at": "2026-10-11T07:26:13.897Z",
-          "stars": 26,
-          "forks": 3
-        },
-        {
-          "at": "2026-10-17T07:10:04.098Z",
-          "stars": 26,
-          "forks": 3
-        },
-        {
-          "at": "2026-10-21T00:35:49.639Z",
-          "stars": 26,
-          "forks": 3
-        },
-        {
-          "at": "2026-10-23T03:02:56.888Z",
-          "stars": 26,
-          "forks": 3
-        },
-        {
-          "at": "2026-10-25T07:08:51.313Z",
-          "stars": 26,
-          "forks": 3
-        },
-        {
-          "at": "2026-10-27T14:53:44.395Z",
-          "stars": 26,
-          "forks": 3
-        }
-      ],
-      "technologies": [],
-      "overview": {
-        "kind": "readme",
-        "version": 1,
-        "paragraphs": [
-          "LiteRT is Google's on-device ML runtime for Android and the successor to TensorFlow Lite (renamed 2024-09): PyTorch models are converted with Google's litert-torch into .tflite files that run every op on the phone's GPU through CompiledModel (ML Drift), e.g. DINOv2 ViT-S/14 at 448² runs in 53.6 ms on a Galaxy S26 GPU (npubench, LiteRT 2.2.0, median of 50 runs, 2026-08).",
-          "This repository is the model zoo for that path: 91 converted models (as of 2026-09-08), each with its download, input/output shapes, preprocessing, the conversion script that produced it, and a standalone Android sample app (Kotlin). No MediaPipe and no vendor SDK: the .tflite graphs run on CompiledModel GPU with every op delegated (no CPU fallback), and the four 3B chat models run on LiteRT-LM. The GPU-compatibility rewrites these conversions need are catalogued in docs/LITERTCONVERSIONGUIDE.md and packaged in litertgputoolkit/.",
-          "If you like this repository, please give it a star."
-        ],
-        "features": [],
-        "sourceUrl": "https://github.com/john-rocky/LiteRT-Models/blob/main/README.md",
-        "fingerprint": "f304df1ec4247bff6b93de9dfd95cdf9c23cb154121e2a1fdf71a38a3abbd2bc",
-        "extractedAt": "2026-10-11T07:26:14.034Z"
-      },
-      "overviewCheckedAt": "2026-10-11T07:26:14.034Z",
-      "projectInsights": {
-        "version": 1,
-        "whatItDoes": {
-          "text": "LiteRT is Google's on-device ML runtime for Android and the successor to TensorFlow Lite (renamed 2024-09): PyTorch models are converted with Google's litert-torch into .tflite files that run every op on the phone's GPU through CompiledModel (ML Drift), e.g. DINOv2 ViT-S/14 at 448² runs in 53.6 ms on a Galaxy S26 GPU (npubench, LiteRT 2.2.0, median of 50 runs, 2026-08).",
-          "sourceUrl": "https://github.com/john-rocky/LiteRT-Models/blob/main/README.md"
-        },
-        "audience": [],
-        "requirements": [
-          {
-            "kind": "account",
-            "status": "required",
-            "text": "The anti-fraud building block for face login / e-KYC.",
-            "sourceUrl": "https://github.com/john-rocky/LiteRT-Models/blob/main/README.md"
-          },
-          {
-            "kind": "paid_service",
-            "status": "required",
-            "text": "Three things that are easy to get wrong. (1) Both text streams carry real word tokens, not new-word/pad markers: on a new word the main stream emits the word's first token while the second stream emits NEWWORD, and during the padding frames that follow, the main stream drains the rest of the word while the second stream drains a two-word lookahead. (2) Each codebook lags the…",
-            "sourceUrl": "https://github.com/john-rocky/LiteRT-Models/blob/main/README.md"
-          }
-        ],
-        "fingerprint": "f304df1ec4247bff6b93de9dfd95cdf9c23cb154121e2a1fdf71a38a3abbd2bc",
-        "sourceUrl": "https://github.com/john-rocky/LiteRT-Models/blob/main/README.md",
-        "checkedAt": "2026-10-11T07:26:14.037Z"
-      },
-      "overviewRepoUpdated": "2026-10-11T06:01:16Z",
-      "readmeSnapshot": {
-        "version": 1,
-        "status": "saved",
-        "sourceUrl": "https://github.com/john-rocky/LiteRT-Models/blob/main/README.md",
-        "checkedAt": "2026-10-11T07:26:14.052Z",
-        "hash": "f304df1ec4247bff6b93de9dfd95cdf9c23cb154121e2a1fdf71a38a3abbd2bc",
-        "originalBytes": 277547,
-        "storedBytes": 277547,
-        "truncated": false
-      },
-      "lastDemoCheckedAt": "2026-10-11T07:26:13.897Z",
-      "subjects": [
-        "Android",
-        "Mobile"
-      ],
-      "platforms": [
-        "Android"
-      ],
-      "classification": {
-        "version": 4,
-        "method": "local_rules",
-        "category": "Education",
-        "subjects": [
-          "Android",
-          "Mobile"
-        ],
-        "evidence": [
-          {
-            "subject": "Android",
-            "source": "metadata",
-            "match": "Android"
-          },
-          {
-            "subject": "Mobile",
-            "source": "metadata",
-            "match": "Android"
-          }
-        ],
-        "platformEvidence": [
-          {
-            "platform": "Android",
-            "source": "metadata",
-            "match": "Android"
-          }
-        ],
-        "platformSupport": "author_metadata_not_runtime_tested",
-        "suggestedSubjects": [
-          "Apple",
-          "Streaming",
-          "Image, audio & video AI",
-          "Maths & algorithms",
-          "Music & audio"
-        ],
-        "reviewRequired": true
-      },
-      "demoHealth": {
-        "url": "https://john-rocky.github.io/",
-        "attemptedAt": "2026-10-27T15:20:32.187Z",
-        "probeVersion": 3,
-        "status": "working",
-        "checkedAt": "2026-10-27T15:20:32.187Z",
-        "lastWorkingAt": "2026-10-27T15:20:32.187Z",
-        "target": "https://john-rocky.github.io/",
-        "failureCount": 0,
-        "consecutiveTemporaryFailures": 0,
-        "nextCheckAt": "2026-11-03T15:20:32.187Z"
-      },
-      "previewAttemptAt": "2026-10-27T15:20:32.187Z",
-      "previewCheck": {
-        "url": "https://john-rocky.github.io/",
-        "attemptedAt": "2026-10-27T15:20:32.187Z",
-        "consecutiveFailures": 0,
-        "status": "captured",
-        "reason": null,
-        "nextCheckAt": "2026-11-03T15:20:32.187Z"
-      },
-      "screenshots": [
-        {
-          "src": "previews/bc3f56f711bb9bff8ad52c12.jpg",
-          "kind": "demo",
-          "capturedAt": "2026-10-27T15:20:32.187Z",
-          "url": "https://john-rocky.github.io/"
-        }
-      ],
-      "qualityPriority": false,
-      "repositoryId": 1198225865,
-      "repositoryAliases": [],
-      "repositoryEtag": "W/\"1ce2c8dc75430889f879a760ab38d7b89bce32c96536decf20c543971b31e5e7\"",
-      "repositoryEtagFor": "john-rocky/LiteRT-Models",
-      "enrichmentAttemptAt": "2026-10-25T05:07:43.022Z",
-      "latestRelease": {
-        "name": "v3: MoGe-2 Monocular Geometry",
-        "tag": "v3",
-        "publishedAt": "2026-04-08T04:21:56Z",
-        "url": "https://github.com/john-rocky/LiteRT-Models/releases/tag/v3"
-      },
-      "releaseCheckedAt": "2026-10-25T05:07:43.022Z",
-      "spaces": [],
-      "communityPosts": [],
+      "demo": "https://saiyam1814.github.io/kiac/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-30T12:56:30.614Z",
+      "lastAvailableAt": "2026-10-30T12:56:30.614Z",
+      "lastAttemptAt": "2026-10-30T12:56:30.614Z",
       "discoveredVia": [
         {
           "kind": "x",
           "name": "As Seen On X.com",
-          "url": "https://x.com/i/web/status/2088874135388917790",
-          "postId": "2088874135388917790",
-          "postedAt": "2026-08-16T06:22:57.000Z"
+          "url": "https://x.com/i/web/status/2089320326002049077",
+          "postId": "2089320326002049077",
+          "postedAt": "2026-08-17T11:55:58.000Z"
         }
       ],
+      "subjects": [
+        "Apple"
+      ],
+      "platforms": [
+        "macOS"
+      ],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "Apple"
+        ],
+        "evidence": [
+          {
+            "subject": "Apple",
+            "source": "metadata",
+            "match": "apple silicon"
+          }
+        ],
+        "platformEvidence": [
+          {
+            "platform": "macOS",
+            "source": "metadata",
+            "match": "apple silicon"
+          }
+        ],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://saiyam1814.github.io/kiac/",
+        "attemptedAt": "2026-10-30T12:56:33.794Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-30T12:56:33.794Z",
+        "lastWorkingAt": "2026-10-30T12:56:33.794Z",
+        "target": "https://saiyam1814.github.io/kiac/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-06T12:56:33.794Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/f3ccc170fc411f26e3d751db.jpg",
+          "kind": "demo",
+          "url": "https://saiyam1814.github.io/kiac/",
+          "capturedAt": "2026-10-30T12:56:33.794Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-30T12:56:33.794Z",
+      "previewCheck": {
+        "url": "https://saiyam1814.github.io/kiac/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-30T12:56:33.794Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-06T12:56:33.795Z"
+      },
       "sourceCategories": [
         "As Seen On X.com"
       ]
@@ -1853,6 +1036,339 @@
         "attemptedAt": "2026-10-29T13:00:53.174Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-11-05T13:00:53.175Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "Valorian0108/rtoken-lab",
+      "name": "rtoken-lab",
+      "description": "ai research workbench for exploring bitget rToken markets, separate stock closes, and evidence limits without trading",
+      "category": "Developer tools",
+      "language": "TypeScript",
+      "stars": 1,
+      "forks": 0,
+      "created": "2026-09-24T19:23:17Z",
+      "updated": "2026-10-04T05:45:19Z",
+      "branch": "master",
+      "homepage": "https://rtoken-lab.vercel.app",
+      "topics": [
+        "ai-tools",
+        "bitget-api",
+        "cryptocurrency",
+        "rtokens",
+        "stocks",
+        "stocks-api",
+        "stocks-prices",
+        "stocks-tracker"
+      ],
+      "demo": "https://rtoken-lab.vercel.app/",
+      "color": "#25392f",
+      "ink": "#d1e5c5",
+      "lastCheckedAt": "2026-10-30T12:56:08.351Z",
+      "lastAvailableAt": "2026-10-30T12:56:08.351Z",
+      "lastAttemptAt": "2026-10-30T12:56:08.351Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2105001543472754895",
+          "postId": "2105001543472754895",
+          "postedAt": "2026-09-29T18:27:31.000Z"
+        }
+      ],
+      "subjects": [
+        "Crypto & blockchain"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [
+          "Crypto & blockchain"
+        ],
+        "evidence": [
+          {
+            "subject": "Crypto & blockchain",
+            "source": "metadata",
+            "match": "cryptocurrency"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://rtoken-lab.vercel.app/",
+        "attemptedAt": "2026-10-30T12:56:11.814Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-30T12:56:11.814Z",
+        "lastWorkingAt": "2026-10-30T12:56:11.814Z",
+        "target": "https://rtoken-lab.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-06T12:56:11.814Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/5cef45e774615e85a3171b45.jpg",
+          "kind": "demo",
+          "url": "https://rtoken-lab.vercel.app/",
+          "capturedAt": "2026-10-30T12:56:11.814Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-30T12:56:11.814Z",
+      "previewCheck": {
+        "url": "https://rtoken-lab.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-30T12:56:11.814Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-06T12:56:11.816Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "google-research/rrsi",
+      "name": "rrsi",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "Python",
+      "stars": 1680,
+      "forks": 165,
+      "created": "2026-09-16T04:50:49Z",
+      "updated": "2026-09-23T22:16:25Z",
+      "license": "Apache-2.0",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://regularized-rsi.com/",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-30T12:56:17.014Z",
+      "lastAvailableAt": "2026-10-30T12:56:17.014Z",
+      "lastAttemptAt": "2026-10-30T12:56:17.014Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "google-research/rrsi",
+        "postUrl": "https://x.com/i/web/status/2104998031154196576",
+        "url": "https://regularized-rsi.com/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104998031154196576",
+          "postId": "2104998031154196576",
+          "postedAt": "2026-09-29T18:13:34.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://regularized-rsi.com/",
+        "attemptedAt": "2026-10-30T12:56:20.662Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-30T12:56:20.662Z",
+        "lastWorkingAt": "2026-10-30T12:56:20.662Z",
+        "target": "https://regularized-rsi.com/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-06T12:56:20.662Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/625b76d39a86a25e2de0e49e.jpg",
+          "kind": "demo",
+          "url": "https://regularized-rsi.com/",
+          "capturedAt": "2026-10-30T12:56:20.662Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-30T12:56:20.662Z",
+      "previewCheck": {
+        "url": "https://regularized-rsi.com/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-30T12:56:20.662Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-06T12:56:20.663Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "MAPS-research/CHORD",
+      "name": "CHORD",
+      "description": "Code for CHORD: Coherence-Aware Distributional Evaluation of Open-Ended Text Generation.",
+      "category": "Developer tools",
+      "language": "Python",
+      "stars": 3,
+      "forks": 0,
+      "created": "2026-09-27T00:05:51Z",
+      "updated": "2026-10-07T19:29:28Z",
+      "license": "Apache-2.0",
+      "branch": "main",
+      "homepage": "https://arxiv.org/abs/2609.34240",
+      "topics": [],
+      "demo": "https://huggingface.co/mikezhu/chord-qwen3.5-2b-student",
+      "color": "#193546",
+      "ink": "#a6d6e8",
+      "lastCheckedAt": "2026-10-30T12:56:21.470Z",
+      "lastAvailableAt": "2026-10-30T12:56:21.470Z",
+      "lastAttemptAt": "2026-10-30T12:56:21.470Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "MAPS-research/CHORD",
+        "postUrl": "https://x.com/i/web/status/2104983849872552071",
+        "url": "https://huggingface.co/mikezhu/chord-qwen3.5-2b-student"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104983849872552071",
+          "postId": "2104983849872552071",
+          "postedAt": "2026-09-29T17:17:13.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Developer tools",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://huggingface.co/mikezhu/chord-qwen3.5-2b-student",
+        "attemptedAt": "2026-10-30T12:56:25.641Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-30T12:56:25.641Z",
+        "lastWorkingAt": "2026-10-30T12:56:25.641Z",
+        "target": "https://huggingface.co/mikezhu/chord-qwen3.5-2b-student",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-06T12:56:25.641Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/d31b65ee2db63424359a3b2d.jpg",
+          "kind": "demo",
+          "url": "https://huggingface.co/mikezhu/chord-qwen3.5-2b-student",
+          "capturedAt": "2026-10-30T12:56:25.641Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-30T12:56:25.641Z",
+      "previewCheck": {
+        "url": "https://huggingface.co/mikezhu/chord-qwen3.5-2b-student",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-30T12:56:25.641Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-06T12:56:25.642Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "rahul7686/Whistle",
+      "name": "Whistle",
+      "description": "Explore this public GitHub project.",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-25T12:19:20Z",
+      "updated": "2026-09-26T22:09:28Z",
+      "branch": "main",
+      "homepage": "https://whistle-sigma.vercel.app",
+      "topics": [],
+      "demo": "https://drive.google.com/file/d/1GVkgAs8on9pxLmytOX-TbrL8tg2PilrW/view?usp=sharing",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-30T12:56:12.736Z",
+      "lastAvailableAt": "2026-10-30T12:56:12.736Z",
+      "lastAttemptAt": "2026-10-30T12:56:12.736Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104968213213950333",
+          "postId": "2104968213213950333",
+          "postedAt": "2026-09-29T16:15:05.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://drive.google.com/file/d/1GVkgAs8on9pxLmytOX-TbrL8tg2PilrW/view?usp=sharing",
+        "attemptedAt": "2026-10-30T12:56:16.169Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-30T12:56:16.169Z",
+        "lastWorkingAt": "2026-10-30T12:56:16.169Z",
+        "target": "https://drive.google.com/file/d/1GVkgAs8on9pxLmytOX-TbrL8tg2PilrW/view",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-06T12:56:16.169Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/1b6c578fffbddaf12c9bdc13.jpg",
+          "kind": "demo",
+          "url": "https://drive.google.com/file/d/1GVkgAs8on9pxLmytOX-TbrL8tg2PilrW/view?usp=sharing",
+          "capturedAt": "2026-10-30T12:56:16.169Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-30T12:56:16.169Z",
+      "previewCheck": {
+        "url": "https://drive.google.com/file/d/1GVkgAs8on9pxLmytOX-TbrL8tg2PilrW/view?usp=sharing",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-30T12:56:16.169Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-06T12:56:16.170Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
