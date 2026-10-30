@@ -42,7 +42,8 @@
       },
       "recent": {
         "start": "2026-10-23T12:55:38.124Z",
-        "end": "2026-10-27T02:26:12.628Z"
+        "end": "2026-10-27T02:26:12.628Z",
+        "nextToken": "b26v89c19zqg8o3juzlx95aya02r03wi7qv5uvmqxvud9"
       }
     },
     "2c0438e5283099cf": {
@@ -48279,7 +48280,7 @@
         "replies": 43,
         "quotes": 8
       },
-      "lastSeenAt": "2026-10-27T02:27:09.172Z",
+      "lastSeenAt": "2026-10-30T12:54:45.849Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-20T14:12:19.404Z"
     },
@@ -80997,7 +80998,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-27T02:26:48.396Z"
+      "lastSeenAt": "2026-10-30T12:54:45.849Z"
     },
     "filebrowser/filebrowser": {
       "full": "filebrowser/filebrowser",
@@ -81021,7 +81022,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-27T02:26:48.396Z"
+      "lastSeenAt": "2026-10-30T12:54:45.849Z"
     },
     "u4pak/smo-ios": {
       "full": "u4pak/smo-ios",
@@ -81067,7 +81068,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-27T02:26:48.396Z"
+      "lastSeenAt": "2026-10-30T12:54:45.849Z"
     },
     "alchaincyf/huashu-design": {
       "full": "alchaincyf/huashu-design",
@@ -81089,7 +81090,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-27T02:26:48.396Z"
+      "lastSeenAt": "2026-10-30T12:54:45.849Z"
     },
     "hazyresearch/ncm": {
       "full": "HazyResearch/ncm",
@@ -81106,14 +81107,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 0,
+        "likes": 3,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-27T02:26:48.396Z"
+      "lastSeenAt": "2026-10-30T12:54:45.849Z"
     },
     "yonto-app/yonto-player-releases": {
       "full": "yonto-app/yonto-player-releases",
@@ -81137,7 +81138,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-27T02:26:48.396Z"
+      "lastSeenAt": "2026-10-30T12:54:45.849Z"
     },
     "omacom/try-omarchy": {
       "full": "omacom/try-omarchy",
@@ -81161,14 +81162,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 0,
+        "likes": 1,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-27T02:26:48.396Z"
+      "lastSeenAt": "2026-10-30T12:54:45.849Z"
     },
     "walter-grace/cooks": {
       "full": "walter-grace/cooks",
@@ -81192,7 +81193,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-27T02:26:48.396Z"
+      "lastSeenAt": "2026-10-30T12:54:45.849Z"
     },
     "sudharsan-ak/haventv-launcher": {
       "full": "sudharsan-ak/haventv-launcher",
@@ -81216,7 +81217,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-27T02:26:48.396Z"
+      "lastSeenAt": "2026-10-30T12:54:45.849Z"
     },
     "klahrich/replyslip": {
       "full": "klahrich/replyslip",
@@ -81248,7 +81249,7 @@
           "repository": "klahrich/replyslip"
         }
       ],
-      "lastSeenAt": "2026-10-27T02:26:48.396Z",
+      "lastSeenAt": "2026-10-30T12:54:45.849Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "klahrich/replyslip",
@@ -81392,7 +81393,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-27T02:26:48.396Z"
+      "lastSeenAt": "2026-10-30T12:54:45.849Z"
     },
     "rfb/fm1-time-signal-source": {
       "full": "rfb/fm1-time-signal-source",
@@ -81424,7 +81425,7 @@
           "repository": "rfb/fm1-time-signal-source"
         }
       ],
-      "lastSeenAt": "2026-10-27T02:26:48.396Z",
+      "lastSeenAt": "2026-10-30T12:54:45.849Z",
       "entry": {
         "availability": "available",
         "full": "rfb/fm1-time-signal-source",
@@ -81523,14 +81524,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 2,
+        "likes": 27,
         "reposts": 0,
-        "replies": 0,
+        "replies": 2,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-27T02:26:48.396Z",
+      "lastSeenAt": "2026-10-30T12:54:45.849Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-03T02:28:40.077Z"
     },
@@ -81556,7 +81557,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-27T02:26:48.396Z",
+      "lastSeenAt": "2026-10-30T12:54:45.849Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-03T02:28:39.452Z"
     },
@@ -81575,14 +81576,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 1,
-        "reposts": 0,
-        "replies": 1,
-        "quotes": 0
+        "likes": 6,
+        "reposts": 1,
+        "replies": 2,
+        "quotes": 1
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-27T02:26:48.396Z",
+      "lastSeenAt": "2026-10-30T12:54:45.849Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-03T02:28:40.586Z"
     },
@@ -81622,7 +81623,7 @@
           "repository": "armendzekjiri/brainitive"
         }
       ],
-      "lastSeenAt": "2026-10-27T02:26:48.396Z",
+      "lastSeenAt": "2026-10-30T12:54:45.849Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "armendzekjiri/brainitive",
@@ -81752,7 +81753,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-27T02:26:48.396Z"
+      "lastSeenAt": "2026-10-30T12:54:45.849Z"
     },
     "vangong1999/fde": {
       "full": "VanGong1999/FDE",
@@ -86804,6 +86805,30 @@
       "nextAttemptAt": "2026-10-31T01:00:53.176Z",
       "checkedAt": "2026-10-29T13:00:53.176Z",
       "firstAcceptedAt": "2026-10-29T13:00:53.176Z"
+    },
+    "brainstormity/system-one-computer-use": {
+      "full": "brainstormity/System-One-Computer-Use",
+      "firstSeenAt": "2026-10-30T12:54:45.849Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2114844697155744205",
+          "postId": "2114844697155744205",
+          "postedAt": "2026-10-26T22:20:42.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 9,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 1
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-10-30T12:54:45.849Z"
     }
   },
   "lastRun": {
@@ -88100,24 +88125,7 @@
     "2104397724472762643",
     "2113891269998948803",
     "2113889415718416484",
-    "2114902484808557044",
-    "2114899939457147148",
     "2114899658485166337",
-    "2114899161535438919",
-    "2114890545076306360",
-    "2114884884355494283",
-    "2114880884415607202",
-    "2114880403555471727",
-    "2114871453086781710",
-    "2114867180344881180",
-    "2114864885511110672",
-    "2114859710008668516",
-    "2114859049846243503",
-    "2114857298631987692",
-    "2114851681255244086",
-    "2114851487356772676",
-    "2114846116420452790",
-    "2114846077568614672",
     "2105083703928242661",
     "2105081871906546052",
     "2105081661486444939",
@@ -88220,14 +88228,32 @@
     "2089320326002049077",
     "2088902330708332688",
     "2088874135388917790",
-    "2088727442714165634"
+    "2088727442714165634",
+    "2114902484808557044",
+    "2114899939457147148",
+    "2114899161535438919",
+    "2114890545076306360",
+    "2114884884355494283",
+    "2114880884415607202",
+    "2114880403555471727",
+    "2114871453086781710",
+    "2114867180344881180",
+    "2114864885511110672",
+    "2114859710008668516",
+    "2114859049846243503",
+    "2114857298631987692",
+    "2114851681255244086",
+    "2114851487356772676",
+    "2114846116420452790",
+    "2114846077568614672",
+    "2114844697155744205"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
-      "posts": 589,
-      "uniquePosts": 351,
-      "newCandidates": 229,
+      "posts": 607,
+      "uniquePosts": 352,
+      "newCandidates": 230,
       "validationAttempts": 209,
       "accepted": 69
     },
