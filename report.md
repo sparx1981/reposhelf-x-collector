@@ -1,18 +1,18 @@
 # RepoShelf candidates from X
 
-Checked: 2026-10-30T12:56:40.125Z
+Checked: 2026-10-31T12:29:27.605Z
 
-Quality-ready repositories: **15**
+Quality-ready repositories: **23**
 
 ## Search yield
 
 | Query | Posts read | Unique posts | New repos | First accepted |
 | --- | ---: | ---: | ---: | ---: |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet | 623 | 366 | 241 | 73 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 311 | 308 | 363 | 142 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet (min_likes:10 OR min_reposts:3) | 325 | 322 | 380 | 147 |
 | (url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) ("open source" OR opensource OR github) (demo OR playground OR "try it" OR launched) -is:retweet | 46 | 44 | 20 | 20 |
 | url:github.com ("try it" OR "live preview" OR "try now" OR "deployed" OR "web app") -is:retweet (min_likes:10 OR min_reposts:3) | 290 | 45 | 37 | 13 |
-| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 703 | 333 | 309 | 134 |
+| url:github.com (demo OR playground OR "try online" OR "live app" OR "live demo" OR "interactive demo") -is:retweet | 734 | 343 | 318 | 137 |
 
 Acceptance totals are attributed to the first discovery query; these are not controlled experiments.
 
@@ -33,5 +33,13 @@ Acceptance totals are attributed to the first discovery query; these are not con
 | [google-research/rrsi](https://github.com/google-research/rrsi) | [Try demo](https://regularized-rsi.com/) | [Screenshot](previews/625b76d39a86a25e2de0e49e.jpg) | [Source](https://x.com/i/web/status/2104998031154196576) |
 | [MAPS-research/CHORD](https://github.com/MAPS-research/CHORD) | [Try demo](https://huggingface.co/mikezhu/chord-qwen3.5-2b-student) | [Screenshot](previews/d31b65ee2db63424359a3b2d.jpg) | [Source](https://x.com/i/web/status/2104983849872552071) |
 | [rahul7686/Whistle](https://github.com/rahul7686/Whistle) | [Try demo](https://drive.google.com/file/d/1GVkgAs8on9pxLmytOX-TbrL8tg2PilrW/view?usp=sharing) | [Screenshot](previews/1b6c578fffbddaf12c9bdc13.jpg) | [Source](https://x.com/i/web/status/2104968213213950333) |
+| [khianvictorycalderon/Taro-Resto](https://github.com/khianvictorycalderon/Taro-Resto) | [Try demo](https://khianvictorycalderon.github.io/Taro-Resto/) | [Screenshot](previews/f347815e383b99c267333688.jpg) | [Source](https://x.com/i/web/status/2104210285087310281) |
+| [offbeatash/Netflix-movie-recommendation-engine](https://github.com/offbeatash/Netflix-movie-recommendation-engine) | [Try demo](https://huggingface.co/spaces/offbeat-ash/netflix-recommendation-engine) | [Screenshot](previews/ac093cc9061d2d0622d39548.jpg) | [Source](https://x.com/i/web/status/2104208795530662115) |
+| [DanielKiani/hermes_quant](https://github.com/DanielKiani/hermes_quant) | [Try demo](https://danielkiani.github.io/hermes_quant/) | [Screenshot](previews/3548c68c9381b262dcda7f52.jpg) | [Source](https://x.com/i/web/status/2104206830054379794) |
+| [sushi-labs/sushiswap](https://github.com/sushi-labs/sushiswap) | [Try demo](https://pools.fun/) | [Screenshot](previews/970fef2b2a07b8d575703138.jpg) | [Source](https://x.com/i/web/status/2088714231352840322) |
+| [shadcndashboard/shadcndashboard](https://github.com/shadcndashboard/shadcndashboard) | [Try demo](https://shadcndashboard-demo.vercel.app/) | [Screenshot](previews/230308e7cc83e5cdf7212b2a.jpg) | [Source](https://x.com/i/web/status/2088671638795460896) |
+| [norio/speedball-gi](https://github.com/norio/speedball-gi) | [Try demo](https://norio.github.io/speedball-gi/) | [Screenshot](previews/41320dee76fbb36e40731784.jpg) | [Source](https://x.com/i/web/status/2088632985541296506) |
+| [liseami/ChunUI](https://github.com/liseami/ChunUI) | [Try demo](https://testflight.apple.com/join/B4TyqKhe) | [Screenshot](previews/cef08ea95e4b2d959eeeb3dd.jpg) | [Source](https://x.com/i/web/status/2088123773023367480) |
+| [kaelah971/solvo](https://github.com/kaelah971/solvo) | [Try demo](https://solvo-beryl.vercel.app/) | [Screenshot](previews/24b4ae6bd641a323fca8fad0.jpg) | [Source](https://x.com/i/web/status/2087831738131107969) |
 
 Checks expire: repositories after 48 hours; demos after seven days. RepoShelf applies current moderation before publication.

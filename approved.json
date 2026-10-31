@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-30T12:56:40.125Z",
+  "updatedAt": "2026-10-31T12:29:27.605Z",
   "runtimeRevision": "ed71211be3a262dd1b928f3740f110b041b3708e",
   "checked": 20,
   "repositories": [
@@ -1369,6 +1369,732 @@
         "attemptedAt": "2026-10-30T12:56:16.169Z",
         "consecutiveFailures": 0,
         "nextCheckAt": "2026-11-06T12:56:16.170Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "khianvictorycalderon/Taro-Resto",
+      "name": "Taro-Resto",
+      "description": "A fictional restaurant, a dedicated repository for landing page showcase",
+      "category": "Design",
+      "language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-09-27T13:35:25Z",
+      "updated": "2026-09-29T00:45:42Z",
+      "license": null,
+      "branch": "main",
+      "homepage": "https://khianvictorycalderon.github.io/Taro-Resto/",
+      "topics": [
+        "html",
+        "javascript",
+        "landing-page-website",
+        "tailwind-css",
+        "vanilla-html",
+        "vanilla-javascript",
+        "vanilla-web-based"
+      ],
+      "demo": "https://khianvictorycalderon.github.io/Taro-Resto/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-31T12:28:57.946Z",
+      "lastAvailableAt": "2026-10-31T12:28:57.946Z",
+      "lastAttemptAt": "2026-10-31T12:28:57.946Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104210285087310281",
+          "postId": "2104210285087310281",
+          "postedAt": "2026-09-27T14:03:20.000Z"
+        }
+      ],
+      "subjects": [
+        "Food & cooking"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "Food & cooking"
+        ],
+        "evidence": [
+          {
+            "subject": "Food & cooking",
+            "source": "metadata",
+            "match": "restaurant"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://khianvictorycalderon.github.io/Taro-Resto/",
+        "attemptedAt": "2026-10-31T12:29:01.472Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-31T12:29:01.472Z",
+        "lastWorkingAt": "2026-10-31T12:29:01.472Z",
+        "target": "https://khianvictorycalderon.github.io/Taro-Resto/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-07T12:29:01.472Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/f347815e383b99c267333688.jpg",
+          "kind": "demo",
+          "url": "https://khianvictorycalderon.github.io/Taro-Resto/",
+          "capturedAt": "2026-10-31T12:29:01.472Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-31T12:29:01.472Z",
+      "previewCheck": {
+        "url": "https://khianvictorycalderon.github.io/Taro-Resto/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-31T12:29:01.472Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-07T12:29:01.472Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "offbeatash/Netflix-movie-recommendation-engine",
+      "name": "Netflix-movie-recommendation-engine",
+      "description": "Production-oriented Netflix movie recommendation engine using SVD collaborative filtering, popularity-based cold start, MLflow, CI, Docker, FastAPI, and Hugging Face deployment.",
+      "category": "Education",
+      "language": "Jupyter Notebook",
+      "stars": 6,
+      "forks": 0,
+      "created": "2026-07-06T12:30:01Z",
+      "updated": "2026-09-27T15:21:50Z",
+      "license": "MIT",
+      "branch": "2.2",
+      "homepage": "https://huggingface.co/spaces/offbeat-ash/netflix-recommendation-engine",
+      "topics": [
+        "artificial-intelligence",
+        "data-science",
+        "docker",
+        "duckdb",
+        "fastapi",
+        "huggingface",
+        "machine-learning",
+        "mlflow",
+        "mlops",
+        "parquet",
+        "python",
+        "recommendation-system",
+        "recommender-system",
+        "scikit-learn"
+      ],
+      "demo": "https://huggingface.co/spaces/offbeat-ash/netflix-recommendation-engine",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-31T12:28:53.604Z",
+      "lastAvailableAt": "2026-10-31T12:28:53.604Z",
+      "lastAttemptAt": "2026-10-31T12:28:53.604Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104208795530662115",
+          "postId": "2104208795530662115",
+          "postedAt": "2026-09-27T13:57:25.000Z"
+        }
+      ],
+      "subjects": [
+        "Science"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Education",
+        "subjects": [
+          "Science"
+        ],
+        "evidence": [
+          {
+            "subject": "Science",
+            "source": "metadata",
+            "match": "science"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://huggingface.co/spaces/offbeat-ash/netflix-recommendation-engine",
+        "attemptedAt": "2026-10-31T12:28:57.232Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-31T12:28:57.232Z",
+        "lastWorkingAt": "2026-10-31T12:28:57.232Z",
+        "target": "https://huggingface.co/spaces/offbeat-ash/netflix-recommendation-engine",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-07T12:28:57.232Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/ac093cc9061d2d0622d39548.jpg",
+          "kind": "demo",
+          "url": "https://huggingface.co/spaces/offbeat-ash/netflix-recommendation-engine",
+          "capturedAt": "2026-10-31T12:28:57.232Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-31T12:28:57.232Z",
+      "previewCheck": {
+        "url": "https://huggingface.co/spaces/offbeat-ash/netflix-recommendation-engine",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-31T12:28:57.232Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-07T12:28:57.233Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "DanielKiani/hermes_quant",
+      "name": "hermes_quant",
+      "description": "Evidence-led cross-asset research terminal with purged walk-forward ML validation, cost-aware backtesting, portfolio risk analytics, FastAPI, and JavaScript.",
+      "category": "Design",
+      "language": "Python",
+      "stars": 2,
+      "forks": 0,
+      "created": "2026-06-26T15:50:34Z",
+      "updated": "2026-09-27T13:38:00Z",
+      "branch": "main",
+      "homepage": "",
+      "topics": [],
+      "demo": "https://danielkiani.github.io/hermes_quant/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-31T12:29:02.236Z",
+      "lastAvailableAt": "2026-10-31T12:29:02.236Z",
+      "lastAttemptAt": "2026-10-31T12:29:02.236Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104206830054379794",
+          "postId": "2104206830054379794",
+          "postedAt": "2026-09-27T13:49:37.000Z"
+        }
+      ],
+      "subjects": [
+        "Portfolios & personal sites"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "Portfolios & personal sites"
+        ],
+        "evidence": [
+          {
+            "subject": "Portfolios & personal sites",
+            "source": "metadata",
+            "match": "portfolio"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://danielkiani.github.io/hermes_quant/",
+        "attemptedAt": "2026-10-31T12:29:05.638Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-31T12:29:05.638Z",
+        "lastWorkingAt": "2026-10-31T12:29:05.638Z",
+        "target": "https://danielkiani.github.io/hermes_quant/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-07T12:29:05.638Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/3548c68c9381b262dcda7f52.jpg",
+          "kind": "demo",
+          "url": "https://danielkiani.github.io/hermes_quant/",
+          "capturedAt": "2026-10-31T12:29:05.638Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-31T12:29:05.638Z",
+      "previewCheck": {
+        "url": "https://danielkiani.github.io/hermes_quant/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-31T12:29:05.638Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-07T12:29:05.639Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "sushi-labs/sushiswap",
+      "name": "sushiswap",
+      "description": "Sushi 2.0 🍣",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 1944,
+      "forks": 1478,
+      "created": "2020-08-24T06:21:05Z",
+      "updated": "2026-10-29T19:53:42Z",
+      "license": "MIT",
+      "branch": "master",
+      "homepage": "https://www.sushi.com",
+      "topics": [],
+      "demo": "https://pools.fun/",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-31T12:28:28.841Z",
+      "lastAvailableAt": "2026-10-31T12:28:28.841Z",
+      "lastAttemptAt": "2026-10-31T12:28:28.841Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "sushi-labs/sushiswap",
+        "postUrl": "https://x.com/i/web/status/2088714231352840322",
+        "url": "https://pools.fun/"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2088714231352840322",
+          "postId": "2088714231352840322",
+          "postedAt": "2026-08-15T19:47:33.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://pools.fun/",
+        "attemptedAt": "2026-10-31T12:28:32.591Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-31T12:28:32.591Z",
+        "lastWorkingAt": "2026-10-31T12:28:32.591Z",
+        "target": "https://pools.fun/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-07T12:28:32.591Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/970fef2b2a07b8d575703138.jpg",
+          "kind": "demo",
+          "url": "https://pools.fun/",
+          "capturedAt": "2026-10-31T12:28:32.591Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-31T12:28:32.591Z",
+      "previewCheck": {
+        "url": "https://pools.fun/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-31T12:28:32.591Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-07T12:28:32.592Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "shadcndashboard/shadcndashboard",
+      "name": "shadcndashboard",
+      "description": "Free, open source admin dashboard built with React + vite, shadcn/ui, Tailwind CSS, and TypeScript.",
+      "category": "Design",
+      "language": "TypeScript",
+      "stars": 513,
+      "forks": 71,
+      "created": "2026-05-20T06:04:39Z",
+      "updated": "2026-10-01T07:24:39Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://shadcndashboard.dev",
+      "topics": [
+        "admin",
+        "admin-dashboard",
+        "admin-panel",
+        "admin-template",
+        "dashboard",
+        "free-dashboard",
+        "free-react-dashboard",
+        "free-shadcn-dashboard",
+        "open-source",
+        "react-dashboard",
+        "shadcn",
+        "shadcn-dashboard",
+        "shadcn-react",
+        "shadcn-ui",
+        "tanstack-table",
+        "typescript",
+        "vite"
+      ],
+      "demo": "https://shadcndashboard-demo.vercel.app/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-31T12:28:40.778Z",
+      "lastAvailableAt": "2026-10-31T12:28:40.778Z",
+      "lastAttemptAt": "2026-10-31T12:28:40.778Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2088671638795460896",
+          "postId": "2088671638795460896",
+          "postedAt": "2026-08-15T16:58:18.000Z"
+        }
+      ],
+      "subjects": [
+        "Templates & UI components",
+        "Data & dashboards"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "Templates & UI components",
+          "Data & dashboards"
+        ],
+        "evidence": [
+          {
+            "subject": "Templates & UI components",
+            "source": "metadata",
+            "match": "admin dashboard"
+          },
+          {
+            "subject": "Data & dashboards",
+            "source": "metadata",
+            "match": "dashboard"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://shadcndashboard-demo.vercel.app/",
+        "attemptedAt": "2026-10-31T12:28:44.170Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-31T12:28:44.170Z",
+        "lastWorkingAt": "2026-10-31T12:28:44.170Z",
+        "target": "https://shadcndashboard-demo.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-07T12:28:44.170Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/230308e7cc83e5cdf7212b2a.jpg",
+          "kind": "demo",
+          "url": "https://shadcndashboard-demo.vercel.app/",
+          "capturedAt": "2026-10-31T12:28:44.170Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-31T12:28:44.170Z",
+      "previewCheck": {
+        "url": "https://shadcndashboard-demo.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-31T12:28:44.170Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-07T12:28:44.171Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "norio/speedball-gi",
+      "name": "speedball-gi",
+      "description": "Three.js WebGPU sample scene using speedball-gi (DDGI)",
+      "category": "Design",
+      "language": "JavaScript",
+      "stars": 50,
+      "forks": 3,
+      "created": "2026-08-14T07:45:45Z",
+      "updated": "2026-10-10T12:33:58Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": "https://norio.github.io/speedball-gi/",
+      "topics": [],
+      "demo": "https://norio.github.io/speedball-gi/",
+      "color": "#323057",
+      "ink": "#d6caff",
+      "lastCheckedAt": "2026-10-31T12:28:44.774Z",
+      "lastAvailableAt": "2026-10-31T12:28:44.774Z",
+      "lastAttemptAt": "2026-10-31T12:28:44.774Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2088632985541296506",
+          "postId": "2088632985541296506",
+          "postedAt": "2026-08-15T14:24:43.000Z"
+        }
+      ],
+      "subjects": [
+        "3D & graphics"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "3D & graphics"
+        ],
+        "evidence": [
+          {
+            "subject": "3D & graphics",
+            "source": "metadata",
+            "match": "WebGPU"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://norio.github.io/speedball-gi/",
+        "attemptedAt": "2026-10-31T12:28:48.213Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-31T12:28:48.213Z",
+        "lastWorkingAt": "2026-10-31T12:28:48.213Z",
+        "target": "https://norio.github.io/speedball-gi/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-07T12:28:48.213Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/41320dee76fbb36e40731784.jpg",
+          "kind": "demo",
+          "url": "https://norio.github.io/speedball-gi/",
+          "capturedAt": "2026-10-31T12:28:48.213Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-31T12:28:48.213Z",
+      "previewCheck": {
+        "url": "https://norio.github.io/speedball-gi/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-31T12:28:48.213Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-07T12:28:48.214Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "liseami/ChunUI",
+      "name": "ChunUI",
+      "description": "Define your palette. Ship the same texture. — Monochrome-quality SwiftUI design system extracted from Zinner (阿奇)",
+      "category": "Design",
+      "language": "Swift",
+      "stars": 546,
+      "forks": 29,
+      "created": "2026-08-13T05:07:19Z",
+      "updated": "2026-10-13T05:52:18Z",
+      "license": "MIT",
+      "branch": "main",
+      "homepage": null,
+      "topics": [],
+      "demo": "https://testflight.apple.com/join/B4TyqKhe",
+      "color": "#302e55",
+      "ink": "#dbd2ff",
+      "lastCheckedAt": "2026-10-31T12:28:33.343Z",
+      "lastAvailableAt": "2026-10-31T12:28:33.343Z",
+      "lastAttemptAt": "2026-10-31T12:28:33.343Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "liseami/ChunUI",
+        "postUrl": "https://x.com/i/web/status/2088123773023367480",
+        "url": "https://testflight.apple.com/join/B4TyqKhe"
+      },
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2088123773023367480",
+          "postId": "2088123773023367480",
+          "postedAt": "2026-08-14T04:41:17.000Z"
+        }
+      ],
+      "subjects": [
+        "Apple"
+      ],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Design",
+        "subjects": [
+          "Apple"
+        ],
+        "evidence": [
+          {
+            "subject": "Apple",
+            "source": "metadata",
+            "match": "SwiftUI"
+          }
+        ],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": false
+      },
+      "demoHealth": {
+        "url": "https://testflight.apple.com/join/B4TyqKhe",
+        "attemptedAt": "2026-10-31T12:28:36.925Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-31T12:28:36.925Z",
+        "lastWorkingAt": "2026-10-31T12:28:36.925Z",
+        "target": "https://testflight.apple.com/join/B4TyqKhe",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-07T12:28:36.925Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/cef08ea95e4b2d959eeeb3dd.jpg",
+          "kind": "demo",
+          "url": "https://testflight.apple.com/join/B4TyqKhe",
+          "capturedAt": "2026-10-31T12:28:36.925Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-31T12:28:36.925Z",
+      "previewCheck": {
+        "url": "https://testflight.apple.com/join/B4TyqKhe",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-31T12:28:36.925Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-07T12:28:36.926Z"
+      },
+      "sourceCategories": [
+        "As Seen On X.com"
+      ]
+    },
+    {
+      "availability": "available",
+      "full": "kaelah971/solvo",
+      "name": "solvo",
+      "description": "Telegram-native treasury execution agent powered by KeeperHub.",
+      "category": "Other",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "created": "2026-08-12T08:36:18Z",
+      "updated": "2026-09-17T21:09:04Z",
+      "branch": "main",
+      "homepage": "https://solvo-beryl.vercel.app",
+      "topics": [],
+      "demo": "https://solvo-beryl.vercel.app/",
+      "color": "#63362a",
+      "ink": "#f8c7a8",
+      "lastCheckedAt": "2026-10-31T12:28:49.252Z",
+      "lastAvailableAt": "2026-10-31T12:28:49.252Z",
+      "lastAttemptAt": "2026-10-31T12:28:49.252Z",
+      "discoveredVia": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2087831738131107969",
+          "postId": "2087831738131107969",
+          "postedAt": "2026-08-13T09:20:51.000Z"
+        }
+      ],
+      "subjects": [],
+      "platforms": [],
+      "classification": {
+        "version": 4,
+        "method": "local_rules",
+        "category": "Other",
+        "subjects": [],
+        "evidence": [],
+        "platformEvidence": [],
+        "platformSupport": "author_metadata_not_runtime_tested",
+        "suggestedSubjects": [],
+        "reviewRequired": true
+      },
+      "demoHealth": {
+        "url": "https://solvo-beryl.vercel.app/",
+        "attemptedAt": "2026-10-31T12:28:52.858Z",
+        "probeVersion": 3,
+        "status": "working",
+        "checkedAt": "2026-10-31T12:28:52.858Z",
+        "lastWorkingAt": "2026-10-31T12:28:52.858Z",
+        "target": "https://solvo-beryl.vercel.app/",
+        "failureCount": 0,
+        "consecutiveTemporaryFailures": 0,
+        "nextCheckAt": "2026-11-07T12:28:52.858Z"
+      },
+      "screenshots": [
+        {
+          "src": "previews/24b4ae6bd641a323fca8fad0.jpg",
+          "kind": "demo",
+          "url": "https://solvo-beryl.vercel.app/",
+          "capturedAt": "2026-10-31T12:28:52.858Z"
+        }
+      ],
+      "previewAttemptAt": "2026-10-31T12:28:52.858Z",
+      "previewCheck": {
+        "url": "https://solvo-beryl.vercel.app/",
+        "status": "captured",
+        "reason": null,
+        "attemptedAt": "2026-10-31T12:28:52.858Z",
+        "consecutiveFailures": 0,
+        "nextCheckAt": "2026-11-07T12:28:52.860Z"
       },
       "sourceCategories": [
         "As Seen On X.com"
