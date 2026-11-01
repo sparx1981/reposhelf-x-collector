@@ -78,8 +78,7 @@
         "done": false
       },
       "recent": {
-        "start": "2026-10-25T13:24:27.863Z",
-        "end": "2026-10-26T13:00:44.970Z"
+        "start": "2026-10-26T12:59:44.970Z"
       }
     },
     "a0153cbebcc5cf46": {
@@ -80245,7 +80244,7 @@
           "repository": "AbrahamAlgorithm/snappdf"
         }
       ],
-      "lastSeenAt": "2026-10-30T12:55:08.855Z",
+      "lastSeenAt": "2026-11-01T13:23:34.227Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "AbrahamAlgorithm/snappdf",
@@ -80390,7 +80389,7 @@
           "repository": "SamG-Coder/BakedVoxelLighting"
         }
       ],
-      "lastSeenAt": "2026-10-30T12:55:08.855Z",
+      "lastSeenAt": "2026-11-01T13:23:34.227Z",
       "entry": {
         "availability": "available",
         "full": "SamG-Coder/BakedVoxelLighting",
@@ -80500,7 +80499,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:55:08.855Z",
+      "lastSeenAt": "2026-11-01T13:23:34.227Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-02T13:03:09.076Z"
     },
@@ -84643,7 +84642,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:55:08.855Z",
+      "lastSeenAt": "2026-11-01T13:23:34.227Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-04T12:54:56.585Z"
     },
@@ -84677,7 +84676,7 @@
           "repository": "jenzylove/keel"
         }
       ],
-      "lastSeenAt": "2026-10-30T12:55:08.855Z",
+      "lastSeenAt": "2026-11-01T13:23:34.227Z",
       "entry": {
         "availability": "available",
         "full": "jenzylove/keel",
@@ -91743,11 +91742,6 @@
     "2104977102458290244",
     "2104968213213950333",
     "2104965630055092600",
-    "2114697283552121159",
-    "2114673181810442595",
-    "2114664832947695695",
-    "2114640544777326602",
-    "2114549066764058764",
     "2114331404708491304",
     "2114195235475730799",
     "2114074936209990077",
@@ -91830,7 +91824,12 @@
     "2104125120100937821",
     "2104088108236976563",
     "2104087694359904681",
-    "2104074147165057487"
+    "2104074147165057487",
+    "2114697283552121159",
+    "2114673181810442595",
+    "2114664832947695695",
+    "2114640544777326602",
+    "2114549066764058764"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -91859,7 +91858,7 @@
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 290,
+      "posts": 295,
       "uniquePosts": 45,
       "newCandidates": 37,
       "validationAttempts": 39,
