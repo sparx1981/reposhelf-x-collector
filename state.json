@@ -89646,7 +89646,7 @@
     "benjitaylor/skills": {
       "full": "benjitaylor/skills",
       "firstSeenAt": "2026-11-01T13:23:09.789Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -89665,7 +89665,9 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z"
+      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-08T13:25:50.115Z"
     },
     "charliewwdev/openmontage": {
       "full": "charliewwdev/OpenMontage",
@@ -89694,7 +89696,7 @@
     "imlistack/pixel-pass": {
       "full": "ImliStack/Pixel-Pass",
       "firstSeenAt": "2026-11-01T13:23:09.789Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -89713,12 +89715,88 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z"
+      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "entry": {
+        "availability": "available",
+        "full": "ImliStack/Pixel-Pass",
+        "name": "Pixel-Pass",
+        "description": "Type the code and a pixel hero runs under each digit and bumps it like a block. A coin pops out and the block turns green if the digit is right, red if it's wrong",
+        "category": "Developer tools",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-11-01T09:54:45Z",
+        "updated": "2026-11-01T12:57:36Z",
+        "branch": "main",
+        "homepage": "https://pixel-pass.imlistack.workers.dev",
+        "topics": [],
+        "demo": "https://pixel-pass.imlistack.workers.dev/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-11-01T13:25:50.688Z",
+        "lastAvailableAt": "2026-11-01T13:25:50.688Z",
+        "lastAttemptAt": "2026-11-01T13:25:50.688Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2116874694687412244",
+            "postId": "2116874694687412244",
+            "postedAt": "2026-11-01T12:47:11.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://pixel-pass.imlistack.workers.dev/",
+          "attemptedAt": "2026-11-01T13:25:53.991Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-11-01T13:25:53.991Z",
+          "lastWorkingAt": "2026-11-01T13:25:53.991Z",
+          "target": "https://pixel-pass.imlistack.workers.dev/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-08T13:25:53.991Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/e8ed92542425eef36582c409.jpg",
+            "kind": "demo",
+            "url": "https://pixel-pass.imlistack.workers.dev/",
+            "capturedAt": "2026-11-01T13:25:53.991Z"
+          }
+        ],
+        "previewAttemptAt": "2026-11-01T13:25:53.991Z",
+        "previewCheck": {
+          "url": "https://pixel-pass.imlistack.workers.dev/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-11-01T13:25:53.991Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-08T13:25:53.991Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-03T01:25:53.992Z",
+      "checkedAt": "2026-11-01T13:25:53.992Z",
+      "firstAcceptedAt": "2026-11-01T13:25:53.992Z"
     },
     "google/elephant-goldfish-model": {
       "full": "google/elephant-goldfish-model",
       "firstSeenAt": "2026-11-01T13:23:09.789Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -89737,12 +89815,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z"
+      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-08T13:25:54.637Z"
     },
     "metafrogmeme-droid/claw-pay-paypal": {
       "full": "metafrogmeme-droid/claw-pay-paypal",
       "firstSeenAt": "2026-11-01T13:23:09.789Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -89769,12 +89849,92 @@
           "repository": "metafrogmeme-droid/claw-pay-paypal"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z"
+      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "metafrogmeme-droid/claw-pay-paypal",
+        "postUrl": "https://x.com/i/web/status/2116866979487170848",
+        "url": "https://devpost.com/software/claw-pay"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "metafrogmeme-droid/claw-pay-paypal",
+        "name": "claw-pay-paypal",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-11-01T07:43:47Z",
+        "updated": "2026-11-01T12:12:27Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://devpost.com/software/claw-pay",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-11-01T13:24:35.310Z",
+        "lastAvailableAt": "2026-11-01T13:24:35.310Z",
+        "lastAttemptAt": "2026-11-01T13:24:35.310Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "metafrogmeme-droid/claw-pay-paypal",
+          "postUrl": "https://x.com/i/web/status/2116866979487170848",
+          "url": "https://devpost.com/software/claw-pay"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2116866979487170848",
+            "postId": "2116866979487170848",
+            "postedAt": "2026-11-01T12:16:32.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://devpost.com/software/claw-pay",
+          "attemptedAt": "2026-11-01T13:24:35.906Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "challenge",
+            "at": "2026-11-01T13:24:35.906Z"
+          },
+          "nextCheckAt": "2026-11-01T15:24:35.906Z"
+        },
+        "previewAttemptAt": "2026-11-01T13:24:35.906Z",
+        "previewCheck": {
+          "url": "https://devpost.com/software/claw-pay",
+          "status": "retry",
+          "reason": "challenge",
+          "attemptedAt": "2026-11-01T13:24:35.906Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-11-01T15:24:35.906Z"
+        }
+      },
+      "reason": "challenge",
+      "nextAttemptAt": "2026-11-01T15:24:35.906Z",
+      "checkedAt": "2026-11-01T13:24:35.907Z"
     },
     "alamutu1/near-thesis-tested": {
       "full": "Alamutu1/near-thesis-tested",
       "firstSeenAt": "2026-11-01T13:23:09.789Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -89801,12 +89961,101 @@
           "repository": "Alamutu1/near-thesis-tested"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z"
+      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "Alamutu1/near-thesis-tested",
+        "postUrl": "https://x.com/i/web/status/2116866025144946780",
+        "url": "https://thesis-agent.netlify.app/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "Alamutu1/near-thesis-tested",
+        "name": "near-thesis-tested",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-10-28T01:47:24Z",
+        "updated": "2026-11-01T12:26:15Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://thesis-agent.netlify.app/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-11-01T13:24:36.565Z",
+        "lastAvailableAt": "2026-11-01T13:24:36.565Z",
+        "lastAttemptAt": "2026-11-01T13:24:36.565Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "Alamutu1/near-thesis-tested",
+          "postUrl": "https://x.com/i/web/status/2116866025144946780",
+          "url": "https://thesis-agent.netlify.app/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2116866025144946780",
+            "postId": "2116866025144946780",
+            "postedAt": "2026-11-01T12:12:44.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://thesis-agent.netlify.app/",
+          "attemptedAt": "2026-11-01T13:24:40.427Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-11-01T13:24:40.427Z",
+          "lastWorkingAt": "2026-11-01T13:24:40.427Z",
+          "target": "https://thesis-agent.netlify.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-08T13:24:40.427Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/13ded8911558ef9a3e1e0c9c.jpg",
+            "kind": "demo",
+            "url": "https://thesis-agent.netlify.app/",
+            "capturedAt": "2026-11-01T13:24:40.427Z"
+          }
+        ],
+        "previewAttemptAt": "2026-11-01T13:24:40.427Z",
+        "previewCheck": {
+          "url": "https://thesis-agent.netlify.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-11-01T13:24:40.427Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-08T13:24:40.428Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-03T01:24:40.429Z",
+      "checkedAt": "2026-11-01T13:24:40.429Z",
+      "firstAcceptedAt": "2026-11-01T13:24:40.429Z"
     },
     "kaish-sheikh/nammaspace-digital-twin": {
       "full": "Kaish-sheikh/nammaspace-digital-twin",
       "firstSeenAt": "2026-11-01T13:23:09.789Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -89833,12 +90082,98 @@
           "repository": "Kaish-sheikh/nammaspace-digital-twin"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z"
+      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "entry": {
+        "availability": "available",
+        "full": "Kaish-sheikh/nammaspace-digital-twin",
+        "name": "nammaspace-digital-twin",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-10-15T11:12:34Z",
+        "updated": "2026-10-20T16:06:54Z",
+        "branch": "main",
+        "homepage": "https://nammaspace-digital-twin.vercel.app",
+        "topics": [],
+        "demo": "https://nammaspace-digital-twin.vercel.app/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-11-01T13:24:59.273Z",
+        "lastAvailableAt": "2026-11-01T13:24:59.273Z",
+        "lastAttemptAt": "2026-11-01T13:24:59.273Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2116864008502612067",
+            "postId": "2116864008502612067",
+            "postedAt": "2026-11-01T12:04:43.000Z"
+          }
+        ],
+        "subjects": [
+          "Simulation & physics"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "Simulation & physics"
+          ],
+          "evidence": [
+            {
+              "subject": "Simulation & physics",
+              "source": "metadata",
+              "match": "digital twin"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://nammaspace-digital-twin.vercel.app/",
+          "attemptedAt": "2026-11-01T13:25:24.330Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-11-01T13:25:24.330Z",
+          "lastWorkingAt": "2026-11-01T13:25:24.330Z",
+          "target": "https://nammaspace-digital-twin.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-08T13:25:24.330Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/eb80d7d86fdef58b25520e3a.jpg",
+            "kind": "demo",
+            "url": "https://nammaspace-digital-twin.vercel.app/",
+            "capturedAt": "2026-11-01T13:25:24.330Z"
+          }
+        ],
+        "previewAttemptAt": "2026-11-01T13:25:24.330Z",
+        "previewCheck": {
+          "url": "https://nammaspace-digital-twin.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-11-01T13:25:24.330Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-08T13:25:24.331Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-03T01:25:24.332Z",
+      "checkedAt": "2026-11-01T13:25:24.332Z",
+      "firstAcceptedAt": "2026-11-01T13:25:24.332Z"
     },
     "gipppp121/grok-bot-relay": {
       "full": "Gipppp121/grok-bot-relay",
       "firstSeenAt": "2026-11-01T13:23:09.789Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -89857,12 +90192,14 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z"
+      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "reason": "no_hosted_demo",
+      "nextAttemptAt": "2026-11-08T13:25:45.505Z"
     },
     "minchuanc/amethyst": {
       "full": "MinchuanC/amethyst",
       "firstSeenAt": "2026-11-01T13:23:09.789Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -89889,12 +90226,99 @@
           "repository": "MinchuanC/amethyst"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z"
+      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "entry": {
+        "availability": "available",
+        "full": "MinchuanC/amethyst",
+        "name": "amethyst",
+        "description": "A Markdown editor app wtih futuristic look and Obsidian-like features",
+        "category": "Productivity",
+        "language": "TypeScript",
+        "stars": 9,
+        "forks": 2,
+        "created": "2026-10-16T17:57:07Z",
+        "updated": "2026-11-01T12:03:13Z",
+        "license": null,
+        "branch": "main",
+        "homepage": "amethyst-mauve.vercel.app",
+        "topics": [],
+        "demo": "https://amethyst-mauve.vercel.app/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-11-01T13:25:25.074Z",
+        "lastAvailableAt": "2026-11-01T13:25:25.074Z",
+        "lastAttemptAt": "2026-11-01T13:25:25.074Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2116863195789070780",
+            "postId": "2116863195789070780",
+            "postedAt": "2026-11-01T12:01:29.000Z"
+          }
+        ],
+        "subjects": [
+          "Writing & documents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Productivity",
+          "subjects": [
+            "Writing & documents"
+          ],
+          "evidence": [
+            {
+              "subject": "Writing & documents",
+              "source": "metadata",
+              "match": "Markdown editor"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://amethyst-mauve.vercel.app/",
+          "attemptedAt": "2026-11-01T13:25:28.360Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-11-01T13:25:28.360Z",
+          "lastWorkingAt": "2026-11-01T13:25:28.360Z",
+          "target": "https://amethyst-mauve.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-08T13:25:28.360Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/d1a5c258bd8b33dd717233d6.jpg",
+            "kind": "demo",
+            "url": "https://amethyst-mauve.vercel.app/",
+            "capturedAt": "2026-11-01T13:25:28.360Z"
+          }
+        ],
+        "previewAttemptAt": "2026-11-01T13:25:28.360Z",
+        "previewCheck": {
+          "url": "https://amethyst-mauve.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-11-01T13:25:28.360Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-08T13:25:28.361Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-03T01:25:28.362Z",
+      "checkedAt": "2026-11-01T13:25:28.362Z",
+      "firstAcceptedAt": "2026-11-01T13:25:28.362Z"
     },
     "rakkunn/vicem": {
       "full": "RAKKUNN/vicem",
       "firstSeenAt": "2026-11-01T13:23:09.789Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -89921,12 +90345,110 @@
           "repository": "RAKKUNN/vicem"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z"
+      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "entry": {
+        "availability": "available",
+        "full": "RAKKUNN/vicem",
+        "name": "vicem",
+        "description": "Zero-dependency AI agent context baton & diet suite. Hand off sessions between Claude Code, Codex, Gemini, and Cursor with 80% fewer tokens.",
+        "category": "Developer tools",
+        "language": "JavaScript",
+        "stars": 5,
+        "forks": 0,
+        "created": "2026-10-24T16:38:47Z",
+        "updated": "2026-10-30T12:40:11Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://rakkunn.github.io/vicem/",
+        "topics": [
+          "ai-agents",
+          "claude-code",
+          "codex",
+          "context-compression",
+          "cursor",
+          "developer-tools",
+          "gemini-cli",
+          "mcp",
+          "mcp-server",
+          "zero-dependency"
+        ],
+        "demo": "https://rakkunn.github.io/vicem/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-11-01T13:24:41.287Z",
+        "lastAvailableAt": "2026-11-01T13:24:41.287Z",
+        "lastAttemptAt": "2026-11-01T13:24:41.287Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2116863018911068243",
+            "postId": "2116863018911068243",
+            "postedAt": "2026-11-01T12:00:47.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "AI agent"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://rakkunn.github.io/vicem/",
+          "attemptedAt": "2026-11-01T13:24:44.542Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-11-01T13:24:44.542Z",
+          "lastWorkingAt": "2026-11-01T13:24:44.542Z",
+          "target": "https://rakkunn.github.io/vicem/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-08T13:24:44.542Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/c203d4b4cd5402652c4313e0.jpg",
+            "kind": "demo",
+            "url": "https://rakkunn.github.io/vicem/",
+            "capturedAt": "2026-11-01T13:24:44.542Z"
+          }
+        ],
+        "previewAttemptAt": "2026-11-01T13:24:44.542Z",
+        "previewCheck": {
+          "url": "https://rakkunn.github.io/vicem/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-11-01T13:24:44.542Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-08T13:24:44.543Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-03T01:24:44.544Z",
+      "checkedAt": "2026-11-01T13:24:44.544Z",
+      "firstAcceptedAt": "2026-11-01T13:24:44.544Z"
     },
     "rajukanna/planora": {
       "full": "rajukanna/Planora",
       "firstSeenAt": "2026-11-01T13:23:09.789Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -89953,12 +90475,101 @@
           "repository": "rajukanna/Planora"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z"
+      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "rajukanna/Planora",
+        "postUrl": "https://x.com/i/web/status/2116862095002361871",
+        "url": "https://planora-962957919448.us-central1.run.app/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "rajukanna/Planora",
+        "name": "Planora",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-11-01T09:09:35Z",
+        "updated": "2026-11-01T11:59:56Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://planora-962957919448.us-central1.run.app/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-11-01T13:25:29.022Z",
+        "lastAvailableAt": "2026-11-01T13:25:29.022Z",
+        "lastAttemptAt": "2026-11-01T13:25:29.022Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "rajukanna/Planora",
+          "postUrl": "https://x.com/i/web/status/2116862095002361871",
+          "url": "https://planora-962957919448.us-central1.run.app/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2116862095002361871",
+            "postId": "2116862095002361871",
+            "postedAt": "2026-11-01T11:57:07.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://planora-962957919448.us-central1.run.app/",
+          "attemptedAt": "2026-11-01T13:25:32.709Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-11-01T13:25:32.709Z",
+          "lastWorkingAt": "2026-11-01T13:25:32.709Z",
+          "target": "https://planora-962957919448.us-central1.run.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-08T13:25:32.709Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/1d990e4da44ed0f3b118220b.jpg",
+            "kind": "demo",
+            "url": "https://planora-962957919448.us-central1.run.app/",
+            "capturedAt": "2026-11-01T13:25:32.709Z"
+          }
+        ],
+        "previewAttemptAt": "2026-11-01T13:25:32.709Z",
+        "previewCheck": {
+          "url": "https://planora-962957919448.us-central1.run.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-11-01T13:25:32.709Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-08T13:25:32.710Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-03T01:25:32.711Z",
+      "checkedAt": "2026-11-01T13:25:32.711Z",
+      "firstAcceptedAt": "2026-11-01T13:25:32.711Z"
     },
     "marigameo/skills": {
       "full": "Marigameo/skills",
       "firstSeenAt": "2026-11-01T13:23:09.789Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -89991,12 +90602,99 @@
           "repository": "Marigameo/skills"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z"
+      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "entry": {
+        "availability": "available",
+        "full": "Marigameo/skills",
+        "name": "skills",
+        "description": "Skills for crafting UI components carefully with coding agents, and for using agent-clarifier",
+        "category": "Design",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-10-13T15:09:39Z",
+        "updated": "2026-10-31T07:50:27Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://marigameo.github.io/iphone-duo-playground/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-11-01T13:25:33.349Z",
+        "lastAvailableAt": "2026-11-01T13:25:33.349Z",
+        "lastAttemptAt": "2026-11-01T13:25:33.349Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2116856541710323824",
+            "postId": "2116856541710323824",
+            "postedAt": "2026-11-01T11:35:03.000Z"
+          }
+        ],
+        "subjects": [
+          "Templates & UI components"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Design",
+          "subjects": [
+            "Templates & UI components"
+          ],
+          "evidence": [
+            {
+              "subject": "Templates & UI components",
+              "source": "metadata",
+              "match": "UI components"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://marigameo.github.io/iphone-duo-playground/",
+          "attemptedAt": "2026-11-01T13:25:36.667Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-11-01T13:25:36.667Z",
+          "lastWorkingAt": "2026-11-01T13:25:36.667Z",
+          "target": "https://marigameo.github.io/iphone-duo-playground/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-08T13:25:36.667Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/376d7ecd4a09e0a79e16aed6.jpg",
+            "kind": "demo",
+            "url": "https://marigameo.github.io/iphone-duo-playground/",
+            "capturedAt": "2026-11-01T13:25:36.667Z"
+          }
+        ],
+        "previewAttemptAt": "2026-11-01T13:25:36.667Z",
+        "previewCheck": {
+          "url": "https://marigameo.github.io/iphone-duo-playground/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-11-01T13:25:36.667Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-08T13:25:36.667Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-03T01:25:36.668Z",
+      "checkedAt": "2026-11-01T13:25:36.668Z",
+      "firstAcceptedAt": "2026-11-01T13:25:36.668Z"
     },
     "ogygiajs/ogygia": {
       "full": "ogygiajs/ogygia",
       "firstSeenAt": "2026-11-01T13:23:09.789Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -90041,12 +90739,80 @@
           "repository": "ogygiajs/ogygia"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z"
+      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "entry": {
+        "availability": "available",
+        "full": "ogygiajs/ogygia",
+        "name": "ogygia",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 93,
+        "forks": 4,
+        "created": "2026-08-04T10:29:15Z",
+        "updated": "2026-11-01T12:07:43Z",
+        "license": null,
+        "branch": "main",
+        "homepage": "https://ogygia.puruvj.dev",
+        "topics": [],
+        "demo": "https://ogygiajs.dev/playground/on-demand",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-11-01T13:24:33.937Z",
+        "lastAvailableAt": "2026-11-01T13:24:33.937Z",
+        "lastAttemptAt": "2026-11-01T13:24:33.937Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2116850148819296438",
+            "postId": "2116850148819296438",
+            "postedAt": "2026-11-01T11:09:39.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://ogygiajs.dev/playground/on-demand",
+          "attemptedAt": "2026-11-01T13:24:34.615Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "challenge",
+            "at": "2026-11-01T13:24:34.615Z"
+          },
+          "nextCheckAt": "2026-11-01T15:24:34.615Z"
+        },
+        "previewAttemptAt": "2026-11-01T13:24:34.615Z",
+        "previewCheck": {
+          "url": "https://ogygiajs.dev/playground/on-demand",
+          "status": "retry",
+          "reason": "challenge",
+          "attemptedAt": "2026-11-01T13:24:34.615Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-11-01T15:24:34.615Z"
+        }
+      },
+      "reason": "challenge",
+      "nextAttemptAt": "2026-11-01T15:24:34.615Z",
+      "checkedAt": "2026-11-01T13:24:34.615Z"
     },
     "vaibhavkumar955584-hub/tinyproject": {
       "full": "vaibhavkumar955584-hub/tinyproject",
       "firstSeenAt": "2026-11-01T13:23:09.789Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -90073,7 +90839,83 @@
           "repository": "vaibhavkumar955584-hub/tinyproject"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z"
+      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "entry": {
+        "availability": "available",
+        "full": "vaibhavkumar955584-hub/tinyproject",
+        "name": "tinyproject",
+        "description": "just a tiny project",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-11-01T05:45:49Z",
+        "updated": "2026-11-01T13:25:02Z",
+        "branch": "main",
+        "homepage": "https://tinyproject-theta.vercel.app",
+        "topics": [],
+        "demo": "https://tinyproject-theta.vercel.app/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-11-01T13:25:37.259Z",
+        "lastAvailableAt": "2026-11-01T13:25:37.259Z",
+        "lastAttemptAt": "2026-11-01T13:25:37.259Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2116849276429193262",
+            "postId": "2116849276429193262",
+            "postedAt": "2026-11-01T11:06:11.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://tinyproject-theta.vercel.app/",
+          "attemptedAt": "2026-11-01T13:25:40.595Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-11-01T13:25:40.595Z",
+          "lastWorkingAt": "2026-11-01T13:25:40.595Z",
+          "target": "https://tinyproject-theta.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-08T13:25:40.595Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/8b658c4326d608f459d3521a.jpg",
+            "kind": "demo",
+            "url": "https://tinyproject-theta.vercel.app/",
+            "capturedAt": "2026-11-01T13:25:40.595Z"
+          }
+        ],
+        "previewAttemptAt": "2026-11-01T13:25:40.595Z",
+        "previewCheck": {
+          "url": "https://tinyproject-theta.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-11-01T13:25:40.595Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-08T13:25:40.596Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-03T01:25:40.597Z",
+      "checkedAt": "2026-11-01T13:25:40.597Z",
+      "firstAcceptedAt": "2026-11-01T13:25:40.597Z"
     },
     "neuregex/freefield": {
       "full": "neuregex/freefield",
@@ -90102,7 +90944,7 @@
     "mahekara28/context-relay": {
       "full": "mahekara28/context-relay",
       "firstSeenAt": "2026-11-01T13:23:09.789Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -90121,12 +90963,115 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z"
+      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "entry": {
+        "availability": "available",
+        "full": "mahekara28/context-relay",
+        "name": "context-relay",
+        "description": "Carry reviewed context between coding agents. Local npm CLI, workspace, and MCP handoffs for Claude Code, Codex, OpenCode, and Goose.",
+        "category": "Developer tools",
+        "language": "Python",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-10-23T12:16:48Z",
+        "updated": "2026-11-01T12:16:58Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://mahekara28.github.io/context-relay/",
+        "topics": [
+          "agent-memory",
+          "ai-agents",
+          "claude-code",
+          "cli",
+          "codex",
+          "context-engineering",
+          "developer-tools",
+          "goose",
+          "local-first",
+          "mcp",
+          "model-context-protocol",
+          "nebius",
+          "npm",
+          "opencode",
+          "typescript"
+        ],
+        "demo": "https://mahekara28.github.io/context-relay/",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-11-01T13:25:46.176Z",
+        "lastAvailableAt": "2026-11-01T13:25:46.176Z",
+        "lastAttemptAt": "2026-11-01T13:25:46.176Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2116843717294444664",
+            "postId": "2116843717294444664",
+            "postedAt": "2026-11-01T10:44:05.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Developer tools",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "coding agents"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://mahekara28.github.io/context-relay/",
+          "attemptedAt": "2026-11-01T13:25:49.516Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-11-01T13:25:49.516Z",
+          "lastWorkingAt": "2026-11-01T13:25:49.516Z",
+          "target": "https://mahekara28.github.io/context-relay/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-08T13:25:49.516Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/772b8e27fdc1aef2ee38c407.jpg",
+            "kind": "demo",
+            "url": "https://mahekara28.github.io/context-relay/",
+            "capturedAt": "2026-11-01T13:25:49.516Z"
+          }
+        ],
+        "previewAttemptAt": "2026-11-01T13:25:49.516Z",
+        "previewCheck": {
+          "url": "https://mahekara28.github.io/context-relay/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-11-01T13:25:49.516Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-08T13:25:49.517Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-03T01:25:49.518Z",
+      "checkedAt": "2026-11-01T13:25:49.518Z",
+      "firstAcceptedAt": "2026-11-01T13:25:49.518Z"
     },
     "wesbos/3d-model-anything": {
       "full": "wesbos/3d-model-anything",
       "firstSeenAt": "2026-11-01T13:23:09.789Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -90145,12 +91090,223 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z"
+      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "reusedEvidence": true,
+      "entry": {
+        "repositoryId": 1428848843,
+        "availability": "available",
+        "full": "wesbos/3d-model-anything",
+        "name": "3d-model-anything",
+        "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+        "category": "Other",
+        "language": "Swift",
+        "stars": 2480,
+        "forks": 367,
+        "created": "2026-10-21T19:38:50Z",
+        "updated": "2026-10-27T15:08:22Z",
+        "license": null,
+        "branch": "main",
+        "homepage": "https://wesbos.github.io/3d-model-anything/",
+        "topics": [],
+        "demo": "https://wesbos.github.io/3d-model-anything/",
+        "color": "#25392f",
+        "ink": "#d1e5c5",
+        "lastCheckedAt": "2026-10-31T00:49:33.370Z",
+        "lastAttemptAt": "2026-10-31T00:49:33.370Z",
+        "lastAvailableAt": "2026-10-31T00:49:33.370Z",
+        "metrics": [
+          {
+            "at": "2026-10-23T01:08:12.226Z",
+            "stars": 495,
+            "forks": 89
+          },
+          {
+            "at": "2026-10-25T01:18:41.525Z",
+            "stars": 1663,
+            "forks": 256
+          },
+          {
+            "at": "2026-10-27T06:06:17.351Z",
+            "stars": 2100,
+            "forks": 310
+          },
+          {
+            "at": "2026-10-28T00:31:04.439Z",
+            "stars": 2215,
+            "forks": 325
+          },
+          {
+            "at": "2026-10-31T00:49:33.370Z",
+            "stars": 2480,
+            "forks": 367
+          }
+        ],
+        "technologies": [
+          "Three.js"
+        ],
+        "overview": {
+          "kind": "readme",
+          "version": 1,
+          "paragraphs": [
+            "Capture a room on an iPhone, then use its geometry and photographs to build an editable Three.js scene with an AI coding agent.",
+            "This repository includes the 3D Model Anything iPhone app, a Three.js viewer, the scan-to-threejs agent skill, and Wes’s detailed office demo.",
+            "The app records the evidence. The skill guides an agent through measurement, modeling and matched-camera visual comparisons. This is an iterative reconstruction workflow, not a one-click scan-to-perfect-model converter. The current workflow focuses on rooms and interiors."
+          ],
+          "features": [],
+          "sourceUrl": "https://github.com/wesbos/3d-model-anything/blob/main/README.md",
+          "fingerprint": "57b01c3ee05c5b1c6d78859b3cb599a20655d6b97d700de7d2525fcaf1d75794",
+          "extractedAt": "2026-10-23T01:08:12.325Z"
+        },
+        "overviewCheckedAt": "2026-10-28T00:31:04.489Z",
+        "projectInsights": {
+          "version": 1,
+          "whatItDoes": {
+            "text": "Capture a room on an iPhone, then use its geometry and photographs to build an editable Three.js scene with an AI coding agent.",
+            "sourceUrl": "https://github.com/wesbos/3d-model-anything/blob/main/README.md"
+          },
+          "audience": [],
+          "requirements": [],
+          "fingerprint": "57b01c3ee05c5b1c6d78859b3cb599a20655d6b97d700de7d2525fcaf1d75794",
+          "sourceUrl": "https://github.com/wesbos/3d-model-anything/blob/main/README.md",
+          "checkedAt": "2026-10-28T00:31:04.489Z"
+        },
+        "overviewRepoUpdated": "2026-10-27T15:08:22Z",
+        "readmeSnapshot": {
+          "version": 1,
+          "status": "saved",
+          "sourceUrl": "https://github.com/wesbos/3d-model-anything/blob/main/README.md",
+          "checkedAt": "2026-10-28T00:31:04.490Z",
+          "hash": "57b01c3ee05c5b1c6d78859b3cb599a20655d6b97d700de7d2525fcaf1d75794",
+          "originalBytes": 3700,
+          "storedBytes": 3700,
+          "truncated": false
+        },
+        "lastDemoCheckedAt": "2026-10-28T00:31:04.491Z",
+        "enrichmentAttemptAt": "2026-10-23T01:09:14.580Z",
+        "latestRelease": null,
+        "releaseCheckedAt": "2026-10-23T01:09:14.580Z",
+        "screenshots": [
+          {
+            "src": "previews/98d4e6bcb3dfa5edda5559bf.jpg",
+            "kind": "demo",
+            "capturedAt": "2026-10-28T00:54:25.531Z",
+            "url": "https://wesbos.github.io/3d-model-anything/"
+          }
+        ],
+        "agentContextAttemptAt": "2026-10-23T01:10:43.276Z",
+        "agentContext": {
+          "version": 1,
+          "checkedAt": "2026-10-23T01:10:43.919Z",
+          "documents": [
+            {
+              "name": "package.json",
+              "sourceUrl": "https://github.com/wesbos/3d-model-anything/blob/main/package.json",
+              "hash": "30464eb3cacc854d8d90c7909db39e3bec559ad440f972625e9588d59cda8dd6",
+              "originalBytes": 695,
+              "truncated": false
+            },
+            {
+              "name": "LICENSE",
+              "sourceUrl": "https://github.com/wesbos/3d-model-anything/blob/main/LICENSE",
+              "hash": "7b41d61a4569d103d9968cbb246c9e489ae14797b171d26ef47825a040c958b4",
+              "originalBytes": 1148,
+              "truncated": false
+            }
+          ]
+        },
+        "agentContextRepoUpdated": "2026-10-22T13:10:22Z",
+        "subjects": [
+          "Apple",
+          "Mobile",
+          "3D & graphics"
+        ],
+        "platforms": [
+          "iOS & iPadOS"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [
+            "Apple",
+            "Mobile",
+            "3D & graphics"
+          ],
+          "evidence": [
+            {
+              "subject": "Apple",
+              "source": "metadata",
+              "match": "iPhone"
+            },
+            {
+              "subject": "Mobile",
+              "source": "metadata",
+              "match": "iPhone"
+            },
+            {
+              "subject": "3D & graphics",
+              "source": "metadata",
+              "match": "3d"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "iOS & iPadOS",
+              "source": "metadata",
+              "match": "iPhone"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [
+            "Automation & workflows",
+            "MCP servers & agents",
+            "Maths & algorithms"
+          ],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://wesbos.github.io/3d-model-anything/",
+          "attemptedAt": "2026-10-28T00:54:25.531Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-10-28T00:54:25.531Z",
+          "lastWorkingAt": "2026-10-28T00:54:25.531Z",
+          "target": "https://wesbos.github.io/3d-model-anything/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-04T00:54:25.531Z"
+        },
+        "previewAttemptAt": "2026-10-28T00:54:25.531Z",
+        "previewCheck": {
+          "url": "https://wesbos.github.io/3d-model-anything/",
+          "attemptedAt": "2026-10-28T00:54:25.531Z",
+          "consecutiveFailures": 0,
+          "status": "captured",
+          "reason": null,
+          "nextCheckAt": "2026-11-04T00:54:25.531Z"
+        },
+        "qualityPriority": false,
+        "spaces": [],
+        "communityPosts": [],
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2116836804666298803",
+            "postId": "2116836804666298803",
+            "postedAt": "2026-11-01T10:16:37.000Z"
+          }
+        ]
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-03T01:25:55.243Z",
+      "checkedAt": "2026-11-01T13:25:55.243Z",
+      "firstAcceptedAt": "2026-11-01T13:25:55.243Z"
     },
     "qxii2027/-qxii-ds-pvppack": {
       "full": "qxii2027/-Qxii-ds-PVPpack",
       "firstSeenAt": "2026-11-01T13:23:22.073Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -90189,7 +91345,96 @@
           "repository": "qxii2027/-Qxii-ds-PVPpack"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:22.073Z"
+      "lastSeenAt": "2026-11-01T13:23:22.073Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "qxii2027/-Qxii-ds-PVPpack",
+        "postUrl": "https://x.com/i/web/status/2104170131110953361",
+        "url": "https://pvppack.pages.dev/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "qxii2027/-Qxii-ds-PVPpack",
+        "name": "-Qxii-ds-PVPpack",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "HTML",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-08-28T06:27:54Z",
+        "updated": "2026-10-05T12:52:22Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://pvppack.pages.dev/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-11-01T13:24:50.704Z",
+        "lastAvailableAt": "2026-11-01T13:24:50.704Z",
+        "lastAttemptAt": "2026-11-01T13:24:50.704Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "qxii2027/-Qxii-ds-PVPpack",
+          "postUrl": "https://x.com/i/web/status/2104170131110953361",
+          "url": "https://pvppack.pages.dev/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104170131110953361",
+            "postId": "2104170131110953361",
+            "postedAt": "2026-09-27T11:23:47.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://pvppack.pages.dev/",
+          "attemptedAt": "2026-11-01T13:24:53.963Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-11-01T13:24:53.963Z",
+          "lastWorkingAt": "2026-11-01T13:24:53.963Z",
+          "target": "https://pvppack.pages.dev/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-08T13:24:53.963Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/969cd597338576a945592168.jpg",
+            "kind": "demo",
+            "url": "https://pvppack.pages.dev/",
+            "capturedAt": "2026-11-01T13:24:53.963Z"
+          }
+        ],
+        "previewAttemptAt": "2026-11-01T13:24:53.963Z",
+        "previewCheck": {
+          "url": "https://pvppack.pages.dev/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-11-01T13:24:53.963Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-08T13:24:53.964Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-03T01:24:53.965Z",
+      "checkedAt": "2026-11-01T13:24:53.965Z",
+      "firstAcceptedAt": "2026-11-01T13:24:53.965Z"
     },
     "ricecakeshark/dulse": {
       "full": "ricecakeshark/dulse",
@@ -90242,7 +91487,7 @@
     "alike001/agent-preflight": {
       "full": "Alike001/agent-preflight",
       "firstSeenAt": "2026-11-01T13:23:22.073Z",
-      "status": "queued",
+      "status": "retry",
       "sources": [
         {
           "kind": "x",
@@ -90269,12 +91514,91 @@
           "repository": "Alike001/agent-preflight"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:22.073Z"
+      "lastSeenAt": "2026-11-01T13:23:22.073Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "Alike001/agent-preflight",
+        "postUrl": "https://x.com/i/web/status/2104152719749710329",
+        "url": "https://agent-preflight-m73t.onrender.com/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "Alike001/agent-preflight",
+        "name": "agent-preflight",
+        "description": "Explore this public GitHub project.",
+        "category": "Other",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0,
+        "created": "2026-09-25T14:44:22Z",
+        "updated": "2026-09-27T10:18:08Z",
+        "branch": "main",
+        "homepage": null,
+        "topics": [],
+        "demo": "https://agent-preflight-m73t.onrender.com/",
+        "color": "#63362a",
+        "ink": "#f8c7a8",
+        "lastCheckedAt": "2026-11-01T13:24:45.291Z",
+        "lastAvailableAt": "2026-11-01T13:24:45.291Z",
+        "lastAttemptAt": "2026-11-01T13:24:45.291Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "Alike001/agent-preflight",
+          "postUrl": "https://x.com/i/web/status/2104152719749710329",
+          "url": "https://agent-preflight-m73t.onrender.com/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104152719749710329",
+            "postId": "2104152719749710329",
+            "postedAt": "2026-09-27T10:14:36.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "Other",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": true
+        },
+        "demoHealth": {
+          "url": "https://agent-preflight-m73t.onrender.com/",
+          "attemptedAt": "2026-11-01T13:24:45.963Z",
+          "probeVersion": 3,
+          "status": "unknown",
+          "consecutiveTemporaryFailures": 1,
+          "error": {
+            "reason": "http_503",
+            "at": "2026-11-01T13:24:45.963Z"
+          },
+          "nextCheckAt": "2026-11-01T15:24:45.963Z"
+        },
+        "previewAttemptAt": "2026-11-01T13:24:45.962Z",
+        "previewCheck": {
+          "url": "https://agent-preflight-m73t.onrender.com/",
+          "status": "retry",
+          "reason": "http_503",
+          "attemptedAt": "2026-11-01T13:24:45.962Z",
+          "consecutiveFailures": 1,
+          "nextCheckAt": "2026-11-01T15:24:45.963Z"
+        }
+      },
+      "reason": "http_503",
+      "nextAttemptAt": "2026-11-01T15:24:45.963Z",
+      "checkedAt": "2026-11-01T13:24:45.963Z"
     },
     "manjunathshiva/opendecider": {
       "full": "manjunathshiva/opendecider",
       "firstSeenAt": "2026-11-01T13:23:22.073Z",
-      "status": "queued",
+      "status": "accepted",
       "sources": [
         {
           "kind": "x",
@@ -90301,7 +91625,123 @@
           "repository": "manjunathshiva/opendecider"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:22.073Z"
+      "lastSeenAt": "2026-11-01T13:23:22.073Z",
+      "entry": {
+        "availability": "available",
+        "full": "manjunathshiva/opendecider",
+        "name": "opendecider",
+        "description": "Open, calibrated System 1 decision models: typed choice / score / yes-no answers with a probability for every option. 400M to 80B; CPU, NVIDIA, Apple Silicon, LM Studio, Ollama and vLLM.",
+        "category": "AI & machine learning",
+        "language": "Python",
+        "stars": 37,
+        "forks": 0,
+        "created": "2026-09-27T07:36:01Z",
+        "updated": "2026-11-01T11:28:11Z",
+        "license": "Apache-2.0",
+        "branch": "main",
+        "homepage": "https://manjunathshiva.github.io/opendecider/",
+        "topics": [
+          "apple-silicon",
+          "calibration",
+          "classification",
+          "decision-model",
+          "gguf",
+          "huggingface",
+          "llm",
+          "mlx",
+          "ollama",
+          "pytorch",
+          "system-one",
+          "typed-decisions",
+          "vllm"
+        ],
+        "demo": "https://huggingface.co/spaces/manjunathshiva/opendecider-demo",
+        "color": "#323057",
+        "ink": "#d6caff",
+        "lastCheckedAt": "2026-11-01T13:25:41.298Z",
+        "lastAvailableAt": "2026-11-01T13:25:41.298Z",
+        "lastAttemptAt": "2026-11-01T13:25:41.298Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104133760673628568",
+            "postId": "2104133760673628568",
+            "postedAt": "2026-09-27T08:59:16.000Z"
+          }
+        ],
+        "subjects": [
+          "Apple",
+          "Maths & algorithms"
+        ],
+        "platforms": [
+          "macOS"
+        ],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [
+            "Apple",
+            "Maths & algorithms"
+          ],
+          "evidence": [
+            {
+              "subject": "Apple",
+              "source": "metadata",
+              "match": "Apple Silicon"
+            },
+            {
+              "subject": "Maths & algorithms",
+              "source": "metadata",
+              "match": "probability"
+            }
+          ],
+          "platformEvidence": [
+            {
+              "platform": "macOS",
+              "source": "metadata",
+              "match": "Apple Silicon"
+            }
+          ],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://huggingface.co/spaces/manjunathshiva/opendecider-demo",
+          "attemptedAt": "2026-11-01T13:25:44.793Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-11-01T13:25:44.793Z",
+          "lastWorkingAt": "2026-11-01T13:25:44.793Z",
+          "target": "https://huggingface.co/spaces/manjunathshiva/opendecider-demo",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-08T13:25:44.793Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/6fa53f7ba746baf6e1f66c81.jpg",
+            "kind": "demo",
+            "url": "https://huggingface.co/spaces/manjunathshiva/opendecider-demo",
+            "capturedAt": "2026-11-01T13:25:44.793Z"
+          }
+        ],
+        "previewAttemptAt": "2026-11-01T13:25:44.793Z",
+        "previewCheck": {
+          "url": "https://huggingface.co/spaces/manjunathshiva/opendecider-demo",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-11-01T13:25:44.793Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-08T13:25:44.794Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-03T01:25:44.795Z",
+      "checkedAt": "2026-11-01T13:25:44.795Z",
+      "firstAcceptedAt": "2026-11-01T13:25:44.795Z"
     },
     "rustaudio/cpal": {
       "full": "RustAudio/cpal",
@@ -90326,6 +91766,272 @@
       "demoHints": [],
       "demoLinks": [],
       "lastSeenAt": "2026-11-01T13:23:22.073Z"
+    },
+    "innov8tor3/project-engine": {
+      "full": "innov8tor3/project-engine",
+      "firstSeenAt": "2026-10-09T13:16:04.326Z",
+      "status": "accepted",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104583189310103880",
+          "postId": "2104583189310103880",
+          "postedAt": "2026-09-28T14:45:08.000Z"
+        }
+      ],
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "demoHints": [
+        "https://innov8tor3.github.io/project-engine/gaming/gaming-overview.html"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://innov8tor3.github.io/project-engine/gaming/gaming-overview.html",
+          "postUrl": "https://x.com/i/web/status/2104583189310103880",
+          "repository": "innov8tor3/project-engine"
+        }
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "lastSeenAt": "2026-11-01T13:24:31.296Z",
+      "entry": {
+        "availability": "available",
+        "full": "innov8tor3/project-engine",
+        "name": "project-engine",
+        "description": "A project to feed other projects, tokenising project assets. Website is WIP, watch for upgrades.",
+        "category": "AI & machine learning",
+        "language": "CSS",
+        "stars": 2,
+        "forks": 0,
+        "created": "2025-07-20T07:45:27Z",
+        "updated": "2026-10-30T16:34:20Z",
+        "branch": "main",
+        "homepage": "https://innov8tor3.github.io/project-engine/",
+        "topics": [
+          "ai",
+          "assets",
+          "funding",
+          "ideate",
+          "palantir",
+          "partners",
+          "projects",
+          "scaleup",
+          "tokenisation",
+          "upgrade",
+          "validate"
+        ],
+        "demo": "https://innov8tor3.github.io/project-engine/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-11-01T13:24:46.740Z",
+        "lastAvailableAt": "2026-11-01T13:24:46.740Z",
+        "lastAttemptAt": "2026-11-01T13:24:46.740Z",
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2104583189310103880",
+            "postId": "2104583189310103880",
+            "postedAt": "2026-09-28T14:45:08.000Z"
+          }
+        ],
+        "subjects": [],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [],
+          "evidence": [],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://innov8tor3.github.io/project-engine/",
+          "attemptedAt": "2026-11-01T13:24:50.030Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-11-01T13:24:50.030Z",
+          "lastWorkingAt": "2026-11-01T13:24:50.030Z",
+          "target": "https://innov8tor3.github.io/project-engine/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-08T13:24:50.030Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/feea7f0e8be9db837607d38f.jpg",
+            "kind": "demo",
+            "url": "https://innov8tor3.github.io/project-engine/",
+            "capturedAt": "2026-11-01T13:24:50.030Z"
+          }
+        ],
+        "previewAttemptAt": "2026-11-01T13:24:50.030Z",
+        "previewCheck": {
+          "url": "https://innov8tor3.github.io/project-engine/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-11-01T13:24:50.030Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-08T13:24:50.031Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-03T01:24:50.032Z",
+      "checkedAt": "2026-11-01T13:24:50.032Z",
+      "firstAcceptedAt": "2026-11-01T13:24:50.032Z"
+    },
+    "diegopoveda01/local402": {
+      "full": "DiegoPoveda01/local402",
+      "firstSeenAt": "2026-10-09T13:16:04.326Z",
+      "status": "accepted",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2102597495566025209",
+          "postId": "2102597495566025209",
+          "postedAt": "2026-09-23T03:14:41.000Z"
+        }
+      ],
+      "query": "(url:github.io OR url:vercel.app OR url:netlify.app OR url:pages.dev OR url:streamlit.app) (\"open source\" OR opensource OR github) (demo OR playground OR \"try it\" OR launched) -is:retweet",
+      "demoHints": [
+        "https://local402.vercel.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://local402.vercel.app/",
+          "postUrl": "https://x.com/i/web/status/2102597495566025209",
+          "repository": "DiegoPoveda01/local402"
+        }
+      ],
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "lastSeenAt": "2026-11-01T13:24:31.566Z",
+      "demoEvidence": {
+        "kind": "x_link",
+        "repository": "DiegoPoveda01/local402",
+        "postUrl": "https://x.com/i/web/status/2102597495566025209",
+        "url": "https://local402.vercel.app/"
+      },
+      "entry": {
+        "availability": "available",
+        "full": "DiegoPoveda01/local402",
+        "name": "local402",
+        "description": "x402 on Stellar priced in local currency (CLP, UF, EUR, BRL…) and payable with USDC, XLM or EURC. Live on mainnet.",
+        "category": "AI & machine learning",
+        "language": "TypeScript",
+        "stars": 6,
+        "forks": 0,
+        "created": "2026-09-15T04:40:57Z",
+        "updated": "2026-10-31T23:52:02Z",
+        "license": "MIT",
+        "branch": "main",
+        "homepage": "https://local402.xyz",
+        "topics": [
+          "ai-agents",
+          "chile",
+          "fx",
+          "latam",
+          "mcp",
+          "payments",
+          "reflector",
+          "smart-contracts",
+          "soroban",
+          "soroswap",
+          "stablecoin",
+          "stellar",
+          "usdc",
+          "x402"
+        ],
+        "demo": "https://local402.vercel.app/",
+        "color": "#193546",
+        "ink": "#a6d6e8",
+        "lastCheckedAt": "2026-11-01T13:24:54.743Z",
+        "lastAvailableAt": "2026-11-01T13:24:54.743Z",
+        "lastAttemptAt": "2026-11-01T13:24:54.743Z",
+        "demoEvidence": {
+          "kind": "x_link",
+          "repository": "DiegoPoveda01/local402",
+          "postUrl": "https://x.com/i/web/status/2102597495566025209",
+          "url": "https://local402.vercel.app/"
+        },
+        "discoveredVia": [
+          {
+            "kind": "x",
+            "name": "As Seen On X.com",
+            "url": "https://x.com/i/web/status/2102597495566025209",
+            "postId": "2102597495566025209",
+            "postedAt": "2026-09-23T03:14:41.000Z"
+          }
+        ],
+        "subjects": [
+          "MCP servers & agents"
+        ],
+        "platforms": [],
+        "classification": {
+          "version": 4,
+          "method": "local_rules",
+          "category": "AI & machine learning",
+          "subjects": [
+            "MCP servers & agents"
+          ],
+          "evidence": [
+            {
+              "subject": "MCP servers & agents",
+              "source": "metadata",
+              "match": "ai agents"
+            }
+          ],
+          "platformEvidence": [],
+          "platformSupport": "author_metadata_not_runtime_tested",
+          "suggestedSubjects": [],
+          "reviewRequired": false
+        },
+        "demoHealth": {
+          "url": "https://local402.vercel.app/",
+          "attemptedAt": "2026-11-01T13:24:58.172Z",
+          "probeVersion": 3,
+          "status": "working",
+          "checkedAt": "2026-11-01T13:24:58.172Z",
+          "lastWorkingAt": "2026-11-01T13:24:58.172Z",
+          "target": "https://local402.vercel.app/",
+          "failureCount": 0,
+          "consecutiveTemporaryFailures": 0,
+          "nextCheckAt": "2026-11-08T13:24:58.172Z"
+        },
+        "screenshots": [
+          {
+            "src": "previews/4807c7df572e6c4a23a75c68.jpg",
+            "kind": "demo",
+            "url": "https://local402.vercel.app/",
+            "capturedAt": "2026-11-01T13:24:58.172Z"
+          }
+        ],
+        "previewAttemptAt": "2026-11-01T13:24:58.172Z",
+        "previewCheck": {
+          "url": "https://local402.vercel.app/",
+          "status": "captured",
+          "reason": null,
+          "attemptedAt": "2026-11-01T13:24:58.172Z",
+          "consecutiveFailures": 0,
+          "nextCheckAt": "2026-11-08T13:24:58.173Z"
+        }
+      },
+      "reason": null,
+      "nextAttemptAt": "2026-11-03T01:24:58.343Z",
+      "checkedAt": "2026-11-01T13:24:58.343Z",
+      "firstAcceptedAt": "2026-11-01T13:24:58.343Z"
     }
   },
   "lastRun": {
@@ -91853,8 +93559,8 @@
       "posts": 46,
       "uniquePosts": 44,
       "newCandidates": 20,
-      "validationAttempts": 28,
-      "accepted": 20
+      "validationAttempts": 30,
+      "accepted": 22
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
@@ -91869,8 +93575,8 @@
       "posts": 765,
       "uniquePosts": 371,
       "newCandidates": 341,
-      "validationAttempts": 284,
-      "accepted": 137
+      "validationAttempts": 302,
+      "accepted": 149
     }
   },
   "demoSeeds": {
@@ -92060,7 +93766,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-11-01T11:28:27.857Z",
+      "nextAttemptAt": "2026-11-08T13:24:30.482Z",
       "reason": "no_repository_link"
     },
     "https://innov8tor3.github.io/project-engine/gaming/gaming-overview.html": {
@@ -92082,8 +93788,8 @@
         "replies": 1,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-11-01T11:28:28.429Z",
-      "reason": "no_repository_link"
+      "nextAttemptAt": "2027-01-30T13:24:31.296Z",
+      "reason": "repository_resolved"
     },
     "https://local402.vercel.app/": {
       "url": "https://local402.vercel.app/",
@@ -92104,8 +93810,8 @@
         "replies": 1,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-11-01T11:28:28.767Z",
-      "reason": "ambiguous_repositories"
+      "nextAttemptAt": "2027-01-30T13:24:31.566Z",
+      "reason": "repository_resolved"
     },
     "https://pyflow-v0.vercel.app/": {
       "url": "https://pyflow-v0.vercel.app/",
@@ -92126,7 +93832,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-11-01T11:28:29.058Z",
+      "nextAttemptAt": "2026-11-08T13:24:31.605Z",
       "reason": "no_repository_link"
     },
     "https://invincible04.github.io/SplitFree/": {
@@ -92170,7 +93876,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "nextAttemptAt": "2026-11-01T11:28:29.975Z",
+      "nextAttemptAt": "2026-11-08T13:24:32.458Z",
       "reason": "no_repository_link"
     },
     "https://netlify.app/": {
@@ -92572,7 +94278,7 @@
   },
   "lastDemoDiscovery": {
     "checked": 5,
-    "resolved": 0,
-    "at": "2026-10-31T12:28:27.946Z"
+    "resolved": 2,
+    "at": "2026-11-01T13:24:33.097Z"
   }
 }
