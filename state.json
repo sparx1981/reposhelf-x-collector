@@ -42,7 +42,8 @@
       },
       "recent": {
         "start": "2026-10-26T15:50:52.894Z",
-        "end": "2026-10-27T02:26:12.628Z"
+        "end": "2026-10-27T02:26:12.628Z",
+        "nextToken": "b26v89c19zqg8o3juzlx95aya02r03wi7qv5uvmqxvud9"
       }
     },
     "2c0438e5283099cf": {
@@ -48313,7 +48314,7 @@
         "replies": 43,
         "quotes": 8
       },
-      "lastSeenAt": "2026-10-30T12:54:45.849Z",
+      "lastSeenAt": "2026-11-02T15:50:02.581Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-20T14:12:19.404Z"
     },
@@ -81121,14 +81122,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 0,
+        "likes": 1,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z"
+      "lastSeenAt": "2026-11-02T15:50:02.581Z"
     },
     "filebrowser/filebrowser": {
       "full": "filebrowser/filebrowser",
@@ -81152,7 +81153,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z"
+      "lastSeenAt": "2026-11-02T15:50:02.581Z"
     },
     "u4pak/smo-ios": {
       "full": "u4pak/smo-ios",
@@ -81198,7 +81199,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-30T12:54:45.849Z"
+      "lastSeenAt": "2026-11-02T15:50:02.581Z"
     },
     "alchaincyf/huashu-design": {
       "full": "alchaincyf/huashu-design",
@@ -81220,7 +81221,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-30T12:54:45.849Z"
+      "lastSeenAt": "2026-11-02T15:50:02.581Z"
     },
     "hazyresearch/ncm": {
       "full": "HazyResearch/ncm",
@@ -81244,7 +81245,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z",
+      "lastSeenAt": "2026-11-02T15:50:02.581Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-06T12:56:27.072Z"
     },
@@ -81270,7 +81271,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z"
+      "lastSeenAt": "2026-11-02T15:50:02.581Z"
     },
     "omacom/try-omarchy": {
       "full": "omacom/try-omarchy",
@@ -81301,7 +81302,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z",
+      "lastSeenAt": "2026-11-02T15:50:02.581Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-06T12:56:39.520Z"
     },
@@ -81327,7 +81328,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z"
+      "lastSeenAt": "2026-11-02T15:50:02.581Z"
     },
     "sudharsan-ak/haventv-launcher": {
       "full": "sudharsan-ak/haventv-launcher",
@@ -81351,7 +81352,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z"
+      "lastSeenAt": "2026-11-02T15:50:02.581Z"
     },
     "klahrich/replyslip": {
       "full": "klahrich/replyslip",
@@ -81374,16 +81375,22 @@
         "quotes": 0
       },
       "demoHints": [
-        "https://replyslip.com/?ref=x"
+        "https://replyslip.com/?ref=x",
+        "https://valetto.tech/?ref=x"
       ],
       "demoLinks": [
         {
           "url": "https://replyslip.com/?ref=x",
           "postUrl": "https://x.com/i/web/status/2114864885511110672",
           "repository": "klahrich/replyslip"
+        },
+        {
+          "url": "https://valetto.tech/?ref=x",
+          "postUrl": "https://x.com/i/web/status/2114864885511110672",
+          "repository": "klahrich/replyslip"
         }
       ],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z",
+      "lastSeenAt": "2026-11-02T15:50:02.581Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "klahrich/replyslip",
@@ -81527,7 +81534,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z"
+      "lastSeenAt": "2026-11-02T15:50:02.581Z"
     },
     "rfb/fm1-time-signal-source": {
       "full": "rfb/fm1-time-signal-source",
@@ -81559,7 +81566,7 @@
           "repository": "rfb/fm1-time-signal-source"
         }
       ],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z",
+      "lastSeenAt": "2026-11-02T15:50:02.581Z",
       "entry": {
         "availability": "available",
         "full": "rfb/fm1-time-signal-source",
@@ -81665,7 +81672,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z",
+      "lastSeenAt": "2026-11-02T15:50:02.581Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-03T02:28:40.077Z"
     },
@@ -81691,7 +81698,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z",
+      "lastSeenAt": "2026-11-02T15:50:02.581Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-03T02:28:39.452Z"
     },
@@ -81717,7 +81724,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z",
+      "lastSeenAt": "2026-11-02T15:50:02.581Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-03T02:28:40.586Z"
     },
@@ -81757,7 +81764,7 @@
           "repository": "armendzekjiri/brainitive"
         }
       ],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z",
+      "lastSeenAt": "2026-11-02T15:50:02.581Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "armendzekjiri/brainitive",
@@ -81887,7 +81894,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z"
+      "lastSeenAt": "2026-11-02T15:50:02.581Z"
     },
     "vangong1999/fde": {
       "full": "VanGong1999/FDE",
@@ -87111,7 +87118,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-30T12:54:45.849Z",
+      "lastSeenAt": "2026-11-02T15:50:02.581Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-06T12:56:26.431Z"
     },
@@ -93418,24 +93425,6 @@
     "2088902330708332688",
     "2088874135388917790",
     "2088727442714165634",
-    "2114902484808557044",
-    "2114899939457147148",
-    "2114899161535438919",
-    "2114890545076306360",
-    "2114884884355494283",
-    "2114880884415607202",
-    "2114880403555471727",
-    "2114871453086781710",
-    "2114867180344881180",
-    "2114864885511110672",
-    "2114859710008668516",
-    "2114859049846243503",
-    "2114857298631987692",
-    "2114851681255244086",
-    "2114851487356772676",
-    "2114846116420452790",
-    "2114846077568614672",
-    "2114844697155744205",
     "2105001543472754895",
     "2104999829558477016",
     "2104998037097750551",
@@ -93539,12 +93528,30 @@
     "2114673181810442595",
     "2114664832947695695",
     "2114640544777326602",
-    "2114549066764058764"
+    "2114549066764058764",
+    "2114902484808557044",
+    "2114899939457147148",
+    "2114899161535438919",
+    "2114890545076306360",
+    "2114884884355494283",
+    "2114880884415607202",
+    "2114880403555471727",
+    "2114871453086781710",
+    "2114867180344881180",
+    "2114864885511110672",
+    "2114859710008668516",
+    "2114859049846243503",
+    "2114857298631987692",
+    "2114851681255244086",
+    "2114851487356772676",
+    "2114846116420452790",
+    "2114846077568614672",
+    "2114844697155744205"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
-      "posts": 623,
+      "posts": 641,
       "uniquePosts": 366,
       "newCandidates": 241,
       "validationAttempts": 220,
