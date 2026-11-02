@@ -38,7 +38,7 @@
         "start": "2026-07-11T09:20:22.003Z",
         "end": "2026-10-02T09:20:22.003Z",
         "done": false,
-        "nextToken": "b26v89c19zqg8o3juzixhbf2zhkjoh5oavrbvqjazpg8t"
+        "nextToken": "b26v89c19zqg8o3juzixhbe6knyyff6of7arg7j1awrjx"
       },
       "recent": {
         "start": "2026-10-26T15:50:52.894Z",
@@ -27993,6 +27993,13 @@
           "url": "https://x.com/i/web/status/2105713837169320111",
           "postId": "2105713837169320111",
           "postedAt": "2026-10-01T17:37:55.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104947737221591138",
+          "postId": "2104947737221591138",
+          "postedAt": "2026-09-29T14:53:43.000Z"
         }
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
@@ -28000,11 +28007,11 @@
         "likes": 38,
         "reposts": 5,
         "replies": 4,
-        "quotes": 0
+        "quotes": 1
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T16:18:51.704Z",
+      "lastSeenAt": "2026-11-02T15:50:16.494Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-17T16:19:48.039Z"
     },
@@ -68796,7 +68803,7 @@
           "repository": "screenpipe/river-ai-screenpipe-training"
         }
       ],
-      "lastSeenAt": "2026-10-22T11:51:30.182Z",
+      "lastSeenAt": "2026-11-02T15:50:16.494Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "screenpipe/river-ai-screenpipe-training",
@@ -82498,6 +82505,27 @@
           "url": "https://x.com/i/web/status/2104979549163340243",
           "postId": "2104979549163340243",
           "postedAt": "2026-09-29T17:00:07.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104964453917728823",
+          "postId": "2104964453917728823",
+          "postedAt": "2026-09-29T16:00:08.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104949343136485769",
+          "postId": "2104949343136485769",
+          "postedAt": "2026-09-29T15:00:06.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104934244527067202",
+          "postId": "2104934244527067202",
+          "postedAt": "2026-09-29T14:00:06.000Z"
         }
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
@@ -82507,7 +82535,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-30T12:54:57.274Z"
+      "lastSeenAt": "2026-11-02T15:50:16.494Z"
     },
     "firelock-ai/kin": {
       "full": "firelock-ai/kin",
@@ -82534,6 +82562,27 @@
           "url": "https://x.com/i/web/status/2104979549163340243",
           "postId": "2104979549163340243",
           "postedAt": "2026-09-29T17:00:07.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104964453917728823",
+          "postId": "2104964453917728823",
+          "postedAt": "2026-09-29T16:00:08.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104949343136485769",
+          "postId": "2104949343136485769",
+          "postedAt": "2026-09-29T15:00:06.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104934244527067202",
+          "postId": "2104934244527067202",
+          "postedAt": "2026-09-29T14:00:06.000Z"
         }
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
@@ -82543,7 +82592,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-10-30T12:54:57.274Z"
+      "lastSeenAt": "2026-11-02T15:50:16.494Z"
     },
     "maverickrox/vrka-android": {
       "full": "MaverickRox/VRKA-Android",
@@ -83420,6 +83469,13 @@
           "url": "https://x.com/i/web/status/2090476415661830285",
           "postId": "2090476415661830285",
           "postedAt": "2026-08-20T16:29:51.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104944928891781310",
+          "postId": "2104944928891781310",
+          "postedAt": "2026-09-29T14:42:33.000Z"
         }
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
@@ -83429,9 +83485,11 @@
         "replies": 43,
         "quotes": 8
       },
-      "lastSeenAt": "2026-10-27T02:27:09.172Z",
+      "lastSeenAt": "2026-11-02T15:50:16.494Z",
       "reason": "no_hosted_demo",
-      "nextAttemptAt": "2026-11-04T12:54:58.719Z"
+      "nextAttemptAt": "2026-11-04T12:54:58.719Z",
+      "demoHints": [],
+      "demoLinks": []
     },
     "furkankly/rataflow": {
       "full": "furkankly/rataflow",
@@ -92038,6 +92096,229 @@
       "nextAttemptAt": "2026-11-03T01:24:58.343Z",
       "checkedAt": "2026-11-01T13:24:58.343Z",
       "firstAcceptedAt": "2026-11-01T13:24:58.343Z"
+    },
+    "gavrix/hyprmux": {
+      "full": "gavrix/hyprmux",
+      "firstSeenAt": "2026-11-02T15:50:16.494Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104965178794336655",
+          "postId": "2104965178794336655",
+          "postedAt": "2026-09-29T16:03:01.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-02T15:50:16.494Z"
+    },
+    "aqualang89/shipnotes-components": {
+      "full": "aqualang89/shipnotes-components",
+      "firstSeenAt": "2026-11-02T15:50:16.494Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104965155545399618",
+          "postId": "2104965155545399618",
+          "postedAt": "2026-09-29T16:02:56.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://aqualang89.github.io/shipnotes-components/components/jelly-stack/demo.html"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://aqualang89.github.io/shipnotes-components/components/jelly-stack/demo.html",
+          "postUrl": "https://x.com/i/web/status/2104965155545399618",
+          "repository": "aqualang89/shipnotes-components"
+        }
+      ],
+      "lastSeenAt": "2026-11-02T15:50:16.494Z"
+    },
+    "intensodefi/cex-listing-gaps": {
+      "full": "intensodefi/CEX-listing-gaps",
+      "firstSeenAt": "2026-11-02T15:50:16.494Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104962177702768945",
+          "postId": "2104962177702768945",
+          "postedAt": "2026-09-29T15:51:06.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-02T15:50:16.494Z"
+    },
+    "axolotl-ai-cloud/axolotl": {
+      "full": "axolotl-ai-cloud/axolotl",
+      "firstSeenAt": "2026-11-02T15:50:16.494Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104960394045657331",
+          "postId": "2104960394045657331",
+          "postedAt": "2026-09-29T15:44:00.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 4,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "lastSeenAt": "2026-11-02T15:50:16.494Z"
+    },
+    "ved1beta/cuda_mlpapers": {
+      "full": "ved1beta/CUDA_MLpapers",
+      "firstSeenAt": "2026-11-02T15:50:16.494Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104960394045657331",
+          "postId": "2104960394045657331",
+          "postedAt": "2026-09-29T15:44:00.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 4,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "lastSeenAt": "2026-11-02T15:50:16.494Z"
+    },
+    "iamoncrypto/vibeshield": {
+      "full": "IAMONCRYPTO/VibeShield",
+      "firstSeenAt": "2026-11-02T15:50:16.494Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104954847770669460",
+          "postId": "2104954847770669460",
+          "postedAt": "2026-09-29T15:21:58.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 3,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-02T15:50:16.494Z"
+    },
+    "bytex-trade/bytex-skill": {
+      "full": "BYTEX-TRADE/bytex-skill",
+      "firstSeenAt": "2026-11-02T15:50:16.494Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104938619182145709",
+          "postId": "2104938619182145709",
+          "postedAt": "2026-09-29T14:17:29.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104937595666878533",
+          "postId": "2104937595666878533",
+          "postedAt": "2026-09-29T14:13:25.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 28,
+        "reposts": 25,
+        "replies": 24,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-02T15:50:16.494Z"
+    },
+    "sanataff/answermap": {
+      "full": "sanataff/AnswerMap",
+      "firstSeenAt": "2026-11-02T15:50:16.494Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2104936453306216913",
+          "postId": "2104936453306216913",
+          "postedAt": "2026-09-29T14:08:52.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://arxiv.org/abs/2609.35247",
+        "https://colab.research.google.com/github/sanataff/AnswerMap/blob/main/gpt6_demo.ipynb",
+        "https://colab.research.google.com/github/sanataff/AnswerMap/blob/main/demo.ipynb"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://arxiv.org/abs/2609.35247",
+          "postUrl": "https://x.com/i/web/status/2104936453306216913",
+          "repository": "sanataff/AnswerMap"
+        },
+        {
+          "url": "https://colab.research.google.com/github/sanataff/AnswerMap/blob/main/gpt6_demo.ipynb",
+          "postUrl": "https://x.com/i/web/status/2104936453306216913",
+          "repository": "sanataff/AnswerMap"
+        },
+        {
+          "url": "https://colab.research.google.com/github/sanataff/AnswerMap/blob/main/demo.ipynb",
+          "postUrl": "https://x.com/i/web/status/2104936453306216913",
+          "repository": "sanataff/AnswerMap"
+        }
+      ],
+      "lastSeenAt": "2026-11-02T15:50:16.494Z"
     }
   },
   "lastRun": {
@@ -93145,7 +93426,6 @@
     "2095053409594302534",
     "2094930043713773645",
     "2094912057711706516",
-    "2104934652217532507",
     "2104933987328123022",
     "2104931796446261463",
     "2104931784626688325",
@@ -93546,14 +93826,28 @@
     "2114851487356772676",
     "2114846116420452790",
     "2114846077568614672",
-    "2114844697155744205"
+    "2114844697155744205",
+    "2104965178794336655",
+    "2104965155545399618",
+    "2104964453917728823",
+    "2104962177702768945",
+    "2104960394045657331",
+    "2104954847770669460",
+    "2104949343136485769",
+    "2104947737221591138",
+    "2104944928891781310",
+    "2104938619182145709",
+    "2104937595666878533",
+    "2104936453306216913",
+    "2104934652217532507",
+    "2104934244527067202"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
-      "posts": 641,
-      "uniquePosts": 366,
-      "newCandidates": 241,
+      "posts": 655,
+      "uniquePosts": 379,
+      "newCandidates": 249,
       "validationAttempts": 220,
       "accepted": 73
     },
