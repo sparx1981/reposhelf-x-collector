@@ -79,7 +79,8 @@
       },
       "recent": {
         "start": "2026-10-27T14:14:03.986Z",
-        "end": "2026-11-03T14:12:33.986Z"
+        "end": "2026-11-03T14:12:33.986Z",
+        "nextToken": "b26v89c19zqg8o3juzly3gity1d6yzn69vde2jhoyrkot"
       }
     },
     "a0153cbebcc5cf46": {
@@ -94351,6 +94352,452 @@
       "demoHints": [],
       "demoLinks": [],
       "lastSeenAt": "2026-11-03T14:12:57.566Z"
+    },
+    "offpeakai/offpeak": {
+      "full": "OffPeakAI/offpeak",
+      "firstSeenAt": "2026-11-03T14:13:10.836Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2117524177230188851",
+          "postId": "2117524177230188851",
+          "postedAt": "2026-11-03T07:48:00.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 14,
+        "reposts": 1,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://app.offpeakai.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://app.offpeakai.app/",
+          "postUrl": "https://x.com/i/web/status/2117524177230188851",
+          "repository": "OffPeakAI/offpeak"
+        }
+      ],
+      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+    },
+    "respanai/respan-gateway": {
+      "full": "respanai/respan-gateway",
+      "firstSeenAt": "2026-11-03T14:13:10.836Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2117378167782687224",
+          "postId": "2117378167782687224",
+          "postedAt": "2026-11-02T22:07:48.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 6,
+        "reposts": 3,
+        "replies": 2,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+    },
+    "ml-struct-bio/chefnmr2": {
+      "full": "ml-struct-bio/chefnmr2",
+      "firstSeenAt": "2026-11-03T14:13:10.836Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2117355014666461383",
+          "postId": "2117355014666461383",
+          "postedAt": "2026-11-02T20:35:48.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 15,
+        "reposts": 2,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://www.biorxiv.org/content/10.64898/2026.10.29.762711v1",
+        "https://chefnmr.cs.princeton.edu/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://www.biorxiv.org/content/10.64898/2026.10.29.762711v1",
+          "postUrl": "https://x.com/i/web/status/2117355014666461383",
+          "repository": "ml-struct-bio/chefnmr2"
+        },
+        {
+          "url": "https://chefnmr.cs.princeton.edu/",
+          "postUrl": "https://x.com/i/web/status/2117355014666461383",
+          "repository": "ml-struct-bio/chefnmr2"
+        }
+      ],
+      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+    },
+    "mistralai/mistral-vibe": {
+      "full": "mistralai/mistral-vibe",
+      "firstSeenAt": "2026-11-03T14:13:10.836Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2117332069030252816",
+          "postId": "2117332069030252816",
+          "postedAt": "2026-11-02T19:04:38.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 68,
+        "reposts": 8,
+        "replies": 5,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+    },
+    "drost-ai/drost-community": {
+      "full": "drost-ai/drost-community",
+      "firstSeenAt": "2026-11-03T14:13:10.836Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2117323277073031202",
+          "postId": "2117323277073031202",
+          "postedAt": "2026-11-02T18:29:41.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 14,
+        "reposts": 2,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+    },
+    "agent-intent/verifiable-intent": {
+      "full": "agent-intent/verifiable-intent",
+      "firstSeenAt": "2026-11-03T14:13:10.836Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2117309599132889589",
+          "postId": "2117309599132889589",
+          "postedAt": "2026-11-02T17:35:20.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 11,
+        "reposts": 1,
+        "replies": 6,
+        "quotes": 1
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+    },
+    "foundry-rs/foundry": {
+      "full": "foundry-rs/foundry",
+      "firstSeenAt": "2026-11-03T14:13:10.836Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2117276145955553596",
+          "postId": "2117276145955553596",
+          "postedAt": "2026-11-02T15:22:24.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 13,
+        "reposts": 1,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+    },
+    "jonwalch/zcash-tpq": {
+      "full": "jonwalch/zcash-tpq",
+      "firstSeenAt": "2026-11-03T14:13:10.836Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2117267197991006340",
+          "postId": "2117267197991006340",
+          "postedAt": "2026-11-02T14:46:51.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 42,
+        "reposts": 7,
+        "replies": 1,
+        "quotes": 1
+      },
+      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+    },
+    "jonwalch/zdn": {
+      "full": "jonwalch/zdn",
+      "firstSeenAt": "2026-11-03T14:13:10.836Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2117267197991006340",
+          "postId": "2117267197991006340",
+          "postedAt": "2026-11-02T14:46:51.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 42,
+        "reposts": 7,
+        "replies": 1,
+        "quotes": 1
+      },
+      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+    },
+    "vibhortayal/arya": {
+      "full": "vibhortayal/arya",
+      "firstSeenAt": "2026-11-03T14:13:10.836Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2117257426437050522",
+          "postId": "2117257426437050522",
+          "postedAt": "2026-11-02T14:08:01.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 15,
+        "reposts": 10,
+        "replies": 5,
+        "quotes": 1
+      },
+      "demoHints": [
+        "https://arya.teamnightshift.org/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://arya.teamnightshift.org/",
+          "postUrl": "https://x.com/i/web/status/2117257426437050522",
+          "repository": "vibhortayal/arya"
+        }
+      ],
+      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+    },
+    "orhun/cargo-tree-tui": {
+      "full": "orhun/cargo-tree-tui",
+      "firstSeenAt": "2026-11-03T14:13:10.836Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2117255953716269133",
+          "postId": "2117255953716269133",
+          "postedAt": "2026-11-02T14:02:10.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 159,
+        "reposts": 16,
+        "replies": 6,
+        "quotes": 0
+      },
+      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+    },
+    "rust-lang/cargo": {
+      "full": "rust-lang/cargo",
+      "firstSeenAt": "2026-11-03T14:13:10.836Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2117255953716269133",
+          "postId": "2117255953716269133",
+          "postedAt": "2026-11-02T14:02:10.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 159,
+        "reposts": 16,
+        "replies": 6,
+        "quotes": 0
+      },
+      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+    },
+    "skywalkers-24/loadtruth": {
+      "full": "Skywalkers-24/LoadTruth",
+      "firstSeenAt": "2026-11-03T14:13:10.836Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2117253574615060641",
+          "postId": "2117253574615060641",
+          "postedAt": "2026-11-02T13:52:43.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 9,
+        "reposts": 9,
+        "replies": 4,
+        "quotes": 1
+      },
+      "demoHints": [
+        "https://loadtruth.tiwabhay800.workers.dev/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://loadtruth.tiwabhay800.workers.dev/",
+          "postUrl": "https://x.com/i/web/status/2117253574615060641",
+          "repository": "Skywalkers-24/LoadTruth"
+        }
+      ],
+      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+    },
+    "sam1983aing/senna-800kg": {
+      "full": "Sam1983Aing/senna-800kg",
+      "firstSeenAt": "2026-11-03T14:13:10.836Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2117119029311672607",
+          "postId": "2117119029311672607",
+          "postedAt": "2026-11-02T04:58:05.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 22,
+        "reposts": 1,
+        "replies": 3,
+        "quotes": 1
+      },
+      "demoHints": [
+        "https://sam1983aing.github.io/senna-800kg/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://sam1983aing.github.io/senna-800kg/",
+          "postUrl": "https://x.com/i/web/status/2117119029311672607",
+          "repository": "Sam1983Aing/senna-800kg"
+        }
+      ],
+      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+    },
+    "elder-plinius/l1b3rt4s": {
+      "full": "elder-plinius/L1B3RT4S",
+      "firstSeenAt": "2026-11-03T14:13:10.836Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2116924611279642949",
+          "postId": "2116924611279642949",
+          "postedAt": "2026-11-01T16:05:32.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 18,
+        "reposts": 1,
+        "replies": 7,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+    },
+    "safeight/pachislop": {
+      "full": "SafEight/pachislop",
+      "firstSeenAt": "2026-11-03T14:13:10.836Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2116918578557419846",
+          "postId": "2116918578557419846",
+          "postedAt": "2026-11-01T15:41:34.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 26,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+    },
+    "mr-karan/hodor": {
+      "full": "mr-karan/hodor",
+      "firstSeenAt": "2026-11-03T14:13:10.836Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2116840537273807134",
+          "postId": "2116840537273807134",
+          "postedAt": "2026-11-01T10:31:27.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 19,
+        "reposts": 3,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-03T14:13:10.836Z"
     }
   },
   "lastRun": {
@@ -95911,7 +96358,22 @@
     "2103977688876646669",
     "2103954081140076653",
     "2103950298876399642",
-    "2103945741031108902"
+    "2103945741031108902",
+    "2117524177230188851",
+    "2117378167782687224",
+    "2117355014666461383",
+    "2117332069030252816",
+    "2117323277073031202",
+    "2117309599132889589",
+    "2117276145955553596",
+    "2117267197991006340",
+    "2117257426437050522",
+    "2117255953716269133",
+    "2117253574615060641",
+    "2117119029311672607",
+    "2116924611279642949",
+    "2116918578557419846",
+    "2116840537273807134"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -95940,9 +96402,9 @@
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 295,
-      "uniquePosts": 45,
-      "newCandidates": 37,
+      "posts": 310,
+      "uniquePosts": 60,
+      "newCandidates": 54,
       "validationAttempts": 39,
       "accepted": 13
     },
