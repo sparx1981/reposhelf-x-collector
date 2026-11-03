@@ -91,7 +91,8 @@
       },
       "recent": {
         "start": "2026-10-27T14:13:37.414Z",
-        "end": "2026-11-01T13:22:31.774Z"
+        "end": "2026-11-01T13:22:31.774Z",
+        "nextToken": "b26v89c19zqg8o3juzly3gijd7j9ssl1xa1pc5abgbkot"
       }
     }
   },
@@ -58308,7 +58309,7 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "lastSeenAt": "2026-11-03T14:12:44.845Z",
       "reusedEvidence": true,
       "entry": {
         "availability": "available",
@@ -89851,14 +89852,14 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 1,
+        "likes": 5,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "lastSeenAt": "2026-11-03T14:12:44.845Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-08T13:25:50.115Z"
     },
@@ -89877,14 +89878,14 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 0,
+        "likes": 1,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z"
+      "lastSeenAt": "2026-11-03T14:12:44.845Z"
     },
     "imlistack/pixel-pass": {
       "full": "ImliStack/Pixel-Pass",
@@ -89908,7 +89909,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "lastSeenAt": "2026-11-03T14:12:44.845Z",
       "entry": {
         "availability": "available",
         "full": "ImliStack/Pixel-Pass",
@@ -90027,7 +90028,7 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 1,
+        "likes": 2,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
@@ -90042,7 +90043,7 @@
           "repository": "metafrogmeme-droid/claw-pay-paypal"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "lastSeenAt": "2026-11-03T14:12:44.845Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "metafrogmeme-droid/claw-pay-paypal",
@@ -90154,7 +90155,7 @@
           "repository": "Alamutu1/near-thesis-tested"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "lastSeenAt": "2026-11-03T14:12:44.845Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "Alamutu1/near-thesis-tested",
@@ -90275,7 +90276,7 @@
           "repository": "Kaish-sheikh/nammaspace-digital-twin"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "lastSeenAt": "2026-11-03T14:12:44.845Z",
       "entry": {
         "availability": "available",
         "full": "Kaish-sheikh/nammaspace-digital-twin",
@@ -90378,14 +90379,14 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 7,
+        "likes": 9,
         "reposts": 0,
         "replies": 2,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "lastSeenAt": "2026-11-03T14:12:44.845Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-08T13:25:45.505Z"
     },
@@ -90419,7 +90420,7 @@
           "repository": "MinchuanC/amethyst"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "lastSeenAt": "2026-11-03T14:12:44.845Z",
       "entry": {
         "availability": "available",
         "full": "MinchuanC/amethyst",
@@ -90538,7 +90539,7 @@
           "repository": "RAKKUNN/vicem"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "lastSeenAt": "2026-11-03T14:12:44.845Z",
       "entry": {
         "availability": "available",
         "full": "RAKKUNN/vicem",
@@ -90668,7 +90669,7 @@
           "repository": "rajukanna/Planora"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "lastSeenAt": "2026-11-03T14:12:44.845Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "rajukanna/Planora",
@@ -90795,7 +90796,7 @@
           "repository": "Marigameo/skills"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "lastSeenAt": "2026-11-03T14:12:44.845Z",
       "entry": {
         "availability": "available",
         "full": "Marigameo/skills",
@@ -90899,10 +90900,10 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 5,
-        "reposts": 2,
+        "likes": 23,
+        "reposts": 6,
         "replies": 0,
-        "quotes": 0
+        "quotes": 1
       },
       "demoHints": [
         "https://www.ogygiajs.dev/",
@@ -90932,7 +90933,7 @@
           "repository": "ogygiajs/ogygia"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "lastSeenAt": "2026-11-03T14:12:44.845Z",
       "entry": {
         "availability": "available",
         "full": "ogygiajs/ogygia",
@@ -91032,7 +91033,7 @@
           "repository": "vaibhavkumar955584-hub/tinyproject"
         }
       ],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "lastSeenAt": "2026-11-03T14:12:44.845Z",
       "entry": {
         "availability": "available",
         "full": "vaibhavkumar955584-hub/tinyproject",
@@ -91132,7 +91133,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z"
+      "lastSeenAt": "2026-11-03T14:12:44.845Z"
     },
     "mahekara28/context-relay": {
       "full": "mahekara28/context-relay",
@@ -91156,7 +91157,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "lastSeenAt": "2026-11-03T14:12:44.845Z",
       "entry": {
         "availability": "available",
         "full": "mahekara28/context-relay",
@@ -91283,7 +91284,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-01T13:23:09.789Z",
+      "lastSeenAt": "2026-11-03T14:12:44.845Z",
       "reusedEvidence": true,
       "entry": {
         "repositoryId": 1428848843,
@@ -94008,6 +94009,30 @@
       "nextAttemptAt": "2026-11-04T03:52:16.702Z",
       "checkedAt": "2026-11-02T15:52:16.702Z",
       "firstAcceptedAt": "2026-11-02T15:52:16.702Z"
+    },
+    "jayashellamurthi/careerpilot": {
+      "full": "jayashellamurthi/careerpilot",
+      "firstSeenAt": "2026-11-03T14:12:44.845Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2116835787128061960",
+          "postId": "2116835787128061960",
+          "postedAt": "2026-11-01T10:12:35.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-03T14:12:44.845Z"
     }
   },
   "lastRun": {
@@ -95467,24 +95492,7 @@
     "2087831738131107969",
     "2087831083563855934",
     "2087631896440459424",
-    "2116883174185906387",
-    "2116880675496251766",
-    "2116874694687412244",
     "2116872402198282620",
-    "2116866979487170848",
-    "2116866025144946780",
-    "2116864008502612067",
-    "2116863502401093771",
-    "2116863195789070780",
-    "2116863018911068243",
-    "2116862095002361871",
-    "2116856541710323824",
-    "2116850148819296438",
-    "2116849276429193262",
-    "2116848020604043411",
-    "2116843717294444664",
-    "2116836804666298803",
-    "2116836220411994286",
     "2104178462034374915",
     "2104170131110953361",
     "2104169316078023054",
@@ -95549,7 +95557,25 @@
     "2086683791574372780",
     "2086668475070918943",
     "2086580509442994638",
-    "2086464119650013563"
+    "2086464119650013563",
+    "2116883174185906387",
+    "2116880675496251766",
+    "2116874694687412244",
+    "2116866979487170848",
+    "2116866025144946780",
+    "2116864008502612067",
+    "2116863502401093771",
+    "2116863195789070780",
+    "2116863018911068243",
+    "2116862095002361871",
+    "2116856541710323824",
+    "2116850148819296438",
+    "2116849276429193262",
+    "2116848020604043411",
+    "2116843717294444664",
+    "2116836804666298803",
+    "2116836220411994286",
+    "2116835787128061960"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -95586,9 +95612,9 @@
     },
     "a0153cbebcc5cf46": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
-      "posts": 765,
-      "uniquePosts": 371,
-      "newCandidates": 341,
+      "posts": 783,
+      "uniquePosts": 372,
+      "newCandidates": 342,
       "validationAttempts": 302,
       "accepted": 149
     }
