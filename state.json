@@ -42,7 +42,8 @@
       },
       "recent": {
         "start": "2026-10-29T14:39:16.882Z",
-        "end": "2026-11-05T14:37:46.882Z"
+        "end": "2026-11-05T14:37:46.882Z",
+        "nextToken": "b26v89c19zqg8o3juzlyxh26ytkwbwwprb1iyvqfib2pp"
       }
     },
     "2c0438e5283099cf": {
@@ -95656,6 +95657,511 @@
       "demoHints": [],
       "demoLinks": [],
       "lastSeenAt": "2026-11-04T14:30:53.408Z"
+    },
+    "alvinagustus/aegis": {
+      "full": "Alvinagustus/aegis",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118351616873296030",
+          "postId": "2118351616873296030",
+          "postedAt": "2026-11-05T14:35:57.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+    },
+    "script-it/json-views": {
+      "full": "script-it/json-views",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118345643903082900",
+          "postId": "2118345643903082900",
+          "postedAt": "2026-11-05T14:12:13.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://json-views.com/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://json-views.com/",
+          "postUrl": "https://x.com/i/web/status/2118345643903082900",
+          "repository": "script-it/json-views"
+        }
+      ],
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+    },
+    "ezolabs/ezo-watcher": {
+      "full": "ezolabs/ezo-watcher",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118344506961490163",
+          "postId": "2118344506961490163",
+          "postedAt": "2026-11-05T14:07:42.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://ezo-watcher-demo.pages.dev/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://ezo-watcher-demo.pages.dev/",
+          "postUrl": "https://x.com/i/web/status/2118344506961490163",
+          "repository": "ezolabs/ezo-watcher"
+        }
+      ],
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+    },
+    "maelryn/pawlink": {
+      "full": "Maelryn/PAWLINK",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118343052888805771",
+          "postId": "2118343052888805771",
+          "postedAt": "2026-11-05T14:01:55.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://pawlink-iota.vercel.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://pawlink-iota.vercel.app/",
+          "postUrl": "https://x.com/i/web/status/2118343052888805771",
+          "repository": "Maelryn/PAWLINK"
+        }
+      ],
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+    },
+    "themohitkhare/pycodegate": {
+      "full": "themohitkhare/pycodegate",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118342571625795789",
+          "postId": "2118342571625795789",
+          "postedAt": "2026-11-05T14:00:00.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+    },
+    "quab-bot/mypadi": {
+      "full": "quab-bot/MyPadi",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118330351583936596",
+          "postId": "2118330351583936596",
+          "postedAt": "2026-11-05T13:11:27.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://t.me/mypadi_bot"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://t.me/mypadi_bot",
+          "postUrl": "https://x.com/i/web/status/2118330351583936596",
+          "repository": "quab-bot/MyPadi"
+        }
+      ],
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+    },
+    "roy-tong/verovo": {
+      "full": "roy-tong/Verovo",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118329222397939718",
+          "postId": "2118329222397939718",
+          "postedAt": "2026-11-05T13:06:57.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118327731452854664",
+          "postId": "2118327731452854664",
+          "postedAt": "2026-11-05T13:01:02.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+    },
+    "itspronay/blankee": {
+      "full": "itsPronay/blankee",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118328211344126105",
+          "postId": "2118328211344126105",
+          "postedAt": "2026-11-05T13:02:56.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+    },
+    "arcviellouvent/stratacore-agent-examples": {
+      "full": "ArcVielLouvent/stratacore-agent-examples",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118328030544503056",
+          "postId": "2118328030544503056",
+          "postedAt": "2026-11-05T13:02:13.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://stratacore.dev/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://stratacore.dev/",
+          "postUrl": "https://x.com/i/web/status/2118328030544503056",
+          "repository": "ArcVielLouvent/stratacore-agent-examples"
+        }
+      ],
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+    },
+    "joaoh82/yardsort": {
+      "full": "joaoh82/yardsort",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118326801076543616",
+          "postId": "2118326801076543616",
+          "postedAt": "2026-11-05T12:57:20.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+    },
+    "openosint/openosint": {
+      "full": "OpenOSINT/OpenOSINT",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118325438447804611",
+          "postId": "2118325438447804611",
+          "postedAt": "2026-11-05T12:51:55.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://app.openosint.tech/login?next=%2Fauth%2Fhandoff%3Fnext%3D%252Fchat",
+        "https://chat.openosint.tech/?utm_source=x&utm_medium=social&utm_campaign=cloud_demo"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://app.openosint.tech/login?next=%2Fauth%2Fhandoff%3Fnext%3D%252Fchat",
+          "postUrl": "https://x.com/i/web/status/2118325438447804611",
+          "repository": "OpenOSINT/OpenOSINT"
+        },
+        {
+          "url": "https://chat.openosint.tech/?utm_source=x&utm_medium=social&utm_campaign=cloud_demo",
+          "postUrl": "https://x.com/i/web/status/2118325438447804611",
+          "repository": "OpenOSINT/OpenOSINT"
+        }
+      ],
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+    },
+    "dhvanilpatel/swarm-cursors": {
+      "full": "DhvanilPatel/swarm-cursors",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118324576430207173",
+          "postId": "2118324576430207173",
+          "postedAt": "2026-11-05T12:48:30.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 5,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+    },
+    "vika2364/configs": {
+      "full": "Vika2364/Configs",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118323053616861282",
+          "postId": "2118323053616861282",
+          "postedAt": "2026-11-05T12:42:27.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+    },
+    "04-john/doorman": {
+      "full": "04-John/Doorman",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118320992053301280",
+          "postId": "2118320992053301280",
+          "postedAt": "2026-11-05T12:34:15.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://doorman-ppw2.onrender.com/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://doorman-ppw2.onrender.com/",
+          "postUrl": "https://x.com/i/web/status/2118320992053301280",
+          "repository": "04-John/Doorman"
+        }
+      ],
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+    },
+    "tancheng33/tingo": {
+      "full": "tancheng33/tingo",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118319984023937421",
+          "postId": "2118319984023937421",
+          "postedAt": "2026-11-05T12:30:15.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+    },
+    "tapilot-ai/tapilot": {
+      "full": "tapilot-ai/tapilot",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118318175234433386",
+          "postId": "2118318175234433386",
+          "postedAt": "2026-11-05T12:23:04.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+    },
+    "web-infra-dev/midscene-action": {
+      "full": "web-infra-dev/midscene-action",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118318175234433386",
+          "postId": "2118318175234433386",
+          "postedAt": "2026-11-05T12:23:04.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+    },
+    "davissekai/two-eyes": {
+      "full": "davissekai/two-eyes",
+      "firstSeenAt": "2026-11-05T14:38:24.363Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2118317434830758201",
+          "postId": "2118317434830758201",
+          "postedAt": "2026-11-05T12:20:07.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://two-eyes-vert.vercel.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://two-eyes-vert.vercel.app/",
+          "postUrl": "https://x.com/i/web/status/2118317434830758201",
+          "repository": "davissekai/two-eyes"
+        }
+      ],
+      "lastSeenAt": "2026-11-05T14:38:24.363Z"
     }
   },
   "lastRun": {
@@ -97269,14 +97775,32 @@
     "2085121432200331583",
     "2085091050050240556",
     "2085040555399028950",
-    "2084922865762377956"
+    "2084922865762377956",
+    "2118351616873296030",
+    "2118345643903082900",
+    "2118344506961490163",
+    "2118343052888805771",
+    "2118342571625795789",
+    "2118330351583936596",
+    "2118329222397939718",
+    "2118328211344126105",
+    "2118328030544503056",
+    "2118327731452854664",
+    "2118326801076543616",
+    "2118325438447804611",
+    "2118324576430207173",
+    "2118323053616861282",
+    "2118320992053301280",
+    "2118319984023937421",
+    "2118318175234433386",
+    "2118317434830758201"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
-      "posts": 655,
-      "uniquePosts": 379,
-      "newCandidates": 249,
+      "posts": 673,
+      "uniquePosts": 397,
+      "newCandidates": 267,
       "validationAttempts": 223,
       "accepted": 75
     },
