@@ -79,7 +79,8 @@
       },
       "recent": {
         "start": "2026-10-29T14:39:40.610Z",
-        "end": "2026-11-03T14:12:33.986Z"
+        "end": "2026-11-03T14:12:33.986Z",
+        "nextToken": "b26v89c19zqg8o3juzly3imo286pxyhn810byg2pwutml"
       }
     },
     "a0153cbebcc5cf46": {
@@ -94473,7 +94474,7 @@
           "repository": "OffPeakAI/offpeak"
         }
       ],
-      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+      "lastSeenAt": "2026-11-05T14:38:46.557Z"
     },
     "respanai/respan-gateway": {
       "full": "respanai/respan-gateway",
@@ -94497,7 +94498,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+      "lastSeenAt": "2026-11-05T14:38:46.557Z"
     },
     "ml-struct-bio/chefnmr2": {
       "full": "ml-struct-bio/chefnmr2",
@@ -94514,9 +94515,9 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 15,
+        "likes": 16,
         "reposts": 2,
-        "replies": 0,
+        "replies": 1,
         "quotes": 0
       },
       "demoHints": [
@@ -94535,7 +94536,7 @@
           "repository": "ml-struct-bio/chefnmr2"
         }
       ],
-      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+      "lastSeenAt": "2026-11-05T14:38:46.557Z"
     },
     "mistralai/mistral-vibe": {
       "full": "mistralai/mistral-vibe",
@@ -94552,14 +94553,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 68,
+        "likes": 71,
         "reposts": 8,
-        "replies": 5,
+        "replies": 6,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+      "lastSeenAt": "2026-11-05T14:38:46.557Z"
     },
     "drost-ai/drost-community": {
       "full": "drost-ai/drost-community",
@@ -94576,14 +94577,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 14,
+        "likes": 15,
         "reposts": 2,
         "replies": 0,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+      "lastSeenAt": "2026-11-05T14:38:46.557Z"
     },
     "agent-intent/verifiable-intent": {
       "full": "agent-intent/verifiable-intent",
@@ -94602,12 +94603,12 @@
       "engagement": {
         "likes": 11,
         "reposts": 1,
-        "replies": 6,
+        "replies": 7,
         "quotes": 1
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+      "lastSeenAt": "2026-11-05T14:38:46.557Z"
     },
     "foundry-rs/foundry": {
       "full": "foundry-rs/foundry",
@@ -94631,7 +94632,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+      "lastSeenAt": "2026-11-05T14:38:46.557Z"
     },
     "jonwalch/zcash-tpq": {
       "full": "jonwalch/zcash-tpq",
@@ -94648,12 +94649,12 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 42,
+        "likes": 43,
         "reposts": 7,
         "replies": 1,
         "quotes": 1
       },
-      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+      "lastSeenAt": "2026-11-05T14:38:46.557Z"
     },
     "jonwalch/zdn": {
       "full": "jonwalch/zdn",
@@ -94670,12 +94671,12 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 42,
+        "likes": 43,
         "reposts": 7,
         "replies": 1,
         "quotes": 1
       },
-      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+      "lastSeenAt": "2026-11-05T14:38:46.557Z"
     },
     "vibhortayal/arya": {
       "full": "vibhortayal/arya",
@@ -94692,10 +94693,10 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 15,
-        "reposts": 10,
-        "replies": 5,
-        "quotes": 1
+        "likes": 51,
+        "reposts": 33,
+        "replies": 22,
+        "quotes": 4
       },
       "demoHints": [
         "https://arya.teamnightshift.org/"
@@ -94707,7 +94708,7 @@
           "repository": "vibhortayal/arya"
         }
       ],
-      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+      "lastSeenAt": "2026-11-05T14:38:46.557Z"
     },
     "orhun/cargo-tree-tui": {
       "full": "orhun/cargo-tree-tui",
@@ -94724,12 +94725,12 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 159,
+        "likes": 177,
         "reposts": 16,
-        "replies": 6,
+        "replies": 8,
         "quotes": 0
       },
-      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+      "lastSeenAt": "2026-11-05T14:38:46.557Z"
     },
     "rust-lang/cargo": {
       "full": "rust-lang/cargo",
@@ -94746,12 +94747,12 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 159,
+        "likes": 177,
         "reposts": 16,
-        "replies": 6,
+        "replies": 8,
         "quotes": 0
       },
-      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+      "lastSeenAt": "2026-11-05T14:38:46.557Z"
     },
     "skywalkers-24/loadtruth": {
       "full": "Skywalkers-24/LoadTruth",
@@ -94768,10 +94769,10 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 9,
-        "reposts": 9,
-        "replies": 4,
-        "quotes": 1
+        "likes": 16,
+        "reposts": 18,
+        "replies": 8,
+        "quotes": 2
       },
       "demoHints": [
         "https://loadtruth.tiwabhay800.workers.dev/"
@@ -94783,7 +94784,7 @@
           "repository": "Skywalkers-24/LoadTruth"
         }
       ],
-      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+      "lastSeenAt": "2026-11-05T14:38:46.557Z"
     },
     "sam1983aing/senna-800kg": {
       "full": "Sam1983Aing/senna-800kg",
@@ -94802,7 +94803,7 @@
       "engagement": {
         "likes": 22,
         "reposts": 1,
-        "replies": 3,
+        "replies": 4,
         "quotes": 1
       },
       "demoHints": [
@@ -94815,7 +94816,7 @@
           "repository": "Sam1983Aing/senna-800kg"
         }
       ],
-      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+      "lastSeenAt": "2026-11-05T14:38:46.557Z"
     },
     "elder-plinius/l1b3rt4s": {
       "full": "elder-plinius/L1B3RT4S",
@@ -94832,14 +94833,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 18,
+        "likes": 21,
         "reposts": 1,
         "replies": 7,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+      "lastSeenAt": "2026-11-05T14:38:46.557Z"
     },
     "safeight/pachislop": {
       "full": "SafEight/pachislop",
@@ -94863,7 +94864,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+      "lastSeenAt": "2026-11-05T14:38:46.557Z"
     },
     "mr-karan/hodor": {
       "full": "mr-karan/hodor",
@@ -96561,6 +96562,44 @@
       "demoHints": [],
       "demoLinks": [],
       "lastSeenAt": "2026-11-05T14:38:35.146Z"
+    },
+    "photonbrowser/photon": {
+      "full": "photonbrowser/photon",
+      "firstSeenAt": "2026-11-05T14:38:46.557Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2117363036289634737",
+          "postId": "2117363036289634737",
+          "postedAt": "2026-11-02T21:07:41.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 12,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://www.photonapp.co.uk/",
+        "https://photonapp.co.uk/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://www.photonapp.co.uk/",
+          "postUrl": "https://x.com/i/web/status/2117363036289634737",
+          "repository": "photonbrowser/photon"
+        },
+        {
+          "url": "https://photonapp.co.uk/",
+          "postUrl": "https://x.com/i/web/status/2117363036289634737",
+          "repository": "photonbrowser/photon"
+        }
+      ],
+      "lastSeenAt": "2026-11-05T14:38:46.557Z"
     }
   },
   "lastRun": {
@@ -98118,20 +98157,6 @@
     "2103954081140076653",
     "2103950298876399642",
     "2103945741031108902",
-    "2117524177230188851",
-    "2117378167782687224",
-    "2117355014666461383",
-    "2117332069030252816",
-    "2117323277073031202",
-    "2117309599132889589",
-    "2117276145955553596",
-    "2117267197991006340",
-    "2117257426437050522",
-    "2117255953716269133",
-    "2117253574615060641",
-    "2117119029311672607",
-    "2116924611279642949",
-    "2116918578557419846",
     "2116840537273807134",
     "2116883174185906387",
     "2116880675496251766",
@@ -98213,7 +98238,22 @@
     "2104908189099766074",
     "2104906754396144017",
     "2104890777373446318",
-    "2104888290067275978"
+    "2104888290067275978",
+    "2117524177230188851",
+    "2117378167782687224",
+    "2117363036289634737",
+    "2117355014666461383",
+    "2117332069030252816",
+    "2117323277073031202",
+    "2117309599132889589",
+    "2117276145955553596",
+    "2117267197991006340",
+    "2117257426437050522",
+    "2117255953716269133",
+    "2117253574615060641",
+    "2117119029311672607",
+    "2116924611279642949",
+    "2116918578557419846"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -98242,9 +98282,9 @@
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 310,
-      "uniquePosts": 60,
-      "newCandidates": 54,
+      "posts": 325,
+      "uniquePosts": 61,
+      "newCandidates": 55,
       "validationAttempts": 39,
       "accepted": 13
     },
