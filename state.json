@@ -93,7 +93,8 @@
       },
       "recent": {
         "start": "2026-10-30T14:16:21.184Z",
-        "end": "2026-11-01T13:22:31.774Z"
+        "end": "2026-11-01T13:22:31.774Z",
+        "nextToken": "b26v89c19zqg8o3juzly3gijd7j9ssl1xa1pc5abgbkot"
       }
     }
   },
@@ -58360,7 +58361,7 @@
         "replies": 1,
         "quotes": 0
       },
-      "lastSeenAt": "2026-11-04T14:30:28.167Z",
+      "lastSeenAt": "2026-11-06T14:15:27.946Z",
       "reusedEvidence": true,
       "entry": {
         "availability": "available",
@@ -89957,7 +89958,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-04T14:30:28.167Z",
+      "lastSeenAt": "2026-11-06T14:15:27.946Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-08T13:25:50.115Z"
     },
@@ -89983,7 +89984,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-04T14:30:28.167Z"
+      "lastSeenAt": "2026-11-06T14:15:27.946Z"
     },
     "imlistack/pixel-pass": {
       "full": "ImliStack/Pixel-Pass",
@@ -90007,7 +90008,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-04T14:30:28.167Z",
+      "lastSeenAt": "2026-11-06T14:15:27.946Z",
       "entry": {
         "availability": "available",
         "full": "ImliStack/Pixel-Pass",
@@ -90141,7 +90142,7 @@
           "repository": "metafrogmeme-droid/claw-pay-paypal"
         }
       ],
-      "lastSeenAt": "2026-11-04T14:30:28.167Z",
+      "lastSeenAt": "2026-11-06T14:15:27.946Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "metafrogmeme-droid/claw-pay-paypal",
@@ -90253,7 +90254,7 @@
           "repository": "Alamutu1/near-thesis-tested"
         }
       ],
-      "lastSeenAt": "2026-11-04T14:30:28.167Z",
+      "lastSeenAt": "2026-11-06T14:15:27.946Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "Alamutu1/near-thesis-tested",
@@ -90374,7 +90375,7 @@
           "repository": "Kaish-sheikh/nammaspace-digital-twin"
         }
       ],
-      "lastSeenAt": "2026-11-04T14:30:28.167Z",
+      "lastSeenAt": "2026-11-06T14:15:27.946Z",
       "entry": {
         "availability": "available",
         "full": "Kaish-sheikh/nammaspace-digital-twin",
@@ -90477,14 +90478,14 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 9,
+        "likes": 10,
         "reposts": 0,
         "replies": 2,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-04T14:30:28.167Z",
+      "lastSeenAt": "2026-11-06T14:15:27.946Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-08T13:25:45.505Z"
     },
@@ -90518,7 +90519,7 @@
           "repository": "MinchuanC/amethyst"
         }
       ],
-      "lastSeenAt": "2026-11-04T14:30:28.167Z",
+      "lastSeenAt": "2026-11-06T14:15:27.946Z",
       "entry": {
         "availability": "available",
         "full": "MinchuanC/amethyst",
@@ -90637,7 +90638,7 @@
           "repository": "RAKKUNN/vicem"
         }
       ],
-      "lastSeenAt": "2026-11-04T14:30:28.167Z",
+      "lastSeenAt": "2026-11-06T14:15:27.946Z",
       "entry": {
         "availability": "available",
         "full": "RAKKUNN/vicem",
@@ -90767,7 +90768,7 @@
           "repository": "rajukanna/Planora"
         }
       ],
-      "lastSeenAt": "2026-11-04T14:30:28.167Z",
+      "lastSeenAt": "2026-11-06T14:15:27.946Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "rajukanna/Planora",
@@ -90894,7 +90895,7 @@
           "repository": "Marigameo/skills"
         }
       ],
-      "lastSeenAt": "2026-11-04T14:30:28.167Z",
+      "lastSeenAt": "2026-11-06T14:15:27.946Z",
       "entry": {
         "availability": "available",
         "full": "Marigameo/skills",
@@ -91031,7 +91032,7 @@
           "repository": "ogygiajs/ogygia"
         }
       ],
-      "lastSeenAt": "2026-11-04T14:30:28.167Z",
+      "lastSeenAt": "2026-11-06T14:15:27.946Z",
       "entry": {
         "availability": "available",
         "full": "ogygiajs/ogygia",
@@ -91131,7 +91132,7 @@
           "repository": "vaibhavkumar955584-hub/tinyproject"
         }
       ],
-      "lastSeenAt": "2026-11-04T14:30:28.167Z",
+      "lastSeenAt": "2026-11-06T14:15:27.946Z",
       "entry": {
         "availability": "available",
         "full": "vaibhavkumar955584-hub/tinyproject",
@@ -91231,7 +91232,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-04T14:30:28.167Z"
+      "lastSeenAt": "2026-11-06T14:15:27.946Z"
     },
     "mahekara28/context-relay": {
       "full": "mahekara28/context-relay",
@@ -91255,7 +91256,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-04T14:30:28.167Z",
+      "lastSeenAt": "2026-11-06T14:15:27.946Z",
       "entry": {
         "availability": "available",
         "full": "mahekara28/context-relay",
@@ -91382,7 +91383,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-04T14:30:28.167Z",
+      "lastSeenAt": "2026-11-06T14:15:27.946Z",
       "reusedEvidence": true,
       "entry": {
         "repositoryId": 1428848843,
@@ -94130,7 +94131,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-04T14:30:28.167Z"
+      "lastSeenAt": "2026-11-06T14:15:27.946Z"
     },
     "chaturvediharsh123/agent_os": {
       "full": "Chaturvediharsh123/AGENT_OS",
@@ -98162,24 +98163,6 @@
     "2103950298876399642",
     "2103945741031108902",
     "2116840537273807134",
-    "2116883174185906387",
-    "2116880675496251766",
-    "2116874694687412244",
-    "2116866979487170848",
-    "2116866025144946780",
-    "2116864008502612067",
-    "2116863502401093771",
-    "2116863195789070780",
-    "2116863018911068243",
-    "2116862095002361871",
-    "2116856541710323824",
-    "2116850148819296438",
-    "2116849276429193262",
-    "2116848020604043411",
-    "2116843717294444664",
-    "2116836804666298803",
-    "2116836220411994286",
-    "2116835787128061960",
     "2103944036226855333",
     "2103943777916457041",
     "2103942513468100669",
@@ -98257,7 +98240,25 @@
     "2117253574615060641",
     "2117119029311672607",
     "2116924611279642949",
-    "2116918578557419846"
+    "2116918578557419846",
+    "2116883174185906387",
+    "2116880675496251766",
+    "2116874694687412244",
+    "2116866979487170848",
+    "2116866025144946780",
+    "2116864008502612067",
+    "2116863502401093771",
+    "2116863195789070780",
+    "2116863018911068243",
+    "2116862095002361871",
+    "2116856541710323824",
+    "2116850148819296438",
+    "2116849276429193262",
+    "2116848020604043411",
+    "2116843717294444664",
+    "2116836804666298803",
+    "2116836220411994286",
+    "2116835787128061960"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -98294,7 +98295,7 @@
     },
     "a0153cbebcc5cf46": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
-      "posts": 831,
+      "posts": 849,
       "uniquePosts": 398,
       "newCandidates": 365,
       "validationAttempts": 302,
