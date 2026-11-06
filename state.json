@@ -52,7 +52,7 @@
         "start": "2026-07-11T09:20:39.114Z",
         "end": "2026-10-02T09:20:39.114Z",
         "done": false,
-        "nextToken": "b26v89c19zqg8o3juewhcn58f9uhks695t61lkdf9tocd"
+        "nextToken": "b26v89c19zqg8o3juewgx91akqzpeq5lug5rqeln7sfp9"
       },
       "recent": {
         "start": "2026-10-02T09:21:39.114Z"
@@ -37533,18 +37533,25 @@
           "url": "https://x.com/i/web/status/2087631896440459424",
           "postId": "2087631896440459424",
           "postedAt": "2026-08-12T20:06:45.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2084293513567736239",
+          "postId": "2084293513567736239",
+          "postedAt": "2026-08-03T15:01:12.000Z"
         }
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 18,
-        "reposts": 1,
+        "likes": 21,
+        "reposts": 5,
         "replies": 5,
         "quotes": 1
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-31T12:27:32.337Z",
+      "lastSeenAt": "2026-11-06T14:15:52.545Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-18T04:05:46.271Z"
     },
@@ -53162,6 +53169,13 @@
           "url": "https://x.com/i/web/status/2098425404591841298",
           "postId": "2098425404591841298",
           "postedAt": "2026-09-11T14:56:17.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2084415135331024919",
+          "postId": "2084415135331024919",
+          "postedAt": "2026-08-03T23:04:29.000Z"
         }
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
@@ -53169,7 +53183,7 @@
         "likes": 323,
         "reposts": 27,
         "replies": 14,
-        "quotes": 2
+        "quotes": 3
       },
       "demoHints": [
         "https://skyeshark.github.io/Eanpa-Sky/"
@@ -53181,7 +53195,7 @@
           "repository": "SkyeShark/Eanpa-Sky"
         }
       ],
-      "lastSeenAt": "2026-10-15T22:11:48.566Z",
+      "lastSeenAt": "2026-11-06T14:15:52.545Z",
       "entry": {
         "availability": "available",
         "full": "SkyeShark/Eanpa-Sky",
@@ -86051,26 +86065,39 @@
           "url": "https://x.com/i/web/status/2089664574769295740",
           "postId": "2089664574769295740",
           "postedAt": "2026-08-18T10:43:53.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2083619052568953342",
+          "postId": "2083619052568953342",
+          "postedAt": "2026-08-01T18:21:08.000Z"
         }
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 11,
-        "reposts": 0,
-        "replies": 1,
-        "quotes": 0
+        "likes": 56,
+        "reposts": 4,
+        "replies": 3,
+        "quotes": 1
       },
       "demoHints": [
-        "https://iamtechartist.github.io/eiffel-tower-district/source"
+        "https://iamtechartist.github.io/eiffel-tower-district/source",
+        "https://iamtechartist.github.io/eiffel-tower-district/"
       ],
       "demoLinks": [
         {
           "url": "https://iamtechartist.github.io/eiffel-tower-district/source",
           "postUrl": "https://x.com/i/web/status/2089664574769295740",
           "repository": "iamtechartist/eiffel-tower-district"
+        },
+        {
+          "url": "https://iamtechartist.github.io/eiffel-tower-district/",
+          "postUrl": "https://x.com/i/web/status/2083619052568953342",
+          "repository": "iamtechartist/eiffel-tower-district"
         }
       ],
-      "lastSeenAt": "2026-10-29T12:59:51.871Z",
+      "lastSeenAt": "2026-11-06T14:15:52.545Z",
       "entry": {
         "availability": "available",
         "full": "iamtechartist/eiffel-tower-district",
@@ -96970,6 +96997,348 @@
         }
       ],
       "lastSeenAt": "2026-11-06T14:15:39.625Z"
+    },
+    "diya-codessss/e-commerce-website": {
+      "full": "diya-codessss/E-commerce-website",
+      "firstSeenAt": "2026-11-06T14:15:52.545Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2084839184800559587",
+          "postId": "2084839184800559587",
+          "postedAt": "2026-08-05T03:09:30.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 14,
+        "reposts": 0,
+        "replies": 3,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://diya-codessss.github.io/E-commerce-website/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://diya-codessss.github.io/E-commerce-website/",
+          "postUrl": "https://x.com/i/web/status/2084839184800559587",
+          "repository": "diya-codessss/E-commerce-website"
+        }
+      ],
+      "lastSeenAt": "2026-11-06T14:15:52.545Z"
+    },
+    "anthropics/claude-quickstarts": {
+      "full": "anthropics/claude-quickstarts",
+      "firstSeenAt": "2026-11-06T14:15:52.545Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2084791234397131192",
+          "postId": "2084791234397131192",
+          "postedAt": "2026-08-04T23:58:58.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 23,
+        "reposts": 6,
+        "replies": 4,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-06T14:15:52.545Z"
+    },
+    "mumez/pharo-agentic-browser": {
+      "full": "mumez/pharo-agentic-browser",
+      "firstSeenAt": "2026-11-06T14:15:52.545Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2084682251640401927",
+          "postId": "2084682251640401927",
+          "postedAt": "2026-08-04T16:45:54.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 4,
+        "reposts": 2,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://mumez.github.io/pharo-agentic-browser-slides/introducing-pharo-agentic-browser-en.html"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://mumez.github.io/pharo-agentic-browser-slides/introducing-pharo-agentic-browser-en.html",
+          "postUrl": "https://x.com/i/web/status/2084682251640401927",
+          "repository": "mumez/pharo-agentic-browser"
+        }
+      ],
+      "lastSeenAt": "2026-11-06T14:15:52.545Z"
+    },
+    "ektogamat/webgpu-mesh-transmission-material": {
+      "full": "ektogamat/webgpu-mesh-transmission-material",
+      "firstSeenAt": "2026-11-06T14:15:52.545Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2084645474795975128",
+          "postId": "2084645474795975128",
+          "postedAt": "2026-08-04T14:19:46.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 13,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 1
+      },
+      "demoHints": [
+        "https://webgpu-glass-material.vercel.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://webgpu-glass-material.vercel.app/",
+          "postUrl": "https://x.com/i/web/status/2084645474795975128",
+          "repository": "ektogamat/webgpu-mesh-transmission-material"
+        }
+      ],
+      "lastSeenAt": "2026-11-06T14:15:52.545Z"
+    },
+    "sophiamyang/finger-frame-effect-ai": {
+      "full": "sophiamyang/finger-frame-effect-ai",
+      "firstSeenAt": "2026-11-06T14:15:52.545Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2084574037314048490",
+          "postId": "2084574037314048490",
+          "postedAt": "2026-08-04T09:35:54.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 100,
+        "reposts": 15,
+        "replies": 33,
+        "quotes": 1
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-06T14:15:52.545Z"
+    },
+    "mengto/complete-shelf": {
+      "full": "mengto/complete-shelf",
+      "firstSeenAt": "2026-11-06T14:15:52.545Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2084251686478946748",
+          "postId": "2084251686478946748",
+          "postedAt": "2026-08-03T12:15:00.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 36,
+        "reposts": 1,
+        "replies": 15,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://mengto.github.io/complete-shelf/",
+        "https://mengto.github.io/complete-shelf"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://mengto.github.io/complete-shelf/",
+          "postUrl": "https://x.com/i/web/status/2084251686478946748",
+          "repository": "mengto/complete-shelf"
+        },
+        {
+          "url": "https://mengto.github.io/complete-shelf",
+          "postUrl": "https://x.com/i/web/status/2084251686478946748",
+          "repository": "mengto/complete-shelf"
+        }
+      ],
+      "lastSeenAt": "2026-11-06T14:15:52.545Z"
+    },
+    "microsoft/skill-recorder": {
+      "full": "microsoft/skill-recorder",
+      "firstSeenAt": "2026-11-06T14:15:52.545Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2084227068552785949",
+          "postId": "2084227068552785949",
+          "postedAt": "2026-08-03T10:37:10.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 19,
+        "reposts": 7,
+        "replies": 3,
+        "quotes": 1
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-06T14:15:52.545Z"
+    },
+    "balavenkatesh3322/neural-decode-3d": {
+      "full": "balavenkatesh3322/neural-decode-3d",
+      "firstSeenAt": "2026-11-06T14:15:52.545Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2084188661307056424",
+          "postId": "2084188661307056424",
+          "postedAt": "2026-08-03T08:04:33.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 11,
+        "reposts": 2,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://neuraldecode.vercel.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://neuraldecode.vercel.app/",
+          "postUrl": "https://x.com/i/web/status/2084188661307056424",
+          "repository": "balavenkatesh3322/neural-decode-3d"
+        }
+      ],
+      "lastSeenAt": "2026-11-06T14:15:52.545Z"
+    },
+    "bradautomates/claude-video": {
+      "full": "bradautomates/claude-video",
+      "firstSeenAt": "2026-11-06T14:15:52.545Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2084119892656369673",
+          "postId": "2084119892656369673",
+          "postedAt": "2026-08-03T03:31:18.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 101,
+        "reposts": 19,
+        "replies": 2,
+        "quotes": 2
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-06T14:15:52.545Z"
+    },
+    "goroman/famicom-rf-hackrf-decoder": {
+      "full": "GOROman/famicom-rf-hackrf-decoder",
+      "firstSeenAt": "2026-11-06T14:15:52.545Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2083987354885230774",
+          "postId": "2083987354885230774",
+          "postedAt": "2026-08-02T18:44:38.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 89,
+        "reposts": 18,
+        "replies": 1,
+        "quotes": 5
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-06T14:15:52.545Z"
+    },
+    "1998code/swiftnewkit": {
+      "full": "1998code/SwiftNEWKit",
+      "firstSeenAt": "2026-11-06T14:15:52.545Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2083926157888831772",
+          "postId": "2083926157888831772",
+          "postedAt": "2026-08-02T14:41:28.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 31,
+        "reposts": 1,
+        "replies": 1,
+        "quotes": 1
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-06T14:15:52.545Z"
+    },
+    "iamtechartist/spider-robot": {
+      "full": "iamtechartist/spider-robot",
+      "firstSeenAt": "2026-11-06T14:15:52.545Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2083559153621201362",
+          "postId": "2083559153621201362",
+          "postedAt": "2026-08-01T14:23:07.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 56,
+        "reposts": 1,
+        "replies": 1,
+        "quotes": 2
+      },
+      "demoHints": [
+        "https://iamtechartist.github.io/spider-robot/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://iamtechartist.github.io/spider-robot/",
+          "postUrl": "https://x.com/i/web/status/2083559153621201362",
+          "repository": "iamtechartist/spider-robot"
+        }
+      ],
+      "lastSeenAt": "2026-11-06T14:15:52.545Z"
     }
   },
   "lastRun": {
@@ -98642,7 +99011,22 @@
     "2103841391910744436",
     "2103840666795061584",
     "2103831701327933458",
-    "2103828411949125738"
+    "2103828411949125738",
+    "2084839184800559587",
+    "2084791234397131192",
+    "2084682251640401927",
+    "2084645474795975128",
+    "2084574037314048490",
+    "2084415135331024919",
+    "2084293513567736239",
+    "2084251686478946748",
+    "2084227068552785949",
+    "2084188661307056424",
+    "2084119892656369673",
+    "2083987354885230774",
+    "2083926157888831772",
+    "2083619052568953342",
+    "2083559153621201362"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -98655,9 +99039,9 @@
     },
     "2c0438e5283099cf": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 355,
-      "uniquePosts": 352,
-      "newCandidates": 415,
+      "posts": 370,
+      "uniquePosts": 367,
+      "newCandidates": 427,
       "validationAttempts": 398,
       "accepted": 158
     },
