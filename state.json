@@ -79,7 +79,8 @@
       },
       "recent": {
         "start": "2026-10-31T13:00:22.381Z",
-        "end": "2026-11-03T14:12:33.986Z"
+        "end": "2026-11-03T14:12:33.986Z",
+        "nextToken": "b26v89c19zqg8o3juzly3gity1d6yzn69vde2jhoyrkot"
       }
     },
     "a0153cbebcc5cf46": {
@@ -94516,7 +94517,7 @@
           "repository": "OffPeakAI/offpeak"
         }
       ],
-      "lastSeenAt": "2026-11-05T14:38:46.557Z"
+      "lastSeenAt": "2026-11-07T12:59:28.614Z"
     },
     "respanai/respan-gateway": {
       "full": "respanai/respan-gateway",
@@ -94540,7 +94541,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-05T14:38:46.557Z"
+      "lastSeenAt": "2026-11-07T12:59:28.614Z"
     },
     "ml-struct-bio/chefnmr2": {
       "full": "ml-struct-bio/chefnmr2",
@@ -94578,7 +94579,7 @@
           "repository": "ml-struct-bio/chefnmr2"
         }
       ],
-      "lastSeenAt": "2026-11-05T14:38:46.557Z"
+      "lastSeenAt": "2026-11-07T12:59:28.614Z"
     },
     "mistralai/mistral-vibe": {
       "full": "mistralai/mistral-vibe",
@@ -94602,7 +94603,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-05T14:38:46.557Z"
+      "lastSeenAt": "2026-11-07T12:59:28.614Z"
     },
     "drost-ai/drost-community": {
       "full": "drost-ai/drost-community",
@@ -94626,7 +94627,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-05T14:38:46.557Z"
+      "lastSeenAt": "2026-11-07T12:59:28.614Z"
     },
     "agent-intent/verifiable-intent": {
       "full": "agent-intent/verifiable-intent",
@@ -94650,7 +94651,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-05T14:38:46.557Z"
+      "lastSeenAt": "2026-11-07T12:59:28.614Z"
     },
     "foundry-rs/foundry": {
       "full": "foundry-rs/foundry",
@@ -94674,7 +94675,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-05T14:38:46.557Z"
+      "lastSeenAt": "2026-11-07T12:59:28.614Z"
     },
     "jonwalch/zcash-tpq": {
       "full": "jonwalch/zcash-tpq",
@@ -94696,7 +94697,7 @@
         "replies": 1,
         "quotes": 1
       },
-      "lastSeenAt": "2026-11-05T14:38:46.557Z"
+      "lastSeenAt": "2026-11-07T12:59:28.614Z"
     },
     "jonwalch/zdn": {
       "full": "jonwalch/zdn",
@@ -94718,7 +94719,7 @@
         "replies": 1,
         "quotes": 1
       },
-      "lastSeenAt": "2026-11-05T14:38:46.557Z"
+      "lastSeenAt": "2026-11-07T12:59:28.614Z"
     },
     "vibhortayal/arya": {
       "full": "vibhortayal/arya",
@@ -94735,9 +94736,9 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 51,
-        "reposts": 33,
-        "replies": 22,
+        "likes": 83,
+        "reposts": 53,
+        "replies": 36,
         "quotes": 4
       },
       "demoHints": [
@@ -94750,7 +94751,7 @@
           "repository": "vibhortayal/arya"
         }
       ],
-      "lastSeenAt": "2026-11-05T14:38:46.557Z"
+      "lastSeenAt": "2026-11-07T12:59:28.614Z"
     },
     "orhun/cargo-tree-tui": {
       "full": "orhun/cargo-tree-tui",
@@ -94772,7 +94773,7 @@
         "replies": 8,
         "quotes": 0
       },
-      "lastSeenAt": "2026-11-05T14:38:46.557Z"
+      "lastSeenAt": "2026-11-07T12:59:28.614Z"
     },
     "rust-lang/cargo": {
       "full": "rust-lang/cargo",
@@ -94794,7 +94795,7 @@
         "replies": 8,
         "quotes": 0
       },
-      "lastSeenAt": "2026-11-05T14:38:46.557Z"
+      "lastSeenAt": "2026-11-07T12:59:28.614Z"
     },
     "skywalkers-24/loadtruth": {
       "full": "Skywalkers-24/LoadTruth",
@@ -94811,9 +94812,9 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 16,
-        "reposts": 18,
-        "replies": 8,
+        "likes": 21,
+        "reposts": 21,
+        "replies": 12,
         "quotes": 2
       },
       "demoHints": [
@@ -94826,7 +94827,7 @@
           "repository": "Skywalkers-24/LoadTruth"
         }
       ],
-      "lastSeenAt": "2026-11-05T14:38:46.557Z"
+      "lastSeenAt": "2026-11-07T12:59:28.614Z"
     },
     "sam1983aing/senna-800kg": {
       "full": "Sam1983Aing/senna-800kg",
@@ -94858,7 +94859,7 @@
           "repository": "Sam1983Aing/senna-800kg"
         }
       ],
-      "lastSeenAt": "2026-11-05T14:38:46.557Z"
+      "lastSeenAt": "2026-11-07T12:59:28.614Z"
     },
     "elder-plinius/l1b3rt4s": {
       "full": "elder-plinius/L1B3RT4S",
@@ -94882,7 +94883,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-05T14:38:46.557Z"
+      "lastSeenAt": "2026-11-07T12:59:28.614Z"
     },
     "safeight/pachislop": {
       "full": "SafEight/pachislop",
@@ -94906,7 +94907,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-05T14:38:46.557Z"
+      "lastSeenAt": "2026-11-07T12:59:28.614Z"
     },
     "mr-karan/hodor": {
       "full": "mr-karan/hodor",
@@ -94930,7 +94931,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-03T14:13:10.836Z"
+      "lastSeenAt": "2026-11-07T12:59:28.614Z"
     },
     "olivebishop/rendercon-website": {
       "full": "olivebishop/rendercon-website",
@@ -99152,7 +99153,6 @@
     "2103954081140076653",
     "2103950298876399642",
     "2103945741031108902",
-    "2116840537273807134",
     "2103944036226855333",
     "2103943777916457041",
     "2103942513468100669",
@@ -99216,21 +99216,7 @@
     "2104906754396144017",
     "2104890777373446318",
     "2104888290067275978",
-    "2117524177230188851",
-    "2117378167782687224",
     "2117363036289634737",
-    "2117355014666461383",
-    "2117332069030252816",
-    "2117323277073031202",
-    "2117309599132889589",
-    "2117276145955553596",
-    "2117267197991006340",
-    "2117257426437050522",
-    "2117255953716269133",
-    "2117253574615060641",
-    "2117119029311672607",
-    "2116924611279642949",
-    "2116918578557419846",
     "2103888602492969270",
     "2103887093302763889",
     "2103882971573002343",
@@ -99293,7 +99279,22 @@
     "2103764883049181517",
     "2103764586201522671",
     "2103763117826056407",
-    "2103762943846260934"
+    "2103762943846260934",
+    "2117524177230188851",
+    "2117378167782687224",
+    "2117355014666461383",
+    "2117332069030252816",
+    "2117323277073031202",
+    "2117309599132889589",
+    "2117276145955553596",
+    "2117267197991006340",
+    "2117257426437050522",
+    "2117255953716269133",
+    "2117253574615060641",
+    "2117119029311672607",
+    "2116924611279642949",
+    "2116918578557419846",
+    "2116840537273807134"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -99322,7 +99323,7 @@
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 325,
+      "posts": 340,
       "uniquePosts": 61,
       "newCandidates": 55,
       "validationAttempts": 39,
