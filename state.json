@@ -42,7 +42,8 @@
       },
       "recent": {
         "start": "2026-11-01T13:24:20.854Z",
-        "end": "2026-11-05T14:37:46.882Z"
+        "end": "2026-11-05T14:37:46.882Z",
+        "nextToken": "b26v89c19zqg8o3juzlyxh26ytkwbwwprb1iyvqfib2pp"
       }
     },
     "2c0438e5283099cf": {
@@ -95756,7 +95757,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "script-it/json-views": {
       "full": "script-it/json-views",
@@ -95773,7 +95774,7 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 0,
+        "likes": 3,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
@@ -95788,7 +95789,7 @@
           "repository": "script-it/json-views"
         }
       ],
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "ezolabs/ezo-watcher": {
       "full": "ezolabs/ezo-watcher",
@@ -95820,7 +95821,7 @@
           "repository": "ezolabs/ezo-watcher"
         }
       ],
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "maelryn/pawlink": {
       "full": "Maelryn/PAWLINK",
@@ -95852,7 +95853,7 @@
           "repository": "Maelryn/PAWLINK"
         }
       ],
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "themohitkhare/pycodegate": {
       "full": "themohitkhare/pycodegate",
@@ -95869,14 +95870,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 0,
+        "likes": 1,
         "reposts": 0,
         "replies": 1,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "quab-bot/mypadi": {
       "full": "quab-bot/MyPadi",
@@ -95893,7 +95894,7 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 0,
+        "likes": 1,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
@@ -95908,7 +95909,7 @@
           "repository": "quab-bot/MyPadi"
         }
       ],
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "roy-tong/verovo": {
       "full": "roy-tong/Verovo",
@@ -95939,7 +95940,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "itspronay/blankee": {
       "full": "itsPronay/blankee",
@@ -95963,7 +95964,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "arcviellouvent/stratacore-agent-examples": {
       "full": "ArcVielLouvent/stratacore-agent-examples",
@@ -95995,7 +95996,7 @@
           "repository": "ArcVielLouvent/stratacore-agent-examples"
         }
       ],
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "joaoh82/yardsort": {
       "full": "joaoh82/yardsort",
@@ -96019,7 +96020,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "openosint/openosint": {
       "full": "OpenOSINT/OpenOSINT",
@@ -96057,7 +96058,7 @@
           "repository": "OpenOSINT/OpenOSINT"
         }
       ],
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "dhvanilpatel/swarm-cursors": {
       "full": "DhvanilPatel/swarm-cursors",
@@ -96074,14 +96075,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 5,
-        "reposts": 0,
-        "replies": 1,
+        "likes": 41,
+        "reposts": 1,
+        "replies": 2,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "vika2364/configs": {
       "full": "Vika2364/Configs",
@@ -96098,14 +96099,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 1,
+        "likes": 2,
         "reposts": 0,
         "replies": 1,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "04-john/doorman": {
       "full": "04-John/Doorman",
@@ -96137,7 +96138,7 @@
           "repository": "04-John/Doorman"
         }
       ],
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "tancheng33/tingo": {
       "full": "tancheng33/tingo",
@@ -96161,7 +96162,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "tapilot-ai/tapilot": {
       "full": "tapilot-ai/tapilot",
@@ -96178,12 +96179,12 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 0,
+        "likes": 1,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "web-infra-dev/midscene-action": {
       "full": "web-infra-dev/midscene-action",
@@ -96200,12 +96201,12 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 0,
+        "likes": 1,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "davissekai/two-eyes": {
       "full": "davissekai/two-eyes",
@@ -96237,7 +96238,7 @@
           "repository": "davissekai/two-eyes"
         }
       ],
-      "lastSeenAt": "2026-11-05T14:38:24.363Z"
+      "lastSeenAt": "2026-11-08T13:23:28.660Z"
     },
     "ichris4/wiicompiled_vr": {
       "full": "iChris4/Wiicompiled_VR",
@@ -99186,24 +99187,6 @@
     "2085091050050240556",
     "2085040555399028950",
     "2084922865762377956",
-    "2118351616873296030",
-    "2118345643903082900",
-    "2118344506961490163",
-    "2118343052888805771",
-    "2118342571625795789",
-    "2118330351583936596",
-    "2118329222397939718",
-    "2118328211344126105",
-    "2118328030544503056",
-    "2118327731452854664",
-    "2118326801076543616",
-    "2118325438447804611",
-    "2118324576430207173",
-    "2118323053616861282",
-    "2118320992053301280",
-    "2118319984023937421",
-    "2118318175234433386",
-    "2118317434830758201",
     "2104933531709534701",
     "2104933468841111645",
     "2104930193139970483",
@@ -99298,12 +99281,30 @@
     "2117119029311672607",
     "2116924611279642949",
     "2116918578557419846",
-    "2116840537273807134"
+    "2116840537273807134",
+    "2118351616873296030",
+    "2118345643903082900",
+    "2118344506961490163",
+    "2118343052888805771",
+    "2118342571625795789",
+    "2118330351583936596",
+    "2118329222397939718",
+    "2118328211344126105",
+    "2118328030544503056",
+    "2118327731452854664",
+    "2118326801076543616",
+    "2118325438447804611",
+    "2118324576430207173",
+    "2118323053616861282",
+    "2118320992053301280",
+    "2118319984023937421",
+    "2118318175234433386",
+    "2118317434830758201"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
-      "posts": 689,
+      "posts": 707,
       "uniquePosts": 413,
       "newCandidates": 279,
       "validationAttempts": 223,
