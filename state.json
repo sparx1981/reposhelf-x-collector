@@ -78,8 +78,7 @@
         "done": false
       },
       "recent": {
-        "start": "2026-11-02T16:18:18.658Z",
-        "end": "2026-11-03T14:12:33.986Z"
+        "start": "2026-11-03T14:11:33.986Z"
       }
     },
     "a0153cbebcc5cf46": {
@@ -94572,7 +94571,7 @@
           "repository": "OffPeakAI/offpeak"
         }
       ],
-      "lastSeenAt": "2026-11-07T12:59:28.614Z"
+      "lastSeenAt": "2026-11-09T16:17:25.730Z"
     },
     "respanai/respan-gateway": {
       "full": "respanai/respan-gateway",
@@ -94596,7 +94595,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-07T12:59:28.614Z"
+      "lastSeenAt": "2026-11-09T16:17:25.730Z"
     },
     "ml-struct-bio/chefnmr2": {
       "full": "ml-struct-bio/chefnmr2",
@@ -94634,7 +94633,7 @@
           "repository": "ml-struct-bio/chefnmr2"
         }
       ],
-      "lastSeenAt": "2026-11-07T12:59:28.614Z"
+      "lastSeenAt": "2026-11-09T16:17:25.730Z"
     },
     "mistralai/mistral-vibe": {
       "full": "mistralai/mistral-vibe",
@@ -94658,7 +94657,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-07T12:59:28.614Z"
+      "lastSeenAt": "2026-11-09T16:17:25.730Z"
     },
     "drost-ai/drost-community": {
       "full": "drost-ai/drost-community",
@@ -94682,7 +94681,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-07T12:59:28.614Z"
+      "lastSeenAt": "2026-11-09T16:17:25.730Z"
     },
     "agent-intent/verifiable-intent": {
       "full": "agent-intent/verifiable-intent",
@@ -94706,7 +94705,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-07T12:59:28.614Z"
+      "lastSeenAt": "2026-11-09T16:17:25.730Z"
     },
     "foundry-rs/foundry": {
       "full": "foundry-rs/foundry",
@@ -100826,12 +100825,6 @@
     "2103764586201522671",
     "2103763117826056407",
     "2103762943846260934",
-    "2117524177230188851",
-    "2117378167782687224",
-    "2117355014666461383",
-    "2117332069030252816",
-    "2117323277073031202",
-    "2117309599132889589",
     "2117276145955553596",
     "2117267197991006340",
     "2117257426437050522",
@@ -100923,7 +100916,13 @@
     "2103747034821906717",
     "2103746964093649176",
     "2103738226221695308",
-    "2103726311202234601"
+    "2103726311202234601",
+    "2117524177230188851",
+    "2117378167782687224",
+    "2117355014666461383",
+    "2117332069030252816",
+    "2117323277073031202",
+    "2117309599132889589"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -100952,7 +100951,7 @@
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 340,
+      "posts": 346,
       "uniquePosts": 61,
       "newCandidates": 55,
       "validationAttempts": 39,
