@@ -93,7 +93,8 @@
       },
       "recent": {
         "start": "2026-11-02T16:17:51.759Z",
-        "end": "2026-11-09T16:16:21.759Z"
+        "end": "2026-11-09T16:16:21.759Z",
+        "nextToken": "b26v89c19zqg8o3juzlzcxbgmjbsttu487j1rz00ipg8t"
       }
     }
   },
@@ -11984,6 +11985,13 @@
           "url": "https://x.com/i/web/status/2104828932591612016",
           "postId": "2104828932591612016",
           "postedAt": "2026-09-29T07:01:38.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119806120243986613",
+          "postId": "2119806120243986613",
+          "postedAt": "2026-11-09T14:55:37.000Z"
         }
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
@@ -12009,7 +12017,7 @@
           "repository": "DartNative/dartnative"
         }
       ],
-      "lastSeenAt": "2026-10-23T16:27:17.834Z",
+      "lastSeenAt": "2026-11-09T16:16:59.420Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "DartNative/dartnative",
@@ -98428,6 +98436,446 @@
       "demoHints": [],
       "demoLinks": [],
       "lastSeenAt": "2026-11-08T13:23:51.950Z"
+    },
+    "itsolaph/data-lens": {
+      "full": "itsolaph/data-lens",
+      "firstSeenAt": "2026-11-09T16:16:59.420Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119825589859422575",
+          "postId": "2119825589859422575",
+          "postedAt": "2026-11-09T16:12:59.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-09T16:16:59.420Z"
+    },
+    "gabriel-dg/curatune": {
+      "full": "gabriel-dg/curatune",
+      "firstSeenAt": "2026-11-09T16:16:59.420Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119823744248009174",
+          "postId": "2119823744248009174",
+          "postedAt": "2026-11-09T16:05:39.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-09T16:16:59.420Z"
+    },
+    "snugogo/ai-recorder-card-sdk": {
+      "full": "snugogo/ai-recorder-card-sdk",
+      "firstSeenAt": "2026-11-09T16:16:59.420Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119822922609017277",
+          "postId": "2119822922609017277",
+          "postedAt": "2026-11-09T16:02:23.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-09T16:16:59.420Z"
+    },
+    "venkatnarayantl/gnani": {
+      "full": "venkatnarayantl/gnani",
+      "firstSeenAt": "2026-11-09T16:16:59.420Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119822764534272027",
+          "postId": "2119822764534272027",
+          "postedAt": "2026-11-09T16:01:46.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-09T16:16:59.420Z"
+    },
+    "sulaiman-github/pharmacy_mgt_system": {
+      "full": "Sulaiman-GitHub/Pharmacy_Mgt_System",
+      "firstSeenAt": "2026-11-09T16:16:59.420Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119822664974098941",
+          "postId": "2119822664974098941",
+          "postedAt": "2026-11-09T16:01:22.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-09T16:16:59.420Z"
+    },
+    "aymanghmari/mini-agent": {
+      "full": "aymanghmari/mini-agent",
+      "firstSeenAt": "2026-11-09T16:16:59.420Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119822025845878815",
+          "postId": "2119822025845878815",
+          "postedAt": "2026-11-09T15:58:50.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-09T16:16:59.420Z"
+    },
+    "jayjoshix/payday-memory": {
+      "full": "jayjoshix/payday-memory",
+      "firstSeenAt": "2026-11-09T16:16:59.420Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119821681477005546",
+          "postId": "2119821681477005546",
+          "postedAt": "2026-11-09T15:57:27.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-09T16:16:59.420Z"
+    },
+    "mohsinkhawas/concurrency": {
+      "full": "mohsinkhawas/Concurrency",
+      "firstSeenAt": "2026-11-09T16:16:59.420Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119821535267676313",
+          "postId": "2119821535267676313",
+          "postedAt": "2026-11-09T15:56:53.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 1
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-09T16:16:59.420Z"
+    },
+    "dievus/scan-sabre": {
+      "full": "dievus/scan-sabre",
+      "firstSeenAt": "2026-11-09T16:16:59.420Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119818260128338423",
+          "postId": "2119818260128338423",
+          "postedAt": "2026-11-09T15:43:52.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-09T16:16:59.420Z"
+    },
+    "beynda/soft-window-calculator": {
+      "full": "beynda/soft-window-calculator",
+      "firstSeenAt": "2026-11-09T16:16:59.420Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119816426047635604",
+          "postId": "2119816426047635604",
+          "postedAt": "2026-11-09T15:36:34.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-09T16:16:59.420Z"
+    },
+    "jds-23/sealedbounty": {
+      "full": "Jds-23/sealedbounty",
+      "firstSeenAt": "2026-11-09T16:16:59.420Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119815391245697364",
+          "postId": "2119815391245697364",
+          "postedAt": "2026-11-09T15:32:28.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://jds-23.github.io/sealedbounty/#/tour"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://jds-23.github.io/sealedbounty/#/tour",
+          "postUrl": "https://x.com/i/web/status/2119815391245697364",
+          "repository": "Jds-23/sealedbounty"
+        }
+      ],
+      "lastSeenAt": "2026-11-09T16:16:59.420Z"
+    },
+    "awakecoding/regeditto": {
+      "full": "awakecoding/RegEditto",
+      "firstSeenAt": "2026-11-09T16:16:59.420Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119815367430443045",
+          "postId": "2119815367430443045",
+          "postedAt": "2026-11-09T15:32:22.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 12,
+        "reposts": 1,
+        "replies": 3,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-09T16:16:59.420Z"
+    },
+    "lauroguedes/laravel-sso": {
+      "full": "lauroguedes/laravel-sso",
+      "firstSeenAt": "2026-11-09T16:16:59.420Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119808266507014337",
+          "postId": "2119808266507014337",
+          "postedAt": "2026-11-09T15:04:09.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://sso.lauroguedes.dev/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://sso.lauroguedes.dev/",
+          "postUrl": "https://x.com/i/web/status/2119808266507014337",
+          "repository": "lauroguedes/laravel-sso"
+        }
+      ],
+      "lastSeenAt": "2026-11-09T16:16:59.420Z"
+    },
+    "codelord36/newsletter-sign-up-interactive": {
+      "full": "CodeLord36/newsletter-sign-up-interactive",
+      "firstSeenAt": "2026-11-09T16:16:59.420Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119807740902019458",
+          "postId": "2119807740902019458",
+          "postedAt": "2026-11-09T15:02:04.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://newsletter-sign-up-interactive.vercel.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://newsletter-sign-up-interactive.vercel.app/",
+          "postUrl": "https://x.com/i/web/status/2119807740902019458",
+          "repository": "CodeLord36/newsletter-sign-up-interactive"
+        }
+      ],
+      "lastSeenAt": "2026-11-09T16:16:59.420Z"
+    },
+    "manghat/agent-map": {
+      "full": "manghat/agent-map",
+      "firstSeenAt": "2026-11-09T16:16:59.420Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119804254647148862",
+          "postId": "2119804254647148862",
+          "postedAt": "2026-11-09T14:48:13.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-09T16:16:59.420Z"
+    },
+    "artykourakin/meta-hacha_sh-01": {
+      "full": "ArtyKourakin/Meta-Hacha_SH-01",
+      "firstSeenAt": "2026-11-09T16:16:59.420Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119802907889696972",
+          "postId": "2119802907889696972",
+          "postedAt": "2026-11-09T14:42:51.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://sh-01.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://sh-01.app/",
+          "postUrl": "https://x.com/i/web/status/2119802907889696972",
+          "repository": "ArtyKourakin/Meta-Hacha_SH-01"
+        }
+      ],
+      "lastSeenAt": "2026-11-09T16:16:59.420Z"
+    },
+    "kontoru-agent/bountybot": {
+      "full": "kontoru-agent/bountybot",
+      "firstSeenAt": "2026-11-09T16:16:59.420Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2119802685298012311",
+          "postId": "2119802685298012311",
+          "postedAt": "2026-11-09T14:41:58.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-09T16:16:59.420Z"
     }
   },
   "lastRun": {
@@ -100180,7 +100628,25 @@
     "2082608510345297980",
     "2082567881171050496",
     "2082521957581602988",
-    "2082503109004452303"
+    "2082503109004452303",
+    "2119825589859422575",
+    "2119823744248009174",
+    "2119822922609017277",
+    "2119822764534272027",
+    "2119822664974098941",
+    "2119822025845878815",
+    "2119821681477005546",
+    "2119821535267676313",
+    "2119818260128338423",
+    "2119816426047635604",
+    "2119815391245697364",
+    "2119815367430443045",
+    "2119808266507014337",
+    "2119807740902019458",
+    "2119806120243986613",
+    "2119804254647148862",
+    "2119802907889696972",
+    "2119802685298012311"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -100217,9 +100683,9 @@
     },
     "a0153cbebcc5cf46": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
-      "posts": 897,
-      "uniquePosts": 425,
-      "newCandidates": 384,
+      "posts": 915,
+      "uniquePosts": 443,
+      "newCandidates": 401,
       "validationAttempts": 302,
       "accepted": 149
     }
