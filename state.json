@@ -42,7 +42,8 @@
       },
       "recent": {
         "start": "2026-11-04T14:21:40.889Z",
-        "end": "2026-11-05T14:37:46.882Z"
+        "end": "2026-11-05T14:37:46.882Z",
+        "nextToken": "b26v89c19zqg8o3juzlyxh26ytkwbwwprb1iyvqfib2pp"
       }
     },
     "2c0438e5283099cf": {
@@ -95833,7 +95834,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "script-it/json-views": {
       "full": "script-it/json-views",
@@ -95850,7 +95851,7 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 3,
+        "likes": 4,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
@@ -95865,7 +95866,7 @@
           "repository": "script-it/json-views"
         }
       ],
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "ezolabs/ezo-watcher": {
       "full": "ezolabs/ezo-watcher",
@@ -95897,7 +95898,7 @@
           "repository": "ezolabs/ezo-watcher"
         }
       ],
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "maelryn/pawlink": {
       "full": "Maelryn/PAWLINK",
@@ -95929,7 +95930,7 @@
           "repository": "Maelryn/PAWLINK"
         }
       ],
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "themohitkhare/pycodegate": {
       "full": "themohitkhare/pycodegate",
@@ -95953,7 +95954,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "quab-bot/mypadi": {
       "full": "quab-bot/MyPadi",
@@ -95985,7 +95986,7 @@
           "repository": "quab-bot/MyPadi"
         }
       ],
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "roy-tong/verovo": {
       "full": "roy-tong/Verovo",
@@ -96016,7 +96017,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "itspronay/blankee": {
       "full": "itsPronay/blankee",
@@ -96040,7 +96041,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "arcviellouvent/stratacore-agent-examples": {
       "full": "ArcVielLouvent/stratacore-agent-examples",
@@ -96072,7 +96073,7 @@
           "repository": "ArcVielLouvent/stratacore-agent-examples"
         }
       ],
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "joaoh82/yardsort": {
       "full": "joaoh82/yardsort",
@@ -96096,7 +96097,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "openosint/openosint": {
       "full": "OpenOSINT/OpenOSINT",
@@ -96134,7 +96135,7 @@
           "repository": "OpenOSINT/OpenOSINT"
         }
       ],
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "dhvanilpatel/swarm-cursors": {
       "full": "DhvanilPatel/swarm-cursors",
@@ -96151,14 +96152,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 41,
+        "likes": 45,
         "reposts": 1,
         "replies": 2,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "vika2364/configs": {
       "full": "Vika2364/Configs",
@@ -96182,7 +96183,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "04-john/doorman": {
       "full": "04-John/Doorman",
@@ -96214,7 +96215,7 @@
           "repository": "04-John/Doorman"
         }
       ],
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "tancheng33/tingo": {
       "full": "tancheng33/tingo",
@@ -96238,7 +96239,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "tapilot-ai/tapilot": {
       "full": "tapilot-ai/tapilot",
@@ -96260,7 +96261,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "web-infra-dev/midscene-action": {
       "full": "web-infra-dev/midscene-action",
@@ -96282,7 +96283,7 @@
         "replies": 0,
         "quotes": 0
       },
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "davissekai/two-eyes": {
       "full": "davissekai/two-eyes",
@@ -96314,7 +96315,7 @@
           "repository": "davissekai/two-eyes"
         }
       ],
-      "lastSeenAt": "2026-11-08T13:23:28.660Z"
+      "lastSeenAt": "2026-11-11T14:20:47.934Z"
     },
     "ichris4/wiicompiled_vr": {
       "full": "iChris4/Wiicompiled_VR",
@@ -101554,24 +101555,6 @@
     "2116924611279642949",
     "2116918578557419846",
     "2116840537273807134",
-    "2118351616873296030",
-    "2118345643903082900",
-    "2118344506961490163",
-    "2118343052888805771",
-    "2118342571625795789",
-    "2118330351583936596",
-    "2118329222397939718",
-    "2118328211344126105",
-    "2118328030544503056",
-    "2118327731452854664",
-    "2118326801076543616",
-    "2118325438447804611",
-    "2118324576430207173",
-    "2118323053616861282",
-    "2118320992053301280",
-    "2118319984023937421",
-    "2118318175234433386",
-    "2118317434830758201",
     "2104867897843572751",
     "2104859842255224882",
     "2104839007524073503",
@@ -101672,12 +101655,30 @@
     "2081837882851938314",
     "2081829142547542070",
     "2081801979131818412",
-    "2081798202668278003"
+    "2081798202668278003",
+    "2118351616873296030",
+    "2118345643903082900",
+    "2118344506961490163",
+    "2118343052888805771",
+    "2118342571625795789",
+    "2118330351583936596",
+    "2118329222397939718",
+    "2118328211344126105",
+    "2118328030544503056",
+    "2118327731452854664",
+    "2118326801076543616",
+    "2118325438447804611",
+    "2118324576430207173",
+    "2118323053616861282",
+    "2118320992053301280",
+    "2118319984023937421",
+    "2118318175234433386",
+    "2118317434830758201"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
-      "posts": 724,
+      "posts": 742,
       "uniquePosts": 430,
       "newCandidates": 293,
       "validationAttempts": 223,
