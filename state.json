@@ -93,7 +93,8 @@
       },
       "recent": {
         "start": "2026-11-05T15:14:08.292Z",
-        "end": "2026-11-09T16:16:21.759Z"
+        "end": "2026-11-09T16:16:21.759Z",
+        "nextToken": "b26v89c19zqg8o3juzlzcxbgl09wljc0ejwl1752c7gcd"
       }
     }
   },
@@ -12023,7 +12024,7 @@
           "repository": "DartNative/dartnative"
         }
       ],
-      "lastSeenAt": "2026-11-10T14:51:56.190Z",
+      "lastSeenAt": "2026-11-12T15:13:15.265Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "DartNative/dartnative",
@@ -98544,14 +98545,14 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 10,
+        "likes": 11,
         "reposts": 1,
         "replies": 1,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-10T14:51:44.818Z"
+      "lastSeenAt": "2026-11-12T15:13:15.265Z"
     },
     "gabriel-dg/curatune": {
       "full": "gabriel-dg/curatune",
@@ -98575,7 +98576,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-10T14:51:44.818Z"
+      "lastSeenAt": "2026-11-12T15:13:15.265Z"
     },
     "snugogo/ai-recorder-card-sdk": {
       "full": "snugogo/ai-recorder-card-sdk",
@@ -98599,7 +98600,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-10T14:51:44.818Z"
+      "lastSeenAt": "2026-11-12T15:13:15.265Z"
     },
     "venkatnarayantl/gnani": {
       "full": "venkatnarayantl/gnani",
@@ -98623,7 +98624,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-10T14:51:44.818Z"
+      "lastSeenAt": "2026-11-12T15:13:15.265Z"
     },
     "sulaiman-github/pharmacy_mgt_system": {
       "full": "Sulaiman-GitHub/Pharmacy_Mgt_System",
@@ -98647,7 +98648,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-10T14:51:44.818Z"
+      "lastSeenAt": "2026-11-12T15:13:15.265Z"
     },
     "aymanghmari/mini-agent": {
       "full": "aymanghmari/mini-agent",
@@ -98671,7 +98672,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-10T14:51:44.818Z"
+      "lastSeenAt": "2026-11-12T15:13:15.265Z"
     },
     "jayjoshix/payday-memory": {
       "full": "jayjoshix/payday-memory",
@@ -98695,7 +98696,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-10T14:51:44.818Z"
+      "lastSeenAt": "2026-11-12T15:13:15.265Z"
     },
     "mohsinkhawas/concurrency": {
       "full": "mohsinkhawas/Concurrency",
@@ -98719,7 +98720,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-10T14:51:44.818Z"
+      "lastSeenAt": "2026-11-12T15:13:15.265Z"
     },
     "dievus/scan-sabre": {
       "full": "dievus/scan-sabre",
@@ -98767,7 +98768,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-10T14:51:44.818Z"
+      "lastSeenAt": "2026-11-12T15:13:15.265Z"
     },
     "jds-23/sealedbounty": {
       "full": "Jds-23/sealedbounty",
@@ -98799,7 +98800,7 @@
           "repository": "Jds-23/sealedbounty"
         }
       ],
-      "lastSeenAt": "2026-11-10T14:51:44.818Z"
+      "lastSeenAt": "2026-11-12T15:13:15.265Z"
     },
     "awakecoding/regeditto": {
       "full": "awakecoding/RegEditto",
@@ -98816,14 +98817,14 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 86,
-        "reposts": 2,
+        "likes": 88,
+        "reposts": 3,
         "replies": 11,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-10T14:51:44.818Z"
+      "lastSeenAt": "2026-11-12T15:13:15.265Z"
     },
     "lauroguedes/laravel-sso": {
       "full": "lauroguedes/laravel-sso",
@@ -98855,7 +98856,7 @@
           "repository": "lauroguedes/laravel-sso"
         }
       ],
-      "lastSeenAt": "2026-11-10T14:51:44.818Z"
+      "lastSeenAt": "2026-11-12T15:13:15.265Z"
     },
     "codelord36/newsletter-sign-up-interactive": {
       "full": "CodeLord36/newsletter-sign-up-interactive",
@@ -98887,7 +98888,7 @@
           "repository": "CodeLord36/newsletter-sign-up-interactive"
         }
       ],
-      "lastSeenAt": "2026-11-10T14:51:44.818Z"
+      "lastSeenAt": "2026-11-12T15:13:15.265Z"
     },
     "manghat/agent-map": {
       "full": "manghat/agent-map",
@@ -98911,7 +98912,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-10T14:51:44.818Z"
+      "lastSeenAt": "2026-11-12T15:13:15.265Z"
     },
     "artykourakin/meta-hacha_sh-01": {
       "full": "ArtyKourakin/Meta-Hacha_SH-01",
@@ -98943,7 +98944,7 @@
           "repository": "ArtyKourakin/Meta-Hacha_SH-01"
         }
       ],
-      "lastSeenAt": "2026-11-10T14:51:44.818Z"
+      "lastSeenAt": "2026-11-12T15:13:15.265Z"
     },
     "kontoru-agent/bountybot": {
       "full": "kontoru-agent/bountybot",
@@ -98967,7 +98968,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-10T14:51:44.818Z"
+      "lastSeenAt": "2026-11-12T15:13:15.265Z"
     },
     "demkin76/prompt_tutor": {
       "full": "Demkin76/prompt_tutor",
@@ -99251,7 +99252,7 @@
           "repository": "ghostdevol/Street-Market-A.i"
         }
       ],
-      "lastSeenAt": "2026-11-10T14:51:44.818Z"
+      "lastSeenAt": "2026-11-12T15:13:15.265Z"
     },
     "vikaspal1704/mini-matching-engine": {
       "full": "vikaspal1704/mini-matching-engine",
@@ -102399,24 +102400,6 @@
     "2117332069030252816",
     "2117323277073031202",
     "2117309599132889589",
-    "2119825589859422575",
-    "2119823744248009174",
-    "2119822922609017277",
-    "2119822764534272027",
-    "2119822664974098941",
-    "2119822025845878815",
-    "2119821681477005546",
-    "2119821535267676313",
-    "2119816426047635604",
-    "2119815391245697364",
-    "2119815367430443045",
-    "2119808266507014337",
-    "2119807740902019458",
-    "2119806120243986613",
-    "2119804254647148862",
-    "2119802907889696972",
-    "2119802685298012311",
-    "2119801440600195323",
     "2103719591973466165",
     "2103715284477772051",
     "2103715282044739779",
@@ -102495,7 +102478,25 @@
     "2120214120759021781",
     "2120177187399909466",
     "2120164135509914075",
-    "2120096121468956939"
+    "2120096121468956939",
+    "2119825589859422575",
+    "2119823744248009174",
+    "2119822922609017277",
+    "2119822764534272027",
+    "2119822664974098941",
+    "2119822025845878815",
+    "2119821681477005546",
+    "2119821535267676313",
+    "2119816426047635604",
+    "2119815391245697364",
+    "2119815367430443045",
+    "2119808266507014337",
+    "2119807740902019458",
+    "2119806120243986613",
+    "2119804254647148862",
+    "2119802907889696972",
+    "2119802685298012311",
+    "2119801440600195323"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -102532,7 +102533,7 @@
     },
     "a0153cbebcc5cf46": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
-      "posts": 962,
+      "posts": 980,
       "uniquePosts": 471,
       "newCandidates": 422,
       "validationAttempts": 302,
