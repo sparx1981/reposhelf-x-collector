@@ -79,7 +79,8 @@
       },
       "recent": {
         "start": "2026-11-06T14:35:19.391Z",
-        "end": "2026-11-11T14:20:35.925Z"
+        "end": "2026-11-11T14:20:35.925Z",
+        "nextToken": "b26v89c19zqg8o3juzovc0074h3zl6uma652ji8dsefel"
       }
     },
     "a0153cbebcc5cf46": {
@@ -100265,14 +100266,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 180,
-        "reposts": 15,
-        "replies": 23,
-        "quotes": 3
+        "likes": 425,
+        "reposts": 39,
+        "replies": 46,
+        "quotes": 4
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-11T14:21:12.390Z"
+      "lastSeenAt": "2026-11-13T14:34:28.829Z"
     },
     "rlaope/oh-my-hermes": {
       "full": "rlaope/oh-my-hermes",
@@ -100289,14 +100290,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 13,
+        "likes": 16,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-11T14:21:12.390Z"
+      "lastSeenAt": "2026-11-13T14:34:28.829Z"
     },
     "n8n-io/nod": {
       "full": "n8n-io/nod",
@@ -100320,10 +100321,10 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 41,
+        "likes": 174,
         "reposts": 2,
         "replies": 3,
-        "quotes": 0
+        "quotes": 1
       },
       "demoHints": [
         "https://nod.n8n.io/"
@@ -100335,7 +100336,7 @@
           "repository": "n8n-io/nod"
         }
       ],
-      "lastSeenAt": "2026-11-11T14:21:12.390Z"
+      "lastSeenAt": "2026-11-13T14:34:28.829Z"
     },
     "jdhruv14/line-art-animation": {
       "full": "JDhruv14/line-art-animation",
@@ -100352,14 +100353,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 32,
-        "reposts": 1,
+        "likes": 40,
+        "reposts": 2,
         "replies": 14,
         "quotes": 3
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-11T14:21:12.390Z"
+      "lastSeenAt": "2026-11-13T14:34:28.829Z"
     },
     "molence/mol-1": {
       "full": "molence/Mol-1",
@@ -100376,10 +100377,10 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 30,
-        "reposts": 4,
+        "likes": 56,
+        "reposts": 11,
         "replies": 1,
-        "quotes": 0
+        "quotes": 1
       },
       "demoHints": [
         "https://lab.molence.com/"
@@ -100391,7 +100392,7 @@
           "repository": "molence/Mol-1"
         }
       ],
-      "lastSeenAt": "2026-11-11T14:21:12.390Z"
+      "lastSeenAt": "2026-11-13T14:34:28.829Z"
     },
     "tydavid5/recall-wallet": {
       "full": "tydavid5/recall-wallet",
@@ -100408,9 +100409,9 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 15,
+        "likes": 17,
         "reposts": 6,
-        "replies": 7,
+        "replies": 8,
         "quotes": 0
       },
       "demoHints": [
@@ -100429,7 +100430,7 @@
           "repository": "tydavid5/recall-wallet"
         }
       ],
-      "lastSeenAt": "2026-11-11T14:21:12.390Z"
+      "lastSeenAt": "2026-11-13T14:34:28.829Z"
     },
     "rerun-build/rerun": {
       "full": "rerun-build/rerun",
@@ -100446,7 +100447,7 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 26,
+        "likes": 31,
         "reposts": 4,
         "replies": 4,
         "quotes": 1
@@ -100461,7 +100462,7 @@
           "repository": "rerun-build/rerun"
         }
       ],
-      "lastSeenAt": "2026-11-11T14:21:12.390Z"
+      "lastSeenAt": "2026-11-13T14:34:28.829Z"
     },
     "adolanium/hermes-whiteboard": {
       "full": "Adolanium/hermes-whiteboard",
@@ -100478,14 +100479,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 34,
+        "likes": 54,
         "reposts": 0,
-        "replies": 0,
+        "replies": 2,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-11T14:21:12.390Z"
+      "lastSeenAt": "2026-11-13T14:34:28.829Z"
     },
     "mantrakp04/ardia": {
       "full": "mantrakp04/ardia",
@@ -100502,14 +100503,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 57,
-        "reposts": 2,
+        "likes": 73,
+        "reposts": 3,
         "replies": 1,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-11T14:21:12.390Z"
+      "lastSeenAt": "2026-11-13T14:34:28.829Z"
     },
     "jfkkfjzkz/ps4-akatsuki-jailbreak": {
       "full": "Jfkkfjzkz/ps4-akatsuki-jailbreak",
@@ -100526,14 +100527,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 311,
-        "reposts": 36,
-        "replies": 12,
+        "likes": 385,
+        "reposts": 43,
+        "replies": 14,
         "quotes": 2
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-11T14:21:12.390Z"
+      "lastSeenAt": "2026-11-13T14:34:28.829Z"
     },
     "null-port/ocarinaaa-of-time": {
       "full": "null-port/ocarinaaa-of-time",
@@ -100550,9 +100551,9 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 263,
-        "reposts": 16,
-        "replies": 5,
+        "likes": 304,
+        "reposts": 19,
+        "replies": 6,
         "quotes": 1
       },
       "demoHints": [
@@ -100565,7 +100566,7 @@
           "repository": "null-port/ocarinaaa-of-time"
         }
       ],
-      "lastSeenAt": "2026-11-11T14:21:12.390Z"
+      "lastSeenAt": "2026-11-13T14:34:28.829Z"
     },
     "quotumorg/exfilbar": {
       "full": "quotumorg/exfilbar",
@@ -100582,14 +100583,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 14,
+        "likes": 15,
         "reposts": 5,
         "replies": 1,
-        "quotes": 0
+        "quotes": 1
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-11T14:21:12.390Z"
+      "lastSeenAt": "2026-11-13T14:34:28.829Z"
     },
     "vbs-labs/kyc-validation-certificate": {
       "full": "VBS-Labs/KYC-Validation-Certificate",
@@ -101950,6 +101951,84 @@
       "demoHints": [],
       "demoLinks": [],
       "lastSeenAt": "2026-11-13T14:34:11.942Z"
+    },
+    "liorael/lenso-ui": {
+      "full": "LioRael/lenso-ui",
+      "firstSeenAt": "2026-11-13T14:34:28.829Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2120494508408488300",
+          "postId": "2120494508408488300",
+          "postedAt": "2026-11-11T12:31:02.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 260,
+        "reposts": 10,
+        "replies": 14,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://ui.lenso.dev/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://ui.lenso.dev/",
+          "postUrl": "https://x.com/i/web/status/2120494508408488300",
+          "repository": "LioRael/lenso-ui"
+        }
+      ],
+      "lastSeenAt": "2026-11-13T14:34:28.829Z"
+    },
+    "angadbasandrai/quill": {
+      "full": "AngadBasandrai/quill",
+      "firstSeenAt": "2026-11-13T14:34:28.829Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2120430828098629795",
+          "postId": "2120430828098629795",
+          "postedAt": "2026-11-11T08:17:59.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 11,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-13T14:34:28.829Z"
+    },
+    "ardia-browser/ardia": {
+      "full": "ardia-browser/ardia",
+      "firstSeenAt": "2026-11-13T14:34:28.829Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2120248817409036598",
+          "postId": "2120248817409036598",
+          "postedAt": "2026-11-10T20:14:45.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 73,
+        "reposts": 3,
+        "replies": 1,
+        "quotes": 0
+      },
+      "lastSeenAt": "2026-11-13T14:34:28.829Z"
     }
   },
   "lastRun": {
@@ -103794,19 +103873,6 @@
     "2104668674749825287",
     "2104666019394711994",
     "2104664850026905808",
-    "2120494565610209784",
-    "2120451493178327199",
-    "2120448409429782826",
-    "2120431337840549962",
-    "2120411490465575008",
-    "2120409271011791049",
-    "2120288527258628330",
-    "2120265275769594007",
-    "2120258032668160275",
-    "2120248817409036598",
-    "2120240249850708418",
-    "2120214120759021781",
-    "2120177187399909466",
     "2120164135509914075",
     "2120096121468956939",
     "2103633787183931616",
@@ -103874,7 +103940,22 @@
     "2103509600498827425",
     "2103509452376899708",
     "2103508479113839081",
-    "2103507676705481062"
+    "2103507676705481062",
+    "2120494565610209784",
+    "2120494508408488300",
+    "2120451493178327199",
+    "2120448409429782826",
+    "2120431337840549962",
+    "2120430828098629795",
+    "2120411490465575008",
+    "2120409271011791049",
+    "2120288527258628330",
+    "2120265275769594007",
+    "2120258032668160275",
+    "2120248817409036598",
+    "2120240249850708418",
+    "2120214120759021781",
+    "2120177187399909466"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -103903,9 +103984,9 @@
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 361,
-      "uniquePosts": 76,
-      "newCandidates": 69,
+      "posts": 376,
+      "uniquePosts": 78,
+      "newCandidates": 72,
       "validationAttempts": 39,
       "accepted": 13
     },
