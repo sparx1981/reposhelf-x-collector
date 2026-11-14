@@ -42,7 +42,8 @@
       },
       "recent": {
         "start": "2026-11-07T13:30:47.223Z",
-        "end": "2026-11-14T13:29:17.223Z"
+        "end": "2026-11-14T13:29:17.223Z",
+        "nextToken": "b26v89c19zqg8o3juzovre45b4q59f12uag0ja4xmwz25"
       }
     },
     "2c0438e5283099cf": {
@@ -83613,6 +83614,13 @@
           "url": "https://x.com/i/web/status/2090476415661830285",
           "postId": "2090476415661830285",
           "postedAt": "2026-08-20T16:29:51.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121584163518308469",
+          "postId": "2121584163518308469",
+          "postedAt": "2026-11-14T12:40:56.000Z"
         }
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
@@ -83622,9 +83630,11 @@
         "replies": 43,
         "quotes": 8
       },
-      "lastSeenAt": "2026-10-27T02:27:09.172Z",
+      "lastSeenAt": "2026-11-14T13:29:53.449Z",
       "reason": "no_hosted_demo",
-      "nextAttemptAt": "2026-11-03T02:28:43.581Z"
+      "nextAttemptAt": "2026-11-03T02:28:43.581Z",
+      "demoHints": [],
+      "demoLinks": []
     },
     "garylab/makemoneywithai": {
       "full": "garylab/MakeMoneyWithAI",
@@ -102028,6 +102038,490 @@
         "quotes": 0
       },
       "lastSeenAt": "2026-11-13T14:34:28.829Z"
+    },
+    "sandhiveio/how-could-i-be-hacked": {
+      "full": "sandhiveio/How-Could-I-Be-Hacked",
+      "firstSeenAt": "2026-11-14T13:29:53.449Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121593019233140955",
+          "postId": "2121593019233140955",
+          "postedAt": "2026-11-14T13:16:07.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+    },
+    "arizas/ariz-portfolio": {
+      "full": "arizas/Ariz-Portfolio",
+      "firstSeenAt": "2026-11-14T13:29:53.449Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121580985494229328",
+          "postId": "2121580985494229328",
+          "postedAt": "2026-11-14T12:28:18.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121554754891395448",
+          "postId": "2121554754891395448",
+          "postedAt": "2026-11-14T10:44:04.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://arizportfolio.near.page/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://arizportfolio.near.page/",
+          "postUrl": "https://x.com/i/web/status/2121554754891395448",
+          "repository": "arizas/Ariz-Portfolio"
+        }
+      ],
+      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+    },
+    "offrouter/mcp": {
+      "full": "offrouter/mcp",
+      "firstSeenAt": "2026-11-14T13:29:53.449Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121579690100236457",
+          "postId": "2121579690100236457",
+          "postedAt": "2026-11-14T12:23:09.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+    },
+    "stirling-tools/stirling-pdf": {
+      "full": "Stirling-Tools/Stirling-PDF",
+      "firstSeenAt": "2026-11-14T13:29:53.449Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121574300117541112",
+          "postId": "2121574300117541112",
+          "postedAt": "2026-11-14T12:01:44.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 4,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+    },
+    "muhammedeminakalan/imla": {
+      "full": "muhammedeminakalan/imla",
+      "firstSeenAt": "2026-11-14T13:29:53.449Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121573021601456608",
+          "postId": "2121573021601456608",
+          "postedAt": "2026-11-14T11:56:39.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+    },
+    "aceop-001/fiangshi": {
+      "full": "Aceop-001/fiangshi",
+      "firstSeenAt": "2026-11-14T13:29:53.449Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121569627625111557",
+          "postId": "2121569627625111557",
+          "postedAt": "2026-11-14T11:43:10.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://fiangshi.xyz/judges/",
+        "https://fiangshi.xyz/judges",
+        "https://www.npmjs.com/package/fiangshi",
+        "https://npmjs.com/package/fiangshi",
+        "https://api.cleave.fi/x402/gas"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://fiangshi.xyz/judges/",
+          "postUrl": "https://x.com/i/web/status/2121569627625111557",
+          "repository": "Aceop-001/fiangshi"
+        },
+        {
+          "url": "https://fiangshi.xyz/judges",
+          "postUrl": "https://x.com/i/web/status/2121569627625111557",
+          "repository": "Aceop-001/fiangshi"
+        },
+        {
+          "url": "https://www.npmjs.com/package/fiangshi",
+          "postUrl": "https://x.com/i/web/status/2121569627625111557",
+          "repository": "Aceop-001/fiangshi"
+        },
+        {
+          "url": "https://npmjs.com/package/fiangshi",
+          "postUrl": "https://x.com/i/web/status/2121569627625111557",
+          "repository": "Aceop-001/fiangshi"
+        },
+        {
+          "url": "https://api.cleave.fi/x402/gas",
+          "postUrl": "https://x.com/i/web/status/2121569627625111557",
+          "repository": "Aceop-001/fiangshi"
+        }
+      ],
+      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+    },
+    "imsvidskiy/glass-surface": {
+      "full": "imsvidskiy/glass-surface",
+      "firstSeenAt": "2026-11-14T13:29:53.449Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121567626388189631",
+          "postId": "2121567626388189631",
+          "postedAt": "2026-11-14T11:35:13.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://glass-surface.svidware.workers.dev/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://glass-surface.svidware.workers.dev/",
+          "postUrl": "https://x.com/i/web/status/2121567626388189631",
+          "repository": "imsvidskiy/glass-surface"
+        }
+      ],
+      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+    },
+    "adytus/adytus": {
+      "full": "adytus/adytus",
+      "firstSeenAt": "2026-11-14T13:29:53.449Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121566464549564494",
+          "postId": "2121566464549564494",
+          "postedAt": "2026-11-14T11:30:36.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://www.adytus.ai/",
+        "https://adytus.ai/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://www.adytus.ai/",
+          "postUrl": "https://x.com/i/web/status/2121566464549564494",
+          "repository": "adytus/adytus"
+        },
+        {
+          "url": "https://adytus.ai/",
+          "postUrl": "https://x.com/i/web/status/2121566464549564494",
+          "repository": "adytus/adytus"
+        }
+      ],
+      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+    },
+    "mutawakkil-yusuf/pagoblin": {
+      "full": "Mutawakkil-Yusuf/Pagoblin",
+      "firstSeenAt": "2026-11-14T13:29:53.449Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121562643576029197",
+          "postId": "2121562643576029197",
+          "postedAt": "2026-11-14T11:15:25.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 5,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://pagoblin.vercel.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://pagoblin.vercel.app/",
+          "postUrl": "https://x.com/i/web/status/2121562643576029197",
+          "repository": "Mutawakkil-Yusuf/Pagoblin"
+        }
+      ],
+      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+    },
+    "jayy4rl/qorvex": {
+      "full": "Jayy4rl/Qorvex",
+      "firstSeenAt": "2026-11-14T13:29:53.449Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121562147461419149",
+          "postId": "2121562147461419149",
+          "postedAt": "2026-11-14T11:13:27.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://qorvexbackend-production.up.railway.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://qorvexbackend-production.up.railway.app/",
+          "postUrl": "https://x.com/i/web/status/2121562147461419149",
+          "repository": "Jayy4rl/Qorvex"
+        }
+      ],
+      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+    },
+    "xebra-org/xebra": {
+      "full": "xebra-org/xebra",
+      "firstSeenAt": "2026-11-14T13:29:53.449Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121559842326515750",
+          "postId": "2121559842326515750",
+          "postedAt": "2026-11-14T11:04:17.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://xebra.exchange/near-intent"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://xebra.exchange/near-intent",
+          "postUrl": "https://x.com/i/web/status/2121559842326515750",
+          "repository": "xebra-org/xebra"
+        }
+      ],
+      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+    },
+    "selkielabs/selkie": {
+      "full": "SelkieLabs/Selkie",
+      "firstSeenAt": "2026-11-14T13:29:53.449Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121556417681166466",
+          "postId": "2121556417681166466",
+          "postedAt": "2026-11-14T10:50:41.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://selkiepay.com/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://selkiepay.com/",
+          "postUrl": "https://x.com/i/web/status/2121556417681166466",
+          "repository": "SelkieLabs/Selkie"
+        }
+      ],
+      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+    },
+    "adebisi1111/study-pact": {
+      "full": "Adebisi1111/study-pact",
+      "firstSeenAt": "2026-11-14T13:29:53.449Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121551149111067079",
+          "postId": "2121551149111067079",
+          "postedAt": "2026-11-14T10:29:45.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121549758883917986",
+          "postId": "2121549758883917986",
+          "postedAt": "2026-11-14T10:24:13.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://studypakt.vercel.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://studypakt.vercel.app/",
+          "postUrl": "https://x.com/i/web/status/2121549758883917986",
+          "repository": "Adebisi1111/study-pact"
+        }
+      ],
+      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+    },
+    "harshraj9142/franchise": {
+      "full": "Harshraj9142/Franchise",
+      "firstSeenAt": "2026-11-14T13:29:53.449Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121549017108869580",
+          "postId": "2121549017108869580",
+          "postedAt": "2026-11-14T10:21:16.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://harshraj9142.github.io/Franchise/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://harshraj9142.github.io/Franchise/",
+          "postUrl": "https://x.com/i/web/status/2121549017108869580",
+          "repository": "Harshraj9142/Franchise"
+        }
+      ],
+      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+    },
+    "diygod/pinky": {
+      "full": "DIYgod/pinky",
+      "firstSeenAt": "2026-11-14T13:29:53.449Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2121548717677490484",
+          "postId": "2121548717677490484",
+          "postedAt": "2026-11-14T10:20:05.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-14T13:29:53.449Z"
     }
   },
   "lastRun": {
@@ -103959,14 +104453,32 @@
     "2120248817409036598",
     "2120240249850708418",
     "2120214120759021781",
-    "2120177187399909466"
+    "2120177187399909466",
+    "2121593019233140955",
+    "2121584163518308469",
+    "2121580985494229328",
+    "2121579690100236457",
+    "2121574300117541112",
+    "2121573021601456608",
+    "2121569627625111557",
+    "2121567626388189631",
+    "2121566464549564494",
+    "2121562643576029197",
+    "2121562147461419149",
+    "2121559842326515750",
+    "2121556417681166466",
+    "2121554754891395448",
+    "2121551149111067079",
+    "2121549758883917986",
+    "2121549017108869580",
+    "2121548717677490484"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
-      "posts": 759,
-      "uniquePosts": 447,
-      "newCandidates": 304,
+      "posts": 777,
+      "uniquePosts": 465,
+      "newCandidates": 319,
       "validationAttempts": 223,
       "accepted": 75
     },
