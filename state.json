@@ -92,8 +92,7 @@
         "nextToken": "b26v89c19zqg8o3juzix1v5igazqfec73dhxnlt9uztz1"
       },
       "recent": {
-        "start": "2026-11-09T15:44:55.902Z",
-        "end": "2026-11-09T16:16:21.759Z"
+        "start": "2026-11-09T16:15:21.759Z"
       }
     }
   },
@@ -98622,7 +98621,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-15T13:55:17.752Z"
+      "lastSeenAt": "2026-11-16T15:44:03.822Z"
     },
     "gabriel-dg/curatune": {
       "full": "gabriel-dg/curatune",
@@ -98646,7 +98645,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-15T13:55:17.752Z"
+      "lastSeenAt": "2026-11-16T15:44:03.822Z"
     },
     "snugogo/ai-recorder-card-sdk": {
       "full": "snugogo/ai-recorder-card-sdk",
@@ -98670,7 +98669,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-15T13:55:17.752Z"
+      "lastSeenAt": "2026-11-16T15:44:03.822Z"
     },
     "venkatnarayantl/gnani": {
       "full": "venkatnarayantl/gnani",
@@ -98694,7 +98693,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-15T13:55:17.752Z"
+      "lastSeenAt": "2026-11-16T15:44:03.822Z"
     },
     "sulaiman-github/pharmacy_mgt_system": {
       "full": "Sulaiman-GitHub/Pharmacy_Mgt_System",
@@ -98718,7 +98717,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-15T13:55:17.752Z"
+      "lastSeenAt": "2026-11-16T15:44:03.822Z"
     },
     "aymanghmari/mini-agent": {
       "full": "aymanghmari/mini-agent",
@@ -98742,7 +98741,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-15T13:55:17.752Z"
+      "lastSeenAt": "2026-11-16T15:44:03.822Z"
     },
     "jayjoshix/payday-memory": {
       "full": "jayjoshix/payday-memory",
@@ -98766,7 +98765,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-15T13:55:17.752Z"
+      "lastSeenAt": "2026-11-16T15:44:03.822Z"
     },
     "mohsinkhawas/concurrency": {
       "full": "mohsinkhawas/Concurrency",
@@ -98790,7 +98789,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-15T13:55:17.752Z"
+      "lastSeenAt": "2026-11-16T15:44:03.822Z"
     },
     "dievus/scan-sabre": {
       "full": "dievus/scan-sabre",
@@ -105553,14 +105552,6 @@
     "2080317221209800923",
     "2080298768755462460",
     "2080189136917672064",
-    "2119825589859422575",
-    "2119823744248009174",
-    "2119822922609017277",
-    "2119822764534272027",
-    "2119822664974098941",
-    "2119822025845878815",
-    "2119821681477005546",
-    "2119821535267676313",
     "2119816426047635604",
     "2119815391245697364",
     "2119815367430443045",
@@ -105602,7 +105593,15 @@
     "2120248817409036598",
     "2120240249850708418",
     "2120214120759021781",
-    "2120177187399909466"
+    "2120177187399909466",
+    "2119825589859422575",
+    "2119823744248009174",
+    "2119822922609017277",
+    "2119822764534272027",
+    "2119822664974098941",
+    "2119822025845878815",
+    "2119821681477005546",
+    "2119821535267676313"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -105639,7 +105638,7 @@
     },
     "a0153cbebcc5cf46": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
-      "posts": 1066,
+      "posts": 1074,
       "uniquePosts": 514,
       "newCandidates": 461,
       "validationAttempts": 302,
