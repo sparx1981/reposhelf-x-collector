@@ -1,32 +1,32 @@
 {
   "schema": 1,
   "runId": "43899514238",
-  "checkedAt": "2026-11-16T15:44:32.770Z",
+  "checkedAt": "2026-11-16T15:44:38.592Z",
   "collection": {
-    "at": "2026-11-15T13:55:43.170Z",
-    "postsRead": 50,
-    "newCandidates": 12,
-    "candidateCount": 1485,
+    "at": "2026-11-16T15:44:38.550Z",
+    "postsRead": 36,
+    "newCandidates": 24,
+    "candidateCount": 1509,
     "stopped": null,
     "postLimit": 50,
     "queries": [
       {
         "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
         "endpoint": "recent",
-        "postsRead": 18,
+        "postsRead": 8,
         "newCandidates": 0
       },
       {
         "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
         "endpoint": "all",
-        "postsRead": 17,
-        "newCandidates": 12
+        "postsRead": 13,
+        "newCandidates": 10
       },
       {
-        "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-        "endpoint": "recent",
+        "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+        "endpoint": "all",
         "postsRead": 15,
-        "newCandidates": 0
+        "newCandidates": 14
       }
     ]
   },
