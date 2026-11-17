@@ -42,7 +42,8 @@
       },
       "recent": {
         "start": "2026-11-10T15:59:44.201Z",
-        "end": "2026-11-14T13:29:17.223Z"
+        "end": "2026-11-14T13:29:17.223Z",
+        "nextToken": "b26v89c19zqg8o3juzovre45b4q59f12uag0ja4xmwz25"
       }
     },
     "2c0438e5283099cf": {
@@ -83705,7 +83706,7 @@
         "replies": 43,
         "quotes": 8
       },
-      "lastSeenAt": "2026-11-14T13:29:53.449Z",
+      "lastSeenAt": "2026-11-17T15:58:51.688Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-11-03T02:28:43.581Z",
       "demoHints": [],
@@ -102179,7 +102180,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+      "lastSeenAt": "2026-11-17T15:58:51.688Z"
     },
     "arizas/ariz-portfolio": {
       "full": "arizas/Ariz-Portfolio",
@@ -102203,7 +102204,7 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 1,
+        "likes": 2,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
@@ -102218,7 +102219,7 @@
           "repository": "arizas/Ariz-Portfolio"
         }
       ],
-      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+      "lastSeenAt": "2026-11-17T15:58:51.688Z"
     },
     "offrouter/mcp": {
       "full": "offrouter/mcp",
@@ -102242,7 +102243,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+      "lastSeenAt": "2026-11-17T15:58:51.688Z"
     },
     "stirling-tools/stirling-pdf": {
       "full": "Stirling-Tools/Stirling-PDF",
@@ -102259,14 +102260,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 4,
+        "likes": 7,
         "reposts": 0,
         "replies": 1,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+      "lastSeenAt": "2026-11-17T15:58:51.688Z"
     },
     "muhammedeminakalan/imla": {
       "full": "muhammedeminakalan/imla",
@@ -102290,7 +102291,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+      "lastSeenAt": "2026-11-17T15:58:51.688Z"
     },
     "aceop-001/fiangshi": {
       "full": "Aceop-001/fiangshi",
@@ -102307,7 +102308,7 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 1,
+        "likes": 6,
         "reposts": 0,
         "replies": 1,
         "quotes": 0
@@ -102346,7 +102347,7 @@
           "repository": "Aceop-001/fiangshi"
         }
       ],
-      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+      "lastSeenAt": "2026-11-17T15:58:51.688Z"
     },
     "imsvidskiy/glass-surface": {
       "full": "imsvidskiy/glass-surface",
@@ -102363,7 +102364,7 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 1,
+        "likes": 2,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
@@ -102378,7 +102379,7 @@
           "repository": "imsvidskiy/glass-surface"
         }
       ],
-      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+      "lastSeenAt": "2026-11-17T15:58:51.688Z"
     },
     "adytus/adytus": {
       "full": "adytus/adytus",
@@ -102416,7 +102417,7 @@
           "repository": "adytus/adytus"
         }
       ],
-      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+      "lastSeenAt": "2026-11-17T15:58:51.688Z"
     },
     "mutawakkil-yusuf/pagoblin": {
       "full": "Mutawakkil-Yusuf/Pagoblin",
@@ -102448,7 +102449,7 @@
           "repository": "Mutawakkil-Yusuf/Pagoblin"
         }
       ],
-      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+      "lastSeenAt": "2026-11-17T15:58:51.688Z"
     },
     "jayy4rl/qorvex": {
       "full": "Jayy4rl/Qorvex",
@@ -102480,7 +102481,7 @@
           "repository": "Jayy4rl/Qorvex"
         }
       ],
-      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+      "lastSeenAt": "2026-11-17T15:58:51.688Z"
     },
     "xebra-org/xebra": {
       "full": "xebra-org/xebra",
@@ -102512,7 +102513,7 @@
           "repository": "xebra-org/xebra"
         }
       ],
-      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+      "lastSeenAt": "2026-11-17T15:58:51.688Z"
     },
     "selkielabs/selkie": {
       "full": "SelkieLabs/Selkie",
@@ -102529,7 +102530,7 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
       "engagement": {
-        "likes": 2,
+        "likes": 4,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
@@ -102544,7 +102545,7 @@
           "repository": "SelkieLabs/Selkie"
         }
       ],
-      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+      "lastSeenAt": "2026-11-17T15:58:51.688Z"
     },
     "adebisi1111/study-pact": {
       "full": "Adebisi1111/study-pact",
@@ -102583,7 +102584,7 @@
           "repository": "Adebisi1111/study-pact"
         }
       ],
-      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+      "lastSeenAt": "2026-11-17T15:58:51.688Z"
     },
     "harshraj9142/franchise": {
       "full": "Harshraj9142/Franchise",
@@ -102615,7 +102616,7 @@
           "repository": "Harshraj9142/Franchise"
         }
       ],
-      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+      "lastSeenAt": "2026-11-17T15:58:51.688Z"
     },
     "diygod/pinky": {
       "full": "DIYgod/pinky",
@@ -102639,7 +102640,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-14T13:29:53.449Z"
+      "lastSeenAt": "2026-11-17T15:58:51.688Z"
     },
     "fedimint/fedimint-sdk": {
       "full": "fedimint/fedimint-sdk",
@@ -106206,24 +106207,6 @@
     "2103509452376899708",
     "2103508479113839081",
     "2103507676705481062",
-    "2121593019233140955",
-    "2121584163518308469",
-    "2121580985494229328",
-    "2121579690100236457",
-    "2121574300117541112",
-    "2121573021601456608",
-    "2121569627625111557",
-    "2121567626388189631",
-    "2121566464549564494",
-    "2121562643576029197",
-    "2121562147461419149",
-    "2121559842326515750",
-    "2121556417681166466",
-    "2121554754891395448",
-    "2121551149111067079",
-    "2121549758883917986",
-    "2121549017108869580",
-    "2121548717677490484",
     "2104664192859197774",
     "2104660650127769650",
     "2104660366517276702",
@@ -106332,12 +106315,30 @@
     "2079192629095387156",
     "2079159512288928040",
     "2078966876198105183",
-    "2078597749075792095"
+    "2078597749075792095",
+    "2121593019233140955",
+    "2121584163518308469",
+    "2121580985494229328",
+    "2121579690100236457",
+    "2121574300117541112",
+    "2121573021601456608",
+    "2121569627625111557",
+    "2121567626388189631",
+    "2121566464549564494",
+    "2121562643576029197",
+    "2121562147461419149",
+    "2121559842326515750",
+    "2121556417681166466",
+    "2121554754891395448",
+    "2121551149111067079",
+    "2121549758883917986",
+    "2121549017108869580",
+    "2121548717677490484"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet",
-      "posts": 793,
+      "posts": 811,
       "uniquePosts": 481,
       "newCandidates": 333,
       "validationAttempts": 223,
