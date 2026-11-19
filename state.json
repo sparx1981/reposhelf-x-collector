@@ -87,7 +87,7 @@
         "start": "2026-07-11T17:41:57.699Z",
         "end": "2026-10-02T17:41:57.699Z",
         "done": false,
-        "nextToken": "b26v89c19zqg8o3juzix1t0hcht7z2rb3hu3k227bcw3h"
+        "nextToken": "b26v89c19zqg8o3juzix1qv5pc4km46x2qdbjpfg9gzul"
       },
       "recent": {
         "start": "2026-11-12T15:44:29.947Z",
@@ -27536,7 +27536,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-10T13:52:58.301Z",
+      "lastSeenAt": "2026-11-19T15:43:50.746Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-17T13:54:56.269Z"
     },
@@ -27576,7 +27576,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-15T22:11:48.566Z",
+      "lastSeenAt": "2026-11-19T15:43:50.746Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-17T13:54:55.354Z"
     },
@@ -28975,6 +28975,13 @@
           "url": "https://x.com/i/web/status/2104382976666853799",
           "postId": "2104382976666853799",
           "postedAt": "2026-09-28T01:29:33.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103299144450531789",
+          "postId": "2103299144450531789",
+          "postedAt": "2026-09-25T01:42:48.000Z"
         }
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
@@ -28986,7 +28993,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-10-28T12:53:12.930Z",
+      "lastSeenAt": "2026-11-19T15:43:50.746Z",
       "entry": {
         "availability": "available",
         "full": "laoxin99/cognitive-bridge-v0-public",
@@ -46726,18 +46733,33 @@
           "url": "https://x.com/i/web/status/2105639188322189606",
           "postId": "2105639188322189606",
           "postedAt": "2026-10-01T12:41:18.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103336878548337145",
+          "postId": "2103336878548337145",
+          "postedAt": "2026-09-25T04:12:44.000Z"
         }
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 2,
-        "reposts": 0,
-        "replies": 0,
+        "likes": 3,
+        "reposts": 1,
+        "replies": 3,
         "quotes": 0
       },
-      "demoHints": [],
-      "demoLinks": [],
-      "lastSeenAt": "2026-10-12T19:02:28.748Z",
+      "demoHints": [
+        "https://primefreetools.com/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://primefreetools.com/",
+          "postUrl": "https://x.com/i/web/status/2103336878548337145",
+          "repository": "latent-spaces/brag"
+        }
+      ],
+      "lastSeenAt": "2026-11-19T15:43:50.746Z",
       "entry": {
         "availability": "available",
         "full": "latent-spaces/brag",
@@ -100962,6 +100984,13 @@
           "url": "https://x.com/i/web/status/2103449834607030691",
           "postId": "2103449834607030691",
           "postedAt": "2026-09-25T11:41:35.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103243079922983260",
+          "postId": "2103243079922983260",
+          "postedAt": "2026-09-24T22:00:01.000Z"
         }
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
@@ -100973,7 +101002,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-16T15:44:19.368Z"
+      "lastSeenAt": "2026-11-19T15:43:50.746Z"
     },
     "uipath/coder_eval": {
       "full": "UiPath/coder_eval",
@@ -105741,6 +105770,320 @@
       "demoHints": [],
       "demoLinks": [],
       "lastSeenAt": "2026-11-18T15:38:38.071Z"
+    },
+    "sambhavraj18/tigergraph-fraud-agent": {
+      "full": "SambhavRaj18/tigergraph-fraud-agent",
+      "firstSeenAt": "2026-11-19T15:43:50.746Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103335570248470538",
+          "postId": "2103335570248470538",
+          "postedAt": "2026-09-25T04:07:32.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://dev.to/sambhavraj18/building-an-agentic-fraud-investigation-agent-with-tigergraph-mcp-and-graphrag-mkc"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://dev.to/sambhavraj18/building-an-agentic-fraud-investigation-agent-with-tigergraph-mcp-and-graphrag-mkc",
+          "postUrl": "https://x.com/i/web/status/2103335570248470538",
+          "repository": "SambhavRaj18/tigergraph-fraud-agent"
+        }
+      ],
+      "lastSeenAt": "2026-11-19T15:43:50.746Z"
+    },
+    "ii2d/mesh-globe": {
+      "full": "ii2d/mesh-globe",
+      "firstSeenAt": "2026-11-19T15:43:50.746Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103329189042827747",
+          "postId": "2103329189042827747",
+          "postedAt": "2026-09-25T03:42:11.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 3,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://mesh-globe.ii2d.com/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://mesh-globe.ii2d.com/",
+          "postUrl": "https://x.com/i/web/status/2103329189042827747",
+          "repository": "ii2d/mesh-globe"
+        }
+      ],
+      "lastSeenAt": "2026-11-19T15:43:50.746Z"
+    },
+    "aryangupta1411/tiger-graph": {
+      "full": "aryangupta1411/Tiger-graph",
+      "firstSeenAt": "2026-11-19T15:43:50.746Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103328470030053810",
+          "postId": "2103328470030053810",
+          "postedAt": "2026-09-25T03:39:19.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 1
+      },
+      "demoHints": [
+        "https://tigergraph-ui-production.up.railway.app/graph"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://tigergraph-ui-production.up.railway.app/graph",
+          "postUrl": "https://x.com/i/web/status/2103328470030053810",
+          "repository": "aryangupta1411/Tiger-graph"
+        }
+      ],
+      "lastSeenAt": "2026-11-19T15:43:50.746Z"
+    },
+    "aurafhe-official/mcp": {
+      "full": "aurafhe-official/mcp",
+      "firstSeenAt": "2026-11-19T15:43:50.746Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103323319730909450",
+          "postId": "2103323319730909450",
+          "postedAt": "2026-09-25T03:18:51.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-19T15:43:50.746Z"
+    },
+    "nico-martin/open-jev": {
+      "full": "nico-martin/open-jev",
+      "firstSeenAt": "2026-11-19T15:43:50.746Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103295468067561981",
+          "postId": "2103295468067561981",
+          "postedAt": "2026-09-25T01:28:11.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://huggingface.co/spaces/shreyask/open-jev-gliner2-demo"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://huggingface.co/spaces/shreyask/open-jev-gliner2-demo",
+          "postUrl": "https://x.com/i/web/status/2103295468067561981",
+          "repository": "nico-martin/open-jev"
+        }
+      ],
+      "lastSeenAt": "2026-11-19T15:43:50.746Z"
+    },
+    "kanwal-vyas/agentic-fraud-investigation": {
+      "full": "kanwal-vyas/agentic-fraud-investigation",
+      "firstSeenAt": "2026-11-19T15:43:50.746Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103277327144944098",
+          "postId": "2103277327144944098",
+          "postedAt": "2026-09-25T00:16:06.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 3,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-19T15:43:50.746Z"
+    },
+    "jackthecoder17/ai-lead-capture-n8n": {
+      "full": "jackthecoder17/ai-lead-capture-n8n",
+      "firstSeenAt": "2026-11-19T15:43:50.746Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103270088124342379",
+          "postId": "2103270088124342379",
+          "postedAt": "2026-09-24T23:47:20.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 1,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://www.loom.com/share/2916809980dd4467919e7643a06b45ac"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://www.loom.com/share/2916809980dd4467919e7643a06b45ac",
+          "postUrl": "https://x.com/i/web/status/2103270088124342379",
+          "repository": "jackthecoder17/ai-lead-capture-n8n"
+        }
+      ],
+      "lastSeenAt": "2026-11-19T15:43:50.746Z"
+    },
+    "ericwanderlust/jev-codex-router": {
+      "full": "ericwanderlust/jev-codex-router",
+      "firstSeenAt": "2026-11-19T15:43:50.746Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103260131152757194",
+          "postId": "2103260131152757194",
+          "postedAt": "2026-09-24T23:07:46.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-19T15:43:50.746Z"
+    },
+    "ethany33/wirefan": {
+      "full": "EthanY33/wirefan",
+      "firstSeenAt": "2026-11-19T15:43:50.746Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103257429974925587",
+          "postId": "2103257429974925587",
+          "postedAt": "2026-09-24T22:57:02.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "lastSeenAt": "2026-11-19T15:43:50.746Z"
+    },
+    "ethany33/atelier": {
+      "full": "EthanY33/atelier",
+      "firstSeenAt": "2026-11-19T15:43:50.746Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103257429974925587",
+          "postId": "2103257429974925587",
+          "postedAt": "2026-09-24T22:57:02.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 1,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "lastSeenAt": "2026-11-19T15:43:50.746Z"
+    },
+    "addstack/managed-modals": {
+      "full": "addstack/managed-modals",
+      "firstSeenAt": "2026-11-19T15:43:50.746Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2103237647498104916",
+          "postId": "2103237647498104916",
+          "postedAt": "2026-09-24T21:38:26.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
+      "engagement": {
+        "likes": 2,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://addstack.github.io/managed-modals/",
+        "https://addstack.github.io/managed-modals"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://addstack.github.io/managed-modals/",
+          "postUrl": "https://x.com/i/web/status/2103237647498104916",
+          "repository": "addstack/managed-modals"
+        },
+        {
+          "url": "https://addstack.github.io/managed-modals",
+          "postUrl": "https://x.com/i/web/status/2103237647498104916",
+          "repository": "addstack/managed-modals"
+        }
+      ],
+      "lastSeenAt": "2026-11-19T15:43:50.746Z"
     }
   },
   "lastRun": {
@@ -106389,8 +106732,6 @@
     "2105722920639082784",
     "2105721982650105983",
     "2105721010154836013",
-    "2103303378818478478",
-    "2103236508983717923",
     "2103229336774136077",
     "2103228854953521269",
     "2103215755412263283",
@@ -107857,7 +108198,23 @@
     "2123037194537283623",
     "2123029139078963591",
     "2123028199843995750",
-    "2123027582560215416"
+    "2123027582560215416",
+    "2103352745675956377",
+    "2103336878548337145",
+    "2103335570248470538",
+    "2103329189042827747",
+    "2103328470030053810",
+    "2103323319730909450",
+    "2103303378818478478",
+    "2103299144450531789",
+    "2103295468067561981",
+    "2103277327144944098",
+    "2103270088124342379",
+    "2103260131152757194",
+    "2103257429974925587",
+    "2103243079922983260",
+    "2103237647498104916",
+    "2103236508983717923"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -107894,9 +108251,9 @@
     },
     "a0153cbebcc5cf46": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
-      "posts": 1135,
-      "uniquePosts": 557,
-      "newCandidates": 496,
+      "posts": 1151,
+      "uniquePosts": 571,
+      "newCandidates": 507,
       "validationAttempts": 302,
       "accepted": 149
     }
