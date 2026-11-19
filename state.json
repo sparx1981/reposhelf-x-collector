@@ -79,7 +79,8 @@
       },
       "recent": {
         "start": "2026-11-12T15:44:57.116Z",
-        "end": "2026-11-19T15:43:27.117Z"
+        "end": "2026-11-19T15:43:27.117Z",
+        "nextToken": "b26v89c19zqg8o3juzowleop3y7be8fzby627mk34e1z1"
       }
     },
     "a0153cbebcc5cf46": {
@@ -106085,6 +106086,411 @@
         }
       ],
       "lastSeenAt": "2026-11-19T15:43:50.746Z"
+    },
+    "nels0nx/dacityswap": {
+      "full": "Nels0nx/dacityswap",
+      "firstSeenAt": "2026-11-19T15:44:04.303Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2123408010152497254",
+          "postId": "2123408010152497254",
+          "postedAt": "2026-11-19T13:28:15.000Z"
+        },
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2123056399601324462",
+          "postId": "2123056399601324462",
+          "postedAt": "2026-11-18T14:11:04.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 11,
+        "reposts": 6,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://dacityswap.com/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://dacityswap.com/",
+          "postUrl": "https://x.com/i/web/status/2123408010152497254",
+          "repository": "Nels0nx/dacityswap"
+        }
+      ],
+      "lastSeenAt": "2026-11-19T15:44:04.303Z"
+    },
+    "elementsproject/lightning": {
+      "full": "ElementsProject/lightning",
+      "firstSeenAt": "2026-11-19T15:44:04.303Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2123328444272714160",
+          "postId": "2123328444272714160",
+          "postedAt": "2026-11-19T08:12:05.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 25,
+        "reposts": 4,
+        "replies": 3,
+        "quotes": 1
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-19T15:44:04.303Z"
+    },
+    "eronred/designspec": {
+      "full": "Eronred/designspec",
+      "firstSeenAt": "2026-11-19T15:44:04.303Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2123316038439711160",
+          "postId": "2123316038439711160",
+          "postedAt": "2026-11-19T07:22:47.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 10,
+        "reposts": 0,
+        "replies": 7,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-19T15:44:04.303Z"
+    },
+    "thejerrycheng/microduck_replication_feetech": {
+      "full": "thejerrycheng/microduck_replication_feetech",
+      "firstSeenAt": "2026-11-19T15:44:04.303Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2123315012873654436",
+          "postId": "2123315012873654436",
+          "postedAt": "2026-11-19T07:18:43.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 33,
+        "reposts": 5,
+        "replies": 0,
+        "quotes": 1
+      },
+      "demoHints": [
+        "https://thejerrycheng.github.io/microduck.html"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://thejerrycheng.github.io/microduck.html",
+          "postUrl": "https://x.com/i/web/status/2123315012873654436",
+          "repository": "thejerrycheng/microduck_replication_feetech"
+        }
+      ],
+      "lastSeenAt": "2026-11-19T15:44:04.303Z"
+    },
+    "vercel-labs/screen-relay": {
+      "full": "vercel-labs/screen-relay",
+      "firstSeenAt": "2026-11-19T15:44:04.303Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2123260459537371242",
+          "postId": "2123260459537371242",
+          "postedAt": "2026-11-19T03:41:56.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 35,
+        "reposts": 0,
+        "replies": 3,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-19T15:44:04.303Z"
+    },
+    "chteau/rbx-native": {
+      "full": "chteau/rbx-native",
+      "firstSeenAt": "2026-11-19T15:44:04.303Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2123166154000642363",
+          "postId": "2123166154000642363",
+          "postedAt": "2026-11-18T21:27:12.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 12,
+        "reposts": 3,
+        "replies": 4,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://rbxnative.chteau.bzh/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://rbxnative.chteau.bzh/",
+          "postUrl": "https://x.com/i/web/status/2123166154000642363",
+          "repository": "chteau/rbx-native"
+        }
+      ],
+      "lastSeenAt": "2026-11-19T15:44:04.303Z"
+    },
+    "compilingthings/omarchy-themes": {
+      "full": "CompilingThings/omarchy-themes",
+      "firstSeenAt": "2026-11-19T15:44:04.303Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2123152573859291160",
+          "postId": "2123152573859291160",
+          "postedAt": "2026-11-18T20:33:14.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 37,
+        "reposts": 4,
+        "replies": 4,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-19T15:44:04.303Z"
+    },
+    "datadog/pup-finetune": {
+      "full": "DataDog/pup-finetune",
+      "firstSeenAt": "2026-11-19T15:44:04.303Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2123150202932429079",
+          "postId": "2123150202932429079",
+          "postedAt": "2026-11-18T20:23:49.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 59,
+        "reposts": 1,
+        "replies": 4,
+        "quotes": 4
+      },
+      "demoHints": [
+        "https://www.datadoghq.com/blog/fine-tuning-patterns-baseten/?utm_source=x&utm_medium=organic-social&utm_campaign=dg-devgrowth-patterns-baseten-20261118&utm_content=devs-x"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://www.datadoghq.com/blog/fine-tuning-patterns-baseten/?utm_source=x&utm_medium=organic-social&utm_campaign=dg-devgrowth-patterns-baseten-20261118&utm_content=devs-x",
+          "postUrl": "https://x.com/i/web/status/2123150202932429079",
+          "repository": "DataDog/pup-finetune"
+        }
+      ],
+      "lastSeenAt": "2026-11-19T15:44:04.303Z"
+    },
+    "zafar205/tiny-urdu": {
+      "full": "Zafar205/tiny-urdu",
+      "firstSeenAt": "2026-11-19T15:44:04.303Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2123143375809646852",
+          "postId": "2123143375809646852",
+          "postedAt": "2026-11-18T19:56:41.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 194,
+        "reposts": 20,
+        "replies": 16,
+        "quotes": 1
+      },
+      "demoHints": [
+        "https://web-hazel-seven-89.vercel.app/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://web-hazel-seven-89.vercel.app/",
+          "postUrl": "https://x.com/i/web/status/2123143375809646852",
+          "repository": "Zafar205/tiny-urdu"
+        }
+      ],
+      "lastSeenAt": "2026-11-19T15:44:04.303Z"
+    },
+    "nvlabs/motionbricks": {
+      "full": "NVlabs/motionbricks",
+      "firstSeenAt": "2026-11-19T15:44:04.303Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2123138842375107057",
+          "postId": "2123138842375107057",
+          "postedAt": "2026-11-18T19:38:40.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 2712,
+        "reposts": 198,
+        "replies": 65,
+        "quotes": 30
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-19T15:44:04.303Z"
+    },
+    "ai-timon/timon": {
+      "full": "ai-timon/timon",
+      "firstSeenAt": "2026-11-19T15:44:04.303Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2123134572561113407",
+          "postId": "2123134572561113407",
+          "postedAt": "2026-11-18T19:21:42.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 14,
+        "reposts": 2,
+        "replies": 4,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://timon-ai.com/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://timon-ai.com/",
+          "postUrl": "https://x.com/i/web/status/2123134572561113407",
+          "repository": "ai-timon/timon"
+        }
+      ],
+      "lastSeenAt": "2026-11-19T15:44:04.303Z"
+    },
+    "comp-work/gke-sandboxes": {
+      "full": "comp-work/gke-sandboxes",
+      "firstSeenAt": "2026-11-19T15:44:04.303Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2123112091229868337",
+          "postId": "2123112091229868337",
+          "postedAt": "2026-11-18T17:52:22.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 31,
+        "reposts": 0,
+        "replies": 2,
+        "quotes": 0
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-19T15:44:04.303Z"
+    },
+    "nvidia-ai-blueprints/llm-router": {
+      "full": "NVIDIA-AI-Blueprints/llm-router",
+      "firstSeenAt": "2026-11-19T15:44:04.303Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2123069129712099451",
+          "postId": "2123069129712099451",
+          "postedAt": "2026-11-18T15:01:39.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 13,
+        "reposts": 0,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://build.nvidia.com/nvidia/llm-router",
+        "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://build.nvidia.com/nvidia/llm-router",
+          "postUrl": "https://x.com/i/web/status/2123069129712099451",
+          "repository": "NVIDIA-AI-Blueprints/llm-router"
+        },
+        {
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "postUrl": "https://x.com/i/web/status/2123069129712099451",
+          "repository": "NVIDIA-AI-Blueprints/llm-router"
+        }
+      ],
+      "lastSeenAt": "2026-11-19T15:44:04.303Z"
+    },
+    "consumer-reports-innovation-lab/payment-choice-framework": {
+      "full": "consumer-reports-innovation-lab/payment-choice-framework",
+      "firstSeenAt": "2026-11-19T15:44:04.303Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2123057426408587334",
+          "postId": "2123057426408587334",
+          "postedAt": "2026-11-18T14:15:09.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 15,
+        "reposts": 2,
+        "replies": 0,
+        "quotes": 1
+      },
+      "demoHints": [],
+      "demoLinks": [],
+      "lastSeenAt": "2026-11-19T15:44:04.303Z"
     }
   },
   "lastRun": {
@@ -108220,7 +108626,22 @@
     "2103257429974925587",
     "2103243079922983260",
     "2103237647498104916",
-    "2103236508983717923"
+    "2103236508983717923",
+    "2123408010152497254",
+    "2123328444272714160",
+    "2123316038439711160",
+    "2123315012873654436",
+    "2123260459537371242",
+    "2123166154000642363",
+    "2123152573859291160",
+    "2123150202932429079",
+    "2123143375809646852",
+    "2123138842375107057",
+    "2123134572561113407",
+    "2123112091229868337",
+    "2123069129712099451",
+    "2123057426408587334",
+    "2123056399601324462"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -108249,9 +108670,9 @@
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 405,
-      "uniquePosts": 78,
-      "newCandidates": 72,
+      "posts": 420,
+      "uniquePosts": 93,
+      "newCandidates": 86,
       "validationAttempts": 39,
       "accepted": 13
     },
