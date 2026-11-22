@@ -52,7 +52,7 @@
         "start": "2026-07-11T09:20:39.114Z",
         "end": "2026-10-02T09:20:39.114Z",
         "done": false,
-        "nextToken": "b26v89c19zqg8o3juetielbwo01tjcgzfzuqkhvooeuf1"
+        "nextToken": "b26v89c19zqg8o3juethzwpza35q0ne9i747k5vkzxz0d"
       },
       "recent": {
         "start": "2026-10-02T09:21:39.114Z"
@@ -107679,6 +107679,82 @@
         }
       ],
       "lastSeenAt": "2026-11-22T14:33:35.706Z"
+    },
+    "leaningtech/webvm": {
+      "full": "leaningtech/webvm",
+      "firstSeenAt": "2026-11-22T14:33:51.302Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2076079957772534101",
+          "postId": "2076079957772534101",
+          "postedAt": "2026-07-11T23:03:28.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 118,
+        "reposts": 20,
+        "replies": 2,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://webvm.io/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://webvm.io/",
+          "postUrl": "https://x.com/i/web/status/2076079957772534101",
+          "repository": "leaningtech/webvm"
+        }
+      ],
+      "lastSeenAt": "2026-11-22T14:33:51.302Z"
+    },
+    "haukun/p5js-baton-fireworks": {
+      "full": "haukun/p5js-baton-fireworks",
+      "firstSeenAt": "2026-11-22T14:33:51.302Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2075922468825620783",
+          "postId": "2075922468825620783",
+          "postedAt": "2026-07-11T12:37:39.000Z"
+        }
+      ],
+      "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 23,
+        "reposts": 6,
+        "replies": 0,
+        "quotes": 0
+      },
+      "demoHints": [
+        "https://openprocessing.org/@Kazoops/2978773",
+        "https://haukun.github.io/p5js-baton-fireworks/viewer-fireworks/",
+        "https://haukun.github.io/p5js-baton-fireworks/playground/"
+      ],
+      "demoLinks": [
+        {
+          "url": "https://openprocessing.org/@Kazoops/2978773",
+          "postUrl": "https://x.com/i/web/status/2075922468825620783",
+          "repository": "haukun/p5js-baton-fireworks"
+        },
+        {
+          "url": "https://haukun.github.io/p5js-baton-fireworks/viewer-fireworks/",
+          "postUrl": "https://x.com/i/web/status/2075922468825620783",
+          "repository": "haukun/p5js-baton-fireworks"
+        },
+        {
+          "url": "https://haukun.github.io/p5js-baton-fireworks/playground/",
+          "postUrl": "https://x.com/i/web/status/2075922468825620783",
+          "repository": "haukun/p5js-baton-fireworks"
+        }
+      ],
+      "lastSeenAt": "2026-11-22T14:33:51.302Z"
     }
   },
   "lastRun": {
@@ -109912,7 +109988,9 @@
     "2103198065696051627",
     "2103198018384056505",
     "2103197894937551350",
-    "2103197770131906958"
+    "2103197770131906958",
+    "2076079957772534101",
+    "2075922468825620783"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -109925,9 +110003,9 @@
     },
     "2c0438e5283099cf": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 474,
-      "uniquePosts": 471,
-      "newCandidates": 531,
+      "posts": 476,
+      "uniquePosts": 473,
+      "newCandidates": 533,
       "validationAttempts": 398,
       "accepted": 158
     },
