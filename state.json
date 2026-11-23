@@ -79,7 +79,8 @@
       },
       "recent": {
         "start": "2026-11-16T18:07:04.479Z",
-        "end": "2026-11-19T15:43:27.117Z"
+        "end": "2026-11-19T15:43:27.117Z",
+        "nextToken": "b26v89c19zqg8o3juzowlep00x0h36nrijpy9lt0jiid9"
       }
     },
     "a0153cbebcc5cf46": {
@@ -105279,7 +105280,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-22T14:33:25.317Z"
+      "lastSeenAt": "2026-11-23T18:06:10.954Z"
     },
     "kenmentor/oled_studio": {
       "full": "kenmentor/oled_Studio",
@@ -106249,7 +106250,7 @@
           "repository": "Nels0nx/dacityswap"
         }
       ],
-      "lastSeenAt": "2026-11-21T14:38:49.550Z"
+      "lastSeenAt": "2026-11-23T18:06:10.954Z"
     },
     "elementsproject/lightning": {
       "full": "ElementsProject/lightning",
@@ -106273,7 +106274,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-21T14:38:49.550Z"
+      "lastSeenAt": "2026-11-23T18:06:10.954Z"
     },
     "eronred/designspec": {
       "full": "Eronred/designspec",
@@ -106290,14 +106291,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 13,
+        "likes": 14,
         "reposts": 0,
         "replies": 12,
         "quotes": 1
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-21T14:38:49.550Z"
+      "lastSeenAt": "2026-11-23T18:06:10.954Z"
     },
     "thejerrycheng/microduck_replication_feetech": {
       "full": "thejerrycheng/microduck_replication_feetech",
@@ -106314,9 +106315,9 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 248,
+        "likes": 251,
         "reposts": 28,
-        "replies": 13,
+        "replies": 15,
         "quotes": 7
       },
       "demoHints": [
@@ -106329,7 +106330,7 @@
           "repository": "thejerrycheng/microduck_replication_feetech"
         }
       ],
-      "lastSeenAt": "2026-11-21T14:38:49.550Z"
+      "lastSeenAt": "2026-11-23T18:06:10.954Z"
     },
     "vercel-labs/screen-relay": {
       "full": "vercel-labs/screen-relay",
@@ -106353,7 +106354,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-21T14:38:49.550Z"
+      "lastSeenAt": "2026-11-23T18:06:10.954Z"
     },
     "chteau/rbx-native": {
       "full": "chteau/rbx-native",
@@ -106385,7 +106386,7 @@
           "repository": "chteau/rbx-native"
         }
       ],
-      "lastSeenAt": "2026-11-21T14:38:49.550Z"
+      "lastSeenAt": "2026-11-23T18:06:10.954Z"
     },
     "compilingthings/omarchy-themes": {
       "full": "CompilingThings/omarchy-themes",
@@ -106409,7 +106410,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-21T14:38:49.550Z"
+      "lastSeenAt": "2026-11-23T18:06:10.954Z"
     },
     "datadog/pup-finetune": {
       "full": "DataDog/pup-finetune",
@@ -106441,7 +106442,7 @@
           "repository": "DataDog/pup-finetune"
         }
       ],
-      "lastSeenAt": "2026-11-21T14:38:49.550Z"
+      "lastSeenAt": "2026-11-23T18:06:10.954Z"
     },
     "zafar205/tiny-urdu": {
       "full": "Zafar205/tiny-urdu",
@@ -106473,7 +106474,7 @@
           "repository": "Zafar205/tiny-urdu"
         }
       ],
-      "lastSeenAt": "2026-11-21T14:38:49.550Z"
+      "lastSeenAt": "2026-11-23T18:06:10.954Z"
     },
     "nvlabs/motionbricks": {
       "full": "NVlabs/motionbricks",
@@ -106490,14 +106491,14 @@
       ],
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
       "engagement": {
-        "likes": 4021,
-        "reposts": 330,
+        "likes": 4030,
+        "reposts": 331,
         "replies": 91,
-        "quotes": 53
+        "quotes": 56
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-21T14:38:49.550Z"
+      "lastSeenAt": "2026-11-23T18:06:10.954Z"
     },
     "ai-timon/timon": {
       "full": "ai-timon/timon",
@@ -106529,7 +106530,7 @@
           "repository": "ai-timon/timon"
         }
       ],
-      "lastSeenAt": "2026-11-21T14:38:49.550Z"
+      "lastSeenAt": "2026-11-23T18:06:10.954Z"
     },
     "comp-work/gke-sandboxes": {
       "full": "comp-work/gke-sandboxes",
@@ -106553,7 +106554,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-21T14:38:49.550Z"
+      "lastSeenAt": "2026-11-23T18:06:10.954Z"
     },
     "nvidia-ai-blueprints/llm-router": {
       "full": "NVIDIA-AI-Blueprints/llm-router",
@@ -106591,7 +106592,7 @@
           "repository": "NVIDIA-AI-Blueprints/llm-router"
         }
       ],
-      "lastSeenAt": "2026-11-21T14:38:49.550Z"
+      "lastSeenAt": "2026-11-23T18:06:10.954Z"
     },
     "consumer-reports-innovation-lab/payment-choice-framework": {
       "full": "consumer-reports-innovation-lab/payment-choice-framework",
@@ -108434,6 +108435,50 @@
       "demoHints": [],
       "demoLinks": [],
       "lastSeenAt": "2026-11-23T18:05:58.659Z"
+    },
+    "lofisu/offerhunter": {
+      "full": "LofiSu/OfferHunter",
+      "firstSeenAt": "2026-11-23T18:06:10.954Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2123369712830783814",
+          "postId": "2123369712830783814",
+          "postedAt": "2026-11-19T10:56:04.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 148,
+        "reposts": 6,
+        "replies": 25,
+        "quotes": 9
+      },
+      "lastSeenAt": "2026-11-23T18:06:10.954Z"
+    },
+    "lofisu/recruiting-skills": {
+      "full": "LofiSu/recruiting-skills",
+      "firstSeenAt": "2026-11-23T18:06:10.954Z",
+      "status": "queued",
+      "sources": [
+        {
+          "kind": "x",
+          "name": "As Seen On X.com",
+          "url": "https://x.com/i/web/status/2123369712830783814",
+          "postId": "2123369712830783814",
+          "postedAt": "2026-11-19T10:56:04.000Z"
+        }
+      ],
+      "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
+      "engagement": {
+        "likes": 148,
+        "reposts": 6,
+        "replies": 25,
+        "quotes": 9
+      },
+      "lastSeenAt": "2026-11-23T18:06:10.954Z"
     }
   },
   "lastRun": {
@@ -110628,21 +110673,7 @@
     "2103203744108171377",
     "2103203699070046591",
     "2103203667751191028",
-    "2123408010152497254",
     "2123374565456064992",
-    "2123373492636946791",
-    "2123328444272714160",
-    "2123316038439711160",
-    "2123315012873654436",
-    "2123260459537371242",
-    "2123166154000642363",
-    "2123152573859291160",
-    "2123150202932429079",
-    "2123143375809646852",
-    "2123138842375107057",
-    "2123134572561113407",
-    "2123112091229868337",
-    "2123069129712099451",
     "2123077630073475392",
     "2123076781066617076",
     "2123072890950087134",
@@ -110708,7 +110739,22 @@
     "2104398797631558122",
     "2104387854411649264",
     "2104371590012244429",
-    "2104368299736027368"
+    "2104368299736027368",
+    "2123408010152497254",
+    "2123373492636946791",
+    "2123369712830783814",
+    "2123328444272714160",
+    "2123316038439711160",
+    "2123315012873654436",
+    "2123260459537371242",
+    "2123166154000642363",
+    "2123152573859291160",
+    "2123150202932429079",
+    "2123143375809646852",
+    "2123138842375107057",
+    "2123134572561113407",
+    "2123112091229868337",
+    "2123069129712099451"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -110737,9 +110783,9 @@
     },
     "0cdbecff36d6436d": {
       "query": "url:github.com (\"try it\" OR \"live preview\" OR \"try now\" OR \"deployed\" OR \"web app\") -is:retweet (min_likes:10 OR min_reposts:3)",
-      "posts": 435,
-      "uniquePosts": 95,
-      "newCandidates": 87,
+      "posts": 450,
+      "uniquePosts": 96,
+      "newCandidates": 89,
       "validationAttempts": 39,
       "accepted": 13
     },
