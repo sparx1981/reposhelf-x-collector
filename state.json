@@ -90,7 +90,8 @@
       },
       "recent": {
         "start": "2026-11-20T16:39:42.045Z",
-        "end": "2026-11-25T17:11:27.470Z"
+        "end": "2026-11-25T17:11:27.470Z",
+        "nextToken": "b26v89c19zqg8o3juzoxg2nqgsmtj6fdj78kx4wumpit9"
       }
     }
   },
@@ -37395,7 +37396,7 @@
           "repository": "PrismML-Eng/Bonsai-demo"
         }
       ],
-      "lastSeenAt": "2026-11-25T17:12:04.973Z",
+      "lastSeenAt": "2026-11-27T16:38:50.195Z",
       "demoEvidence": {
         "kind": "x_link",
         "repository": "PrismML-Eng/Bonsai-demo",
@@ -75647,10 +75648,10 @@
       "engagement": {
         "likes": 78,
         "reposts": 12,
-        "replies": 13,
-        "quotes": 0
+        "replies": 25,
+        "quotes": 1
       },
-      "lastSeenAt": "2026-11-25T17:12:04.973Z",
+      "lastSeenAt": "2026-11-27T16:38:50.195Z",
       "reason": "no_hosted_demo",
       "nextAttemptAt": "2026-10-31T11:00:46.457Z"
     },
@@ -108849,7 +108850,7 @@
           "repository": "julianosig/easi.run"
         }
       ],
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "tasmeerjamali/tasmeer-multi": {
       "full": "TasmeerJamali/tasmeer-multi",
@@ -108894,7 +108895,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "chukwuebukahenrey/optimus": {
       "full": "ChukwuebukaHenrey/optimus",
@@ -108926,7 +108927,7 @@
           "repository": "ChukwuebukaHenrey/optimus"
         }
       ],
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "microsoft/ai-red-teaming-playground-labs": {
       "full": "microsoft/AI-Red-Teaming-Playground-Labs",
@@ -108950,7 +108951,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "mercuryworkshop/wisp-protocol": {
       "full": "MercuryWorkshop/wisp-protocol",
@@ -108974,7 +108975,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "aethelgard-systems/lookfirst": {
       "full": "Aethelgard-Systems/lookfirst",
@@ -108998,7 +108999,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "anthropics/claude-code-playground": {
       "full": "anthropics/claude-code-playground",
@@ -109015,12 +109016,12 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 11,
-        "reposts": 1,
-        "replies": 8,
-        "quotes": 0
+        "likes": 78,
+        "reposts": 8,
+        "replies": 25,
+        "quotes": 1
       },
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "anthropics/skills": {
       "full": "anthropics/skills",
@@ -109037,12 +109038,12 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 11,
-        "reposts": 1,
-        "replies": 8,
-        "quotes": 0
+        "likes": 78,
+        "reposts": 8,
+        "replies": 25,
+        "quotes": 1
       },
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "anthropics/claude-plugins-official": {
       "full": "anthropics/claude-plugins-official",
@@ -109059,12 +109060,12 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 11,
-        "reposts": 1,
-        "replies": 8,
-        "quotes": 0
+        "likes": 78,
+        "reposts": 8,
+        "replies": 25,
+        "quotes": 1
       },
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "anthropics/knowledge-work-plugins": {
       "full": "anthropics/knowledge-work-plugins",
@@ -109081,12 +109082,12 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 11,
-        "reposts": 1,
-        "replies": 8,
-        "quotes": 0
+        "likes": 78,
+        "reposts": 8,
+        "replies": 25,
+        "quotes": 1
       },
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "xai-org/plugin-marketplace": {
       "full": "xai-org/plugin-marketplace",
@@ -109103,12 +109104,12 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 11,
-        "reposts": 1,
-        "replies": 8,
-        "quotes": 0
+        "likes": 78,
+        "reposts": 8,
+        "replies": 25,
+        "quotes": 1
       },
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "parthdagia05/spectra": {
       "full": "parthdagia05/spectra",
@@ -109132,7 +109133,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "celestiaorg/lithe": {
       "full": "celestiaorg/lithe",
@@ -109149,7 +109150,7 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 9,
+        "likes": 18,
         "reposts": 0,
         "replies": 0,
         "quotes": 0
@@ -109164,7 +109165,7 @@
           "repository": "celestiaorg/lithe"
         }
       ],
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "astral-sh/uv": {
       "full": "astral-sh/uv",
@@ -109188,7 +109189,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "flipcyde101/killdiff": {
       "full": "flipcyde101/killdiff",
@@ -109212,7 +109213,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "rami-maalouf/open-multicam": {
       "full": "rami-maalouf/open-multicam",
@@ -109244,7 +109245,7 @@
           "repository": "rami-maalouf/open-multicam"
         }
       ],
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "track-tech/supermimic-roboparty-rp1-": {
       "full": "track-tech/SuperMimic-RoboParty-RP1-",
@@ -109261,14 +109262,14 @@
       ],
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
       "engagement": {
-        "likes": 0,
+        "likes": 1,
         "reposts": 0,
-        "replies": 0,
+        "replies": 1,
         "quotes": 0
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "jing-ying-dev/whale-ying-benchmark-lab": {
       "full": "jing-ying-dev/whale-ying-benchmark-lab",
@@ -109292,7 +109293,7 @@
       },
       "demoHints": [],
       "demoLinks": [],
-      "lastSeenAt": "2026-11-25T17:12:04.973Z"
+      "lastSeenAt": "2026-11-27T16:38:50.195Z"
     },
     "perkos-xyz/nayori-sdk-demo": {
       "full": "PerkOS-xyz/Nayori-SDK-Demo",
@@ -112023,24 +112024,6 @@
     "2103182083296256245",
     "2103182049787982198",
     "2103182015764050222",
-    "2125638326564921737",
-    "2125638024063267083",
-    "2125637672299606432",
-    "2125637312973611156",
-    "2125636853785116822",
-    "2125634201542340930",
-    "2125632598143590411",
-    "2125628296000061847",
-    "2125627462604243353",
-    "2125626740332499168",
-    "2125622612642709943",
-    "2125622222941454507",
-    "2125621322458001899",
-    "2125620539029147886",
-    "2125615809301209415",
-    "2125613819980570762",
-    "2125613199974424814",
-    "2125611973140431320",
     "2103181979764351067",
     "2103181898700771735",
     "2103181865482109332",
@@ -112098,7 +112081,25 @@
     "2104312801145884847",
     "2104306244593009098",
     "2104304069284110821",
-    "2104304062091173899"
+    "2104304062091173899",
+    "2125638326564921737",
+    "2125638024063267083",
+    "2125637672299606432",
+    "2125637312973611156",
+    "2125636853785116822",
+    "2125634201542340930",
+    "2125632598143590411",
+    "2125628296000061847",
+    "2125627462604243353",
+    "2125626740332499168",
+    "2125622612642709943",
+    "2125622222941454507",
+    "2125621322458001899",
+    "2125620539029147886",
+    "2125615809301209415",
+    "2125613819980570762",
+    "2125613199974424814",
+    "2125611973140431320"
   ],
   "queryStats": {
     "f8d2a335d3f40831": {
@@ -112135,7 +112136,7 @@
     },
     "a0153cbebcc5cf46": {
       "query": "url:github.com (demo OR playground OR \"try online\" OR \"live app\" OR \"live demo\" OR \"interactive demo\") -is:retweet",
-      "posts": 1285,
+      "posts": 1303,
       "uniquePosts": 650,
       "newCandidates": 549,
       "validationAttempts": 302,
